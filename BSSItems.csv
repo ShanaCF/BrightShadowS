@@ -63,7 +63,7 @@ Jiang Shi Doll	íL«Í	¸t°ì¥­­ì	24	¸s­º			1
 Commandment	¶ÂµL±`	¸t°ì¥­­ì	24	Âø³½			1
 Jello	·R¥É¥vµÜ©i	¸t¹k¥­­ì	25	Âø³½			1
 Thunder Crystal	­·Ä_	¸t¹k¥­­ì	25	Âø³½			1
-Torn Shoe Race	°­Ä_¨©Å]©_	¸t¹k¥­­ì	25	Âø³½			1
+Torn Shoe Lace	°­Ä_¨©Å]©_	¸t¹k¥­­ì	25	Âø³½			1
 Fly's Egg	ªGÃÇ¤H	¸t¹k¥­­ì	26	Âø³½			1
 Fur Ball	³·ªáÃ~	¸t¹k¥­­ì	26	Âø³½			1
 Ripped Costume	¶Â·t½_¯ó¤H	¸t¹k¥­­ì	26	Âø³½			1
@@ -251,7 +251,7 @@ Lyre	¤ôºëÆF	¯«Áô¥Û¸]B3	67				1
 Venom Spider Web	½Lµ·¥Þµï	¯«Áô¥Û¸]B2	67	BOSS			1
 Bad Religion Ring	¨¸³N¤ì¤D¥ì	²`«×¾Ç­bB3	67				1
 Shred of Crystalline	¾uÅ\§Å®v	¯«Áô¥Û¸]B3	67				1
-Ragged Shoe Race	°­Ä_¨©Å]©_	²`«×¾Ç­bB3	67				1
+Ragged Shoe Lace	°­Ä_¨©Å]©_	²`«×¾Ç­bB3	67				1
 Cursed Shackle	¥Í¤Æ¦º«Í	²`«×¾Ç­bB3	67				1
 Ogre Mask	°­­±©Ç«È	²`«×¾Ç­bB3	67				1
 Dust Eye Stone	«C¥ú²´Å]	²`«×¾Ç­bB3	67				1
@@ -342,7 +342,7 @@ Spoon	¤£¦º¤HÅ]	©]ÆF¦aÅK¤¤¥¡°Ï	70	Âø³½			1
 Bizarre Remote Control	¼o±ó¾÷±ñ°­	©]ÆF¦aÅK¤¤¥¡°Ï	78	BOSS			1
 Cow Skull	¦aº»­ß¤ü	©]ÆF¦aÅK¦è°¼	63	Âø³½			1
 Mutton	³±¶¡¾Ô¤ü	©]ÆF¦aÅK¦è°¼	64	Âø³½			1
-Sallow Paper	¤Æ»î¯È¤H	©]ÆF¦aÅK¦è°¼	63	Âø³½			1
+Shallow Paper	¤Æ»î¯È¤H	©]ÆF¦aÅK¦è°¼	63	Âø³½			1
 Paper Sign	¦aº»¤§®Ñ	©]ÆF¦aÅK¦è°¼	64	Âø³½			1
 Ogre Dog's Fang	¤r­º§¯¤ü	©]ÆF¦aÅK¦è°¼	70	BOSS			1
 Ivy	Å]ªá°ÒªûÅÚ	»È°©³·­ì	61	Âø³½			1
@@ -372,7 +372,7 @@ Fire Hand	Áx¤p°­	¤ñ¨}«°ªì­«	83	BOSS			1
 Knife	°­±C±C	¤ñ¨}«°¤G­«	76	Âø³½			1
 Bizarre Paper Box	·Ù±C±C	¤ñ¨}«°¤G­«	77	Âø³½			1
 Old Man's Wig	Âù¤M±C±C	¤ñ¨}«°¤G­«	78	Âø³½			1
-Pig Killing Dagger	±O¤Ò±C±C	¤ñ¨}«°¤G­«	79	Âø³½			1
+Pig-Killing Dagger	±O¤Ò±C±C	¤ñ¨}«°¤G­«	79	Âø³½			1
 Cool Moon Wood	¬\¸­³Ê©Ç	¤ñ¨}«°¤G­«	76	Âø³½			1
 Iron Board	¿û¦ç³Ê©Ç	¤ñ¨}«°¤G­«	77	Âø³½			1
 Wonder Leaf	­D­D»©	¤ñ¨}«°¤G­«	78	Âø³½			1
@@ -420,7 +420,7 @@ Pear	¥ÍÆF­×¤h	¦B´¹¬}¸]B4	84	Âø³½			1
 Ragged Culotte	¦º¦D±Ð¤h	¦B´¹¬}¸]B4	93	BOSS			1
 Snow Flower Can	³±­·º×¤k	¦B´¹¬}¸]B4	93	BOSS			1
 Frozen Rock	¦B¾z¥¨ÆF	¦B´¹¬}¸]B4	95	BOSS			1
-10000 Gold Currency					Sell at a store for 10000 gold		1
+10000 Gold Currency					Sell at a store for 10000 gold.		1
 Evil Doll	ÆF©Ç°­		50				1
 Lizard Tail	»h»iÅ]		51				1
 Broken Wooden Hammer	§Ö°{»h»iÅ]		52				1
@@ -436,7 +436,7 @@ Frozen Plum	Â÷»î³·¤k		68				1
 Raven Mouth	³±­·¯Q		72				1
 Cursed Fabric	¯uªZ»î¾Ô°­		95				1
 Hero's Spirit Stone							1
-8888 Ancient Currency					Sell at a store for 8888 gold		1
+8888 Ancient Currency					Sell at a store for 8888 gold.		1
 Fragment of Physic							1
 Fragment of Wickedness							1
 Fragment of Spirituality							1
@@ -462,14 +462,14 @@ Fire Spirit Sphere							1
 Water Spirit Sphere							1
 Earth Aura Stone					Hundred year gas mine stone, used for enhancement of Lv1-3		1
 Crust Agate					Hundred year lava mine stone, used for enhancement of Lv4-6		1
-Tears of Earth King					Tears of earth king, used for enhancement of Lv7-10		1
-Wicked Stone					Stone created from a monsters magical power		1
-Wicked Eye Agate					Eye like mineral made of a water fairys magical power		1
-Devils Bloody Stone					Crystal developed from the anger of the earth king		1
+Tears of Earth King					Tears of Earth King, used for enhancement of Lv7-10		1
+Wicked Stone					Stone created from a monster's magical power		1
+Wicked Eye Agate					Eye like mineral made of a water fairy's magical power		1
+Devil's Bloody Stone					Crystal developed from the anger of the Earth King		1
 Magical Power Stone					Mineral generated from the magical power of all creations		1
 Soul Crystal Agate					Rare mineral generated from 100 years of magical power		1
 Lotus Bead					Crystal sublimated from a spirit's magical power over 100 years		1
-Heavens Stone					Mineral fallen from heaven		1
+Heaven's Stone					Mineral fallen from heaven		1
 Innate Agate					Fallen mineral that has absorbed sun light		1
 Eye of the Heavenly Princess					Crystal generated with gracious smile from the Heavenly Princess		1
 Symbol of Wolf Clan	§¯°­¯T¤H	¼w¥j©Ô¥j³ù1F	85				1
@@ -493,7 +493,7 @@ Burnt Armor	¤`ÆFÃM¤h	»X¹Ïª÷¦r¶ð2F	94				1
 Eye Patch	­·¤bÃ^	¤Ñ¤ô¤Û¹Ò(«n)	85				1
 Scythe Hilt	¤gºëÃ^	¨¸¨º¨Fºz	43				1
 Yellowed Paper							1
-Paper Scrap							1
+Scrap Paper							1
 Ice Hair							1
 Legendary Kappa Nail	®üºëªeµ£	¤Ñ¤ô¤Û¹Ò(«n)	85				1
 Burned Hair							1
@@ -561,8 +561,8 @@ Bird Feather	ÃÈ§À§Å³¾	¤Ñ¤ô¤Û¹Ò(«n)	86				1
 Bird Breast Meat	µõÀû³¾§¯	¤Ñ¤ô¤Û¹Ò(«n)	88				1
 Dried Bat							1
 Broken Bloom							1
-Ogre Dogs Fang							1
-Ogre Dogs Hard Skin							1
+Ogre Dog's Fang							1
+Ogre Dog's Hard Skin							1
 Burning Lotus							1
 Fire Hand							1
 Racoon Tail							1
@@ -575,8 +575,8 @@ Oil Paper	³±¿¼³Ê©Ç	¶À¬u¤§«°ªì­«	62				1
 Small Sandal							1
 Ragged Culotte							1
 Cursed Red Jewel	¤Ñ·À±Ð¤h	¶À¬u¤§«°¤G­«	79				1
-Lizardmans Knee Pad	ÅKÅì»h»iÅ]	¬âÂr°g®c(¥_)	75				1
-Lizardmans Knee Scale	¿~­º»h»iÅ]	¬âÂr°g®c(¥_)	78				1
+Lizardman's Knee Pad	ÅKÅì»h»iÅ]	¬âÂr°g®c(¥_)	75				1
+Lizardman's Knee Scale	¿~­º»h»iÅ]	¬âÂr°g®c(¥_)	78				1
 Poison Mud Bottle							1
 Mermaid Flipper	¿ûÃE¤ô©Ç	¤Ñ¤ô¤Û¹Ò(¥_)	89				1
 Broken Needle							1
@@ -612,7 +612,7 @@ Crystalline Whisker	µµ´³¥ÒÂÎ	»X¹Ïª÷¦r¶ð2F	88				1
 Burning Foot							1
 Burning Whisker	·t¦Ë¥ÒÂÎ	»X¹Ïª÷¦r¶ð3F	90				1
 Crimson Shell	¯T­±¥ÒÂÎ	»X¹Ïª÷¦r¶ð3F	92				1
-Clump of Magma							1
+Magma Clump							1
 Ivy							1
 Poison Apple							1
 Poison Ivy							1
@@ -649,7 +649,7 @@ Fake Mouse	Øp®±¿ß¤k	¼w¥j©Ô¥j³ù1F	84				1
 Metal Nail Pouch							1
 Meow Eye Patch	¦w®§¿ß¤k	¼w¥j©Ô¥j³ù1F	86				1
 Rusted Sword Hilt	°­¤M¨¬»´	¨¸¨º¨Fºz	60				1
-Rusted Wword	¼F¤M¤@°­	¶À¬u¤§«°ªì­«	66				1
+Rusted Sword	¼F¤M¤@°­	¶À¬u¤§«°ªì­«	66				1
 Warrant							1
 Fragment of Shoulder Armor							1
 Fragment of Forearm Protector	«C»É±Ñ­x	¶À¬u¤§«°ªì­«	71				1
@@ -670,7 +670,7 @@ Injection System							1
 Syringe	¨¸¹DÃ¹«b	¶À¬u¤§«°¤G­«	87				1
 Cavity							1
 Horseshoe	Ã~ÆF¤H°¨	¸tªÌ¤§Åq	82				1
-Horseshoe Metal	¨gÆF¤H°¨	¸tªÌ¤§Åq	81				1
+Metal Horseshoe	¨gÆF¤H°¨	¸tªÌ¤§Åq	81				1
 Frozen Rifle	¼É¾Ô¤H°¨	¤Ñ¤ô¤Û¹Ò(¥_)	88				1
 Burning Rifle	®ü¾y¤H°¨	¸¦®Lµµ´¹¬}(«n)	83				1
 Burnt Horseshoe	ªZ°«¤H°¨	»X¹Ïª÷¦r¶ð3F	97				1
@@ -688,8 +688,8 @@ Rotten Bottle	¤Kª[¤j³D	¶À¬u¤§«°ªì­«	89				1
 Mushroom Ball							1
 Bloodshed Amulet							1
 Cachet Scroll							1
-Deadmans Scroll	¦º¤`¤k¯«¡@»®©Ô	¼w¥j©Ô¥j³ù3F	99				1
-Reapers Scroll							1
+Deadman's Scroll	¦º¤`¤k¯«¡@»®©Ô	¼w¥j©Ô¥j³ù3F	99				1
+Reaper's Scroll							1
 Brown Wreath	ª÷°Ã¨ªÀs	¨¸¨º¨Fºz	60				1
 Dragon Scale							1
 Ragged Mouth							1
@@ -698,20 +698,20 @@ Vampire Ghost	§l¦å¯u¯«¡@¸ÓÁô	¼w¥j©Ô¥j³ù3F	98				1
 Retribution Scroll							1
 Immortal Scroll							1
 Power of Universe							1
-Satans Wing							1
-Satans Horn							1
-Totems Slate	¤H­±·à¨­¹³(¯Ê)	¥Ã¯v¯îºz	85				1
+Satan's Wing							1
+Satan's Horn							1
+Totem's Slate	¤H­±·à¨­¹³(¯Ê)	¥Ã¯v¯îºz	85				1
 Mysterious Stone	ªk¦Ñ¤ý§¤ÃM(¯Ê)	»X¹Ïª÷¦r¶ð3F	97				1
 Evil Monster Hand	ª÷¦r¶ðÃ~ÆF(¯Ê)	»X¹Ïª÷¦r¶ð2F	94				1
 Golden Wand							1
 Gold Powder							1
 Totem Stone							1
-Wings Slate							1
+Wing Slate							1
 Gloomy Plate							1
 Burning Gaine							1
-Hawks Beak							1
+Hawk's Beak							1
 Poison Bud	¤d¦~ÆFªÛ	¸¦®Lµµ´¹¬}(¥_)	72				1
-Wicked Mushrooms Poison Fang							1
+Wicked Mushroom's Poison Fang							1
 Nine Goblin Spirit	§¯²´¦×ªÛ(¯Ê)	¬âÂr°g®c(¥_)	85				1
 Poison Soup							1
 Fragment of Wicked Mushroom	Àt´ßÂÅªÛ(¯Ê)	¤Ñ¤ô¤Û¹Ò(¥_)	88				1
@@ -753,7 +753,7 @@ Devil Stone							1
 Bomb Expert Book¢º	¥øÃZ¬µ¼u(¯Ê)	¸¦®Lµµ´¹¬}(«n)	80				1
 Magma Powder	¥øÃZ´±¦º¶¤(¯Ê)	¸tªÌ¤§Åq	83				1
 Wicked Herb	§¯¬Ü¥øÃZ(¯Ê)	¸tªÌ¤§Åq	74				1
-Frail Shrimper							1
+Frail Shrimp							1
 Carrot Web							1
 Ceramic Teapot	¥j³ùºÞ®a(¯Ê)	¼w¥j©Ô¥j³ù1F	91				1
 Bowtie	¶Õ§Q¹²¤H(¯Ê)	¼w¥j©Ô¥j³ù2F	86				1
@@ -784,17 +784,17 @@ Skull Dragon Claw	¥Õ°©¥¨Às(¯Ê)	¨¸¨º¨Fºz	55				1
 Green Dragon Scale							1
 Great Dragon Sword Hilt	¨ª§ü¥¨Às(¯Ê)	¨¸¨º¨Fºz	55				1
 Shaft Feather							1
-Crystal Ear Ring	¦uÆF¤öÀs(¯Ê)	¬âÂr°g®c(¥_)	85				1
+Crystal Earring	¦uÆF¤öÀs(¯Ê)	¬âÂr°g®c(¥_)	85				1
 Malachite Ore Badge							1
 Onyx Feather							1
 Giant Bird Beak							1
 Maple Shotgun							1
 Invalid Bait							1
 Golden Blue Stone Hilt	¨©´µ¯S¤k¯«(¯Ê)	»X¹Ïª÷¦r¶ð1F	99				1
-Cats Eye Collar	§¯¿ß¤k¤ý(¯Ê)	¬âÂr°g®c(«n)	75				1
+Cat's Eye Collar	§¯¿ß¤k¤ý(¯Ê)	¬âÂr°g®c(«n)	75				1
 Iron Rivet							1
 Mouse Tail	¸o´c¤k¤ý(¯Ê)	¥Ã¯v¯îºz	86				1
-Sandy Cats Claw							1
+Sandy Cat's Claw							1
 Silent Doll	¨µ®·¤£­Ë¯Î(¯Ê)	¶À¬u¤§«°ªì­«	85				1
 Faded Red Paint							1
 Snowball Mask							1
@@ -807,7 +807,7 @@ Black Crystal	¾uÅ\°­ÀY(¯Ê)	¨¸¨º¨Fºz	58				1
 Messy Hair							1
 Evil Horn	¯ë­Y(¯Ê)	¶À¬u¤§«°ªì­«	88				1
 Fragment of Armor							1
-Monks Wing							1
+Monk's Wing							1
 Grey Fang	¥Õ¯ë­Y(¯Ê)	¶À¬u¤§«°¤Ñ¦u»Õ	93				1
 Shattered Gold	°­¯ë­Y(¯Ê)	¶À¬u¤§«°¤G­«	91				1
 Fragment of Bronze							1
@@ -819,8 +819,8 @@ Grudge Horn							1
 Cobra Totem	®J¤ÎÆv¦Z(¯Ê)	»X¹Ïª÷¦r¶ð2F	96				1
 Rein of Power Crown							1
 Scorpion Horn	¥¨ÃÈ¤j«Ò(¯Ê)	¬âÂr°g®c(¥_)	85				1
-Poison Scorpio Stinger							1
-Lions Fluff Ball	°Ü­¹¦ºªÌ¤§Ã~(¯Ê)	¥Ã¯v¯îºz	87				1
+Poison Scorpion Stinger							1
+Lion's Fluff Ball	°Ü­¹¦ºªÌ¤§Ã~(¯Ê)	¥Ã¯v¯îºz	87				1
 Fragment of Giant Wing							1
 Deprivation Blade	¼Z¸¨¤Z»®¨¯(¯Ê)	¼w¥j©Ô¥j³ù2F	96				1
 Pointy Leather Shoe	°­Âr­{Ã¹	¼w¥j©Ô¥j³ù2F	96				1
@@ -829,14 +829,14 @@ Fan Handle							1
 Mammoth Fang							1
 Fat Cramp							1
 Catharsis Mind		¶À¬u¤§«°			Magical power existing in the Tartarus Castle		1
-Spiritual Mind		¶À¬u¤§«°			Magical power existing in the Tartarus castle		1
-Cloud Mind		¶À¬u¤§«°			Magical power existing in the Tartarus castle		1
+Spiritual Mind		¶À¬u¤§«°			Magical power existing in the Tartarus Castle		1
+Cloud Mind		¶À¬u¤§«°			Magical power existing in the Tartarus Castle		1
 Perfect Platinum Coin	¯}¤ôªeµ£	¸¦®Lµµ´¹¬}(«n)	67				1
 Devilish Water							1
 Broken Blade	µµ¤b³¾Å]						1
 Bird Blood							1
 Golden Bloom							1
-Devil Dogs Blood							1
+Devil Dog's Blood							1
 Golden Wolf Fang Wand							1
 Raccoon Body Pillow	±y«v»©	¸¦®Lµµ´¹¬}(«n)	70				1
 Treasure Pouch							1
@@ -849,7 +849,7 @@ Lizard Skin	«æ­á»h»iÅ]						1
 Lizard Shoe	¬â®ü»h»iÅ]	¬âÂr°g®c(«n)	72				1
 Lizard Armor	¤õ«a»h»iÅ]						1
 Lizard Armor Suit							1
-Oceans Treasure Box	©¥¼ß³½§¯						1
+Ocean's Treasure Box	©¥¼ß³½§¯						1
 Poseidon							1
 Doll Strap							1
 White Tiger Skin							1
@@ -859,24 +859,24 @@ Old Garment							1
 Froe	±þ¤H°­	¼w¥j©Ô¥j³ù3F	95				1
 Hunting Ring	¤ÑÄþªÌ						1
 Hiding Mask	¦æ¦D°­						1
-Dead Mans Shoe	­ß·µ¨Ï	¼w¥j©Ô¥j³ù2F	92				1
-Plutos Cloak	²×µ²¦ºÅ]						1
-Devils Currency	»®©Ô¥ªÀH±q	¼w¥j©Ô¥j³ù3F	97				1
+Dead Man's Shoe	­ß·µ¨Ï	¼w¥j©Ô¥j³ù2F	92				1
+Pluto's Cloak	²×µ²¦ºÅ]						1
+Devil's Currency	»®©Ô¥ªÀH±q	¼w¥j©Ô¥j³ù3F	97				1
 Hexagonal Emblem	»®©Ô¥kÀH±q	¼w¥j©Ô¥j³ù3F	97				1
-Sinners Garment	°kº»³·¤H¥Ç						1
+Sinner's Garment	°kº»³·¤H¥Ç						1
 Ancient Rifle	³±¶¡¦u½ÃÆF	¥Ã¯v¯îºz	76				1
 Golden Thread	ª÷¦r¶ðÅ@½Ã	»X¹Ïª÷¦r¶ð1F	87				1
 Exotic Sword	¦u¹Ó¨¸«b	»X¹Ïª÷¦r¶ð1F	84				1
 Mummy Doll	®î¸®¨Í½Ã	»X¹Ïª÷¦r¶ð1F	80				1
-Convey Captains Bonnet	¬¡°©¾Ô¤h	»X¹Ïª÷¦r¶ð2F	91				1
+Convey Captain's Bonnet	¬¡°©¾Ô¤h	»X¹Ïª÷¦r¶ð2F	91				1
 Black Light							1
 Griffon's Feather	©¥¤§·àøl	¨¸¨º¨Fºz	45				1
 Roaring Flamed Meteor	´c¤õ·àøl	¬âÂr°g®c(«n)	65				1
 Magical Mushroom	´H¤Ñ·àøl						1
 Griffon's Wing	°­¦Ð·àøl	¨¸¨º¨Fºz	49				1
 Onyx Jewel	Å]Àû·àøl						1
-Griffons Hand	ª÷¹_·àøl	¨¸¨º¨Fºz	50				1
-Demons Armor	º×­ºÃM§L						1
+Griffon's Hand	ª÷¹_·àøl	¨¸¨º¨Fºz	50				1
+Demon's Armor	º×­ºÃM§L						1
 Cursed Shield							1
 Muddy Hand	¤H§Î´Ã	»X¹Ïª÷¦r¶ð1F	90				1
 Gold Bullion	¶Àª÷´Ã	»X¹Ïª÷¦r¶ð3F	91				1
@@ -888,34 +888,34 @@ Chalice	§l¦å¶Q¤½¤l ¼w­e©Ô						1
 Gorgeous Hair Accessory	Ã¹«b°­±C±C						1
 Rainbow Wand	¥ÍÆF¹D¯ª						1
 Wheel Core	¯«¯µ¾÷±ñ©Ç«È						1
-Devils Giant Ax	îî¤Ñ¨Ïªü©¬¬Þ						1
-Demons Fabric	¯u¡Eªü©¬¬Þ	¸tªÌ¤§Åq	87				1
+Devil's Giant Axe	îî¤Ñ¨Ïªü©¬¬Þ						1
+Demon's Fabric	¯u¡Eªü©¬¬Þ	¸tªÌ¤§Åq	87				1
 Roaring Flamed Stone	¬yÃz©¥Å]						1
-Holy Fathers Crown	ªk¦Ñ¤ý¤§ÆF						1
-Holy Fathers Wand	¥Ã¥Íªk¦Ñ¤ý	»X¹Ïª÷¦r¶ð3F	98				1
-Demons Eye	¬ü§ù²ï	¬âÂr°g®c(«n)	80				1
-Queens Garment	·À¥@¤k¤ý	¶À¬u¤§«°¤G­«	95				1
+Holy Father's Crown	ªk¦Ñ¤ý¤§ÆF						1
+Holy Father's Wand	¥Ã¥Íªk¦Ñ¤ý	»X¹Ïª÷¦r¶ð3F	98				1
+Demon's Eye	¬ü§ù²ï	¬âÂr°g®c(«n)	80				1
+Queen's Garment	·À¥@¤k¤ý	¶À¬u¤§«°¤G­«	95				1
 Ancient Lamp	´cÅK¾Ô°«¨g						1
-Netherworlds Scythe	¥¨ÅI¦º¯«	¸¦®Lµµ´¹¬}(«n)	85				1
+Netherworld Scythe	¥¨ÅI¦º¯«	¸¦®Lµµ´¹¬}(«n)	85				1
 Gloomy Chain	­ß¤§¥òµôªÌ						1
-Devils Tail	²ú²úµ·	¤Ñ¤ô¤Û¹Ò(«n)	95				1
-Devils Wing	²ú²ú©i						1
-Super Flare Stone					Material for equipment enhancement, apply to weapon or protective gear levels 1-3		1
-Wicked Blazing Agate					Material for equipment enhancement, apply to weapon or protective gear levels 4-6.		1
-Karma Blazing Stone					Material for equipment enhancement, apply to weapon or protective gear levels 7-10.		1
-Good Luck Spell					Apply this item when enchancing and even if the enhancement fails, the item will be undamaged but the enhancement will be negated.		1
+Devil's Tail	²ú²úµ·	¤Ñ¤ô¤Û¹Ò(«n)	95				1
+Devil's Wing	²ú²ú©i						1
+Super Flare Stone					Material for equipment enhancement, apply to weapon or armor levels 1-3.		1
+Wicked Blazing Agate					Material for equipment enhancement, apply to weapon or armor levels 4-6.		1
+Karma Blazing Stone					Material for equipment enhancement, apply to weapon or armor levels 7-10.		1
+Good Luck Spell					Apply this item when enchancing. If the enhancement fails the item will be undamaged but the enhancement will be negated.		1
 Simple Kneed Candle					With this magic you wear the light with the ability to illuminate around you. On designated areas it is able to show the map.		1
 Simple Kneed Torch					With this magic you wear the light with the ability to illuminate around you. On designated areas it is able to show the map.		1
 Small Red Potion					Recovers a little HP		1
-Red Potion					Recovers HP		40
-Big Red Potion					Recovers a lot of HP		70
+Medium Red Potion					Recovers a bit HP		40
+Large Red Potion					Recovers a lot of HP		70
 Small Blue Potion					Recovers a little MP		1
-Blue Potion					Recovers MP		40
-Big Blue Potion					Recovers a lot of MP		70
+Medium Blue Potion					Recovers a bit MP		40
+Large Blue Potion					Recovers a lot of MP		70
 Black Pellet					Gleaming Black Pellet gains a little SP		1
 Blue Pellet					Blue Green Pellet gains SP		1
 Red Pellet					Red Pellet gains a bit of SP		1
-Wildberry					Wild berry recovers a little HP		1
+Wildberry					Wildberry recovers a little HP		1
 Mulberry					Recovers 200 HP instantly		1
 Cinnamon					Recovers 400 HP instantly		1
 Blueberry					Blueberry recovers a little MP		1
@@ -924,20 +924,20 @@ Green Herb					Recovers 200 MP instantly		1
 Angelica Herb					Recovers 200 HP and 100 MP instantly		1
 Carrot					Recovers 400 HP and 200 MP instantly		1
 Cordata Herb					Recovers 800 HP and 400 MP instantly		1
-Flame Spell					Use Magic: Cast fire spell levels 1-5, required medium		1
-Ice spell					use magic: cast ice arrow spell to Lv1-5, required medium		1
-Defined Spell					use magic: cast freeze spell to Lv1-5, required medium		1
-Poison Spell					use magic: cast poison spell to Lv1-5, required medium		1
-Spell					use magic: cast ghost spell to Lv1-5, required medium		1
-Octuple Mirror					use magic: cast ghostwatch spell to Lv1-5, required medium		1
-Hermit Rope					use magic: tie gods chain, required medium		1
+Flame Spell					Use Magic: cast Fire Spell Lv1-5, required medium		1
+Ice spell					use magic: cast Ice Arrow Spell Lv1-5, required medium		1
+Defined Spell					use magic: cast Freeze Spell Lv1-5, required medium		1
+Poison Spell					use magic: cast Poison Spell Lv1-5, required medium		1
+Spell					use magic: cast Ghost Spell Lv1-5, required medium		1
+Octuple Mirror					use magic: cast Ghostwatch Spell Lv1-5, required medium		1
+Hermit Rope					use magic: tie Gods Chain, required medium		1
 Daffodil Water					Iron chef's special soup		1
-Mini HP Potion					Recover a little HP		1
-HP Potion					Recover HP		1
-Big HP Potion					Recover a lot of HP		1
-Mini Blue Potion					Recover a little MP		1
-Blue Potion					Recover MP		1
-Big Blue Potion					Recover a lot of MP		1
+Small HP Potion					Recover a little HP		1
+Medium HP Potion					Recover a bit HP		1
+Large HP Potion					Recover a lot of HP		1
+Small Blue Potion					Recover a little MP		1
+Medium Blue Potion					Recover a bit MP		1
+Large Blue Potion					Recover a lot of MP		1
 Moon Cake					Recover 500 SP instantly		1
 Grapefruit					HP recovers 150 points instantly		1
 Home Point Scroll					Player will be sent to home point.		1
@@ -955,10 +955,10 @@ SP Potion LV10					Recover SP		1
 Thunder Hill Scroll					Teleport to Thunder Hill		1
 Meteor Pit Scroll					Teleport to Meteor Pit		1
 Seal Tower Scroll					Teleport to Seal Tower		1
-Corpse Church Scroll					After using this item you will be transported to the entrance of Dead Body Church		1
-Plague Dungeon Scroll					After using this item you will be transported to the entrance of Black Wind Cave		1
-Deep Lab Scroll					After using this item you will be transported to Deep Lab		1
-Lost Cave Scroll					After using this item you will be transported to the entrance of Spirited Away Cave		1
+Corpse Church Scroll					After using this item you will be transported to the entrance of Corpse Church		1
+Plague Dungeon Scroll					After using this item you will be transported to the entrance of Plague Dungeon		1
+Deep Lab Scroll					After using this item you will be transported to the entrance of Deep Lab		1
+Lost Cave Scroll					After using this item you will be transported to the entrance of Lost Cave		1
 Coca-Cola					Recovers 3200 HP instantly		1
 Small Star Firework					Explodes into a beautiful green burst when lit		1
 HP Firework					Explodes into a beautiful red burst when lit		1
@@ -969,12 +969,12 @@ Wonder Candy					Looks strange but if eaten, something could happen?		1
 Wonder Candy					Looks strange but if eaten, something could happen?		1
 Wonder Candy					Looks strange but if eaten, something could happen?		1
 Wonder Candy					Looks strange but if eaten, something could happen?		1
-Wonder Candy					Strange look, If eaten, not sure what happens.		1
 Wonder Candy					Looks strange but if eaten, something could happen?		1
 Wonder Candy					Looks strange but if eaten, something could happen?		1
 Wonder Candy					Looks strange but if eaten, something could happen?		1
 Wonder Candy					Looks strange but if eaten, something could happen?		1
-Explosion Spell					use magic: cast explosion spell to Lv1-5, required medium		1
+Wonder Candy					Looks strange but if eaten, something could happen?		1
+Explosion Spell					use magic: cast Explosion Spell Lv1-5, required medium		1
 	¤é¥»½s¸¹¡A¤£¨Ï¥Î						1
 	¤é¥»½s¸¹¡A¤£¨Ï¥Î						1
 	¤é¥»½s¸¹¡A¤£¨Ï¥Î						1
@@ -996,44 +996,44 @@ Holiday Candy							1
 Holiday Candy							1
 Holiday Candy							1
 Holiday Candy							1
-Tigers Seal					Click to summon a ride		1
-White Tigers Seal					Click to summon a ride		1
-Cheetah Seal					Click to summon a ride		1
-Lion Seal					Click to summon a ride		1
-Cobalt Wolf Seal					Click to summon a ride		1
-Undead Wolf Seal					Click to summon a ride		1
+Tiger Seal					Use to summon a ride		1
+White Tiger Seal					Use to summon a ride		1
+Cheetah Seal					Use to summon a ride		1
+Lion Seal					Use to summon a ride		1
+Cobalt Wolf Seal					Use to summon a ride		1
+Undead Wolf Seal					Use to summon a ride		1
 San Joel Scroll					Transport to San Joel		1
-Ice Cave Transport Scroll					Transport to Ice Cave		1
-Inferno Castle Transport Scroll					Transport to Inferno Castle		1
+Ice Cave Transport Scroll					After using this item you will be transported to the entrance of Ice Cave		1
+Inferno Castle Transport Scroll					After using this item you will be transported to the entrance of Inferno Castle		1
 Angel Dice							1
-Oath Scroll					use magic: cast oath spell to Lv1-5, required medium		1
-Blazing Spell					use magic: cast blazing spell to Lv1-5, required medium		1
-Ice Spell					use magic: cast ice spell to Lv1-5, required medium		1
-Soul Trapping Spell					use magic: cast trapping spell to Lv1-5, required medium		1
-Poison Fairys Spell					use magic: cast poison fairy's spell to Lv1-5, required medium		1
-Demon Spell					use magic: cast demon spell to Lv1-5, required medium		1
-Ancient Mirror					use magic: cast ancient mirror to Lv1-5, required medium		1
-Wisteria Vine Trapping Spell					use magic: Wisteria vine trapping spell, required medium		1
-Decompose Armor Spell					use magic: cast decompose armor spell to Lv1-5, required medium		1
-Frailty Spell					use magic: cast frailty spell to Lv1-5, required medium		1
-Magical Transport Stone					use magic: space gate, reborn gate, spirit gate, required medium		1
-Poison Flask					use magic: cast poison spell to Lv1-5, required medium		1
-Germ Pack					use magic: cast gem spell to Lv1-5, required medium		1
-Cooling Liquid					use magic: cast cooling spell to Lv1-5, required medium		1
-Acid Agent					use magic: cast acid spell to Lv1-5, required medium		1
-Adhesive					use magic: cast adhesive spell to Lv1-5, required medium		1
-Elementary Spirit Stone					use magic: cast counter strike to Lv1-2, required medium		1
-Intermediate Spirit Stone					use magic: cast counter strike to Lv3-4, required medium		1
-Advanced Spirit Stone					use magic: cast counter strike to Lv5, required medium		1
+Oath Scroll					use magic: cast Oath Spell Lv1-5, required medium		1
+Blazing Spell					use magic: cast Blazing Spell Lv1-5, required medium		1
+Ice Spell					use magic: cast Ice Spell Lv1-5, required medium		1
+Soul Trapping Spell					use magic: cast Trapping Spell Lv1-5, required medium		1
+Poison Fairy's Spell					use magic: cast Poison Fairy's Spell Lv1-5, required medium		1
+Demon Spell					use magic: cast Demon Spell Lv1-5, required medium		1
+Ancient Mirror					use magic: cast Ancient Mirror Lv1-5, required medium		1
+Wisteria Vine Trapping Spell					use magic: Wisteria Vine Trapping Spell, required medium		1
+Decompose Armor Spell					use magic: cast Decompose Armor Spell Lv1-5, required medium		1
+Frailty Spell					use magic: cast Frailty Spell Lv1-5, required medium		1
+Magical Transport Stone					use magic: Space Gate, Reborn Gate, Spirit Gate, required medium		1
+Poison Flask					use magic: cast Poison Spell Lv1-5, required medium		1
+Germ Pack					use magic: cast Gem Spell Lv1-5, required medium		1
+Cooling Liquid					use magic: cast Cooling Spell Lv1-5, required medium		1
+Acid Agent					use magic: cast Acid Spell Lv1-5, required medium		1
+Adhesive					use magic: cast Adhesive Spell Lv1-5, required medium		1
+Elementary Spirit Stone					use magic: cast Counter Strike Lv1-2, required medium		1
+Intermediate Spirit Stone					use magic: cast Counter Strike Lv3-4, required medium		1
+Advanced Spirit Stone					use magic: cast Counter Strike Lv5, required medium		1
 Small Purple Potion					Recover a little HP and MP		1
-Purple Potion					Recover HP and MP		1
-Big Purple Potion					Recover more HP and MP		1
+Medium Purple Potion					Recover a bit HP and MP		1
+Big Purple Potion					Recover a lot HP and MP		1
 Small Ointment					Recover HP slowly		1
-Ointment					Recover HP		1
+Medium Ointment					Recover HP		1
 Small Mental Oil					Recover MP slowly		1
-Mental Oil					Recover MP		1
+Medium Mental Oil					Recover MP		1
 Mutation Potion- Hercules					Potion to mutate into Hercules		1
-Mutation Potion-Azure dragon					Potion to mutate into Azure dragon		1
+Mutation Potion- Azure Dragon					Potion to mutate into Azure Dragon		1
 Heart Dark Chocolate							1
 Heart White Chocolate							1
 Valentine Almond					Used to make Chocolate in the Valentine's Day Event.		1
@@ -1047,22 +1047,22 @@ Mouse Treasure Box							1
 100 Mouse Gold Coin							1
 1000 Mouse Gold Coin							1
 10000 Mouse Gold Coin							1
-Pack of Carp					Moving speed goes up, limit 1hour		1
-Orange Carpe Seal					Moving speed goes up, unlimited		1
-Whipping Speed					Use MP 180 seconds, raise moving speed		1
-Bamboo Dumpling					Dumpling with rich a smell, recover HP and other advantage...		1
+Pack of Carp					Moving speed goes up for 1 hour.		1
+Orange Carpe Seal					Moving speed goes up unlimited		1
+Whipping Speed					Use MP 180 per second, raises moving speed		1
+Bamboo Dumpling					Dumpling with a rich smell, recover HP and other advantages...		1
 Tansy Herb					Effective at warding off evil, recovering MP and other advantages...		1
 Celebratory Drink					Raises moving speed for 60 seconds and other advantages...		1
-Force Dumpling					Recovers HP and MP, raises moving speed 180 seconds		1
+Force Dumpling					Recovers HP and MP, raises moving speed for 180 seconds		1
 Chestnut					Awful tasting chestnut, recovers HP		1
 Cabbage					Fresh cabbage, recovers MP		1
 Fruit					Rare Dragon Fruit, recovers HP and MP		1
 Garlic					Stinky garlic, recovers HP and MP		1
-Shrimp Bean					Recovers a Potion of SP		1
-Golden Tigers Seal					Click to summon a ride		1
-White Wolfs Seal					Click to summon a ride		1
-Dragon Seal					Use this item to summon the Dragon. Mount the Dragon to move faster.		40
-Enchanted Cloud Seal					Click to summon a ride		1
+Shrimp Bean					Small Shrimp Bean, recovers SP		1
+Golden Tiger Seal					Use to summon a ride		1
+White Wolf Seal					Use to summon a ride		1
+Dragon Seal					Use to summon a ride		40
+Enchanted Cloud Seal					Use to summon a ride		1
 Fire Fruit A	Click				Specially worked fire fruit, recovers HP and MP		1
 Fire Fruit B	Click				Specially worked fire fruit, recovers HP and MP		1
 Fire Fruit C	Click				Specially worked fire fruit, recovers HP and MP		1
@@ -1078,25 +1078,25 @@ Fire Flower B	Click				Specially worked fire fruit flower, recovers MP		1
 Fire Flower C	Click				Specially worked fire fruit flower, recovers MP		1
 Fire Flower D	Click				Specially worked fire fruit flower, recovers MP		1
 Fire Flower E	Click				Specially worked fire fruit flower, recovers MP		1
-Robo-Dog Seal					Click to summon a ride		1
-Great Wolf Seal					Click to summon a ride		1
-Great Dragon Seal					Click to summon a ride		50
-Fossil Beast Seal					Click to summon a ride		50
-Stone Dragon					Click to summon a ride		50
-Mecha Dragons Seal					Click to summon a ride		50
-Giant Bird Seal					Click to summon a ride		1
-Ravens Seal					Click to summon a ride		30
-Vampire Bird Seal					Click to summon a ride		30
-Frost Seal					Click to summon a ride		30
-Great Prana Seal					Click to summon a ride		30
-Great Sword Seal					Click to summon a ride		1
-Mantra Seal					Click to summon a ride		1
-Cross Seal					Click to summon a ride		1
-Magnificent Cloud Spell					Click to summon a ride		1
-Oasis Transport Scroll					After using this you will be transported to Mirage Oasis		1
-Vampire Castle Transport Scroll					After using this you will be transported to the entrance of Vampire Castle		1
-Tomb of King Nam Transport Scroll					After using this you will be transported to the entrance of Tomb of King Nam		1
-Tartarus Castle Transport Scroll					After using this you will be transported to the entrance of Tartarus Castle		1
+Robo-Dog Seal					Use to summon a ride		1
+Great Wolf Seal					Use to summon a ride		1
+Great Dragon Seal					Use to summon a ride		50
+Fossil Beast Seal					Use to summon a ride		50
+Stone Dragon					Use to summon a ride		50
+Mecha Dragon Seal					Use to summon a ride		50
+Giant Bird Seal					Use to summon a ride		1
+Raven's Seal					Use to summon a ride		30
+Vampire Bird Seal					Use to summon a ride		30
+Frost Seal					Use to summon a ride		30
+Great Prana Seal					Use to summon a ride		30
+Great Sword Seal					Use to summon a ride		1
+Mantra Seal					Use to summon a ride		1
+Cross Seal					Use to summon a ride		1
+Magnificent Cloud Spell					Use to summon a ride		1
+Oasis Transport Scroll					After using this item you will be transported to Mirage Oasis		1
+Vampire Castle Transport Scroll					After using this item you will be transported to the entrance of Vampire Castle		1
+Tomb of King Namu Transport Scroll					After using this item you will be transported to the entrance of Tomb of King Namu		1
+Tartarus Castle Transport Scroll					After using this item you will be transported to the entrance of Tartarus Castle		1
 Rocket Grill					After using double-attack you will be able to summon Rocket Grill as ride and moving speed will be Increased. Mobile reward ride, unlimited amount of time.		1
 Pumpkin Lamp					Common style of Pumpkin Lamp with a small pumpkin on the top as a pad. After using double-attack you will be able to summon Pumpkin Lamp as a ride and moving speed will be Increased.		1
 Jack Pumpkin Lamp					Common style of pumpkin lamp. You will be able to enter the final round with this item.		1
@@ -1223,10 +1223,10 @@ Honor List 120					Receive the title Ghost Hunter Emperor		1
 Honor List 121					Receive the title Tomb Army		1
 Honor List 122					Receive the title God Traitor		1
 Honor List 123					Receive the title Immortals		1
-Santa Sled					Click to summon a ride		1
+Santa's Sled					Use to summon a ride		1
 Magical Pink Rug					Hand made rug made by Cupid. When used, consumes SP		1
-Inferior Spell					Cast spell: Inferior spell Lv1-5, requires reagent		1
-Empty Spell					Cast spell: Empty spell Lv1-5, requires reagent		1
+Inferior Spell					Cast spell: Inferior Spell Lv1-5, requires reagent		1
+Empty Spell					Cast spell: Empty Spell Lv1-5, requires reagent		1
 Celestial Herb- Wild Carrot					Enigmatic plant that gives mysterious power, regains a little HP		1
 Celestial Herb- Crimson Stalk					Enigmatic plant that gives mysterious power, regains a little HP		1
 Celestial Herb- Melon Root					Enigmatic medicine herb. Doesn't look very tasty		1
@@ -1248,7 +1248,7 @@ Newbies Happy Gold							1
 Newbies Happy Day							1
 Crystal Window-Gift					For a limited time, the chatting window will have a crystal effect		1
 Orz-Gift					Keep the Orz emotion symbol forever		1
-Joy-Gift					Keep the joyful backflip emotion symbol forever		1
+Joy-Gift					Keep the Joyful Backflip emotion symbol forever		1
 Energy Drink-Gift					HP will be Increased by 1600 points		1
 Magic Drink-Gift					MP will be Increased by 800 points		1
 Purified Water-Gift					Some negative effects will be cured		1
@@ -1256,7 +1256,7 @@ Spirit Drink-Gift					SP will be Increased by 7500 points		1
 Snowstorm-Gift					Creates a snowstorm effect in the sky		1
 Lovers Bracelet					Cupid said that I have to own this item in order to enter the Spiral Crystal Palace. You can only use the item once a day to have access.		1
 Lovers Ear Rings					Cupid said that I have to own this item in order to enter the Parallel Universe-Training Field. You can only use the item once a day to have access.		1
-Wheel of Fortune					Trade for Happy Lover Heart Box on Pink Valentine's Day, and complete the mission Cat Meow Meow on White Valentine's Day. With two Heart Boxes and this key you can trade for Pink Magic Rug with Cupid in Training Field and Holy Meteor .		1
+Wheel of Fortune					Trade for Happy Lover Heart Box on Pink Valentine's Day, and complete the mission Cat Meow Meow on White Valentine's Day. With two Heart Boxes and this key you can trade for Pink Magic Rug with Cupid in Trial Field and Meteor Pit.		1
 Gold Magic Rug					Exotic rugs made with colorful silk are not only good for picnic but also for fast flying. Double click and summon Gold Magic Rug as a ride, moving speed will be Increased, while in use it consumes SP		1
 Confession Book					Calls students back to their master		1
 High Grade Knead Candle					With this magic you wear the light with the ability to illuminate around you. On designated areas it is able to show the map.		1
@@ -1269,8 +1269,8 @@ Title Book							1
 Tranquility Necklace					Necklace with prayers from 4 ancient civilizations, wards off evil spirits		1
 Prayers Protection Spell					Spell that is blessed with prayers		1
 Broken Necklace					Old Broken Necklace		1
-Tranquility Amulet					Tranquility Amulet used to pray for a childs health		1
-Peace of Soul Amulet					Tranquility Amulet used to pray for a childs health		1
+Tranquility Amulet					Tranquility Amulet used to pray for a child's health		1
+Peace of Soul Amulet					Tranquility Amulet used to pray for a child's health		1
 Element Cave Bus					Valiant! This is a special war. The purpose is to go to 'Element cave', the place element fairy gathers. There are many unpredictable dangers there. For your safety, return when you are above level 18. From Win-ree.		1
 Mummy Cave Bus					Valiant! This is a special war. The purpose is to go to 'Mummy Cave. There are many unpredictable dangers there. For your safety, return when you are above level 28. From Win-ru.		1
 Boys Cave Bus					Valiant! This is a special war. The purpose is to go to 'Boys Cave'. There are many unpredictable dangers there. For your safety, return when you are above level 38. From Win-ru.		1
@@ -1296,11 +1296,11 @@ Devil Pictures Cave Pass					Valiant! This is a special war. The purpose is to g
 Statue Cave Pass					Valiant! This is a special war. The purpose is to go to' Statue Cave'. There are many unpredictable dangers there. For your safety, return when you are above level 88. From Win-ru.		1
 Witchs Cave Pass					Valiant! This is a special war. The purpose is to go to' Witchs Cave'. There are many unpredictable dangers there. For your safety, return when you are above level 98. From Win-ru.		1
 Happiness Necklace					Necklace that makes you tranquil when held		1
-Jet Ski					Click to summon a ride		1
-Pink Magic Rug					Click to summon a ride		1
-Gold Magic Rug					Click to summon a ride		1
+Jet Ski					Use to summon a ride		1
+Pink Magic Rug					Use to summon a ride		1
+Gold Magic Rug					Use to summon a ride		1
 Colored Wattle					Colorful wattle from a turkey's neck		1
-Pupil's Ingenuity					Proof of Pupils Intellect.		1
+Pupil's Ingenuity					Proof of Pupil's Intellect.		1
 Pupil's Binder					Binder that contains Pupil's notes.		40
 Faded Paper					Paper faded from the weather		1
 Sealed Envelope					A recently sealed envelope.		40
@@ -1416,8 +1416,8 @@ Treasure Box of Transmigration					Metal box that contains four mummy urns		1
 							1
 							1
 							1
-Depraved Demons Jewel					Stone kneaded with pink mummy		1
-Warrior Soul Stone					Stone sealed with a warriors spirit		1
+Depraved Demon's Jewel					Stone kneaded with pink mummy		1
+Warrior Soul Stone					Stone sealed with a warrior's spirit		1
 Star of Deep Ocean					Crystal that gathers from special particles that only exist in the deep ocean, has the power of warding off evil		1
 Light of Ghostly Shadow					Big jewel that was found in the abandoned house of ghostly shadow		1
 Unrighteous Ball					Ball with an evil aura		1
@@ -1438,7 +1438,7 @@ Healing Stone					Magical stone that eases pain from poison		1
 Ogre Flower					Material used to create an elixir which uses the magical power of an Ogre Flower		1
 Elixir of Ogre Flower					Potion created from an Ogre Flower		1
 Millennium Magical Mushroom					Mushroom grown over a millennium, cures all illnesses		1
-Resurrected Ruby					Legendary jewel that has the power to save persons near death		1
+Resurrected Ruby					Legendary jewel that has the power to save people near death		1
 Puffball of Chimera the Synthetic Beast					Puffball of many kinds of mixed hair		1
 							1
 							1
@@ -1467,7 +1467,7 @@ Puffball of Chimera the Synthetic Beast					Puffball of many kinds of mixed hair
 							1
 							1
 Head Dish of Kappa the Water Crest					Head Dish of Kappa the Water Crest, looks like a pearl		1
-Memory Pearl					Known to eat ones memory		1
+Memory Pearl					Known to eat one's memory		1
 Blue Ocean Pearl					Pearl enhances magical powers, collected from a Mad Gargoyle		1
 Rainbow Pearl					Brilliantly colored pearl		1
 Blue Stone					Stone sparkles with blue light		1
@@ -1616,11 +1616,11 @@ Book of Castle Hira					Records the history of Castle Hira		1
 							1
 							1
 							1
-Slimes Sticky Liquid					Test tube containing a Slimes liquid		1
+Slime's Sticky Liquid					Test tube containing a Slime's liquid		1
 Deadly Poisoned Water Potion					Special potion processed with 2 poisons, when taken enhances the power to resist evil		1
 Liquid of Magical Mandala					Highly toxic plant liquid		1
-Golems Blood					Test tube containing Golems Blood		1
-Draculas Blood Serum					Blood serum containing genuine Dracula blood		1
+Golem's Blood					Test tube containing Golem's Blood		1
+Dracula's Blood Serum					Blood serum containing genuine Dracula blood		1
 							1
 							1
 							1
@@ -1720,16 +1720,16 @@ Jello					Jarred jello		1
 Part of Slime					Jar containing Slime		1
 Jello Water					Bottle of jello water, looks tasty!		1
 Pumpkin Oil					Jar containing Pumpkin oil		1
-Thelmas Special Milk					Jug of what seems to be fresh milk		1
+Thelma's Special Milk					Jug of what seems to be fresh milk		1
 Pure Blood					Very pure blood		1
 Dazzling Blood					Blood that can make you blind if it comes in contact with your eye		1
 Thick Fruit Juice					With the scent of fruit, you can mix it with soil to create fruit flavored bricks.		1
 Clean Water					Jar of clean water		1
-Sweet Water					Made of mermaid's tears, used during funerals		1
+Sweet Water					Made of mermaid tears, used during funerals		1
 Hunters Holy Water					Holy water that is used against vampires		1
 Thirst Quenching Water					A thirst quenching drink that comes from a magic spring		1
-Van Hells Blood					Fresh blood taken from Van Hell-Sing		1
-Mothers Milk					Glass bottle of Medusas milk		1
+Van Hell's Blood					Fresh blood taken from Van Hell-Sing		1
+Mother's Milk					Glass bottle of Medusa's milk		1
 							1
 							1
 							1
@@ -1767,7 +1767,7 @@ Mothers Milk					Glass bottle of Medusas milk		1
 							1
 							1
 Emma's Cooler					Special drink that is good for the throat		1
-Emmas cooler					Special drink that is good for the throat		1
+Emma's Cooler					Special drink that is good for the throat		1
 Spirit Soma					Oil with color agents		1
 							1
 							1
@@ -1816,17 +1816,17 @@ Spirit Soma					Oil with color agents		1
 							1
 							1
 							1
-Ground Spiders Fang					Sharp fang that can punctures deeply		1
+Ground Spider's Fang					Sharp fang that can punctures deeply		1
 Vampire Fang					Monstrous fang with wispy crimson grow		1
-Demon Spider Fang					Very large sharp fang		1
+Demon Spider Fang					A very large sharp fang		1
 Polar Fang					Fang that is strong as steel		1
-Beast Gigants Fang					Fang with a peculiar smell		1
+Beast Gigantes Fang					Fang with a peculiar smell		1
 							1
 							1
 							1
 							1
 							1
-Eye of the Giant Fly Man					Removed from the body of the Giant Flys body. Each eye contains many small celled areas.		1
+Eye of the Giant Fly Man					Removed from the body of the Giant Fly's body. Each eye contains many small celled areas.		1
 Spore of Millennium Mushroom					Spore taken from a rare kind of Millennium Mushroom		1
 Antidote of Poison Fang Wolf					Created from the heart of a poison fang wolf		1
 Powder of Millennium Mushroom Crystal					Transparent powder, if inhaled will make one hallucinate		1
@@ -1842,7 +1842,7 @@ Undo Spell					Spell that can undo chants but if used by a normal person you wil
 Wing of Blue Bat					Light gray and red, hairy wings		1
 Ogre Drunk Petal					Pink petal that is wilting		1
 Information of the Millennium Pumpkin					Bottle sealed with words by Millennium Pumpkin		1
-Monster Crabs Skin					It looks hard but when touched it is covers itself with slime		1
+Monster Crab's Skin					It looks hard but when touched it is covers itself with slime		1
 Crystal of Millennium Mushroom					Refined with the Crystal powder of millennium mushroom, has power to condition a trainees physiology		1
 Mirror of Crystalline					Mirror that is more than 1000 years old, has been kept in the temple. Made of gold and very luxurious		1
 Magic Lamp Wick					Made from the hair of an ancient monster that emitted an unfading light		1
@@ -1975,14 +1975,14 @@ Wick from Ancient Lamp					Made of special fur, when lit gives a sour smell		1
 Jet Black Long Hair					Very long black hair		1
 Giants Hair					Hair that has never been washed, it is slimy and clammy		1
 Mighty Wolf Hair					Very dense wolf hair, suitable for cold climates		1
-Sand Dragon 2F					Key used to access the 2nd floor of the Sand Dragons Labyrinth		1
-Sand Dragon 3F					Key used to access the 3rd floor of the Sand Dragons Labyrinth		1
-Sand Dragon 4F					Key used to access the 4th floor of the Sand Dragons Labyrinth		1
-Sand Dragon 5F					Key used to access the 5th floor of the Sand Dragons Labyrinth		1
-Tomb of King Nam 2F					Key used to access the 2nd floor of the Tomb of King Nam		1
-Tomb of King Nam 3F					Key used to access the 3rd floor of the Tomb of King Nam		1
-Tomb of King Nam 4F					Key used to access the 4th floor of the Tomb of King Nam		1
-Tomb of King Nam 5F					Key used to access the 5th floor of the Tomb of King Nam		1
+Sand Dragon 2F					Key used to access the 2nd floor of the Sand Dragon's Labyrinth		1
+Sand Dragon 3F					Key used to access the 3rd floor of the Sand Dragon's Labyrinth		1
+Sand Dragon 4F					Key used to access the 4th floor of the Sand Dragon's Labyrinth		1
+Sand Dragon 5F					Key used to access the 5th floor of the Sand Dragon's Labyrinth		1
+Tomb of King Namu 2F					Key used to access the 2nd floor of the Tomb of King Namu		1
+Tomb of King Namu 3F					Key used to access the 3rd floor of the Tomb of King Namu		1
+Tomb of King Namu 4F					Key used to access the 4th floor of the Tomb of King Namu		1
+Tomb of King Namu 5F					Key used to access the 5th floor of the Tomb of King Namu		1
 Purple Crystal 2F					Key used to access the 2nd floor of the Purple Crystal Cave		1
 Purple Crystal 3F					Key used to access the 3rd floor of the Purple Crystal Cave		1
 Purple Crystal 4F					Key used to access the 4th floor of the Purple Crystal Cave		1
@@ -2116,14 +2116,14 @@ Piece of Aged Sword					Piece of Aged Sword that gives a faint light		1
 							1
 							1
 							1
-Broken Sword					Broken Sword gleaning with black light		1
+Broken Sword					Broken Sword gleaming with black light		1
 Purification Sword					Broken Sword that gives dazzling light		1
 							1
 							1
-Evil Knights Weapon					Fragments of a sharp weapon		1
-Dark Knights Weapon					Fragments of a sharp weapon		1
-Devil Knights Weapon					Fragment of sharp edged weapon		1
-Hell Knights Weapon					Fragment of sharp edged weapon		1
+Evil Knight's Weapon					Fragments of a sharp weapon		1
+Dark Knight's Weapon					Fragments of a sharp weapon		1
+Devil Knight's Weapon					Fragment of sharp edged weapon		1
+Hell Knight's Weapon					Fragment of sharp edged weapon		1
 							1
 							1
 							1
@@ -2222,14 +2222,14 @@ Letter to Catherine					Addressed to a researcher		1
 Letter of Entarokov					Letter informing of his safety		1
 Ofilia's Letter					Ofilia's letter to her husband		1
 Letter From Husband					Letter from husband to Ofilia		1
-Erics Letter					Eric's letter to his mother		1
+Eric's Letter					Eric's letter to his mother		1
 Letter					Emma's mischievous letter		1
 Pure White Letter					Letter with Emma's sincere feelings		1
 Letter of Apology					Elle's apology letter		1
 Letter of Apology					Emma's apology letter		1
 Strategy Notice					Notice of deception and the art of war		1
 Note of Herb Study					Memo copied by hand on wicked herb study		1
-Ladys Letter					Letter with the words of a lady		1
+Lady's Letter					Letter with the words of a lady		1
 Lost Flyer					Common letter		1
 Church Member List					Contains a list of religious believers		1
 Youth Water					If you drink this you will be rejuvinated with beauty		1
@@ -2564,7 +2564,7 @@ Sublimation of Ghost					Dark energy among all ghostly kind		1
 Pictorial Spell					Spell written by each monsters portrayed magical power		1
 Heaven Flower Pollen					Pollen containing monsters ghostly mind		1
 Purified Seed					Seed cultured from a purified magical aura		1
-Legendary Gods Seal					Is this the Legendary Gods Seal? Common looking, isn't it?		1
+Legendary God's Seal					Is this the Legendary Gods Seal? Common looking, isn't it?		1
 Legendary Wand					Is this the Legendary Wand? Looks pretty ordinary		1
 Mummy Bone					Cursed bones		1
 Vampire Bone					Very rare bone of Dracuel		1
@@ -2867,7 +2867,7 @@ Turbo Bomb					Extremely powerful bomb that can annihilate an entire town		1
 							1
 							1
 Anti Flatulence Herb					Do not take excessive amounts of this herb or serious injuries can occur.		1
-Cocoon Herb					Rare plant necessary to produce essential medicine		1
+Cacoon Herb					Rare plant necessary to produce essential medicine		1
 Leaves of Treasure					The head leaf, above Mr. Leaf		1
 Narcissus Herb					Beautiful herb that grows near the river plains, it is said to be quite delicious		1
 Leaf of Purple Herb					Purple flowers leaf		1
@@ -3117,10 +3117,10 @@ Flower of Line Color					Flower with a wondrous healing effect		1
 							1
 							1
 Halloween Candy					Common round hard candy, Increases HP		1
-Weird HalloweenCandy					Candy with a strange wrapper, smells terrible but can Increase moving speed slightly		1
-Skele HalloweenCandy					Candy with a skeleton wrapper, Increases physical defense slightly		1
-Clear HalloweenCandy					Soft candy with a question mark wrapper, Increases physical offense slightly		1
-Queens Apple Candy					Apple covered with honey and almonds, Increases offense significantly		1
+Weird Halloween Candy					Candy with a strange wrapper, smells terrible but can Increase moving speed slightly		1
+Skele Halloween Candy					Candy with a skeleton wrapper, Increases physical defense slightly		1
+Clear Halloween Candy					Soft candy with a question mark wrapper, Increases physical offense slightly		1
+Queen's Apple Candy					Apple covered with honey and almonds, Increases offense significantly		1
 Pumpkin Candy					Pumpkin shaped candy that is delicious, Increases defenses significantly		1
 Halloween Rice Candy					Oval orange soft candy that is sweet, Increases HP and MP		1
 							1
@@ -4072,7 +4072,7 @@ Mysterious Crystal					It comes from a deep cave, is composed of an unknown mate
 Transparent Crystal					A special crystal with which special methods are required to extract		1
 Transparent Crystalline 1					A special product of Purple Crystal Caveand is able to culture magical power stone		1
 Transparent Crystalline 2					A special product of Purple Crystal Caveand is able to culture big magical power stone		1
-Transparent Crystalline					Stone carried by monsters occupying Purple Crystal Cave. Is able to culture mysterious magical power stone		1
+Transparent Crystalline	3				Stone carried by monsters occupying Purple Crystal Cave. Is able to culture mysterious magical power stone		1
 Crystal Sample					A copy of a crystal from Purple Crystal Cave, made with special material		1
 Energy Crystal					Naturally translucent crystalline		1
 Fire Spirit Crystal					Naturally translucent crystalline		1
@@ -4473,7 +4473,7 @@ Sealed Powder					Taken from a Vampire's bones, possesses evil power		1
 Poison Fungus Powder					Ingredient of poison honey,very rare		1
 Dissolving Powder					Ingredient of poison honey, comes from Jack the ripper		1
 Mind Healing Meds					Aids the mind of any damage		1
-silver dust					Contains a mysterious power, dazzled with light		1
+Silver Dust					Contains a mysterious power, dazzled with light		1
 Powder of Mandala					Devil Mandala's flower powder		1
 Dragon Bone Powder					Refined powder make of dragon bones		1
 Rotten Smell Powder					Painting powder with a rotten smell, do not eat		1
@@ -5066,7 +5066,7 @@ Ancient Coin					Coin used in an ancient civilization		1
 							1
 							1
 							1
-Wand of King Nam					Cobra shaped wand that has the power to control weather		1
+Wand of King Namu					Cobra shaped wand that has the power to control weather		1
 							1
 							1
 							1
@@ -5619,7 +5619,7 @@ Scared Dew					Holy water which purifies evil powers		1
 Crystal Spirit Drill					Crystal with a powerful energy		1
 Snow Gem Core					Fragment of Snowman's core stone, if place down the surrounding environment's temperature decreases		1
 Fish King Air Pack					Pouch carries the aura of the fish king		1
-Wind Harpys Breath					A constantly blowing cold wind that is not good for your health if you are exposed to it for a long time		1
+Wind Harpy's Breath					A constantly blowing cold wind that is not good for your health if you are exposed to it for a long time		1
 							1
 							1
 							1
@@ -6623,51 +6623,51 @@ Mysterious Stone					A mysterious stone that sparkles with a special light		1
 Crimson Crystalline					A gleaming crimson crystal		1
 Waverer Stone					Mineral accumulated dark spirit aura		1
 Flame stone					Mineral made of flame		1
-Golden mineral					Mineral with lucrative gold		1
-Shinny iron board					Broken shinny iron board		1
-Ragged hook					Broken hook		1
-Deformed iron					Iron without its original shape		1
-Speck stone					Used for death ritual, the stone generated after monster's death, disintegration		1
-Small spiritual power stone					Stone gleaming special light, Crystal as big as rice grain		1
-Spiritual power stone					Stone gleaming with special light, sphere Crystal		1
-Large spiritual power stone					Stone draping special light, egg shaped Crystal		1
-Mysterious spiritual power stone					Mysterious Crystalline gleaming special light		1
+Golden Mineral					Mineral with lucrative gold		1
+Shiny Iron Board					Broken shinny iron board		1
+Ragged Hook					Broken hook		1
+Deformed Iron					Iron without its original shape		1
+Speck Stone					Used for death ritual, the stone generated after monster's death, disintegration		1
+Small Spiritual Power Stone					Stone gleaming special light, Crystal as big as rice grain		1
+Medium Spiritual Power Stone					Stone gleaming with special light, sphere Crystal		1
+Large Spiritual Power Stone					Stone draping special light, egg shaped Crystal		1
+Mysterious Spiritual Power Stone					Mysterious Crystalline gleaming special light		1
 Gigantic Spiritual Stone					Crystal sparks strong light, as big as man's head		1
-Crystalline for four corners		¥|¤è¤§¶¡			Crystal with special energy, enable moving to four corner chamber		1
+Crystalline for Four Corners		¥|¤è¤§¶¡			Crystal with special energy, enable moving to four corner chamber		1
 Earth Crystalline		¤j¦a¤§¶¡			Crystal with special energy, enable moving to earth chamber		1
 Dark Crystalline		¨I·t¤§¶¡			Crystal with special energy, enable moving to dark chamber		1
 Mad Crystalline		¨g®ð¤§¶¡			Crystal with special energy, enable moving to mad chamber		1
-Illusion water Crystalline		¤ô¤Û¤§¶¡			Crystal with special energy, enable moving to illusion water chamber		1
+Illusion Water Crystalline		¤ô¤Û¤§¶¡			Crystal with special energy, enable moving to illusion water chamber		1
 Binding Crystalline		§ô¿£¤§¶¡			Crystal with special energy, enable moving to binding chamber		1
 Blizzard Crystalline		³·ª_¤§¶¡			Crystal with special energy, enable moving to blizzard chamber		1
-Dead earth Crystalline		¦a·Ù¤§¶¡			Crystal with special energy, enable moving to dead earth chamber		1
+Dead Earth Crystalline		¦a·Ù¤§¶¡			Crystal with special energy, enable moving to dead earth chamber		1
 Blazing Crystalline		¿U¿N¤§¶¡			Crystal with special energy, enable moving to four blazing chamber		1
-Maple soul Crystalline		·¬»î¤§¶¡			Crystal with special energy, enable moving to maple soul chamber		1
-Mirage cysteine		°g¤Û¤§¶¡			Crystal with special energy, enable moving to mirage chamber		1
-Mad rock Crystalline		©¥¶Ã¤§¶¡			Crystal with special energy, enable moving to mad rock chamber		1
+Maple Soul Crystalline		·¬»î¤§¶¡			Crystal with special energy, enable moving to maple soul chamber		1
+Mirage Crystalline		°g¤Û¤§¶¡			Crystal with special energy, enable moving to mirage chamber		1
+Mad Rock Crystalline		©¥¶Ã¤§¶¡			Crystal with special energy, enable moving to mad rock chamber		1
 Strained Crystalline		¨î¬ù¤§¶¡			Crystal with special energy, enable moving to strained chamber		1
 Roar Crystalline		©H¼S¤§¶¡			Crystal with special energy, enable moving to roar chamber		1
-Ogre god Crystalline		°­Ï÷¤§¶¡			Crystal with special energy, enable moving to ogre god chamber		1
+Ogre God Crystalline		°­Ï÷¤§¶¡			Crystal with special energy, enable moving to ogre god chamber		1
 Delayed Crystalline		¿ð½w¤§¶¡			Crystal with special energy, enable moving to four delayed chamber		1
 Sunset Crystalline		³à¤é¤§¶¡			Crystal with special energy, enable moving to sunset chamber		1
-Thunder bolt Crystalline		¹p±I¤§¶¡			Crystal with special energy, enable moving to thunder bolt chamber		1
-Crimson flame Crystalline		¨ªµK¤§¶¡			Crystal with special energy, enable moving to flame chamber		1
+Thunder Bolt Crystalline		¹p±I¤§¶¡			Crystal with special energy, enable moving to thunder bolt chamber		1
+Crimson Flame Crystalline		¨ªµK¤§¶¡			Crystal with special energy, enable moving to flame chamber		1
 Wreck Crystalline		»kªÌ¤§¶¡			Crystal with special energy, enable moving to wreck chamber		1
-Bloody spell Crystalline		¦å©G¤§¶¡			Crystal with special energy, enable moving to bloody spell chamber		1
-Evil spell cysteine		Å]©G¤§¶¡			Crystal with special energy, enable moving to evil spell chamber		1
+Bloody Spell Crystalline		¦å©G¤§¶¡			Crystal with special energy, enable moving to bloody spell chamber		1
+Evil Spell Crystalline		Å]©G¤§¶¡			Crystal with special energy, enable moving to evil spell chamber		1
 Crystalline		ÆFêM¤§¶¡			Crystal with special energy, enable moving to chamber		1
 Light Crystalline		¥ú®É¤§¶¡			Crystal with special energy, enable moving to light chamber		1
-Wicked flower Crystalline		§¯µØ¤§¶¡			Crystal with special energy, enable moving to wicked flower chamber		1
-Dark spell Crystalline		îî©G¤§¶¡			Crystal with special energy, enable moving to dark spell chamber		1
+Wicked Flower Crystalline		§¯µØ¤§¶¡			Crystal with special energy, enable moving to wicked flower chamber		1
+Dark Spell Crystalline		îî©G¤§¶¡			Crystal with special energy, enable moving to dark spell chamber		1
 Thunder Crystalline		¹p»ï¤§¶¡			Crystal with special energy, enable moving thunderer chamber		1
 Destruction Crystalline		¸H·À¤§¶¡			Crystal with special energy, enable moving to destruction chamber		1
-Poison spell Crystalline		¬r©G¤§¶¡			Crystal with special energy, enable moving to poison spell chamber		1
-Soul cutting Crystalline		»îÂ_¤§¶¡			Crystal with special energy, enable moving to soul cutting chamber		1
+Poison Spell Crystalline		¬r©G¤§¶¡			Crystal with special energy, enable moving to poison spell chamber		1
+Soul Cutting Crystalline		»îÂ_¤§¶¡			Crystal with special energy, enable moving to soul cutting chamber		1
 Gravity Crystalline		­«¤O¤§¶¡			Crystal with mysterious power, enable moving to gravity chamber		1
 							1
 							1
-Raged stone mind					Stone said core of Gargoyle, little bit warm		1
-Tree spirit of blackish green tree					Distinct shaped hard tree with blackish green color		1
+Raged Stone Mind					Stone said core of Gargoyle, little bit warm		1
+Tree Spirit of Blackish Green Tree					Distinct shaped hard tree with blackish green color		1
 							1
 							1
 							1
@@ -6716,7 +6716,7 @@ Tree spirit of blackish green tree					Distinct shaped hard tree with blackish g
 							1
 							1
 							1
-Bloody fang beads					Symbol of Devil Hunter's spirit, beaded with bloody crimson colored beads		1
+Bloody Fang Beads					Symbol of Devil Hunter's spirit, beaded with bloody crimson colored beads		1
 							1
 							1
 							1
@@ -6767,11 +6767,11 @@ Bloody fang beads					Symbol of Devil Hunter's spirit, beaded with bloody crimso
 							1
 							1
 Inscription					Proof of coach of wizard		1
-Lower grade soldier's ID					Identification carried all the time, when death, identify one's rank		1
-Elementary solder's ID					Identification carried all the time, when death, identify one's rank		1
-Intermediate solder's ID					Identification carried all the time, when death, identify one's rank		1
+Lower Grade Soldier's ID					Identification carried all the time, when death, identify one's rank		1
+Elementary Soldier's ID					Identification carried all the time, when death, identify one's rank		1
+Intermediate Soldier's ID					Identification carried all the time, when death, identify one's rank		1
 Captain's ID					Identification carried all the time, when death, identify one's rank		1
-Village mayor's inscription					Village Mayer at Saint bay carries		1
+Village Mayor's Inscription					Village Mayer at Saint bay carries		1
 							1
 							1
 							1
@@ -6816,7 +6816,7 @@ Village mayor's inscription					Village Mayer at Saint bay carries		1
 							1
 							1
 							1
-Cloak to ward off evil					Unknown material, when worn lose sense of existence, feels lonely		1
+Cloak to Ward Off Evil					Unknown material, when worn lose sense of existence, feels lonely		1
 							1
 							1
 							1
@@ -6966,8 +6966,8 @@ Cloak to ward off evil					Unknown material, when worn lose sense of existence, 
 							1
 							1
 							1
-Pumpkin ranger's vine					Show one's rank in pumpkin society, hard to obtain		1
-Vine of blue pumpkin					Immature pumpkin's vine		1
+Pumpkin Ranger's Vine					Show one's rank in pumpkin society, hard to obtain		1
+Vine of Blue Pumpkin					Immature pumpkin's vine		1
 							1
 							1
 							1
@@ -7166,9 +7166,9 @@ Vine of blue pumpkin					Immature pumpkin's vine		1
 							1
 							1
 							1
-Saliva mucous					Intensely sticky		1
-Transparent shell					Usable as decoration for architect, taken from Allie, round shaped transparent shell		1
-Color shell					Usable as decoration for architect, taken from Allie, round shaped transparent shell		1
+Saliva Mucus					Intensely sticky		1
+Transparent Shell					Usable as decoration for architect, taken from Allie, round shaped transparent shell		1
+Color Shell					Usable as decoration for architect, taken from Allie, round shaped transparent shell		1
 							1
 							1
 							1
@@ -7265,10 +7265,10 @@ Color shell					Usable as decoration for architect, taken from Allie, round shap
 							1
 							1
 							1
-Protection spell of saint armor					Holy spell able to talk to soul when entered into life and death urn		1
-Emblem of fire					Emblem engraved with fire pattern		1
-Breath of golden Jiang Shi					Last breath of dying Jhing shi when his body to be exterminated		1
-Battle spirit					Spirit generated by warrior spirit of buried soldier Jay left		1
+Protection Spell of Saint Armor					Holy spell able to talk to soul when entered into life and death urn		1
+Emblem of Fire					Emblem engraved with fire pattern		1
+Breath of Golden Jiang Shi					Last breath of dying Jhing shi when his body to be exterminated		1
+Battle Spirit					Spirit generated by warrior spirit of buried soldier Jay left		1
 							1
 							1
 							1
@@ -7315,8 +7315,8 @@ Battle spirit					Spirit generated by warrior spirit of buried soldier Jay left	
 							1
 							1
 							1
-Matt's feather					Feather made by flame, used when scaling dead man's heart		1
-cloudy beauty					Ash and ember		1
+Matt's Feather					Feather made by flame, used when scaling dead man's heart		1
+Cloudy Beauty					Ash and ember		1
 							1
 							1
 							1
@@ -7366,8 +7366,8 @@ cloudy beauty					Ash and ember		1
 							1
 							1
 							1
-Snail lollipop					Lollipop with snail looking spiral patter, not snail		1
-Wondrous soul lollipop					Exquisite lollipop, very sweet some people go fainted		1
+Snail Lollipop					Lollipop with snail looking spiral patter, not snail		1
+Wondrous Soul Lollipop					Exquisite lollipop, very sweet some people go fainted		1
 							1
 							1
 							1
@@ -7416,9 +7416,9 @@ Wondrous soul lollipop					Exquisite lollipop, very sweet some people go fainted
 							1
 							1
 							1
-Silk fabric					Fabric has moist touch as water		1
-Old fabric					Old fabric unknown who used it		1
-Grudge fabric					Fabric with grudge of dead man		1
+Silk Fabric					Fabric has moist touch as water		1
+Old Fabric					Old fabric unknown who used it		1
+Grudge Fabric					Fabric with grudge of dead man		1
 Wet Gauze					Gauze takes body temperature away if wrapped		1
 							1
 							1
@@ -7466,7 +7466,7 @@ Wet Gauze					Gauze takes body temperature away if wrapped		1
 							1
 							1
 							1
-Canvas of terror portrait					Dirty paint on the cut off canvas of terror portrait		1
+Canvas of Terror Portrait					Dirty paint on the cut off canvas of terror portrait		1
 							1
 							1
 							1
@@ -7519,7 +7519,7 @@ Canvas of terror portrait					Dirty paint on the cut off canvas of terror portra
 Small Spiritual Plant					Spiritual Plant is require to create a Fire Fruit. It's a special local product from Mirage Oasis.		1
 Medium Spiritual Plant					Spiritual Plant is require to create a Fire Fruit. It's a special local product from Mirage Oasis.		1
 Large Spiritual Plant					Spiritual Plant is require to create a Fire Fruit. It's a special local product from Mirage Oasis.		1
-Sphere shaped spiritual nursery plant					Nursery plant in Accure canyon monster carries discretely, the material of spiritual nursery tree of jade		1
+Sphere Shaped Spiritual Nursery Plant					Nursery plant in Accure canyon monster carries discretely, the material of spiritual nursery tree of jade		1
 Spiritual Plant Sample					A sample of the Spiritual Plant.		1
 Failed Fruit					Failed Fire Fruit		1
 Fresh Fire Fruit					Green fire fruit.		1
@@ -7567,9 +7567,9 @@ Ripen Fire Fruit					The legendary Fire Fruit.		1
 							1
 							1
 Broken Sword					Bent and Broken Sword		1
-Blood soaked sword					Sword soaked much blood of many people		1
-Tartarus sword					Wicked weapon of guard Inkan, has its conscience		1
-Devil thorn sword					Sword consumes devilish power		1
+Blood Soaked Sword					Sword soaked much blood of many people		1
+Tartarus Sword					Wicked weapon of guard Inkan, has its conscience		1
+Devil Thorn Sword					Sword consumes devilish power		1
 							1
 							1
 							1
@@ -7616,9 +7616,9 @@ Devil thorn sword					Sword consumes devilish power		1
 							1
 							1
 							1
-Blood sword					Devil sword sucks human blood		1
-Goblin's scythe					Scythe Goblin holds, blade unknown material		1
-Hammer from sky					Manageable hammer		1
+Blood Sword					Devil sword sucks human blood		1
+Goblin's Scythe					Scythe Goblin holds, blade unknown material		1
+Hammer From Sky					Manageable hammer		1
 							1
 							1
 							1
@@ -7632,55 +7632,55 @@ Hammer from sky					Manageable hammer		1
 							1
 							1
 							1
-grill					Mid-autumn grill tool, trade for moon rabbit combo when reach to a certain amount		1
-clamp					Mid-autumn grill tool, trade for moon rabbit combo when reach to a certain amount		1
-charcoal					Mid-autumn grill tool, trade for moon rabbit combo when reach to a certain amount		1
-lighter					Mid-autumn grill tool, trade for moon rabbit combo when reach to a certain amount		1
-BBQ sauce					Mid-autumn grill tool, trade for moon rabbit combo when reach to a certain amount		1
-executive axe					axe that belongs to the boss of axe party, special model		1
-gold axe					axe that is shining and golden		1
-silver axe					axe made of pure silver		1
-wooden axe					axe with metal blade and wooden handle		1
+Grill					Mid-autumn grill tool, trade for moon rabbit combo when reach to a certain amount		1
+Clamp					Mid-autumn grill tool, trade for moon rabbit combo when reach to a certain amount		1
+Charcoal					Mid-autumn grill tool, trade for moon rabbit combo when reach to a certain amount		1
+Lighter					Mid-autumn grill tool, trade for moon rabbit combo when reach to a certain amount		1
+BBQ Sauce					Mid-autumn grill tool, trade for moon rabbit combo when reach to a certain amount		1
+Executive Axe					axe that belongs to the boss of axe party, special model		1
+Gold Axe					axe that is shining and golden		1
+Silver Axe					axe made of pure silver		1
+Wooden Axe					axe with metal blade and wooden handle		1
 Garnet					Material of Garnet pestle, hard to obtain		1
-Blood stone					Ingredient of devil herb, hard to obtain		1
+Blood Stone					Ingredient of devil herb, hard to obtain		1
 Purple Rough Stone					Material of Garnet pestle, comes from wolf-man		1
 Silver Mineral Stone					Material of devil flute, hard to obtain		1
 Blue Marine					Material of devil flute, comes from Allie man		1
 Spirit Aura Lever					Effective on integrated metal and SP, taken from infected		1
 Root of Blue Grass					Special material for Emma's fresh juice		1
-Spicy soup					Lydu's special soup with curry spice		1
+Spicy Soup					Lydu's special soup with curry spice		1
 Healing Aroma					Mysterious aroma heals people		1
 Healing Breath Essence					Main ingredient of Healing Aroma		1
 Blood Ruby					Beautiful ruby		1
-Devil perfume spice					Very strong aroma, different from common perfume		1
+Devil Perfume Spice					Very strong aroma, different from common perfume		1
 Poison Honey					Drink with thick smell		1
 Exorcise Wand					Given by Stima, protect from monster		1
-Scroll made by rough paper					Scroll written Emma's words		1
+Scroll Made By Rough Paper					Scroll written Emma's words		1
 Candy of Blue Grass					Special material for Elle's fresh juice		1
 Guardian					Protection spell generated by sublimation of plant spiritual aura that Haveve gathered		1
 Defecate Devil Hormone					Hormone purified by medical agent, effective defecating devil		1
 Holy Hormone					Hormone purified by medical agent, effective warding off evil		1
 Live Poison Hormone					Hormone taken from zombie, has distinct function		1
 Explosive Hormone					Hormone taken from Frankenstein, has distinct function		1
-Cat's eye					Beautiful cat's eye		1
+Cat's Eye					Beautiful cat's eye		1
 Spoon					Spoon makes the spoon easy to drink		1
-Wild rose					Freshly cut rose		1
+Wild Rose					Freshly cut rose		1
 Dark Bell					Bell with no sound		1
-Bloody crimson drum					Religious tool used by priest		1
-Green light religious annulet					Annulet used by spell master		1
-Ice fish							1
-Devil ice mirror							1
-Silver bone twig							1
+Bloody Crimson Drum					Religious tool used by priest		1
+Green Light Religious Amulet					Annulet used by spell master		1
+Ice Fish							1
+Devil Ice Mirror							1
+Silver Bone Twig							1
 Amethyst							1
-Crystal of amethyst							1
-Mini rose on desert							1
-Dead body of being							1
-Bloody dead body							1
-Dragon fruit							1
-Bloody colored leaf							1
-Bloody mud							1
+Crystal of Amethyst							1
+Mini Desert Rose							1
+Dead Body of Being							1
+Bloody Dead Body							1
+Dragon Fruit							1
+Bloody Colored Leaf							1
+Bloody Mud							1
 Jasper							1
-Bloody thread jasper							1
+Bloody Thread Jasper							1
 Agate							1
 Ruby							1
 Sapphire							1
@@ -7691,59 +7691,59 @@ Pyrite							1
 Onyx							1
 Peridot							1
 Opal							1
-Moon stone							1
+Moon Stone							1
 Citrine							1
 Serpentine							1
 Jade							1
-Raw stone without examine							1
+Raw Stone Without Examine							1
 Lazulite							1
 Aloe							1
-Black water							1
+Black Water							1
 Cabbage							1
 Acorn							1
 Chestnut							1
 Mushroom							1
-Snow magical mushroom							1
-Snow carrot							1
+Snow Magical Mushroom							1
+Snow Carrot							1
 Feather							1
-Cloth wrapper							1
-Back back							1
+Cloth Wrapper							1
+Backpack							1
 Map							1
 Emergency kit							1
 Totem							1
-Big pumpkin							1
-Water sack							1
-Pickax							1
-Cross pickax							1
+Big Pumpkin							1
+Water Sack							1
+Pickaxe							1
+Cross Pickaxe							1
 Garlic							1
-Blood of black dog							1
+Blood of Black Dog							1
 Lantern of Aladdin							1
-Turtle shell							1
-Scorpio's shell							1
+Turtle Shell							1
+Scorpio's Shell							1
 Blanket							1
-Snake shell							1
-Pinky finger							1
+Snake Shell							1
+Pinky Finger							1
 Ear							1
-Ice mirror's moss							1
-Snow root							1
-Fruit of Load of death							1
-One day grass							1
-Dew water							1
-Golden mask							1
-Key of King Nam							1
-Wand of King Nam							1
-Griffon's feather							1
-Scale of crimson colored lizard							1
-Scale of deep blue colored lizard							1
-Scale of yellow colored lizard							1
-Scale of green colored lizard							1
-Snow mistress's Crystal							1
-Spider's protection spell							1
-Anubis's whip							1
-Ceramic of man shape							1
-Ceramic of hawk shape							1
-Ceramic of wolf shape							1
-Ceramic of monkey shape							1
+Ice Mirror's Moss							1
+Snow Root							1
+Fruit of Load of Death							1
+One Day Grass							1
+Dew Water							1
+Golden Mask							1
+Key of King Namu							1
+Wand of King Namu							1
+Griffon's Feather							1
+Scale of Crimson Colored Lizard							1
+Scale of Deep Blue Colored Lizard							1
+Scale of Yellow Colored Lizard							1
+Scale of Green Colored Lizard							1
+Snow Mistress's Crystal							1
+Spider's Protection Spell							1
+Anubis's Whip							1
+Ceramic of Man Shape							1
+Ceramic of Hawk Shape							1
+Ceramic of Wolf Shape							1
+Ceramic of Monkey Shape							1
 Home Point Card					Card to transfer home.		1
 Beginner Village Card					Card to transfer to Beginner Village.		1
 Meteor Pit Card					Card for transferring to Meteor Pit.		1
@@ -7751,7 +7751,7 @@ Thunder Hill Card					Card to transfer to Thunder Hill.		1
 Saint Field Card					Card to transfer to Saint Field.		1
 Corpse Church Card					Card to transfer to Corpse Church.		1
 Plague Dungeon Card					Card to transfer to Plague Dungeon.		1
-Aired Field Card					Card to transfer to Aired Field.		1
+Fujin's Field Card					Card to transfer to Fujin's Field.		1
 Deep Lab Card					Card to transfer to Deep Lab.		1
 Lost Cave Card					Card to transfer to Lost Cave.		1
 Seal Tower Card					Card to transfer to Seal Tower.		1
@@ -7775,7 +7775,7 @@ Heart Firework					Shoot a beautiful heart firework		1
 Love Firework					Shoot a beautiful love firework		1
 Angel Firework					Shoot a beautiful angel firework		1
 I Love You Firework					"Shoot a beautiful ""I Love You"" firework"		1
-BShadow Firework					Shoot a beautiful Bright Shadow firework		1
+Bright Shadow Firework					Shoot a beautiful Bright Shadow firework		1
 Pumpkin Firework					Shoot a beautiful pumpkin firework		1
 Sun Firework					Shoot a beautiful sun firework		1
 Shooting Star Firework					Shoot a beautiful shooting star firework		1
@@ -7787,8 +7787,8 @@ No Firework					"Shoot a beautiful ""No"" firework"		1
 Floaty Lantern					"Produce a beautiful lantern with ""SAFE"" on it"		1
 Halo					Create a halo over your head		1
 Light Bulb					Create a light bulb over your head		1
-Big Question					Create a question mark over your head		1
-Big Exclamation					Create a exclamation mark over your head		1
+Question Mark					Create a question mark over your head		1
+Exclamation Mark					Create a exclamation mark over your head		1
 Circling Star					Create circling stars over your head		1
 Flame					Create a flame over your head		1
 Giant Angel Wings					Create giant angel wings on your character		1
@@ -7813,9 +7813,9 @@ Meteor Rain					Rain burning meteors		1
 Bubble Rain					Rain dreamy bubbles		1
 Cherry Blossom Rain					Rain beautiful cherry blossoms		1
 Poop Rain					Rain different shapes of poop		1
-Closed Beta Cert					Get title 'Pioneer of Luciena'		1
-Spot a GM Cert					Get title 'Honored One'		1
-GM Hide and Seek Cert					Get title 'I survived the GM Hunt!'		1
+Closed Beta Certificate					Get title 'Pioneer of Luciena'		1
+Spot a GM Certificate					Get title 'Honored One'		1
+GM Hide and Seek Certificate					Get title 'I survived the GM Hunt!'		1
 Honor Book 4					Get title 'Looking for girl otaku'		1
 Honor Book 5					Get title 'Looking for otaku'		1
 Honor Book 6					Get title 'Turbulent'		1
@@ -7834,21 +7834,21 @@ Luciena World Cup - Group E					Group E: Netherlands, Denmark, Japan, Cameroon		
 Luciena World Cup - Group F					Group F: Italy, Paraguay, New Zealand, Slovakia		1
 Luciena World Cup - Group G					Group G: Brazil, Korea DPR, Cote d'Ivoire, Portugal		1
 Luciena World Cup - Group H					Group H: Spain, Switzerland, Honduras, Chile		1
-Rose Chat					Skin your chat with the rose effect		1
-Gear Chat					Skin your chat with the gear effect		1
-Spirit Chat					Skin your chat with the spirit effect		1
-Heart Chat					Skin your chat with the heart effect		1
-Flame Chat					Skin your chat with the flame effect		1
-Ice Chat					Skin your chat with the ice effect		1
-Scream Chat					Skin your chat with the scream effect		1
-Dark Chat					Skin your chat with the dark effect		1
-Vine Chat					Skin your chat with the vine effect		1
-Star Chat					Skin your chat with the star effect		1
-Bat Chat					Skin your chat with the bat effect		1
-Lucky Chat					Skin your chat with the lucky effect		1
-Bone Chat					Skin your chat with the bone effect		1
-Locket Chat					Skin your chat with the locket effect		1
-Golden Chat					Skin your chat with the gold effect		1
+Rose Chat					Decorate your chat with the rose effect		1
+Gear Chat					Decorate your chat with the gear effect		1
+Spirit Chat					Decorate your chat with the spirit effect		1
+Heart Chat					Decorate your chat with the heart effect		1
+Flame Chat					Decorate your chat with the flame effect		1
+Ice Chat					Decorate your chat with the ice effect		1
+Scream Chat					Decorare your chat with the scream effect		1
+Dark Chat					Decorate your chat with the dark effect		1
+Vine Chat					Decorate your chat with the vine effect		1
+Star Chat					Decorate your chat with the star effect		1
+Bat Chat					Decorate your chat with the bat effect		1
+Lucky Chat					Decorate your chat with the lucky effect		1
+Bone Chat					Decorate your chat with the bone effect		1
+Locket Chat					Decorate your chat with the locket effect		1
+Golden Chat					Decorate your chat with the gold effect		1
 Book of Bag Expansion					Increase the size of the bag by 1 page		1
 Storage Expansion Permit					Increase the size of the storage by 1 page		1
 Flower of Knowledge					Increase the max number of skills by 5		1
@@ -7960,91 +7960,91 @@ My Shop: Cart					Change your shop into a cart		1
 My Shop: Leather Tent					Change your shop into a leather tent		1
 My Shop: Golden Tent					Change your shop into a golden tent		1
 My Shop: Tent					Change your shop into a tent		1
-My Shop: Wheelbarrow					Change your shop into a wheelbarrow		1
+My Shop: Wheel Barrel					Change your shop into a wheel barrel		1
 My Shop: Street Vendor					Change your shop into a street vendor		1
 My Shop: Igloo					Change your shop into a igloo		1
 My Shop: Carriage					Change your shop into a carriage		1
 My Shop: Umbrella					Change your shop into a umbrella		1
 My Shop: Shack					Change your shop into a shack		1
 My Shop Robot					Automatically welcomes the shop customers		1
-Item egg					Get item randomly!		1
-Equipment egg					Get equipment item randomly!		1
-Shout Megaphone					"Enable the ""Shout"" chat"		1
-2x EXP Book					Receive 2x EXP when defeating monster		1
-Orz					"Enable the ""Orz"" emotion"		1
-Tantrum					"Enable the ""Tantrum"" emotion"		1
-Shock					"Enable the ""Shock"" emotion"		1
-Kiss					"Enable the ""Kiss"" emotion"		1
-Tumble					"Enable the ""Tumble"" emotion"		1
-Salute					"Enable the ""Salute"" emotion"		1
-Dance					"Enable the ""Dance"" emotion"		1
-Meh					"Enable the ""Meh"" emotion"		1
-Hail					"Enable the ""Hail"" emotion"		1
-Victory					"Enable the ""Victory"" emotion"		1
-Excitement					"Enable the ""Excitement"" emotion"		1
-Embarrassed					"Enable the ""Embarassed"" emotion"		1
-Nauseous					"Enable the ""Nauseous"" emotion"		1
-Punch					"Enable the ""Punch"" emotion"		1
-Cancan Dance					"Enable the ""Cancan Dance"" emotion"		1
-Play Dead					"Enable the ""Play Dead"" emotion"		1
-Raspberry					"Enable the ""Raspberry"" emotion"		1
-Taunt					"Enable the ""Taunt"" emotion"		1
-OMG					"Enable the ""OMG"" emotion"		1
-Conduct					"Enable the ""Conduct"" emotion"		1
+Item egg					Get a random item!		1
+Equipment egg					Get a random equipment item!		1
+Shout Megaphone					Enable the "Shout" chat.		1
+2x EXP Book					Receive double EXP when defeating monster		1
+Orz					Enable the "Orz" emotion		1
+Tantrum					Enable the "Tantrum" emotion		1
+Shock					Enable the "Shock" emotion		1
+Kiss					Enable the "Kiss" emotion		1
+Tumble					Enable the "Tumble" emotion		1
+Salute					Enable the "Salute" emotion		1
+Dance					Enable the "Dance" emotion		1
+Meh					Enable the "Meh" emotion		1
+Hail					Enable the "Hail" emotion		1
+Victory					Enable the "Victory" emotion		1
+Excitement					Enable the "Excitement" emotion		1
+Embarrassed					Enable the "Embarassed" emotion		1
+Nauseous					Enable the "Nauseous" emotion		1
+Punch					Enable the "Punch" emotion		1
+Cancan Dance					Enable the "Cancan Dance" emotion		1
+Play Dead					Enable the "Play Dead" emotion		1
+Raspberry					Enable the "Raspberry" emotion		1
+Taunt					Enable the "Taunt" emotion		1
+OMG					Enable the "OMG" emotion		1
+Conduct					Enable the "Conduct" emotion		1
 My Shop: Phone Booth					Change your shop into a phone booth		1
 My Shop: Ticket Booth					Change your shop into a ticket booth		1
 My Shop: Sample Stand					Change your shop into a sample stand		1
 My Shop: Hut					Change your shop into a hut		1
-My Shop: Oasis					Change your shop into a oasis		1
+My Shop: Oasis					Change your shop into an oasis		1
 My Shop: Begger					Change your shop into a begger		1
 My Shop: Greeting Cat					Change your shop into a greeting cat		1
 My Shop: Crystal Ball					Change your shop into a crystal ball		1
 My Shop: Vending Machine					Change your shop into a vending machine		1
 My Shop: UFO Catcher					Change your shop into a UFO catcher		1
-Normal egg	913						1
-Normal egg	1018						1
-Normal egg	1101						1
-Normal egg	1122						1
-Special egg	913						1
-Special egg	1018						1
-Special egg	1101						1
-Special egg	1122						1
-Sailor school uniform egg (female)	913						1
-Student egg (male)	913						1
-Lady egg (female)	913						1
-Gentleman egg (male)	913						1
-Devil egg (female)	1018						1
-Devil egg (male)	1018						1
-Panda egg (female)	1101						1
-Koala egg (male)	1101						1
-Cow boy egg (female)	1122						1
-Pirate egg (male)	1122						1
-commemorative member's honor notebook					get the tittle 'bright shadow creater'		1
-Title book 22					Get the title 'in break'		1
-Title book 23					Ge the title 'leave me alone'		1
-Title book 24					Get the title 'what?'		1
-Title book 25					Get the title 'Meow'		1
-Title book 26					Get the title 'really mad'		1
-Title book 27					Get the title 'not happy'		1
-Title book 28					Ge the title 'Halloween'		1
-Title book 29					Get the title 'Give me candy!'		1
-Title book 30					Get the tittle 'Unpopular'		1
-Title book 31					Get the title 'Madly in Love'		1
-Title book 32					Get the title 'Needs Love'		1
-Title book 33					Get the title 'Good Match'		1
-Title book 34					Get the title 'Easygoing'		1
-Title book 35					Get the title 'Funny'		1
-Title book 36					Get the title 'All Natural'		1
-Title book 37					Get the title 'Happy New Year'		1
-Title book 38					Get the title 'Good News'		1
-Title book 39					Get the title 'Loves Gifts'		1
-Title book 40					Get the title 'Gatekeeper'		1
-Title book 41					Get the title 'Stay Away'		1
-Title book 42					Get the title 'Ogre Parade'		1
-Rod Egg wild with joy					Celebration of presentation of flower and gold coin		1
-starlight spinning egg							1
-bright shadow title list					get title bright shadow party		1
-bright shadow red carpet pass							1
+Normal Egg	913						1
+Normal Egg	1018						1
+Normal Egg	1101						1
+Normal Egg	1122						1
+Special Egg	913						1
+Special Egg	1018						1
+Special Egg	1101						1
+Special Egg	1122						1
+Sailor School Uniform Egg (Female)	913						1
+Student Egg (Male)	913						1
+Lady Egg (Female)	913						1
+Gentleman Egg (Male)	913						1
+Devil Egg (Female)	1018						1
+Devil Egg (Male)	1018						1
+Panda Egg (Female)	1101						1
+Koala Egg (Male)	1101						1
+Cow boy Egg (Female)	1122						1
+Pirate Egg (Male)	1122						1
+Commemorative Member's Honor Notebook					Get the title 'Bright Shadow Creator'		1
+Title Book 22					Get the title 'In Break'		1
+Title Book 23					Get the title 'Leave Me Alone'		1
+Title Book 24					Get the title 'What?'		1
+Title Book 25					Get the title 'Meow'		1
+Title Book 26					Get the title 'Really Mad'		1
+Title Book 27					Get the title 'Not Happy'		1
+Title Book 28					Get the title 'Halloween'		1
+Title Book 29					Get the title 'Give Me Candy!'		1
+Title Book 30					Get the title 'Unpopular'		1
+Title Book 31					Get the title 'Madly in Love'		1
+Title Book 32					Get the title 'Needs Love'		1
+Title Book 33					Get the title 'Good Match'		1
+Title Book 34					Get the title 'Easygoing'		1
+Title Book 35					Get the title 'Funny'		1
+Title Book 36					Get the title 'All Natural'		1
+Title Book 37					Get the title 'Happy New Year'		1
+Title Book 38					Get the title 'Good News'		1
+Title Book 39					Get the title 'Loves Gifts'		1
+Title Book 40					Get the title 'Gatekeeper'		1
+Title Book 41					Get the title 'Stay Away'		1
+Title Book 42					Get the title 'Ogre Parade'		1
+Rod Egg Wild With Joy					Celebration of presentation of flower and gold coin		1
+Starlight Spinning Egg							1
+Bright Shadow Title List					Get the title 'Bright Shadow Party'		1
+Bright Shadow Red Carpet Pass							1
 	¤é¥»½s¸¹¡A¤£¨Ï¥Î						1
 	¤é¥»½s¸¹¡A¤£¨Ï¥Î						1
 	¤é¥»½s¸¹¡A¤£¨Ï¥Î						1
@@ -8065,41 +8065,41 @@ bright shadow red carpet pass							1
 	¤é¥»½s¸¹¡A¤£¨Ï¥Î						1
 	¤é¥»½s¸¹¡A¤£¨Ï¥Î						1
 	¤é¥»½s¸¹¡A¤£¨Ï¥Î						1
-blue firework x5					get 5 blue fireworks		1
-rose rain x5					get 5 rose rain		1
-beach sandals (man)					keep beach sandals (man) for 7 days		1
-beach sandals (woman)					keep beach sandals (woman) for 7 days		1
-beach short pants (man)					keep beach beach short pants (man) for 7 days		1
-beach short pants (woman)					keep beach short pants (woman) for 7 days		1
-beach shirt (man)					keep beach shirt (man) for 7 days		1
-bikini top (woman)					keep bikini top (woman) for 7 days		1
-panda palm gloves (man)					keep panda palm gloves (man) for 7 days		1
-cat palm gloves (woman)					keep cat palm gloves (woman) for 7 days		1
-flashlight (dagger)					keep flashlight (dagger) for 7 days		1
-teddy bear (dagger)					keep teddy bear (dagger) for 7 days		1
-fishing pole (nonchakus)					keep fishing pole (nonchakus) for 7 days		1
-chopsticks (bow)					keep chopsticks (bow) for 7 days		1
-bat toad (7days)					keep bat toad for 7 days		1
-back spirit (7days)					keep back spirit for 7 days		1
-bat ball (7days)					keep bat ball for 7 days		1
-complain pig (7days)					keep complain pig for 7 days		1
-$10000 ancient coins					get $10000 ancient coins		1
-Holy Chat					Skin your chat with the holy effect		1
-Demon Chat					Skin your chat with the demon effect		1
-Red Jello Chat					Skin your chat with the red jello effect		1
-Yello Jello Chat					Skin your chat with the yellow jello effect		1
-Blue Jello Chat					Skin your chat with the blue jello effect		1
-Green Jello Chat					Skin your chat with the green jello effect		1
-Spider Chat					Skin your chat with the spider effect		1
-Crab Chat					Skin your chat with the crab effect		1
-Sun Chat					Skin your chat with the sun effect		1
-Bandage Chat					Skin your chat with the bandage effect		1
-Gold Coin Chat					Skin your chat with the gold coin effect		1
-Beetle Chat					Skin your chat with the beetle effect		1
-Power Chat					Skin your chat with the power effect		1
-Chocolate Chat					Skin your chat with the chocolate effect		1
-Gold Chat					Skin your chat with the gold effect		1
-Rainforest Chat					Skin your chat with the rainforest chat		1
+Blue Firework x5					Get 5 blue fireworks		1
+Rose Rain x5					Get 5 rose rain		1
+Beach Sandals (Male)					Keep Beach Sandals (M) for 7 days		1
+Beach Sandals (Female)					Keep Beach Sandals (F) for 7 days		1
+Beach Short Pants (Male)					Keep Beach Short Pants (M) for 7 days		1
+Beach Short Pants (Female)					Keep Beach Short Pants (F) for 7 days		1
+Beach Shirt (Male)					Keep Beach Shirt (M) for 7 days		1
+Bikini Top (Female)					Keep Bikini Top (F) for 7 days		1
+Panda Palm Gloves (Male)					Keep Panda Palm Gloves (M) for 7 days		1
+Cat Palm Gloves (Female)					Keep Cat Palm Gloves (F) for 7 days		1
+Flashlight (dagger)					Keep Flashlight (dagger) for 7 days		1
+Teddy Bear (dagger)					Keep Teddy Bear (dagger) for 7 days		1
+Fishing Pole (nonchakus)					Keep Fishing Pole (nonchakus) for 7 days		1
+Chopsticks (bow)					Keep Chopsticks (bow) for 7 days		1
+Bat Toad (7days)					Keep Bat Toad for 7 days		1
+Back Spirit (7days)					Keep Back Spirit for 7 days		1
+Bat Ball (7days)					Keep Bat Ball for 7 days		1
+Complain Pig (7days)					Keep Complain Pig for 7 days		1
+10000 Ancient Coins					Get 10000 ancient coins		1
+Holy Chat					Decorate your chat with the holy effect		1
+Demon Chat					Decorate your chat with the demon effect		1
+Red Jello Chat					Decorate your chat with the red jello effect		1
+Yello Jello Chat					Decorate your chat with the yellow jello effect		1
+Blue Jello Chat					Decorate your chat with the blue jello effect		1
+Green Jello Chat					Decorate your chat with the green jello effect		1
+Spider Chat					Decorate your chat with the spider effect		1
+Crab Chat					Decorate your chat with the crab effect		1
+Sun Chat					Decorate your chat with the sun effect		1
+Bandage Chat					Decorate your chat with the bandage effect		1
+Gold Coin Chat					Decorate your chat with the gold coin effect		1
+Beetle Chat					Decorate your chat with the beetle effect		1
+Power Chat					Decorate your chat with the power effect		1
+Chocolate Chat					Decorate your chat with the chocolate effect		1
+Gold Chat					Decorate your chat with the gold effect		1
+Rainforest Chat					Decorate your chat with the rainforest chat		1
 Shop Sign: Ragged					Change your shop's sign with the ragged effect		1
 Shop Sign: Sunset					Change your shop's sign with the sunset effect		1
 Shop Sign: Message					Change your shop's sign with the message effect		1
@@ -8119,23 +8119,23 @@ Shop Sign: Jello					Change your shop's sign with the jello effect		1
 Shop Sign: Jewel					Change your shop's sign with the jewel effect		1
 Shop Sign: Vending Machine					Change your shop's sign with the vending machine effect		1
 Shop Sign: UFO Catcher					Change your shop's sign with the UFO catcher effect		1
-Orz Firework					Shoot a Orz firework		1
+Orz Firework					Shoot an Orz firework		1
 D: Firework					Shoot a D: firework		1
 SOS Firework					Shoot a HELP firework		1
 Heartbroken Firework					Shoot a heartbroken firework		1
-Thumb Up Firework					Shoot a thumb up firework		1
-Thumb Down Firework					Shoot a thumb down firework		1
+Thumbs Up Firework					Shoot a thumbs up firework		1
+Thumbs Down Firework					Shoot a thumbs down firework		1
 Scissor Firework					Shoot a scissor firework		1
 Rock Firework					Shoot a rock firework		1
 Paper Firework					Shoot a paper firework		1
 No.1 Firework					Shoot a No.1 firework		1
 Dove Firework					Shoot a dove firework		1
 Crow Firework					Shoot a crow firework		1
-Healthy Lamp Firework					"Shoot a ""Healthy"" lamp"		1
-Love lamp					"produce lamp with ""love"" on it"		1
-Friend lamp					"produce lamp with ""friendship"" on it"		1
-lucky lamp					"produce lamp with ""lucky"" on it"		1
-career lamp					"produce lamp with ""career"" on it"		1
+Healthy Lamp Firework					Shoot a healthy lamp firework		1
+Love Lamp					produce a lamp with "love" on it		1
+Friend Lamp					produce a lamp with "friendship" on it		1
+Lucky Lamp					produce a lamp with "lucky" on it		1
+Career Lamp					produce a lamp with "career" on it		1
 Star Hands					Add the star effect around your hands		1
 Star Feet					Add the star effect around your legs		1
 Fire Hands					Add the fire effect around your hands		1
@@ -8147,7 +8147,7 @@ Thunderstorm					Add the thunderstorm effect on your character		1
 Spark					Add the spark effect on your character		1
 Stray Fly					Add the stray fly effect on your character		1
 Butterfly					Add the butterfly effect on your character		1
-Nine Tailed fox					Add the nine tailed fox effect on your character		1
+Nine Tailed Fox					Add the nine tailed fox effect on your character		1
 Sword Dance					Add the Sword Dance effect on your character		1
 Gold Rain					Rain beautiful gold		1
 Hail Rain					Rain hail		1
@@ -8169,16 +8169,16 @@ Ice Cream Rain					Rain delicious ice creams		1
 Capsule Rain					Rain mysterious capsules		1
 Tetris Rain					Rain tetris blocks		1
 Pig Rain					Rain cute pigs		1
-Male hair style changing gel 14					Side parted pointy hair		1
-Male hair style changing gel 15					Center wing		1
-Male hair style changing gel 16					Airy light		1
-Male hair style changing gel 17					Long bang		1
+Male Hair Style Changing Gel 14					Side parted pointy hair		1
+Male Hair Style Changing Gel 15					Center wing		1
+Male Hair Style Changing Gel 16					Airy light		1
+Male Hair Style Changing Gel 17					Long bang		1
 Hairstyle: Center Straight					Change your hairstyle to Center Straight		1
-Female hair style changing gel 14					Gothic straight		1
-Female hair style changing gel 15					Natural curl		1
-Female hair style changing gel 16					Fluffy long		1
-Female hair style changing gel 17					Bouncy pig tail		1
-Female hair style changing gel 18					Crimson red ribbon-ed long pony tail		1
+Female Hair Style Changing Gel 14					Gothic straight		1
+Female Hair Style Changing Gel 15					Natural curl		1
+Female Hair Style Changing Gel 16					Fluffy long		1
+Female Hair Style Changing Gel 17					Bouncy pig tail		1
+Female Hair Style Changing Gel 18					Crimson red ribbon-ed long pony tail		1
 Love Stationary					write on love stationery, one page for each letter		1
 Clover Stationary					write on clover stationery, one page for each letter		1
 Spirit stationery					write on spirit stationery, one page for each letter		1
@@ -8189,25 +8189,25 @@ Amethyst Stationary					write on purple Crystal stationery, one page for each le
 Birthday Stationary					write on birthday cake stationery, one page for each letter		1
 New Year Stationary					write on happy new year stationery, one page for each letter		1
 Black Skull Stationary					write on black skull stationery, one page for each letter		1
-8888 Ancient currency					Enable to obtain 8888 ancient currency		1
-Love heart egg							1
-Break heart egg							1
-Mouse key							1
-Mouse gift money							1
-Carp ball					Chasing carp pack gacha		1
+8888 Ancient Currency					Enable to obtain 8888 ancient currency		1
+Love Heart Egg							1
+Break Heart Egg							1
+Mouse Key							1
+Mouse Gift Money							1
+Carp Ball					Chasing carp pack gacha		1
 Potting Soil					When plant with 'flower seed', sprout		1
 Fertilizer					When plant with 'flower seed', grows 2 to 3 times		1
-Nutritional agent					When plant with 'flower seed', growing speed Increase 3 times		1
-Dive bubble					Without time limit, able to go sealed water way of the earth after 'low tide'		1
-G-Man costume spinning egg					able to get one part of G-Man's costume		1
-G-Woman costume spinning egg					able to get one part of G-Woman's costume		1
-fashion pet egg					able to get one fashion pet in 7/30/365 days		1
-antique pet egg					able to get one antique pet in 7/30/365 days		1
-hot boy							1
-hot girl							1
-exotic boy							1
-exotic girl							1
-exotic girl							1
+Nutritional Agent					When plant with 'flower seed', growing speed Increase 3 times		1
+Dive Bubble					Without time limit, able to go sealed water way of the earth after 'low tide'		1
+G-Man Costume Spinning Egg					able to get one part of G-Man's costume		1
+G-Woman Costume Spinning Egg					able to get one part of G-Woman's costume		1
+Fashion Pet Egg					able to get one fashion pet in 7/30/365 days		1
+Antique Pet Egg					able to get one antique pet in 7/30/365 days		1
+Hot Boy							1
+Hot Girl							1
+Exotic Boy							1
+Exotic Girl							1
+Exotic Girl							1
 STR Reset Book 3					Reset 99 point, STR		1
 CON Reset Book 3					Reset 99 point, CON		1
 AGI Reset Book 3					Reset 99 point, AGI		1
@@ -8219,245 +8219,245 @@ Quick Recovery II					Increase HP recovery speed by 60% for 3600 seconds		1
 Quick Recovery III					Increase HP recovery speed by 100% for 3600 seconds		1
 Phoenix Feather II					Revive once, Increase HP 50%		1
 Phoenix feather III					Revive once, Increase HP 75%		1
-Amount of medicine in possession					Increase amount of possession limit to 1000, continuous 18000 seconds		1
-Power medicine					Increase amount of possession limit to 2000, continuous 18000 seconds		1
-God power					Increase amount of possession limit to 3000, continuous 18000 seconds		1
-Morph medicine-Twins					Morph medicine to transform Mummy Twins		1
-Morph medicine- Kappearl					Morph medicine to transform Kappearl		1
-Morph medicine- Harpie					Morph medicine to transform Harpie		1
-Morph medicine- Drappa					Morph medicine to transform Drappa		1
-Morph medicine- Slyjellie					Morph medicine to transform Slyjellie		1
-Morph medicine- Flame					Morph medicine to transform Flame		1
-Morph medicine- Weasol					Morph medicine to transform Weasoel		1
-Morph medicine- Prime minister of magical book					Morph medicine to transform Prime minister of magical book		1
-Morph medicine- Fran-kun					Morph medicine to transform Fran-kun		1
-Morph medicine- Gobb					Morph medicine to transform Gobb		1
-Morph medicine- Water drip					Morph medicine to transform Water drip		1
-Morph medicine- Full moon mighty					Morph medicine to transform Full moon mighty		1
-Morph medicine- Ground spider					Morph medicine to transform Ground spider		1
-Morph medicine- Red ogre					Morph medicine to transform Red ogre		1
-Morph medicine- Breezy					Morph medicine to transform Breezy		1
-Morph medicine- Bakko					Morph medicine to transform Bakko		1
-Morph medicine- Urry					Morph medicine to transform Urry		1
-Morph medicine- Leaf					Morph medicine to transform Leaf		1
-Morph medicine- Raccoon					Morph medicine- Raccoon		1
-Morph medicine to transform Harpie					Morph medicine- Foot soldier		1
-Morph medicine to transform Mummy chan					Morph medicine- Mummy-chan		1
+Amount of Medicine In Possession					Increase amount of possession limit to 1000 for 18000 seconds		1
+Power Medicine					Increase amount of possession limit to 2000 for 18000 seconds		1
+God Power					Increase amount of possession limit to 3000 for 18000 seconds		1
+Morph Medicine- Twins					Morph medicine to transform to a Mummy Twins		1
+Morph Medicine- Kappearl					Morph medicine to transform to a Kappearl		1
+Morph Medicine- Harpy					Morph medicine to transform to a Harpy		1
+Morph Medicine- Drappa					Morph medicine to transform to a Drappa		1
+Morph Medicine- Slime Jelly					Morph medicine to transform to a Slime Jelly		1
+Morph Medicine- Mr. Flame					Morph medicine to transform to a Mr. Flame		1
+Morph Medicine- Weasel					Morph medicine to transform to a Weasel		1
+Morph Medicine- Prime Minister Of Magical Book					Morph medicine to transform to a Prime Minister Of Magical Book		1
+Morph Medicine- Frankenstein					Morph medicine to transform to a Frankenstein		1
+Morph Medicine- Gob					Morph medicine to transform to a Gob		1
+Morph Medicine- Mr. Water Drop					Morph medicine to transform to a Mr. Water Drop		1
+Morph Medicine- Full Moon Mighty					Morph medicine to transform to a Full Moon Mighty		1
+Morph Medicine- Ground Spider					Morph medicine to transform to a Ground Spider		1
+Morph Medicine- Red Ogre					Morph medicine to transform to a Red Ogre		1
+Morph Medicine- Mr. Breeze					Morph medicine to transform to a Mr. Breeze		1
+Morph Medicine- Bakko					Morph medicine to transform to a Bakko		1
+Morph Medicine- Urry					Morph medicine to transform to a Urry		1
+Morph Medicine- Mr. Leaf					Morph medicine to transform to a Mr. Leaf		1
+Morph Medicine- Raccoon					Morph medicine- to a Raccoon		1
+Morph Medicine- Foot Soldier					Morph medicine- to a Foot soldier		1
+Morph Medicine- Mummy-chan					Morph medicine- to a Mummy-chan		1
 Smart Blue Potion					Decrease the MP cost of spells		1
-SP decrease medicine					Medicine to consume SP		1
-Samurai spinning egg (man)							1
-Samurai spinning egg (woman)							1
-sport suit spinning egg (man)							1
-sport suit spinning egg (woman)							1
-old workout combo					select one of A, B, C, D workout combos		1
-old progressive workout combo					select one of A, B, C, D progressive workout combos		1
-workout combo A							1
-workout combo B							1
-workout combo C							1
-workout combo D							1
-progressive workout combo A							1
-progressive workout combo B							1
-progressive workout combo C							1
-progressive workout combo D							1
+SP Decrease Medicine					Medicine to consume SP		1
+Samurai Spinning Egg (Male)							1
+Samurai Spinning Egg (Female)							1
+Sport Suit Spinning Egg (Male)							1
+Sport Suit Spinning Egg (Female)							1
+Old Workout Combo					select one of A, B, C, D workout combos		1
+Old Progressive Workout Combo					select one of A, B, C, D progressive workout combos		1
+Workout Combo A							1
+Workout Combo B							1
+Workout Combo C							1
+Workout Combo D							1
+Progressive Workout Combo A							1
+Progressive Workout Combo B							1
+Progressive Workout Combo C							1
+Progressive Workout Combo D							1
 2x EXP Book-gift					All EXP earned from monsters will be doubled when item is active.		1
-Summon merchant book					Open shop window enable to sell item in possession		1
-Summon equipment merchant book					Open shop window enable to sell item in possession, purchase basic item		1
-Summon equipment merchant book II					Open shop window enable to sell item in possession, purchase basic item		1
+Summon Merchant Book					Open shop window enable to sell item in possession		1
+Summon Equipment Merchant Book					Open shop window enable to sell item in possession, purchase basic item		1
+Summon Equipment Merchant Book II					Open shop window enable to sell item in possession, purchase basic item		1
 Enhancement Amulet					Increase the success rate of enhancing an item.		1
 Item protection amulet					Protect the item when enhancing fails, the rate of protection back to 0		1
-Book of mail expansion					Increase receiving tray limit 60, expand to 400 maximum		1
+Book of Mail Expansion					Increase receiving tray limit 60, expand to 400 maximum		1
 Player Teleport					Teleport to the player's destination. Cannot teleport to Quest Map.		1
-Hide medicine					Become half transparency and monster cannot attack you, seen by other user		1
+Hide Medicine					Become half transparency and monster cannot attack you, seen by other user		1
 Enhancement Amulet					Increase the success rate of enhancing an item.		1
-value outlaw spinning egg (woman)					chance to win luxury outlaw costume		1
-outlaw costume (man)					permanent man outlaw costume		1
-outlaw costume (woman)					permanent woman outlaw costume		1
-gentleman costume spinning egg (man)					get one week or permanent two part of gentleman costume		1
-sailor costume spinning egg (woman)					get one week or permanent two part of sailor costume		1
-kendo costume spinning egg (man)					get one week or permanent two part of kendo costume		1
-kendo costume spinning egg (woman)					get one week or permanent two part of kendo costume		1
-demon spinning egg (man)					get one week or permanent two part of demon costume		1
-demon spinning egg (woman)					get one week or permanent two part of demon costume		1
-japanese minister spinning egg (man)					get one week or permanent two part of japanese minister costume		1
-japanese witch spinning egg (woman)					get one week or permanent two part of japanese witch costume		1
-secret agent spinning egg (man)					get one week or permanent two part of secret agent costume		1
-secret agent spinning egg (woman)					get one week or permanent two part of secret agent costume		1
-sleeping suit spinning egg (man)					get one week or permanent two part of sleeping suit costume		1
-maid spinning egg (woman)					get one week or permanent two part of maid costume		1
-black suit spinning egg (man)					get one week or permanent two part of black suit costume		1
-black suit spinning egg (woman)					get one week or permanent two part of black suit costume		1
-cowboy spinning egg (man)					get one week or permanent two part of cowboy costume		1
-metal fighter spinning egg (woman)					get one week or permanent two part of metal fighter costume		1
-racing car spinning egg (man)					get one week or permanent two part of racing car costume		1
-racing car spinning egg (woman)					get one week or permanent two part of racing car costume		1
-fashion pet egg					get one 30days/365days/permanent fashion pet		1
-antique pet egg					get one 30days/365days/permanent antique pet		1
-cool headdress spinning egg (man)					chance to win permanent special functional headdress		1
-cool headdress spinning egg (woman)					chance to win permanent special functional headdress		1
-Pterosauria spinnging egg					chance to win Pterosauria ride		1
-spirit cloud spinning egg					chance to win spirit cloud		1
-mobile material spinning egg					chance to win mobile material		1
-basic mobile combo					basic mobile combo series		1
-progressive mobile combo					progressive mobile combo series		1
-luxury mobile combo					luxury mobile combo series		1
-basic material combo					basic mobile material		1
-progressive material combo series					progressive mobile material		1
-special single sword combo					7 pieces 7 days single sword skins		1
-special two hands weapon combo					7 pieces 7 days two hands weapon skins		1
-icelight gift box (1)					chance to win stealth ghost knight wrap		1
-icelight gift box (1)					chance to win stealth beast Gamila wrap		1
-icelight gift box (1)					chance to win stealth giant ice spirit wrap		1
-surprise egg					wish to receive gifts all the time		1
-Samurai combo-gift					Samurai combo (7days)		1
-recover seal-gift					HP recover speed is Increased 30% for 3600 seconds		1
-progressive immortal bird feather-gift					able to revive immediately in the scene with 50% HP recovery		1
-white head tiger seal-gift					double click and summon white head tiger as ride, moving speed Increased		1
-rush wolf-gift					double click and summon rush wolf as ride, moving speed Increased		1
+Value Outlaw Spinning Egg (Female)					chance to win luxury outlaw costume		1
+Outlaw Costume (Male)					permanent man outlaw costume		1
+Outlaw Costume (Female)					permanent woman outlaw costume		1
+Gentleman Costume Spinning Egg (Male)					get one week or permanent two part of gentleman costume		1
+Sailor Costume Spinning Egg (Female)					get one week or permanent two part of sailor costume		1
+Kendo Costume Spinning Egg (Male)					get one week or permanent two part of kendo costume		1
+Kendo Costume Spinning Egg (Female)					get one week or permanent two part of kendo costume		1
+Demon Spinning Egg (Male)					get one week or permanent two part of demon costume		1
+Demon Spinning Egg (Female)					get one week or permanent two part of demon costume		1
+Japanese Minister Spinning Egg (Male)					get one week or permanent two part of japanese minister costume		1
+Japanese Witch Spinning Egg (Female)					get one week or permanent two part of japanese witch costume		1
+Secret Agent Spinning Egg (Male)					get one week or permanent two part of secret agent costume		1
+Secret Agent Spinning Egg (Female)					get one week or permanent two part of secret agent costume		1
+Sleeping Suit Spinning Egg (Male)					get one week or permanent two part of sleeping suit costume		1
+Maid Spinning Egg (Female)					get one week or permanent two part of maid costume		1
+Black Suit Spinning Egg (Male)					get one week or permanent two part of black suit costume		1
+Black Suit Spinning Egg (Female)					get one week or permanent two part of black suit costume		1
+Cowboy Spinning Egg (Male)					get one week or permanent two part of cowboy costume		1
+Metal Fighter Spinning Egg (Female)					get one week or permanent two part of metal fighter costume		1
+Racing Car Spinning Egg (Male)					get one week or permanent two part of racing car costume		1
+Racing Car Spinning Egg (Female)					get one week or permanent two part of racing car costume		1
+Fashion Pet Egg					get one 30days/365days/permanent fashion pet		1
+Antique Pet Egg					get one 30days/365days/permanent antique pet		1
+Cool Headdress Spinning Egg (Male)					chance to win permanent special functional headdress		1
+Cool Headdress Spinning Egg (Female)					chance to win permanent special functional headdress		1
+Pterosauria Spinnging Egg					chance to win Pterosauria ride		1
+Spirit Cloud Spinning Egg					chance to win spirit cloud		1
+Mobile Material Spinning Egg					chance to win mobile material		1
+Basic Mobile Combo					basic mobile combo series		1
+Progressive Mobile Combo					progressive mobile combo series		1
+Luxury Mobile Combo					luxury mobile combo series		1
+Basic Material Combo					basic mobile material		1
+Progressive Material Combo Series					progressive mobile material		1
+Special Single Sword Combo					7 pieces 7 days single sword skins		1
+Special Two Hands Weapon Combo					7 pieces 7 days two hands weapon skins		1
+Icelight Gift Box (1)					chance to win stealth ghost knight wrap		1
+Icelight Gift Box (1)					chance to win stealth beast Gamila wrap		1
+Icelight Gift Box (1)					chance to win stealth giant ice spirit wrap		1
+Surprise Egg					wish to receive gifts all the time		1
+Samurai Combo-gift					Samurai combo (7days)		1
+Recover Seal-gift					HP recover speed is Increased 30% for 3600 seconds		1
+Progressive Immortal Bird Feather-gift					able to revive immediately in the scene with 50% HP recovery		1
+White Head Tiger Seal-gift					double click and summon white head tiger as ride, moving speed Increased		1
+Rush Wolf-gift					double click and summon rush wolf as ride, moving speed Increased		1
 2x EXP Book-gift					All EXP earned from monsters will be doubled when item is active.		1
-immortal bird feather-gift					able to revive immediately in the scene		1
-spirit bottle-gift					necessary material for spirit medicine, requires related skills		1
-body double kid-gift					able to waive the death experience punishment		1
-restart scroll-gift					able to send player to restart point		1
-transmission to flashing thunder valley-gift					able to send to flashing thunder valley		1
-transmission to holy crater-gift					able to send to holy crater		1
-red liquid medicine-gift					able to Increase 1600 HP		1
-blue liquid medicine-gift					able to Increase 800 HP		1
+Immortal Bird Feather-gift					able to revive immediately in the scene		1
+Spirit Bottle-gift					necessary material for spirit medicine, requires related skills		1
+Body Double Kid-gift					able to waive the death experience punishment		1
+Restart Scroll-gift					able to send player to restart point		1
+Transmission to Flashing Thunder Valley-gift					able to send to flashing thunder valley		1
+Transmission to Holy Crater-gift					able to send to holy crater		1
+Red Liquid Medicine-gift					able to Increase 1600 HP		1
+Blue Liquid Medicine-gift					able to Increase 800 HP		1
 VAIO							1
 W910i							1
 SONY MP3							1
-CD PLAYER							1
-GASH 100 POINTS							1
-GASH 50 POINTS							1
-lovely baby lion					chance to have lovely baby lion (30days)		1
-silly cat					chance to have silly cat (30days)		1
-cute girl combo spinning egg (woman)					chance to have cute girl combo (permanent)		1
-college combo spinning egg (man)					chance to have college combo (permanent)		1
-bikini combo spinning egg (woman)					chance to have bikini combo (permanent)		1
-beach combo spinning (man)					chance to have beach combo (permanent)		1
-secret agent combo spinning egg (woman)					chance to have secret agent combo (permanent)		1
-secret agent combo spinning egg (man)					chance to have secret agent combo (permanent)		1
-masked fighter combo spinning egg (woman)					chance to have masked fighter combo (permanent)		1
-masked fighter combo spinning egg (man)					chance to have masked fighter combo (permanent)		1
-nurse combo spinning egg (woman)					chance to have nurse combo (permanent)		1
-doctor combo spinning egg (man)					chance to have doctor combo (permanent)		1
-pirate combo spinning egg (woman)					chance to have pirate combo (permanent)		1
-pirate combo spinning egg (man)					chance to have pirate combo (permanent)		1
-cowboy combo spinning egg (woman)					chance to have cowboy combo (permanent)		1
-cowboy combo spinning egg (man)					chance to have cowboy combo (permanent)		1
-shining cat combo (woman)					chance to have shining cat (permanent)		1
-satan cat combo (man)					chance to have satan cat (permanent)		1
-woman diving combo					dragon boat festival combo		1
-man diving combo					dragon boat festival combo		1
-Permit usage of storage					Enable to move items in and out, open own storage		1
-temporary magic stamp					able to deliver mail instantly		1
+CD Player							1
+BC 100 Points							1
+BC 50 Points							1
+Lovely Baby Lion Spinning Egg					chance to have lovely baby lion (30days)		1
+Silly Cat Spinnning Egg					chance to have silly cat (30days)		1
+Cute Girl Combo Spinning Egg (Female)					chance to have cute girl combo (permanent)		1
+College Combo Spinning Egg (Male)					chance to have college combo (permanent)		1
+Bikini Combo Spinning Egg (Female)					chance to have bikini combo (permanent)		1
+Beach Combo Spinning (Male)					chance to have beach combo (permanent)		1
+Secret Agent Combo Spinning Egg (Female)					chance to have secret agent combo (permanent)		1
+Secret Agent Combo Spinning Egg (Male)					chance to have secret agent combo (permanent)		1
+Masked Fighter Combo Spinning Egg (Female)					chance to have masked fighter combo (permanent)		1
+Masked Fighter Combo Spinning Egg (Male)					chance to have masked fighter combo (permanent)		1
+Nurse Combo Spinning Egg (Female)					chance to have nurse combo (permanent)		1
+Doctor Combo Spinning Egg (Male)					chance to have doctor combo (permanent)		1
+Pirate Combo Spinning Egg (Female)					chance to have pirate combo (permanent)		1
+Pirate Combo Spinning Egg (Male)					chance to have pirate combo (permanent)		1
+Cowboy Combo Spinning Egg (Female)					chance to have cowboy combo (permanent)		1
+Cowboy Combo Spinning Egg (Male)					chance to have cowboy combo (permanent)		1
+Shining Cat Combo (Female)					chance to have shining cat (permanent)		1
+Satan Cat Combo (man)					chance to have satan cat (permanent)		1
+Woman Diving Combo					dragon boat festival combo		1
+Man Diving Combo					dragon boat festival combo		1
+Permit Usage of Storage					Enable to move items in and out, open own storage		1
+Temporary Magic Stamp					able to deliver mail instantly		1
 Discount Card					Enable purchase common item with 1% discount		1
-Sealed membership					Enable purchase item shop with 1% discount		1
-Holy purification water					Enable erase partial minus area on body		1
-power detector spinning egg					have chance to win power detector		1
-plastic surgery combo (man)					have chance to win plastic surgery products for man		1
-plastic surgery (woman)					have chance to win plastic surgery products for woman		1
-Samurai suit combo spinning egg (man)					have chance to win Samurai suit combo for man		1
-Samurai suit combo (man)					get permanent Samurai suit combo for man		1
-Samurai suit combo spinning egg (woman)					have chance to win Samurai suit combo for woman		1
-Samurai suit combo (woman)					get permanent Samurai suit combo for woman		1
-animal leather combo spinning egg (man)					have chance to win animal leather combo for man		1
-animal leather combo (man)					get permanent animal leather combo for man		1
-animal leather combo spinning egg ( woman)					have chance to win animal leather combo for woman		1
-animal leather combo (woman)					get permanent animal leather combo for woman		1
-luxury bandage combo spinning egg (man)					have chance to win luxury bandage combo for man		1
-luxury bandage combo (man)					get permanent luxury bandage combo for man		1
-luxury bandage combo spinning egg (woman)					have chance to win luxury bandage combo for woman		1
-luxury bandage combo (woman)					get permanent luxury bandage combo for woman		1
-massage medicine comob					get permanent massage medicine		1
-energy drink combo					get permanent energy drink		1
-extra points combo					get permanent extra points tools		1
-workout combo					get permanent workout products		1
-progressive workout combo					get permanent progressive workout products		1
-functional headress spinning egg (man)					get permanent functional headress		1
-functional headress spinning egg (woman)					get permanent functional headress		1
-permanent single sword spinning egg					get permanent single sword skins		1
-permanent two hand cane spinning egg					get permanent two hand cane skins		1
-permanent bow spinning egg					get permanent bow skins		1
-super enhance spell					able to double the effect of mobile suit		1
-nine tailed fox medicine					able to become nine tailed fox, moving speed Increased		1
-buffy medicine					able to become buffy, physical offense Increased, consuming SP		1
-bull fighter medicine					able to become full fighter, physical offene Increased, consuming SP		40
-armored god medicine					able to become armored god, have better physical defense		40
-snow monster medicine					able to become snow monster, have better magical defense		40
-giant angel medicine					able to become giant angel, have blood supply		40
-Morph medicine-monkey king					Transform to monkey king, attack area		50
-Morph medicine-Skanda					Transform to Skanda, enable attack magical area		50
-Morph medicine ¡V Tengu					Tranform to Tengu, Increase party member's attacking power and defense, level limit ;50		50
-halloween candy spinning egg					one time only, spinning egg with all kinds of halloween candies inside		1
+Sealed Membership					Enable purchase item shop with 1% discount		1
+Holy Purification Water					Enable erase partial minus area on body		1
+Power Detector Spinning Egg					have chance to win power detector		1
+Plastic Surgery Combo (Male)					have chance to win plastic surgery products for man		1
+Plastic Surgery (Female)					have chance to win plastic surgery products for woman		1
+Samurai Suit Combo Spinning Egg (Male)					have chance to win Samurai suit combo for man		1
+Samurai Suit Combo (Male)					get permanent Samurai suit combo for man		1
+Samurai Suit Combo Spinning Egg (Female)					have chance to win Samurai suit combo for woman		1
+Samurai Suit Combo (Female)					get permanent Samurai suit combo for woman		1
+Animal Leather Combo Spinning Egg (Male)					have chance to win animal leather combo for man		1
+Animal Leather Combo (Male)					get permanent animal leather combo for man		1
+Animal Leather Combo Spinning Egg (Female)					have chance to win animal leather combo for woman		1
+Animal Leather Combo (Female)					get permanent animal leather combo for woman		1
+Luxury Bandage Combo Spinning Egg (Male)					have chance to win luxury bandage combo for man		1
+Luxury Bandage Combo (Male)					get permanent luxury bandage combo for man		1
+Luxury Bandage Combo Spinning Egg (Female)					have chance to win luxury bandage combo for woman		1
+Luxury Bandage Combo (Female)					get permanent luxury bandage combo for woman		1
+Massage Medicine Combo					get permanent massage medicine		1
+Energy Drink Combo					get permanent energy drink		1
+Extra Points Combo					get permanent extra points tools		1
+Workout Combo					get permanent workout products		1
+Progressive Workout Combo					get permanent progressive workout products		1
+Functional Headress Spinning Egg (Male)					get permanent functional headress		1
+Functional Headress Spinning Egg (Female)					get permanent functional headress		1
+Permanent Single Sword Spinning Egg					get permanent single sword skins		1
+Permanent Two Hand Cane Spinning Egg					get permanent two hand cane skins		1
+Permanent Bow Spinning Egg					get permanent bow skins		1
+Super Enhance Spell					able to double the effect of mobile suit		1
+Nine Tailed fox Medicine					able to become nine tailed fox, moving speed Increased		1
+Buffy Medicine					able to become buffy, physical offense Increased, consuming SP		1
+Bull Fighter Medicine					able to become full fighter, physical offene Increased, consuming SP		40
+Armored God Medicine					able to become armored god, have better physical defense		40
+Snow Monster Medicine					able to become snow monster, have better magical defense		40
+Giant Angel Medicine					able to become giant angel, have blood supply		40
+Morph Medicine- Monkey King					Transform to monkey king, attack area		50
+Morph Medicine- Skanda					Transform to Skanda, enable attack magical area		50
+Morph Medicine- Tengu					Tranform to Tengu, Increase party member's attacking power and defense, level limit ;50		50
+Halloween Candy Spinning Egg					one time only, spinning egg with all kinds of halloween candies inside		1
 Extended Battle Card Summon (10)					Enable the option to extend your battle summon to 3 hours, ten times.		1
-stealth medicine					invisible to monsters, can be seen by player for 10 minutes		1
-holy crater transmitter					unlimited transmission to holy crate for 7 days		1
-purchase store call card gift					able to open a store to sell equipments		1
-golden surprise egg gift					get 2 tools randomly		1
-silver surprise egg gift					get on tools randomly		1
-body double kid gift					waive death experience punishment		1
-four leaves clover stationary gift					writer with for leaves clover stationary		1
-restart point scroll					able to send player to restart point		1
-life enhance medicine gift					Increase HP by 1000 points for 15 minutes		1
-mind support medicine					Increase MP 1000 points for 15 minutes		1
-Blessing amulet					enable to purchase lucky bag		1
-Good luck amulet					Increase drop scale of limited new year item		1
-New year lucky bag					Joy bag randomly give special item		1
-New year lucky bag					Joy bag randomly give special item		1
-New year firework					The fire work that says happy new year		1
-Reindeer's bell					Item to summon reindeer, after the usage disappears		1
-Ogre spirit's box					Mysterious treasure box obtainable at tower of ruins		1
-Ogre spirit's box					Mysterious treasure box obtainable at tower of ruins		1
-Ogre spirit's box					Mysterious treasure box obtainable at tower of ruins		1
-Ogre spirit's box					Mysterious treasure box obtainable at tower of ruins		1
-Ogre spirit's box					Mysterious treasure box obtainable at tower of ruins		1
-pure white nun suit spinning egg (woman)					get pure white nun suit		1
-priest suit spinning egg (man)					get preist suit		1
-warm suit spinning egg (woman)					get warm suit for woman		1
-warm suit spinning egg (man)					get warm suit for man		1
-wafuku suit spinning egg (woman)					get wafuku suit for woman		1
-wafuku suit spinning egg (man)					get wafuku suit for man		1
-professional soldier card spinning egg					get professional soldier card		1
-hunter card spinning egg					get hunter card		1
-strategist card spinning egg					get strategist card		1
-saint card spinning egg					get saint card		1
-holy knight card spinning egg					get holy knight card		1
-senior hunter card spinning egg					get senior hunter card		1
-magician card spinning egg					get magician card		1
-holy spirit card spinning egg					get holy spirit card		1
-guardian angel card spinning egg					get gaudian angel card		1
-earth angel card spinning egg					get earth angel card		1
-ghost card spinning egg					get ghost card		1
-experience blessing scroll					get from lottery egg, able to exchange for experience points with princess eve		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-civilization blessing bag					chance to have bonus tools in the bag		1
-Trick box					Fun box with gimmick created by craftsman		1
+Stealth Medicine					invisible to monsters, can be seen by player for 10 minutes		1
+Holy Crater Transmitter					unlimited transmission to holy crate for 7 days		1
+Purchase Store Call Card Gift					able to open a store to sell equipments		1
+Golden Surprise Egg Gift					get 2 tools randomly		1
+Silver Surprise Egg Gift					get on tools randomly		1
+Body Double Kid Gift					waive death experience punishment		1
+Four Leaves Clover Stationary Gift					writer with for leaves clover stationary		1
+Restart Point Scroll					able to send player to restart point		1
+Life Enhance Medicine Gift					Increase HP by 1000 points for 15 minutes		1
+Mind Support Medicine					Increase MP 1000 points for 15 minutes		1
+Blessing Amulet					enable to purchase lucky bag		1
+Good Luck Amulet					Increase drop scale of limited new year item		1
+New Year Lucky Bag					Joy bag randomly give special item		1
+New Year Lucky Bag					Joy bag randomly give special item		1
+New Year Firework					The fire work that says happy new year		1
+Reindeer's Bell					Item to summon reindeer, after the usage disappears		1
+Ogre Spirit's Box					Mysterious treasure box obtainable at tower of ruins		1
+Ogre Spirit's Box					Mysterious treasure box obtainable at tower of ruins		1
+Ogre Spirit's Box					Mysterious treasure box obtainable at tower of ruins		1
+Ogre Spirit's Box					Mysterious treasure box obtainable at tower of ruins		1
+Ogre Spirit's Box					Mysterious treasure box obtainable at tower of ruins		1
+Pure White Nun Suit Spinning Egg (Female)					get pure white nun suit		1
+Priest Suit Spinning Egg (Male)					get preist suit		1
+Warm Suit Spinning Egg (Female)					get warm suit for woman		1
+Warm Suit Spinning Egg (Male)					get warm suit for man		1
+Wafuku Suit Spinning Egg (Female)					get wafuku suit for woman		1
+Wafuku Suit Spinning Egg (Male)					get wafuku suit for man		1
+Professional Soldier Card Spinning Egg					get professional soldier card		1
+Hunter Card Spinning Egg					get hunter card		1
+Strategist Card Spinning Egg					get strategist card		1
+Saint Card Spinning Egg					get saint card		1
+Holy Knight Card Spinning Egg					get holy knight card		1
+Senior Hunter Card Spinning Egg					get senior hunter card		1
+Magician Card Spinning Egg					get magician card		1
+Holy Spirit Card Spinning Egg					get holy spirit card		1
+Guardian Angel Card Spinning Egg					get gaudian angel card		1
+Earth Engel Card Spinning Egg					get earth angel card		1
+Ghost Card Spinning Egg					get ghost card		1
+Experience Blessing Scroll					get from lottery egg, able to exchange for experience points with princess eve		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Civilization Blessing Bag					chance to have bonus tools in the bag		1
+Trick Box					Fun box with gimmick created by craftsman		1
 Hairstyle: Traditional Half-Up					Change your hairstyle to Traditional Half-Up		1
-INT Reset Book 1 (non trade)					Reset 5 INT points		1
-STR Reset Book 1 (non trade)					Reset 5 STR points		1
-Wolf fang (basic pattern)					Wolf's sharp fang shines		1
-Wolf's ear					Triangle shaped wolf ear, rough fur		1
-Golden wolf's fur					Golden colored wolf ear, smooth touch		1
-Wolf fang (basic pattern)					Wolf's shart fang, how many victims?		1
+INT Reset Book 1 (Non-trade)					Reset 5 INT points		1
+STR Reset Book 1 (Non-trade)					Reset 5 STR points		1
+Wolf Fang (Basic Pattern)					Wolf's sharp fang shines		1
+Wolf's Ear					Triangle shaped wolf ear, rough fur		1
+Golden Wolf's Fur					Golden colored wolf ear, smooth touch		1
+Wolf Fang (basic pattern)					Wolf's shart fang, how many victims?		1
 Necklace (basic pattern)					Leather necklace, gleam with golden stopper		1
-Wolf tail (basic patten)					Big thick tail with flully fur		1
-Dirty bandage (basic pattern)					Dirty worn-out bandage		1
-Band-aid (basic pattern)					Skin colored band-aid, used		1
+Wolf Tail (basic patten)					Big thick tail with flully fur		1
+Dirty Bandage (basic pattern)					Dirty worn-out bandage		1
+Band-Aid (basic pattern)					Skin colored band-aid, used		1
 Tape (basic pattern)					Tape to secure bandage, but used, no adhesive		1
-Dirty handkerchief (basic pattern)					Dirty blue handkerchief		1
-Ragged butterfly tie (basic pattern)					Almost untied red butterfly tie		1
-Dirt urn (basic pattern)					Ceramic small vase, has flower print on top		1
-Sacred beetle (basic pattern)					Gleaming black colored beetle shell, bigger than usual		1
+Dirty Handkerchief (basic pattern)					Dirty blue handkerchief		1
+Ragged Butterfly tie (basic pattern)					Almost untied red butterfly tie		1
+Dirt Urn (basic pattern)					Ceramic small vase, has flower print on top		1
+Sacred Beetle (basic pattern)					Gleaming black colored beetle shell, bigger than usual		1
 Pink bandage (basic pattern)					Soft pink bandage, neatly wrapped		1
 Cursed ring (basic pattern)					Ring engraved with unknown curse spell		1
 Dwarf's coffin (basic pattern)					Palm sized coffin, assumed to be dwarf's		1
@@ -8480,7 +8480,7 @@ Body armor (basic pattern)					Metal protruded on surface, armor to protect knig
 Soul Crystal (basic pattern)					Crystal ball of Knights clan's grudge concentration, with its shiny beam, attack eyes		1
 Small scythe					Weasel's scythe		1
 Weasel's claw (basic pattern)					Weasels's long sharp claw, part of origin		1
-Weason's tail (basic pattern)					Weasels's tail, flame like fur and fluffy		1
+Weasel's tail (basic pattern)					Weasels's tail, flame like fur and fluffy		1
 Lightning stone (basic pattern					Stone softly shines with yellow light		1
 Leather grass (basic pattern)					Animal skin with fine fur like grass		1
 Fur scarf (basic pattern)					Scarf made by animal skin		1
@@ -8739,7 +8739,7 @@ eye patch(basic pattern)					common pirate eye patch		1
 screw nail(basic pattern)					a nail		1
 water pouch(basic pattern)					pouch with water inside		1
 line(basic pattern)					common cotton, not edible		1
-skull					skull head, prefer not to keep it		1
+Skull					skull head, prefer not to keep it		1
 wing of insect(basic pattern)					Transparent wing that resembles dragon fly wing		1
 Shovel(basic pattern)					Shovel		1
 Pickax(basic pattern)					common pickax		1
@@ -8759,14 +8759,14 @@ Tree spirit stone(basic pattern)					Uniquely shaped tree		1
 Beads(basic pattern)					Beads look alike		1
 Inscription(basic pattern)					Metal inscription		1
 cloak(basic pattern)					Brightly colored cloak with hood		1
-Needle and fuse pouch(basic pattern					pouch with needle and fuse etc		1
+Needle and fuse pouch(basic pattern)					pouch with needle and fuse etc		1
 leather fragment(basic pattern)					fragment of leather		1
 cotton fabric(basic pattern)					white cotton fabric		1
 silk fabric(basic pattern)					strongly woven silk fabric		1
 Hemp fabric(basic pattern)					hemp fabric		1
 purple Crystal(basic pattern)					purple colored column shaped Crystal		1
 yellow Crystal(basic pattern)					Yellow colored column shaped Crystal		1
-Pearl(basic pattern					Small round ball with shinny brilliance		1
+Pearl(basic pattern)					Small round ball with shinny brilliance		1
 Black pearl(basic pattern)					Round ball with shinny black gleaming		1
 Colored stone(basic pattern)					Blue green stone, give faint shine		1
 fragment of colored stone(basic pattern)					Part of the thing tied with silk thread crossly		1
@@ -8848,123 +8848,123 @@ Large bruised oil(basic pattern)					Corked test tube with soft red colored liqu
 Small awakening oil(basic pattern)					Corked test tube with soft red colored liquid		1
 awakening oil(basic pattern)					Corked test tube with soft red colored liquid		1
 large awakening oil(basic pattern)					Corked test tube with soft red colored liquid		1
-test item					For test, damn -		1
-Drop not permitted					For test, damn -		1
-Sell not permitted					For test, damn -		1
-Trade not permitted					For test, damn -		1
+Test Item					For test, damn -		1
+Drop Not Permitted					For test, damn -		1
+Sell Not Permitted					For test, damn -		1
+Trade Not Permitted					For test, damn -		1
 For Quest					For test, damn -		1
-For drop only					For test, damn -		1
-For sale only					For test, damn -		1
-trade only					For test, damn -		1
-red medicine water					For test, damn -		1
-Blue medicine water					For test, damn -		1
-Ghost water					For test, damn -		1
-99 exclusive red medicine water					For test, damn -		1
-Extremelyx3 heavy					For test, damn -		1
-Extremelyx2 heavy					For test, damn -		1
-Extremely heavy					For test, damn -		1
-Lightning wand					Kamikaze test item		1
-scroll of expansion of bag					Increase 1 page on bag content		1
-permit to expand storage					Increase 1 page on storage content		1
-Scroll of expired title					Given 'Death master' 's title		1
+For Drop Only					For test, damn -		1
+For Sale Only					For test, damn -		1
+Trade Only					For test, damn -		1
+Red Medicine Water					For test, damn -		1
+Blue Medicine Water					For test, damn -		1
+Ghost Water					For test, damn -		1
+99 Exclusive Red Medicine Water					For test, damn -		1
+Extremely x3 Heavy					For test, damn -		1
+Extremely x2 Heavy					For test, damn -		1
+Extremely Heavy					For test, damn -		1
+Lightning Wand					Kamikaze test item		1
+Scroll of Expansion of Bag					Increase 1 page on bag content		1
+Permit to Expand Storage					Increase 1 page on storage content		1
+Scroll of Expired Title					Given 'Death master' 's title		1
 Expired					Increase 10 point skill capacity		1
-Friendship chocolate					Increase friend list upper limit 10		1
-Comrade note					Increase guild member upper limit 10		1
-Book of changing sign at vendor					Able to change sign at vendor		1
-Book of changing avatar at vendor					Able to change avatar character at vendor		1
-Book of changing chat column					Able to change chat column		1
+Friendship Chocolate					Increase friend list upper limit 10		1
+Comrade Note					Increase guild member upper limit 10		1
+Book of Changing Sign at Vendor					Able to change sign at vendor		1
+Book of Changing Avatar at Vendor					Able to change avatar character at vendor		1
+Book of Changing Chat Column					Able to change chat column		1
 							1
-Male hair style changing gel 1					Normal short hair		1
-Male hair style changing gel 2					Medium short hair		1
-Female hair style changing gel 1					Fresh short		1
-Female hair style changing gel 2					Double pony tail		1
-Male face type Potion 2					Strong minded type		1
-Male face type Potion 3					Melancholy type		1
-Female face type Potion 1					Little bit gloomy type		1
-Female face type Potion 2					Energetic type		1
-Eye color changing Potion 1					Ocean Blue		1
-Eye color changing Potion 2					Pure orange		1
-Eye color changing Potion 3					Light green		1
-Eye color changing Potion 4					Deep purple		1
-Eye color changing Potion 5					Blood red		1
-Eye color changing Potion 6					Starring gray		1
-Skin color changing Potion 1					Chaos		1
-Skin color changing Potion 2					Natural		1
-Skin color changing Potion 3					Raw		1
-Skin color changing Potion 4					Irregular		1
-STR reset book 1					Point reallocation		1
-CON reset book 1					Point reallocation		1
-AGI reset book 1					Point reallocation		1
-DEX reset book 1					Point reallocation		1
-WIS reset book 1					Point reallocation		1
-INT reset book 1					Point reallocation		1
-Dummy doll					Exemption of death penalty		1
-Shop remodeling permit					Increase 5 point vendor sales		1
-welcome robot					Enable to welcome automatically when vendor opens		1
-Male hair style changing gel 3					Short hair show forehead		1
-Male hair style changing gel 4					Long hair tied		1
-Male hair style changing gel 5					Natural long hair parted		1
-Male hair style changing gel 6					Hair with slanted bang		1
-Male hair style changing gel 7					Afro		1
-Male hair style changing gel 8					Freedom hair		1
-Male hair style changing gel 9					Spiky		1
-Male hair style changing gel 10					Wavy		1
-Male hair style changing gel 11					Slick		1
-Male hair style changing gel 12					Fashionable short		1
-Male hair style changing gel 13					Pony tail, parted in center		1
-Female hair style changing gel 3					Double pony tail		1
-Female hair style changing gel 4					Long straight		1
-Female hair style changing gel 5					Long pony tail		1
-Female hair style changing gel 6					Double piled long		1
-Female hair style changing gel 7					Double Type		1
-Female hair style changing gel 8					Oriental long		1
-Female hair style changing gel 9					Shaggy		1
-Female hair style changing gel 10					Baby		1
-Female hair style changing gel 11					Short straight		1
-Female hair style changing gel 12					Double tie up		1
-Female hair style changing gel 13					Unused		1
-Hair color changing shampoo 1					Crimson red		1
-Hair color changing shampoo 2					Vermillion orange		1
-Hair color changing shampoo 3					Snow yellow		1
-Hair color changing shampoo 4					Mist green		1
-Hair color changing shampoo 5					Sky Grey		1
-Hair color changing shampoo 6					Sunrise purple		1
-Hair color changing shampoo 7					Change hair color		1
-Hair color changing shampoo 8					Change hair color		1
-Hair color changing shampoo 9					Change hair color		1
-Hair color changing shampoo 10					Change hair color		1
-Hair color changing shampoo 11					Change hair color		1
-Hair color changing shampoo 12					Change hair color		1
-Male face type Potion 3					Melancholy type		1
-Male face type Potion 3					Serious type		1
-Male face type Potion 3					Rock type		1
-Male face type Potion 3					Delinquent type		1
-Male face type Potion 3					Intelligent type		1
-Male face type Potion 3					No emotion type		1
-Female face type Potion 1					Brat type		1
-Female face type Potion 1					nave type		1
-Female face type Potion 1					Melancholy type		1
-Female face type Potion 1					Serious type		1
-Official channel usage permit					For gift, able to use official channel		1
-Item egg					Get item randomly!		1
-Equipment egg					Get equipment item randomly!		1
+Male Hair Style Changing Gel 1					Normal short hair		1
+Male Hair Style Changing Gel 2					Medium short hair		1
+Female Hair Style Changing Gel 1					Fresh short		1
+Female Hair Style Changing Gel 2					Double pony tail		1
+Male Face Type Potion 2					Strong minded type		1
+Male Face Type Potion 3					Melancholy type		1
+Female Face Type Potion 1					Little bit gloomy type		1
+Female Face Type Potion 2					Energetic type		1
+Eye Color Changing Potion 1					Ocean Blue		1
+Eye Color Changing Potion 2					Pure orange		1
+Eye Color Changing Potion 3					Light green		1
+Eye Color Changing Potion 4					Deep purple		1
+Eye Color Changing Potion 5					Blood red		1
+Eye Color Changing Potion 6					Starring gray		1
+Skin Color Changing Potion 1					Chaos		1
+Skin Color Changing Potion 2					Natural		1
+Skin Color Changing Potion 3					Raw		1
+Skin Color Changing Potion 4					Irregular		1
+STR Reset Book 1					Point reallocation		1
+CON Reset Book 1					Point reallocation		1
+AGI Reset Book 1					Point reallocation		1
+DEX Reset Book 1					Point reallocation		1
+WIS Reset Book 1					Point reallocation		1
+INT Reset Book 1					Point reallocation		1
+Dummy Doll					Exemption of death penalty		1
+Shop Remodeling Permit					Increase 5 point vendor sales		1
+Welcome Robot					Enable to welcome automatically when vendor opens		1
+Male Hair Style Changing Gel 3					Short hair show forehead		1
+Male Hair Style Changing Gel 4					Long hair tied		1
+Male Hair Style Changing Gel 5					Natural long hair parted		1
+Male Hair Style Changing Gel 6					Hair with slanted bang		1
+Male Hair Style Changing Gel 7					Afro		1
+Male Hair Style Changing Gel 8					Freedom hair		1
+Male Hair Style Changing Gel 9					Spiky		1
+Male Hair Style Changing Gel 10					Wavy		1
+Male Hair Style Changing Gel 11					Slick		1
+Male Hair Style Changing Gel 12					Fashionable short		1
+Male Hair Style Changing Gel 13					Pony tail, parted in center		1
+Female Hair Style Changing Gel 3					Double pony tail		1
+Female Hair Style Changing Gel 4					Long straight		1
+Female Hair Style Changing Gel 5					Long pony tail		1
+Female Hair Style Changing Gel 6					Double piled long		1
+Female Hair Style Changing Gel 7					Double Type		1
+Female Hair Style Changing Gel 8					Oriental long		1
+Female Hair Style Changing Gel 9					Shaggy		1
+Female Hair Style Changing Gel 10					Baby		1
+Female Hair Style Changing Gel 11					Short straight		1
+Female Hair Style Changing Gel 12					Double tie up		1
+Female Hair Style Changing Gel 13					Unused		1
+Hair Color Changing Shampoo 1					Crimson red		1
+Hair Color Changing Shampoo 2					Vermillion orange		1
+Hair Color Changing Shampoo 3					Snow yellow		1
+Hair Color Changing Shampoo 4					Mist green		1
+Hair Color Changing Shampoo 5					Sky Grey		1
+Hair Color Changing Shampoo 6					Sunrise purple		1
+Hair Color Changing Shampoo 7					Change hair color		1
+Hair Color Changing Shampoo 8					Change hair color		1
+Hair Color Changing Shampoo 9					Change hair color		1
+Hair Color Changing Shampoo 10					Change hair color		1
+Hair Color Changing Shampoo 11					Change hair color		1
+Hair Color Changing Shampoo 12					Change hair color		1
+Male Face Type Potion 1					Melancholy type		1
+Male Face Type Potion 2					Serious type		1
+Male Face Type Potion 3					Rock type		1
+Male Face Type Potion 4					Delinquent type		1
+Male Face Type Potion 5					Intelligent type		1
+Male Face Type Potion 6					No emotion type		1
+Female Face Type Potion 1					Brat type		1
+Female Face Type Potion 2					nave type		1
+Female Face Type Potion 3					Melancholy type		1
+Female Face Type Potion 4					Serious type		1
+Official Channel Usage Permit					For gift, able to use official channel		1
+Item Egg					Get item randomly!		1
+Equipment Egg					Get equipment item randomly!		1
 Emoticon 1							1
 Emoticon 2							1
 Emoticon 3							1
 Emoticon 4							1
 Emoticon 5							1
 Emoticon 6							1
-Official channel usage permit					Enable using the whole chat feature		1
+Official Channel Usage Permit					Enable using the whole chat feature		1
 2x EXP Book					All EXP earned from monsters will be doubled when item is active.		1
 Orz					Enable to use motion 'Orz'		1
-Really mad					Enable to use motion 'really mad'		1
-surprise					Enable to use motion 'surprise'		1
-Blow a kiss					Enable to use motion 'blow a kiss'		1
+Really Mad					Enable to use motion 'really mad'		1
+Surprise					Enable to use motion 'surprise'		1
+Blow A Kiss					Enable to use motion 'blow a kiss'		1
 Tumble					Enable to use motion 'tumble'		1
 Salute					Enable to use motion 'salute'		1
 Dance					Enable to use motion 'dance'		1
-Lack spirit					Enable to use motion 'lack spirit'		1
-Make a wish to a god					Enable to use motion 'make a wish to a god'		1
+Lack Spirit					Enable to use motion 'lack spirit'		1
+Make A Wish To A God					Enable to use motion 'make a wish to a god'		1
 Victory					Enable to use motion 'victory'		1
 Excitement					Enable to use motion 'excitement'		1
 Embarrassed					Enable to use motion 'embarrassed'		1
@@ -8972,45 +8972,45 @@ Struggle					Enable to use motion 'struggle'		1
 Punch					Enable to use motion 'punch'		1
 Cancan Dance					Enable to use motion 'cancan dance'		1
 Play dead					Enable to use motion 'play dead'		1
-Stick tongue out					Enable to use motion 'stick tongue out'		1
+Stick Tongue Out					Enable to use motion 'stick tongue out'		1
 Scorn					Enable to use motion 'scorn'		1
 OMG					Enable to use motion 'OMG'		1
 Conduct					Enable to use motion 'conduct'		1
-long lasting server calling card					Increase usage for 99 times, keep monster server for 2 hours		1
-long lasting battle calling card					Increase usage for 99 times, keep monster fighter for 2 hours		1
-powerful battle calling card					Increase usage for 99 times, Increase monster fighter's power		1
-economic battle calling card					Increase usage for 99 times, use less card to call monster fighter		1
-long lasting magic calling card					Increase usage for 99 times, make magic effect longer		1
-powerful magic calling card					Increase usage for 99 times, make magic more powerful		1
-spirit magic calling card					Increase usage for 99 times, Increase MP limit		1
-long lasting split magic calling card					Increase usage for 99 times, player two cards at the same time and make it longer		1
-powerful split magic calling card					Increase usage for 99 times, player two cards at the same time and make it more powerful		1
-spirit split magic calling card					Increase usage for 99 times, player two cards at the same time and Increase MP limit		1
-long lasting triple magic calling card					Increase usage for 99 times, player three cards at the same time and make it longer		1
-powerful triple magic calling card					Increase usage for 99 times, player three cards at the same time and make it more powerful		1
-spirit triple magic calling card					Increase usage for 99 times, player three cards at the same time and increse MP limit		1
-explosive bottle Lv1					Increase explosive points by 1		1
-explosive bottle Lv2					Increase explosive points by 2		1
-explosive bottle Lv3					Increase explosive points by 3		1
-explosive bottle Lv4					Increase explosive points by 4		1
-explosive bottle Lv5					Increase explosive points by 5		1
-test card spinning egg					get test card		1
-quality restore test 1					qualilty restore 1		1
-quality restore test 2					qualilty restore 2		1
-quality restore test 3					qualilty restore 3		1
-quality restore test 4					qualilty restore 4		1
-quality restore test 5					qualilty restore 5		1
-quality restore test 6					qualilty restore 6		1
-key to key box					test key to key box		1
-Teleport scroll (Beginner's village)					Teleport to Beginner's village		1
-Teleport scroll (Sealed land)					Teteport to Sealed land		1
-Teleport scroll (Fear house)					Teteport to Fear house		1
-Teleport scroll (Black wind cave)					Teteport to Black wind cave		1
-Teleport scroll (Black wind cave)					Teteport to Dead body churge		1
-Teleport scroll (Dead body church)					Teteport to Black wind cave		1
-Teleport scroll (Meteor Pit)					Teteport to Meteor Pit		1
-Teleport scroll (Thunder Hill)					Teteport to Black Thunder Hill		1
-Phoenix feather					For test		1
+Long Lasting Server Calling Card					Increase usage for 99 times, keep monster server for 2 hours		1
+Long Lasting Battle Calling Card					Increase usage for 99 times, keep monster fighter for 2 hours		1
+Powerful Battle Calling Card					Increase usage for 99 times, Increase monster fighter's power		1
+Economic Battle Calling Card					Increase usage for 99 times, use less card to call monster fighter		1
+Long Lasting Magic Calling Card					Increase usage for 99 times, make magic effect longer		1
+Powerful Magic Calling Card					Increase usage for 99 times, make magic more powerful		1
+Spirit Magic Calling Card					Increase usage for 99 times, Increase MP limit		1
+Long Lasting Split Magic Calling Card					Increase usage for 99 times, player two cards at the same time and make it longer		1
+Powerful Split Magic Calling Card					Increase usage for 99 times, player two cards at the same time and make it more powerful		1
+Spirit Split Magic Calling Card					Increase usage for 99 times, player two cards at the same time and Increase MP limit		1
+Long Lasting Triple Magic Calling Card					Increase usage for 99 times, player three cards at the same time and make it longer		1
+Powerful Triple Magic Calling Card					Increase usage for 99 times, player three cards at the same time and make it more powerful		1
+Spirit Triple Magic Calling Card					Increase usage for 99 times, player three cards at the same time and increse MP limit		1
+Explosive Bottle Lv1					Increase explosive points by 1		1
+Explosive Bottle Lv2					Increase explosive points by 2		1
+Explosive Bottle Lv3					Increase explosive points by 3		1
+Explosive Bottle Lv4					Increase explosive points by 4		1
+Explosive Bottle Lv5					Increase explosive points by 5		1
+Test Card Spinning Egg					get test card		1
+Quality Restore Test 1					qualilty restore 1		1
+Quality Restore Test 2					qualilty restore 2		1
+Quality Restore Test 3					qualilty restore 3		1
+Quality Restore Test 4					qualilty restore 4		1
+Quality Restore Test 5					qualilty restore 5		1
+Quality Restore Test 6					qualilty restore 6		1
+Key To Key Box					test key to key box		1
+Teleport Scroll (Beginner's village)					Teleport to Beginner's village		1
+Teleport Scroll (Sealed land)					Teteport to Sealed land		1
+Teleport Scroll (Fear house)					Teteport to Fear house		1
+Teleport Scroll (Black wind cave)					Teteport to Black wind cave		1
+Teleport Scroll (Black wind cave)					Teteport to Dead body churge		1
+Teleport Scroll (Dead body church)					Teteport to Black wind cave		1
+Teleport Scroll (Meteor Pit)					Teteport to Meteor Pit		1
+Teleport Scroll (Thunder Hill)					Teteport to Black Thunder Hill		1
+Phoenix Feather					For test		1
 JPegg1							1
 JPegg2							1
 JPegg3							1
@@ -11011,14 +11011,14 @@ JPegg1997							1
 JPegg1998							1
 JPegg1999							1
 JPegg2000							1
-BS first birthday					get BS first birthday title		1
+BS First Birthday					get BS first birthday title		1
 Bright Shadow 2 Year Anniversary							1
-large hand effect							1
-large foot effect							1
-large back effect							1
-large head effect							1
-large hip effect							1
-large point effect							1
+Large Hand Effect							1
+Large Foot Effect							1
+Large Back Effect							1
+Large Head Effect							1
+Large Hip Effect							1
+Large Point Effect							1
 Petite Blue Potion					Recover 400 MP		1
 Petite Red Potion					Recover 800 MP		1
 SP Potion LV9					Recover 200,000 SP		1
@@ -11034,13 +11034,13 @@ War Drum					This item increases the EXP earned in party. The EXP will increase 
 Medicine of Knowledge					Permanently increase skill slots by 5.		1
 Medicine of Greater Knowledge					Permanently increase skill slots by 10.		1
 Transparent Potion					This item will hide the user. The user will be invisible from monsters, but will be visible to other players.		1
-bass hair spray					turn hair into popular bass style		1
-short hair spray					turn hair into clean short hair		1
-middle divided short hair spray					turn hair into middle divided short hair		1
-pony tail hair spray					turn hair into short pony tail		1
-lady short hair spray					turn hair into lady short hair, with a fringe		1
-lady long hair spray1					turn hair into long hair, fringe will be put aside		1
-lady short hair spray2					turn hair into long hair with straight fringe		1
+Bass Hair Spray					turn hair into popular bass style		1
+Short Hair Spray					turn hair into clean short hair		1
+Middle Divided Short Hair Spray					turn hair into middle divided short hair		1
+Pony Tail Hair Spray					turn hair into short pony tail		1
+Lady Short Hair Spray					turn hair into lady short hair, with a fringe		1
+Lady Long Hair Spray1					turn hair into long hair, fringe will be put aside		1
+Lady Short Hair Spray2					turn hair into long hair with straight fringe		1
 Evo Normal Point Reset					Reset Evo Weapon's normal point		1
 Evo Strength Point Reset					Reset Evo Weapon's strength point		1
 Evo Special Point Reset					Reset Evo Weapon's special point		1
@@ -11058,9 +11058,9 @@ Ms. Llama Seal					Use this item to summon the Ms Llama. Mount the Llama to move
 Jade Fragment					Increase the success rate of combining the Evo Weapon by 20%		1
 Gold Stone Fragment					Increase the success rate of combining the Evo Weapon by 5%. This item will also add 1 Training Point.		1
 Crystal Fragment					This item will increase Training Point by 2 upon successful combination		1
-upgrade spirit key					golden shiny key, shiny car is collecting shining items		1
-tracking bass flag					double click and summon tracking bass flag as ride, moving speed Increased		1
-ghost certificate					Increase player's related skills by 50 levels for 1 hour, aavailable every 12 hours		1
+Upgrade Spirit Key					golden shiny key, shiny car is collecting shining items		1
+Tracking Bass Flag					double click and summon tracking bass flag as ride, moving speed Increased		1
+Ghost Certificate					Increase player's related skills by 50 levels for 1 hour, aavailable every 12 hours		1
 							1
 							1
 							1
@@ -11122,252 +11122,252 @@ ghost certificate					Increase player's related skills by 50 levels for 1 hour, 
 	09Xmas¬ÛÃö¹D¨ã	´«¼úª««~					1
 	09Xmas¬ÛÃö¹D¨ã	Âà³J¼ú«~					1
 	09Xmas¬ÛÃö¹D¨ã	¬G¨Æ¥ô°È					1
-Book of doubling experience point					Point doubles when defeating monster		1
-Lucky spinning egg					bonus, chance to win lucky gift		1
-lucky 2 spinning egg					bonus, chance to win lucky gift		1
-indian combo					get indian combo		1
-red sport suit spinning egg (man)					chance to get red sport suit for man		1
-blue sport suit spinning egg (man)					chance to get blue sport suit for man		1
-green sport suit spinning egg (man)					chance to get green sport suit for man		1
-red sport suit (man)					get red sport suit for man		1
-blue sport suit (man)					get blue sport suit for man		1
-green sport suit (man)					get green sport suit for man		1
-pink sport suit spinning egg (woman)					chance to get pink sport suit for woman		1
-blue sport suit spinning egg (man)					chance to get blue sport suit for woman		1
-green sport suit spinning egg (man)					chance to get green sport suit for woman		1
-red sport suit (woman)					get red sport suit for woman		1
-blue sport suit (woman)					get blue sport suit for woman		1
-green sport suit (woman)					get green sport suit for woman		1
-g-man suit spinning egg (man)					chance to get g-man suit for man		1
-g-woman suit spinning egg (woman)					chance to get g-woman suit for woman		1
-red g-man suit					get red g-man suit		1
-blue g-man suit					get blue g-man suit		1
-black g-man suit					get black g-man suit		1
-yellow g-man suit					get yellow g-man suit		1
-pink g-man suit					get pink g-man suit		1
-silver g-man suit					get silver g-man suit		1
-silver strange egg					get one tool randomly		1
-gold strange egg					get two tools randomly		1
-platium strange egg					get one rare item		1
-Pterosauria spinnging egg					chance to win Pterosauria ride		1
-spirit cloud spinning egg					chance to win spirit cloud ride		1
-long lasting server calling card					Increase usage for 10 times, keep monster server for 2 hours		1
-long lasting battle calling card					Increase usage for 10 times, keep monster fighter for 2 hours		1
-powerful battle calling card					Increase usage for 10 times, Increase monster fighter's power		1
-economic battle calling card					Increase usage for 10 times, use less card to call monster fighter		1
-long lasting magic calling card					Increase usage for 10 times, make magic effect longer		1
-powerful magic calling card					Increase usage for 10 times, make magic more powerful		1
-spirit magic calling card					Increase usage for 10 times, Increase MP limit		1
-long lasting split magic calling card					Increase usage for 10 times, player two cards at the same time and last for 4 hours		1
-powerful split magic calling card					Increase usage for 10 times, player two cards at the same time and make it more powerful		1
-spirit split magic calling card					Increase usage for 10 times, player two cards at the same time and Increase MP limit		1
-long lasting triple magic calling card					Increase usage for 10 times, player three cards at the same time and make it longer		1
-powerful triple magic calling card					Increase usage for 10 times, player three cards at the same time and make it more powerful		1
-spirit triple magic calling card					Increase usage for 10 times, player three cards at the same time and increse MP limit		1
-silver strange egg					get one tool randomly		1
-gold strange egg					get two tools randomly		1
-platium strange egg					get one rare item		1
-silver strange egg					get one tool randomly		1
-gold strange egg					get two tools randomly		1
-platium strange egg					get one rare item		1
-hip-hop suit spinning egg (man)					chance to get permanent hip-hop suit for man		1
-hip-hop suit spinning egg (woman)					chance to get permanent hip-hop suit for woman		1
-hip-hop suit (man)					get permanent hip-hop suit for man		1
-hip-hop suit (woman)					get permanent hip-hop suit for woman		1
-student swimming suit spinning egg (woman)					chance to get student swimming suit for woman		1
-student swimming suit					get permanent student swimming suit for woman		1
-beach suit spinning egg (man)					chance to get beach suit for man		1
-beach suit					get permanent beach suit for man		1
-bikini suit spinning egg (woman)					chance to win bikini suit		1
-bikini suit					get permanent bikini suit		1
-genuine gold suit spinning egg					change to win genuine gold suit		1
-genuine gold suit					get permanent genuine gold suit		1
-skeleton dog spinning egg					chance to win skeleton dog as ride		1
-bb bird spinning egg					chance to win bb bird as ride		1
-defense sword spinning egg					chance to win defense sword as ride		1
-magic spell spinning egg					chance to win magic spell as ride		1
-cross spinning egg					chance to win cross as ride		1
-auto skateboard spinning egg					chance to win auto skateboard as ride		1
-power detector spinning egg					get one of the detector glasses		1
-black suit (man)					get permanent black suit for man		1
-black suit (woman)					get permanent black suit for woman		1
-Order of subdue					Order of Dark warrior', detailed document		1
-monster summon book					summon unknown monsters from far away		1
-genuine gold suit strange egg					chance to win genuine gold suit and monster summon book		1
-devil control spell					one time usage, able to join devil party		1
-scuba					one time usage, able to enter foggy pond		1
-flashing thunder valley transmission 7 days					within 7 days, able to send to flashing thunder valley unlimited		1
-holy crater transmission 7 days					within 7 days, able to send to holy crater unlimited		1
-bright shadow court 7 days					within 7 days, able to send to bright shadow unlimited		1
-underground castle 7 days					within 7 days, able to send to underground castle unlimited		1
+Book of 2x EXP					Point doubles when defeating monster		1
+Lucky Spinning Egg					bonus, chance to win lucky gift		1
+Lucky 2 Spinning Egg					bonus, chance to win lucky gift		1
+Indian Combo					get indian combo		1
+Red Sport Suit Spinning Egg (Male)					chance to get red sport suit for man		1
+Blue Sport Suit Spinning Egg (Male)					chance to get blue sport suit for man		1
+Green Sport Suit Spinning Egg (Male)					chance to get green sport suit for man		1
+Red Sport Suit (Male)					get red sport suit for man		1
+Blue Sport Suit (Male)					get blue sport suit for man		1
+Green Sport Suit (Male)					get green sport suit for man		1
+Pink Sport Suit Spinning Egg (Female)					chance to get pink sport suit for woman		1
+Blue Sport Suit Spinning Egg (Male)					chance to get blue sport suit for woman		1
+Green Sport Suit Spinning Egg (Male)					chance to get green sport suit for woman		1
+Red Sport Suit (Female)					get red sport suit for woman		1
+Blue Sport Suit (Female)					get blue sport suit for woman		1
+Green Sport Suit (Female)					get green sport suit for woman		1
+G-man Suit Spinning egg (Male)					chance to get g-man suit for man		1
+G-woman Suit Spinning egg (Female)					chance to get g-woman suit for woman		1
+Red G-man Suit					get red g-man suit		1
+Blue G-man Suit					get blue g-man suit		1
+Black G-man Suit					get black g-man suit		1
+Yellow G-man Suit					get yellow g-man suit		1
+Pink G-man Suit					get pink g-man suit		1
+Silver G-man Suit					get silver g-man suit		1
+Silver Strange Egg					get one tool randomly		1
+Gold Strange Egg					get two tools randomly		1
+Platium Strange Egg					get one rare item		1
+Pterosauria Spinning Egg					chance to win Pterosauria ride		1
+Spirit Cloud Spinning Egg					chance to win spirit cloud ride		1
+Long Lasting Server Calling Card					Increase usage for 10 times, keep monster server for 2 hours		1
+Long Lasting Battle Calling Card					Increase usage for 10 times, keep monster fighter for 2 hours		1
+Powerful Battle Calling Card					Increase usage for 10 times, Increase monster fighter's power		1
+Economic Battle Calling Card					Increase usage for 10 times, use less card to call monster fighter		1
+Long Lasting Magic Calling Card					Increase usage for 10 times, make magic effect longer		1
+Powerful Magic Calling Card					Increase usage for 10 times, make magic more powerful		1
+Spirit Magic Calling Card					Increase usage for 10 times, Increase MP limit		1
+Long Lasting Split Magic Calling Card					Increase usage for 10 times, player two cards at the same time and last for 4 hours		1
+Powerful Split Magic Calling Card					Increase usage for 10 times, player two cards at the same time and make it more powerful		1
+Spirit Split Magic Calling Card					Increase usage for 10 times, player two cards at the same time and Increase MP limit		1
+Long Lasting Triple Magic Calling Card					Increase usage for 10 times, player three cards at the same time and make it longer		1
+Powerful Triple Magic Calling Card					Increase usage for 10 times, player three cards at the same time and make it more powerful		1
+Spirit Triple Magic Calling Card					Increase usage for 10 times, player three cards at the same time and increse MP limit		1
+Silver Strange Egg					get one tool randomly		1
+Gold Strange Egg					get two tools randomly		1
+Platium Strange Egg					get one rare item		1
+Silver Strange Egg					get one tool randomly		1
+Gold Strange Egg					get two tools randomly		1
+Platium Strange Egg					get one rare item		1
+Hip-hop Suit Spinning Egg (Male)					chance to get permanent hip-hop suit for man		1
+Hip-hop Suit Spinning Egg (Female)					chance to get permanent hip-hop suit for woman		1
+Hip-hop Suit (Male)					get permanent hip-hop suit for man		1
+Hip-hop Suit (Female)					get permanent hip-hop suit for woman		1
+Student Swimming Suit Spinning Egg (Female)					chance to get student swimming suit for woman		1
+Student Swimming Suit					get permanent student swimming suit for woman		1
+Beach Suit Spinning Egg (Male)					chance to get beach suit for man		1
+Beach Suit					get permanent beach suit for man		1
+Bikini Suit Spinning Egg (Female)					chance to win bikini suit		1
+Bikini Suit					get permanent bikini suit		1
+Genuine Gold Suit Spinning Egg					change to win genuine gold suit		1
+Genuine Gold Suit					get permanent genuine gold suit		1
+Skeleton Dog Spinning Egg					chance to win skeleton dog as ride		1
+BB Bird Spinning Egg					chance to win bb bird as ride		1
+Defense Sword Spinning Egg					chance to win defense sword as ride		1
+Magic Spell Spinning Egg					chance to win magic spell as ride		1
+Cross Spinning Egg					chance to win cross as ride		1
+Auto Skateboard Spinning Egg					chance to win auto skateboard as ride		1
+Power Detector Spinning Egg					get one of the detector glasses		1
+Black Suit (Male)					get permanent black suit for man		1
+Black Suit (Female)					get permanent black suit for woman		1
+Order of Subdue					Order of Dark warrior', detailed document		1
+Monster Summon Book					summon unknown monsters from far away		1
+Genuine Gold Suit Strange Egg					chance to win genuine gold suit and monster summon book		1
+Devil Control Spell					one time usage, able to join devil party		1
+Scuba					one time usage, able to enter foggy pond		1
+Flashing Thunder Valley Transmission (7-days)					within 7 days, able to send to flashing thunder valley unlimited		1
+Holy Crater Transmission (7-days)					within 7 days, able to send to holy crater unlimited		1
+Bright Shadow Court (7-days)					within 7 days, able to send to bright shadow unlimited		1
+Underground Castle (7-days)					within 7 days, able to send to underground castle unlimited		1
 Saved Point Transmission Scroll					save the scene and send back later		1
-life booster					Increase HP 1000 points for 15 minutes		1
-spirit booster					Increase MP 500 points for 15 minutes		1
-muscle booster					Increase power, Increase physical offense by 200 points for 5 minutes		1
-energy booster					Increase energy, Increase physical defense by 100 poionts for 5 minutes		1
-IQ booster					Increase IQ Increase MP by 200 poionts for 5 minutes		1
-mind booster					Increase mind power, Increase MP by 100 poionts for 5 minutes		1
-european royal suit spinning egg (man)					chance to win baroque suit		1
-japanese spa spinning egg (man)					chance to win japanese bath suit		1
-hawaii heatwave suit (man)					chance to win hawaii suit		1
-baroque duke suit					high class dress		1
-japanese bath suit for man					luxury japanese spa		1
-beach boy suit					sun, beach, bikini and hawaii heatwave		1
-european royal suit spinning egg (woman)					chance to win baroque suit		1
-japanese spa spinning egg (woman)					chance to win japanese bath suit		1
-hawaii heatwave suit (woman)					chance to win hawaii suit		1
-baroque lady suit (woman)					high class dress		1
-japanese bath suit for woman					luxury japanese spa		1
-beach girl suit					sun, beach, bikini and hawaii heatwave		1
-Dead body church transport scroll					After using this, will be transported to the entrance of Dead body church		1
-Black wind cave transport scroll					After using this, will be transported to the entrance o Black wind cave		1
-Deep lab transport scroll					After using this, will be transported to Deep lab		1
-Spirited away cave transport scroll					After using this, will be transported to the entrance of Spirited away cave		1
-Saint York transport scroll					Transport to Saint York		1
-Ice cave transport scroll					Transport to Ice cave		1
-Hira castle transport scroll					Transport to Hira castle		1
-Oasis transport scroll					After using this, will be transported to Mirage oasis		1
-Vampire castle transport scroll					After using this, will be transported to the entrance of vampire castle		1
-Tomb of King Nam transport scroll					After using this, will be transported to the entrance of tomb of King Nam		1
+Life Booster					Increase HP 1000 points for 15 minutes		1
+Spirit Booster					Increase MP 500 points for 15 minutes		1
+Muscle Booster					Increase power, Increase physical offense by 200 points for 5 minutes		1
+Energy Booster					Increase energy, Increase physical defense by 100 poionts for 5 minutes		1
+IQ Booster					Increase IQ Increase MP by 200 poionts for 5 minutes		1
+Mind Booster					Increase mind power, Increase MP by 100 poionts for 5 minutes		1
+European Royal Suit Spinning Egg (Male)					chance to win baroque suit		1
+Japanese Spa Spinning Egg (Male)					chance to win japanese bath suit		1
+Hawaii Heatwave Suit (Male)					chance to win hawaii suit		1
+Baroque Duke Suit (Male)					high class dress		1
+Japanese Bath Suit (Male)					luxury japanese spa		1
+Beach Boy Suit					sun, beach, bikini and hawaii heatwave		1
+European Royal Suit Spinning Egg (Female)					chance to win baroque suit		1
+Japanese Spa Spinning Egg (Female)					chance to win japanese bath suit		1
+Hawaii Heatwave Suit (Female)					chance to win hawaii suit		1
+Baroque Lady Suit (Female)					high class dress		1
+Japanese Bath Suit (Female)					luxury japanese spa		1
+Beach Girl Suit					sun, beach, bikini and hawaii heatwave		1
+Dead Body Church Transport Scroll					After using this, will be transported to the entrance of Dead body church		1
+Black Wind Cave Transport Scroll					After using this, will be transported to the entrance o Black wind cave		1
+Deep Lab Transport Scroll					After using this, will be transported to Deep lab		1
+Spirited Away Cave Transport Scroll					After using this, will be transported to the entrance of Spirited away cave		1
+Saint York Transport Scroll					Transport to Saint York		1
+Ice Cave Transport Scroll					Transport to Ice cave		1
+Hira Castle Transport Scroll					Transport to Hira castle		1
+Oasis Transport Scroll					After using this, will be transported to Mirage oasis		1
+Vampire Castle Transport Scroll					After using this, will be transported to the entrance of vampire castle		1
+Tomb of King Namu Transport Scroll					After using this, will be transported to the entrance of tomb of King Nam		1
 Transportation Expanding Scroll					After using this, will be Increase the number of save points, 5 a time, maxium 4 times		1
-explosive bottle Lv1					Increase explosive points by 1		1
-explosive bottle Lv2					Increase explosive points by 2		1
-explosive bottle Lv3					Increase explosive points by 3		1
-explosive bottle Lv4					Increase explosive points by 4		1
-explosive bottle Lv5					Increase explosive points by 5		1
-tent					turn into tent, able to recover HP and MP quickly, monsters won't attack		1
-life recovery booster					Increase HP 2000 points for 15 minutes		1
-spirit revovery booster					Increase MP 100 points for 15 minutes		1
-muscle revovery booster					Increase power, Increase physical offense by 400 points for 10 minutes		1
-energy recovery booster					Increase energy, Increase physical defense by 200 poionts for 10 minutes		1
-IQ recovery booster					Increase IQ Increase MP by 400 poionts for 10 minutes		1
-mind recovery booster					Increase mind power, Increase MP by 200 poionts for 10 minutes		1
-courage drum					more members higher experience point, last 30 minutes		1
-guild horn					to gather all the members, operate through captain's page		1
-mutant fighter (man)					get mutant fighter costume		1
-mutant fighter (woman)					get mutant fighter costume		1
-BS elementary school uniform (man)					BS elementary school uniform		1
-BS elementary school uniform (woman)					BS elementary school uniform		1
-innocent maid suit					innocent maid suit		1
-handsome butler tuxedo					handsome tuxedo		1
-theme suit spinning egg (man)					chance to get theme suit		1
-theme suit spinning egg (woman)					chance to get theme suit		1
-magic attack ride					chance to win magic attack ride for witches and wizards		1
-offense attack ride					chance to get offense attack ride for Samurai and machinist		1
+Explosive Bottle Lv1					Increase explosive points by 1		1
+Explosive Bottle Lv2					Increase explosive points by 2		1
+Explosive Bottle Lv3					Increase explosive points by 3		1
+Explosive Bottle Lv4					Increase explosive points by 4		1
+Explosive Bottle Lv5					Increase explosive points by 5		1
+Tent					turn into tent, able to recover HP and MP quickly, monsters won't attack		1
+Life Recovery Booster					Increase HP 2000 points for 15 minutes		1
+Spirit Revovery Booster					Increase MP 100 points for 15 minutes		1
+Muscle Revovery Booster					Increase power, Increase physical offense by 400 points for 10 minutes		1
+Energy Recovery Booster					Increase energy, Increase physical defense by 200 poionts for 10 minutes		1
+IQ Recovery Booster					Increase IQ Increase MP by 400 poionts for 10 minutes		1
+Mind Recovery Booster					Increase mind power, Increase MP by 200 poionts for 10 minutes		1
+Courage Drum					more members higher experience point, last 30 minutes		1
+Guild Horn					to gather all the members, operate through captain's page		1
+Mutant Fighter (Male)					get mutant fighter costume		1
+Mutant Fighter (Female)					get mutant fighter costume		1
+BS Elementary School Uniform (Male)					BS elementary school uniform		1
+BS Elementary School Uniform (Female)					BS elementary school uniform		1
+Innocent Maid Suit					innocent maid suit		1
+Handsome Butler Tuxedo					handsome tuxedo		1
+Theme Suit Spinning Egg (Male)					chance to get theme suit		1
+Theme Suit Spinning Egg (Female)					chance to get theme suit		1
+Magic Attack Ride					chance to win magic attack ride for witches and wizards		1
+Offense Attack Ride					chance to get offense attack ride for Samurai and machinist		1
 Lottery Baby Egg					wish to win second time gift		1
-magic witch spinning egg					get sexy cute suit		1
-magic prince spinning egg					get charming potter suit		1
-party queen spinning egg					get party cuty suit		1
-party king spinning egg					get party cool guy suit		1
-strange candy spinning egg (man)					get one mummy suit or devil suit		1
-strange candy spinning egg (woman)					get one mummy suit or devil suit		1
-sweet heart suit					get sweet heart suit and become the focus of the party		1
-cool guy suit					get cool guy suit and become the focus of the party		1
-charming potter suit					get charming potter suit and become magic hero		1
-sexy cuty suit					get sexy cuty suit and become magic smarty		1
-mummy suit (man)					get mummy suit, rock halloween!		1
-mummy suit (woman)					get mummy suit, rock halloween!		1
-devil suit (man)					get devil suit, rock halloween!		1
-devil suit (woman)					get devil suit, rock halloween!		1
-tent 7 days					within 7 days, able to turn into tent unlimited times, recover HP and MP quickly, monsters won't attack		1
-transformation medicine spinning egg					limited to Lv1		1
-Lv 40 transformation medicine spinning egg					limited to Lv40		1
-Lv50 transformation medicine spinning egg					limited to Lv50		1
-life guard tent spinning egg					chance to get great tent that let you recover your HP and MP anytime anywhere		1
-lovely loli spinning egg					chance to get lovely loli suit		1
-punk guy spinning egg					chance to get punk guy suit		1
-BS police suit spinning egg (woman)					chance to get BS police woman suit		1
-BS police suit spinning egg (man)					chance to get BS police man suit		1
-Xmas suit 2008 spinning egg (woman)					chance to get Xmas coat for woman		1
-Xmas suit 2008 spinning egg (man)					chance to get Xmas coat for man		1
-Xmas suit 2008 (woman)					get Xmas suit 2008 for woman		1
-Xmas suit 2008 (man)					get Xmas suit 2008 for man		1
-BS police woman suit					get BS police woman suit		1
-BS police man suit					get BS police man suit		1
-loli suit					get loli suit		1
-punk guy suit					get punk guy suit		1
-boss medicine					Increase physical offense 5% for 30 minutes		1
-bull's eye medicine					Increase physical offense 5% for 30 minutes		1
-soul explosion medicine					Increase magic offense 5% for 30 minutes		1
-sky lord medicine					Increase magic speed 10% for 30 minutes		1
-mad mind medicine					Increase attacking speed 10% for 30 minutes		1
-foggy medicine					Increase moving speed 10% for 30 minutes		1
-artist medicine					Increase chance of success 30% for 30 minutes		1
-power medicine					Increase strength 30% for 30 minutes		1
-progressive boss medicine					Increase physical offense 10% for 60 minutes		1
-progressive bull's eye medicine					Increase physical offense 10% for 60 minutes		1
-progressive soul explosion medicine					Increase magic offense 10% for 60 minutes		1
-progressive sky lord medicine					Increase magic speed 20% for 60 minutes		1
-progressive mad mind medicine					Increase attacking speed 10% for 60 minutes		1
-progressive foggy medicine					Increase moving speed 20% for 60 minutes		1
-progressive artist medicine					Increase chance of success 100% for 60 minutes		1
-progressive power medicine					Increase strength 100% for 60 minutes		1
-bonus reset type 1					reset 1 bonus data on weapon and equipment		1
-bonus reset type 2					reset 2 bonus data on weapon and equipment		1
-bonus reset type 3					reset 3 bonus data on weapon and equipment		1
-bonus reset type 4					reset 4 bonus data on weapon and equipment		1
-bonus reset type 5					reset 5 bonus data on weapon and equipment		1
-bonus reset type 6					reset 6 bonus data on weapon and equipment		1
+Magic Witch Spinning Egg					get magic witch suit		1
+Magic Prince Spinning Egg					get magic prince suit		1
+Party Queen Spinning Egg					get party queen suit		1
+Party King Spinning Egg					get party king suit		1
+Strange Candy Spinning Egg (Male)					get one mummy suit or devil suit		1
+Strange Candy Spinning Egg (Female)					get one mummy suit or devil suit		1
+Sweetheart Suit					get sweetheart suit and become the focus of the party		1
+Cool Guy Suit					get cool guy suit and become the focus of the party		1
+Charming Potter Suit					get charming potter suit and become magic hero		1
+Sexy Cutie Suit					get sexy cutie suit and become magic smarty		1
+Mummy Suit (Male)					get mummy suit, rock halloween!		1
+Mummy Suit (Female)					get mummy suit, rock halloween!		1
+Devil Suit (Male)					get devil suit, rock halloween!		1
+Devil Suit (Female)					get devil suit, rock halloween!		1
+Tent 7-Days					within 7 days, able to turn into tent unlimited times, recover HP and MP quickly, monsters won't attack		1
+Transformation Medicine Spinning Egg					limited to Lv1		1
+Lv. 40 Transformation Medicine Spinning Egg					limited to Lv40		1
+Lv. 50 Transformation Medicine Spinning Egg					limited to Lv50		1
+Life Guard Tent Spinning Egg					chance to get great tent that let you recover your HP and MP anytime anywhere		1
+Lovely Loli Spinning Egg					chance to get lovely loli suit		1
+Punk Guy Spinning Egg					chance to get punk guy suit		1
+BS Police Suit Spinning Egg (Female)					chance to get BS police woman suit		1
+BS Police Suit Spinning Egg (Male)					chance to get BS police man suit		1
+Xmas Suit 2008 Spinning Egg (Female)					chance to get Xmas coat for woman		1
+Xmas Suit 2008 Spinning Egg (Male)					chance to get Xmas coat for man		1
+Xmas Suit 2008 (Female)					get Xmas suit 2008 for woman		1
+Xmas Suit 2008 (Male)					get Xmas suit 2008 for man		1
+BS Police Woman Suit					get BS police woman suit		1
+BS Police Man Suit					get BS police man suit		1
+Loli Suit					get loli suit		1
+Punk Guy Suit					get punk guy suit		1
+Boss Medicine					Increase physical offense 5% for 30 minutes		1
+Bull's Eye Medicine					Increase physical offense 5% for 30 minutes		1
+Soul Explosion Medicine					Increase magic offense 5% for 30 minutes		1
+Sky Lord Medicine					Increase magic speed 10% for 30 minutes		1
+Mad Mind Medicine					Increase attacking speed 10% for 30 minutes		1
+Foggy Medicine					Increase moving speed 10% for 30 minutes		1
+Artist Medicine					Increase chance of success 30% for 30 minutes		1
+Power Medicine					Increase strength 30% for 30 minutes		1
+Progressive Boss Medicine					Increase physical offense 10% for 60 minutes		1
+Progressive Bull's Eye Medicine					Increase physical offense 10% for 60 minutes		1
+Progressive Soul Explosion Medicine					Increase magic offense 10% for 60 minutes		1
+Progressive Sky Lord Medicine					Increase magic speed 20% for 60 minutes		1
+Progressive Mad Mind Medicine					Increase attacking speed 10% for 60 minutes		1
+Progressive Foggy Medicine					Increase moving speed 20% for 60 minutes		1
+Progressive Artist Medicine					Increase chance of success 100% for 60 minutes		1
+Progressive Power Medicine					Increase strength 100% for 60 minutes		1
+Bonus Reset Type 1					reset 1 bonus data on weapon and equipment		1
+Bonus Reset Type 2					reset 2 bonus data on weapon and equipment		1
+Bonus Reset Type 3					reset 3 bonus data on weapon and equipment		1
+Bonus Reset Type 4					reset 4 bonus data on weapon and equipment		1
+Bonus Reset Type 5					reset 5 bonus data on weapon and equipment		1
+Bonus Reset Type 6					reset 6 bonus data on weapon and equipment		1
 Retrieval Jewel					Allow pet to collect items		1
 Pet Bag Expansion					Add one line to the pet inventory		1
 Pet HP Jewel					Pet will heal user's HP.		1
 Pet MP Jewel					Pet will heal user's MP.		1
-magic girl suit					have magic power		1
-magic angel suit					have magic spirit		1
-windshield suit (woman)					cool windshield suit		1
-windshield suit (man)					cool windshield suit		1
-disguise suit (woman)					make you standout		1
-disguise suit (man)					make you standout		1
-fruit hunter suit					fruit hunter uniform		1
-bassflag hunter suit					bassflag hunter uniform		1
-transmission gift pack					get one transmission tool		1
-medicine gift pack					get one recovery medicine		1
-card gift pack					get one professional soldier card spinning egg		1
-special effect gift pack					get one special effect tool		1
-pet gift pack					get one pet		1
+Magic Girl Suit					have magic power		1
+Magic Angel Suit					have magic spirit		1
+Windshield Suit (Female)					cool windshield suit		1
+Windshield Suit (Male)					cool windshield suit		1
+Disguise Suit (Female)					make you standout		1
+Disguise Suit (Male)					make you standout		1
+Fruit Hunter Suit					fruit hunter uniform		1
+Bassflag Hunter Suit					bassflag hunter uniform		1
+Transmission Gift Pack					get one transmission tool		1
+Medicine Gift Pack					get one recovery medicine		1
+Card Gift Pack					get one professional soldier card spinning egg		1
+Special Effect Gift Pack					get one special effect tool		1
+Pet Gift Pack					get one pet		1
 Lottery Baby Egg					everyday lottery second giveaway		1
 Meteor Pit Scroll-gift					Teleport to Meteor Pit		1
 Thunder Hill Scroll-gift					Teleport to Thunder Hill		1
-Seal Tower transport scroll-gift					After using this, will be transported to Seal Tower		1
-Dead body church transport scroll-gift					After using this, will be transported to the entrance of Dead body church		1
-Black wind cave transport scroll-gift					After using this, will be transported to the entrance o Black wind cave		1
-Deep lab transport scroll-gift					After using this, will be transported to Deep lab		1
-oasis transport scroll-gift					After using this, will be transported to the entrance of oasis		1
+Seal Tower Transport Scroll-gift					After using this, will be transported to Seal Tower		1
+Dead Body Church Transport Scroll-gift					After using this, will be transported to the entrance of Dead Body Church		1
+Black Cind Cave Transport Scroll-gift					After using this, will be transported to the entrance of Black Wind Cave		1
+Deep Lab Transport Scroll-gift					After using this, will be transported to Deep Lab		1
+Oasis Transport Scroll-gift					After using this, will be transported to the entrance of Oasis		1
 Saved Point Transmission Scroll-gift					save the scene and send back later		1
 Home Point Scroll-gift					Player would be sent to home point.		1
-immortal bird feather-gift					able to revive immediately in the scene		1
-body double kid-gift					able to waive the death experience punishment		1
-life recovery booster-gift					Increase HP 2000 points for 15 minutes		1
-spirit revovery booster-gift					Increase MP 100 points for 15 minutes		1
-muscle revovery booster-gift					Increase power, Increase physical offense by 400 points for 10 minutes		1
-energy recovery booster-gift					Increase energy, Increase physical defense by 200 poionts for 10 minutes		1
-IQ recovery booster-gift					Increase IQ Increase MP by 400 poionts for 10 minutes		1
-mind recovery booster-gift					Increase mind power, Increase MP by 200 poionts for 10 minutes		1
-silver strange egg-gift					get one tool randomly		1
-gold strange egg-gift					get two tools randomly		1
-explosive bottle Lv5-gift					Increase explosive points by 5		1
-professional soldier card spinning egg-gift					get professional soldier card		1
-hunter card spinning egg-gift					get hunter card		1
-strategist card spinning egg-gift					get strategist card		1
-saint card spinning egg-gift					get saint card		1
-experience blessing scroll-gift					get from lottery egg, able to exchange for experience points with princess eve		1
-Sealed membership					Enable purchase item shop with 1% discount		1
-spirit drink Lv5-gift					SP will be Increased 7500 points		1
-spirit drink Lv10-gift					SP will be Increased 1000000 points		1
-Cat & Dog rain-gift					produce lovely cat and dog rain		1
-Maple rain-gift					produce beautiful maple rain		1
-Heart rain-gift					produce beautiful red heart rain		1
-Heavy snow-gift					produce heavy snow		1
-Flame chat-gift					for a period of time, chatting bubble will have flame effect		1
-Dark chat-gift					for a period of time, chatting bubble will have dark effect		1
-Vine chat-gift					for a period of time, chatting bubble will have vine effect		1
-bass hair spray					turn hair into popular bass style		1
-short hair spray					turn hair into clean short hair		1
-middle divided short hair spray					turn hair into middle divided short hair		1
-pony tail hair spray					turn hair into short pony tail		1
-lady short hair spray					turn hair into lady short hair, with a fringe		1
-lady long hair spray1					turn hair into long hair, fringe will be put aside		1
-lady short hair spray2					turn hair into long hair with straight fringe		1
+Immortal Bird Feather-gift					able to revive immediately in the scene		1
+Body Double Kid-gift					able to waive the death experience punishment		1
+Life Recovery Booster-gift					Increase HP 2000 points for 15 minutes		1
+Spirit Revovery Booster-gift					Increase MP 100 points for 15 minutes		1
+Muscle Revovery Booster-gift					Increase power, Increase physical offense by 400 points for 10 minutes		1
+Energy Recovery Booster-Gift					Increase energy, Increase physical defense by 200 poionts for 10 minutes		1
+IQ Recovery Booster-Gift					Increase IQ Increase MP by 400 poionts for 10 minutes		1
+Mind Recovery Booster-Gift					Increase mind power, Increase MP by 200 poionts for 10 minutes		1
+Silver Strange Egg-Gift					get one tool randomly		1
+Gold Strange Egg-Gift					get two tools randomly		1
+Explosive Bottle Lv5-Gift					Increase explosive points by 5		1
+Professional Soldier Card Spinning Egg-Gift					get professional soldier card		1
+Hunter Card Spinning Egg-Gift					get hunter card		1
+Strategist Card Spinning Egg-Gift					get strategist card		1
+Saint Card Spinning Egg-Gift					get saint card		1
+Experience Blessing Scroll-Gift					get from lottery egg, able to exchange for experience points with princess eve		1
+Sealed Membership					Enable purchase item shop with 1% discount		1
+Spirit Drink Lv5-Gift					SP will be Increased 7500 points		1
+Spirit Drink Lv10-Gift					SP will be Increased 1000000 points		1
+Cat & Dog Rain-Gift					produce lovely cat and dog rain		1
+Maple Rain-Gift					produce beautiful maple rain		1
+Heart Rain-Gift					produce beautiful red heart rain		1
+Heavy Snow-Gift					produce heavy snow		1
+Flame Chat-Gift					for a period of time, chatting bubble will have flame effect		1
+Dark Chat-Gift					for a period of time, chatting bubble will have dark effect		1
+Vine Chat-Gift					for a period of time, chatting bubble will have vine effect		1
+Bass Hair Spray					turn hair into popular bass style		1
+Short Hair Spray					turn hair into clean short hair		1
+Middle Divided Short Hair Spray					turn hair into middle divided short hair		1
+Pony Tail Hair Spray					turn hair into short pony tail		1
+Lady Short Hair Spray					turn hair into lady short hair, with a fringe		1
+Lady Long Hair Spray1					turn hair into long hair, fringe will be put aside		1
+Lady Short Hair Spray2					turn hair into long hair with straight fringe		1
 Red Jade					Enables your pet to drink red water automatically		1
 Blue Jade					Enables your pet to drink blue water automatically		1
 Dark Red Jade					Enables your pet to drink red water automatically		1
@@ -11522,13 +11522,13 @@ Mr. Llama					Use this item to summon the Mr Llama. Mount the Llama to move fast
 		¤ñ¶]±o§Ö§ó§Ö					1
 		³S¬Ã¬õ¥[¶^¥´ºëªo					1
 		³S¬ÃÂÅ¥[¿ô¸£ºëªo					1
-first class korean beef					unexpected effect after eating it		1
-Rotiboy bread					unexpected efftect after eating		1
+First Class Korean Beef					Unexpected effect after eating it		1
+Rotiboy bread					Unexpected efftect after eating		1
 Heroic Gathering					By using it, the max guild member will be raised to 100. (If Guild Leader)		1
 Lottery Baby Egg					This is a surprising present, use it quickly!You will obtain a windfall.		1
 Saved Point Transmission Scroll					save the scene and send back later		1
-Giant angel wing					produce beautiful giant angel wings		1
-Giant devil wing					produce beautiful gaint devil wings		1
+Giant Angel Wing					produce beautiful Giant Angel Wings		1
+Giant Devil Wing					produce beautiful Gaint Devil Wings		1
 Spirit chat					for a period of time, chatting bubble will have spirit effect		1
 Phoenix Feather					Resurrect upon death		1
 Vendor: Voodoo sign					within a period of time, the sign will have voodoo effect		1
@@ -12145,7 +12145,7 @@ Lightbulb (head)							1
 							1
 							1
 							1
-Expensive waxed candle							1
+Expensive Waxed Candle							1
 							1
 							1
 							1
@@ -12222,7 +12222,7 @@ Dance Hall Performer					Admission to Dance Hall		1
 Dance Hall Performer II					Admission to Dance Hall		1
 Dance Hall Performer III					Admission to Dance Hall		1
 Dance Hall Effects					Admission to Dance Hall		1
-Hello					Hello Anim		1
+Hello					Hello Animation		1
 Quick Earth Lord Kirin					After double clicking you will be able to summon a Earth Lord Kirin as a ride, moving speed will be Increased, you will be able to use the skills: Earth Shield, Increases physical defense by 200 points and magical defense by 200 points, while in use it consumes SP		40
 Quick Fire Lord Kirin					After double clicking you will be able to summon a Fire Lord Kirin as a ride, moving speed will be Increased, you will be able to use the skills: Fire Attack, Increases physical offense, both short and long distance by 200 points and magical offense by 200 points, while in use it consumes SP		40
 Quick Water Lord Kirin					After double clicking you will be able to summon a Water Lord Kirin as a ride, moving speed will be Increased, you will be able to use the skills: Water Poison, making enemies dizzy		40
@@ -12233,4 +12233,4 @@ Rushing Fire Lord Kirin					After double clicking you will be able to summon a F
 Rushing Water Lord Kirin					After double clicking you will be able to summon a Water Lord Kirin as a ride, moving speed will be Increased, you will be able to use the skills: Water Poison, making enemies dizzy		40
 Rushing Wood Lord Kirin					After double clicking you will be able to summon a Wood Lord Kirin as a ride, moving speed will be Increased, you will be able to use the skills: Wood Statue, makes a team unorganized, offense is reduced by 40%, while in use it consumes SP		40
 Rushing Gold Lord Kirin					After double clicking you will be able to summon Gold Lord Kirin as a ride, moving speed will be Increased, will be able to use the skills: Gold Touch, making the team furious, every skill is Increased by 20%, while in use it consumes SP		40
-Music 0					plays the default dance hall music		1
+Music 0					Plays the default dance hall music		1
