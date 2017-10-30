@@ -10,3 +10,6 @@ https://github.com/adamaig/blender_rwx_importer
 Renderware 3.5 userguide
 https://github.com/electronicarts/RenderWare3Docs
 
+renderware 3.5 3ds max 2011-2016 import/export plugin.
+https://github.com/aap/rwio
+
