@@ -16,3 +16,8 @@ https://github.com/aap/rwio
 Renderware 3.5 re-implementation cross-platform 
 https://github.com/aap/librw
 
+Renderware 3.5 Blender plugin by maxorator (Blender DFF IO For III/VC/SA)
+http://www.gtagarage.com/mods/show.php?id=21598
+
+Renderware 3.5 Blender plugin by Hollower (Blender DFF Import/Export Script)
+http://www.gtagarage.com/mods/show.php?id=9798
