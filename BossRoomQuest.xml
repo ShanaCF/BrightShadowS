@@ -25,21 +25,7 @@
               <Type>0</Type>
               <ActorId>(NPC Identifier [in this case this is the lkd room entrance])</ActorId>
               <ActionNodes>
-                <!--<Node
-              <Commands
-                <Dialog
-                  <SpeakerId29705</SpeakerId
-                  <TextMy teeth are so painful... I want to find something to bite!</Text
-                </Dialog
-              </Commands
-            </Node-->
                 <Node>
-                  <!--<CheckQuestTimer
-              <QuestId80000</QuestId
-              <TimerId0</TimerId
-              <CompareTime0</CompareTime
-              <Operator1</Operator
-              </CheckQuestTimer-->
                   <Conditions>
                     <CheckQuestCoolDownTimer>
                       <QuestId>(Quest Identifier [in this case its the same as this current quest])</QuestId>
