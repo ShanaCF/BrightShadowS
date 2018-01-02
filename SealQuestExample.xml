@@ -1,4 +1,4 @@
-    <Quest>
+     <Quest>
       <Id>(Quest Identifier)[0-9]</Id>
       <Name>(Quest Name)[a-z, 0-9, symbols]</Name>
       <Description>(Quest Description)[a-z, 0-9, symbols]</Description>
@@ -17,7 +17,7 @@
       <ReqItemId>(Item Identifier for the required item to do the quest)[0-9{7-digits}]</ReqItemId>
       <CoolDownTime>0</CoolDownTime>
       <CoolDownKey>0</CoolDownKey>
-      <AutoStartTimerTime0>(Time in seconds before the quest expires Example "3600")[0-9{7-digits}]</AutoStartTimerTime0>
+      <AutoStartTimerTime0>(Time in seconds before the quest expires Example "3600" for 1 hour)[0-9{7-digits}]</AutoStartTimerTime0>
       <Stages>
         <Stage>
           <Hint>Defeat two "Jack the Evil Gentlemen"</Hint>
