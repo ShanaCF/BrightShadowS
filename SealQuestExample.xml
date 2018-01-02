@@ -4,7 +4,7 @@
       <Description>(Quest Description)[a-z, 0-9, symbols]</Description>
       <QuestType>(Quest Type Example "Annihilation")[a-z, 0-9, symbols]</QuestType>
       <LimitDesc></LimitDesc>
-      <RewardDesc>(Quest Description Example "Experience Points x 186, Gold x 204")[a-z, 0-9, symbols]Experience Points x 186, Gold x 204</RewardDesc>
+      <RewardDesc>(Quest Description Example "Experience Points x 186, Gold x 204")[a-z, 0-9, symbols]</RewardDesc>
       <Reopenable>(can this quest be done more than once 1=True 0=False)[1-0]</Reopenable>
       <Persistent>0</Persistent>
       <Abortable>(Can you abort this quest whenever you want? 1=True 0=False)[0-1]</Abortable>
