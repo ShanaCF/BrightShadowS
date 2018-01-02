@@ -1,0 +1,393 @@
+    <Quest>
+      <Id>(Quest Identifier)[0-9]</Id>
+      <Name>(Quest Name)[a-z, 0-9, symbols]</Name>
+      <Description>(Quest Description)[a-z, 0-9, symbols]</Description>
+      <QuestType>(Quest Type Example "Annihilation")[a-z, 0-9, symbols]</QuestType>
+      <LimitDesc></LimitDesc>
+      <RewardDesc>(Quest Description Example "Experience Points x 186, Gold x 204")[a-z, 0-9, symbols]Experience Points x 186, Gold x 204</RewardDesc>
+      <Reopenable>(can this quest be done more than once 1=True 0=False)[1-0]</Reopenable>
+      <Persistent>0</Persistent>
+      <Abortable>(Can you abort this quest whenever you want? 1=True 0=False)[0-1]</Abortable>
+      <IsHideMsg>0</IsHideMsg>
+      <ReqLevel>(Level Required for this quest to become available)[0-105]</ReqLevel>
+      <MaxReqTeammates>(highest amount of required party members)[0-6{1-digit}]</MaxReqTeammates>
+      <MinReqTeammates>(lowest amount of required party members)[0-6{1-digit}]</MinReqTeammates>
+      <CostMoney>(the gold required to take this quest)[1-9{8-digits}]</CostMoney>
+      <DestWaypointId>(Teleportation Identifier for where the player is sent once they accept the quest)[0-9{7-digits}]</DestWaypointId>
+      <ReqItemId>(Item Identifier for the required item to do the quest)[0-9{7-digits}]</ReqItemId>
+      <CoolDownTime>0</CoolDownTime>
+      <CoolDownKey>0</CoolDownKey>
+      <AutoStartTimerTime0>(Time in seconds before the quest expires Example "3600")[0-9{7-digits}]</AutoStartTimerTime0>
+      <Stages>
+        <Stage>
+          <Hint>Defeat two "Jack the Evil Gentlemen"</Hint>
+          <Progress>
+            <Type>1</Type>
+            <Text>Quest Target: Jack the Evil Gentleman %d / %d</Text>
+            <ActorId>7</ActorId>
+            <MaxNumber>(Number of mobs to be defeated in this case "2")[0-9{7-digits}]</MaxNumber>
+            <KeyVillagerId>0</KeyVillagerId>
+          </Progress>
+          <Events>
+            <Event>
+              <Type>7</Type>
+              <ActorId>(Mob Identifier of the mob to defeat, in this case "Jack the Evil Gentlemen")[0-9{7-digits}]</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Conditions>
+                    <CheckQuestVariable>
+                      <QuestId>-1</QuestId><!---1=current quest-->
+                      <Index>7</Index>
+                      <Value>2</Value>
+                      <Operator>2</Operator><!--2=The Value (command just above this one) entered or more-->
+                    </CheckQuestVariable>
+                  </Conditions>
+                  <Commands>
+                    <SetQuestVariable>
+                      <Index>7</Index>
+                      <Value>1</Value>
+                      <Operator>1</Operator>
+                    </SetQuestVariable>
+                  </Commands>
+                </Node>
+              </ActionNodes>
+            </Event>
+            <Event>
+              <Type>5</Type>
+              <ActorId>0</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Commands>
+                    <SetQuestStatus>
+                      <QuestId>-1</QuestId>
+                      <Status>3</Status>
+                    </SetQuestStatus>
+                  </Commands>
+                </Node>
+              </ActionNodes>
+            </Event>
+            <Event>
+              <Type>3</Type>
+              <ActorId>(Map Identifier for where the player must be during the quest. If the player leaves the map the quest is cancelled)[0-9{7-digits}]</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Commands>
+                    <SetQuestVariable>
+                      <Index>0</Index>
+                      <Value>0</Value>
+                      <Operator>0</Operator>
+                    </SetQuestVariable>
+                  </Commands>
+                </Node>
+              </ActionNodes>
+            </Event>
+            <Event>
+              <Type>0</Type>
+              <ActorId>(NPC Identifier number{Same as SpeakerId})[0-9{7digit}]</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Conditions>
+                    <CheckFreeItemSlot>
+                      <Child>
+                        <CheckQuestVariable>
+                          <QuestId>-1</QuestId>
+                          <Index>0</Index>
+                          <Value>0</Value>
+                          <Operator>1</Operator>
+                        </CheckQuestVariable>
+                      </Child>
+                      <SlotCount>0</SlotCount>
+                      <Operator>3</Operator>
+                    </CheckFreeItemSlot>
+                  </Conditions>
+                  <Child>
+                    <Node>
+                      <Conditions>
+                        <CheckQuestVariable>
+                          <QuestId>-1</QuestId>
+                          <Index>0</Index>
+                          <Value>11</Value>
+                          <Operator>2</Operator>
+                        </CheckQuestVariable>
+                      </Conditions>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>(NPC Identifier number)[0-9{7digit}]</SpeakerId>
+                          <Text>I'm the &lt;FONT COLOR=#00ff00&gt;Meowgel&lt;/FONT&gt; that has been sent from Headquarters of the Tower of Sealed Spirits Research Crew. My job is to record your actions and evaluate your accomplishments. &lt;PF&gt;I have to tell you that your work this time was great!  The Tower of Sealed Spirits Research Crew is considering giving you a reward. &lt;FONT COLOR=#00ff00&gt;Hey, not now! Open up your bag later!&lt;/FONT&gt;   &lt;pf&gt;Just bear in mind that if you keep up the good work then you will be assured of gaining more rewards. I'm counting on you to keep performing well in the future. &lt;PF&gt;So tell me, did you accomplish our mission with ease?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Wait a second</Option1>
+                          <Option2>Mission Completed</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>(NPC Identifier number)[0-9{7digit}]</SpeakerId>
+                              <Text>Well then, come back when you're done.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Child>
+                            <Node>
+                              <Conditions>
+                                <CheckQuestVariable>
+                                  <QuestId>-1</QuestId>
+                                  <Index>0</Index>
+                                  <Value>7</Value>
+                                  <Operator>2</Operator>
+                                </CheckQuestVariable>
+                              </Conditions>
+                              <Commands>
+                                <ChangeItem>
+                                  <ItemType>(Item Identifier number)[0-9{7digit}]</ItemType>
+                                  <ItemCount>1</ItemCount>
+                                  <Operator>1</Operator>
+                                  <RentTime>0</RentTime>
+                                  <ActivateLeftRentTime>0</ActivateLeftRentTime>
+                                </ChangeItem>
+                                <ChangeCard>
+                                  <CardType>(Card Identifier number)[0-9{7digit}]</CardType>
+                                  <CardCount>17</CardCount>
+                                  <Operator>1</Operator>
+                                </ChangeCard>
+                                <SetQuestStatus>
+                                  <QuestId>-1</QuestId>
+                                  <Status>2</Status>
+                                </SetQuestStatus>
+                              </Commands>
+                            </Node>
+                            <Node>
+                              <Conditions>
+                                <CheckQuestVariable>
+                                  <QuestId>-1</QuestId>
+                                  <Index>0</Index>
+                                  <Value>11</Value>
+                                  <Operator>2</Operator>
+                                </CheckQuestVariable>
+                              </Conditions>
+                              <Commands>
+                                <ChangeItem>
+                                  <ItemType>(Item Identifier number)[0-9{7digit}]</ItemType>
+                                  <ItemCount>1</ItemCount>
+                                  <Operator>1</Operator>
+                                  <RentTime>0</RentTime>
+                                  <ActivateLeftRentTime>0</ActivateLeftRentTime>
+                                </ChangeItem>
+                                <ChangeCard>
+                                  <CardType>(Card Identifier number)[0-9{7digit}]</CardType>
+                                  <CardCount>17</CardCount>
+                                  <Operator>1</Operator>
+                                </ChangeCard>
+                                <SetQuestStatus>
+                                  <QuestId>-1</QuestId>
+                                  <Status>2</Status>
+                                </SetQuestStatus>
+                              </Commands>
+                            </Node>
+                          </Child>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>(NPC Identifier number)[0-9{7digit}]</SpeakerId>
+                          <Text>I'm the &lt;FONT COLOR=#00ff00&gt;Meowgel&lt;/FONT&gt; that has been sent from Headquarters of the Tower of Sealed Spirits Research Crew. My job is to record your actions and evaluate your accomplishments. &lt;PF&gt;So tell me, did you accomplish our mission with ease?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Wait a second</Option1>
+                          <Option2>Mission Completed</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>(NPC Identifier number)[0-9{7digit}]</SpeakerId>
+                              <Text>Well then, come back when you're done.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <ChangeCard>
+                              <CardType>(Card Identifier number)[0-9{7digit}]</CardType>
+                              <CardCount>17</CardCount>
+                              <Operator>1</Operator>
+                            </ChangeCard>
+                            <SetQuestStatus>
+                              <QuestId>-1</QuestId>
+                              <Status>2</Status>
+                            </SetQuestStatus>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                  </Child>
+                </Node>
+                <Node>
+                  <Conditions>
+                    <CheckFreeItemSlot>
+                      <SlotCount>0</SlotCount>
+                      <Operator>3</Operator>
+                    </CheckFreeItemSlot>
+                  </Conditions>
+                  <Commands>
+                    <RandNumber>
+                      <MinValue>1</MinValue>
+                      <MaxValue>100</MaxValue>
+                      <OutputVarIndex>0</OutputVarIndex>
+                    </RandNumber>
+                  </Commands>
+                  <Child>
+                    <Node>
+                      <Conditions>
+                        <CheckQuestVariable>
+                          <QuestId>-1</QuestId>
+                          <Index>0</Index>
+                          <Value>11</Value>
+                          <Operator>2</Operator>
+                        </CheckQuestVariable>
+                      </Conditions>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>(NPC Identifier number)[0-9{7digit}]</SpeakerId>
+                          <Text>I'm the &lt;FONT COLOR=#00ff00&gt;Meowgel&lt;/FONT&gt; that has been sent from Headquarters of the Tower of Sealed Spirits Research Crew. My job is to record your actions and evaluate your accomplishments. &lt;PF&gt;I have to tell you that your work this time was great!  The Tower of Sealed Spirits Research Crew is considering giving you a reward. &lt;FONT COLOR=#00ff00&gt;Hey, not now! Open up your bag later!&lt;/FONT&gt;   &lt;pf&gt;Just bear in mind that if you keep up the good work then you will be assured of gaining more rewards. I'm counting on you to keep performing well in the future. &lt;PF&gt;So tell me, did you accomplish our mission with ease?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Wait a second</Option1>
+                          <Option2>Mission Completed</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>(NPC Identifier number)[0-9{7digit}]</SpeakerId>
+                              <Text>Well then, come back when you're done.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Child>
+                            <Node>
+                              <Conditions>
+                                <CheckQuestVariable>
+                                  <QuestId>-1</QuestId>
+                                  <Index>0</Index>
+                                  <Value>7</Value>
+                                  <Operator>2</Operator>
+                                </CheckQuestVariable>
+                              </Conditions>
+                              <Commands>
+                                <ChangeItem>
+                                  <ItemType>(Item Identifier number)[0-9{7digit}]</ItemType>
+                                  <ItemCount>1</ItemCount>
+                                  <Operator>1</Operator>
+                                  <RentTime>0</RentTime>
+                                  <ActivateLeftRentTime>0</ActivateLeftRentTime>
+                                </ChangeItem>
+                                <ChangeCard>
+                                  <CardType>(Card Identifier number)[0-9{7digit}]</CardType>
+                                  <CardCount>17</CardCount>
+                                  <Operator>1</Operator>
+                                </ChangeCard>
+                                <SetQuestStatus>
+                                  <QuestId>-1</QuestId>
+                                  <Status>2</Status>
+                                </SetQuestStatus>
+                              </Commands>
+                            </Node>
+                            <Node>
+                              <Conditions>
+                                <CheckQuestVariable>
+                                  <QuestId>-1</QuestId>
+                                  <Index>0</Index>
+                                  <Value>11</Value>
+                                  <Operator>2</Operator>
+                                </CheckQuestVariable>
+                              </Conditions>
+                              <Commands>
+                                <ChangeItem>
+                                  <ItemType>(Item Identifier number)[0-9{7digit}]</ItemType>
+                                  <ItemCount>1</ItemCount>
+                                  <Operator>1</Operator>
+                                  <RentTime>0</RentTime>
+                                  <ActivateLeftRentTime>0</ActivateLeftRentTime>
+                                </ChangeItem>
+                                <ChangeCard>
+                                  <CardType>(Card Identifier number)[0-9{7digit}]</CardType>
+                                  <CardCount>17</CardCount>
+                                  <Operator>1</Operator>
+                                </ChangeCard>
+                                <SetQuestStatus>
+                                  <QuestId>-1</QuestId>
+                                  <Status>2</Status>
+                                </SetQuestStatus>
+                              </Commands>
+                            </Node>
+                          </Child>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>(NPC Identifier number)[0-9{7digit}]</SpeakerId>
+                          <Text>I'm the &lt;FONT COLOR=#00ff00&gt;Meowgel&lt;/FONT&gt; that has been sent from Headquarters of the Tower of Sealed Spirits Research Crew. My job is to record your actions and evaluate your accomplishments. &lt;PF&gt;So tell me, did you accomplish our mission with ease?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Wait a second</Option1>
+                          <Option2>Mission Completed</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>(NPC Identifier number)[0-9{7digit}]</SpeakerId>
+                              <Text>Well then, come back when you're done.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <ChangeCard>
+                              <CardType>(Card Identifier number)[0-9{7digit}]</CardType>
+                              <CardCount>17</CardCount>
+                              <Operator>1</Operator>
+                            </ChangeCard>
+                            <SetQuestStatus>
+                              <QuestId>-1</QuestId>
+                              <Status>2</Status>
+                            </SetQuestStatus>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                  </Child>
+                </Node>
+                <Node>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>(NPC Identifier number)[0-9{7digit}]</SpeakerId>
+                      <Text>Meow!!  Say, your bag is full. I am only capable of sending the item, I can't organize your bag for you!  I can't give you the item under these conditions! &lt;FONT COLOR=#00ff00&gt;So, I want you to organize your bag&lt;/FONT&gt;! Meow!</Text>
+                    </Dialog>
+                  </Commands>
+                </Node>
+              </ActionNodes>
+            </Event>
+          </Events>
+          <Relation>-1</Relation>
+        </Stage>
+      </Stages>
+      <RewardMoney>(Amount of gold to be rewarded)[0-9{8-digits}]</RewardMoney>
+      <RewardExp>(Amount of Experience points to be rewarded)[0-9{8-digits}]</RewardExp>
+    </Quest>
