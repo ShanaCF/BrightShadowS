@@ -1,0 +1,3121 @@
+<QuestDB>
+  <Quests>
+    <Quest>
+      <Id>1</Id>
+      <Name>Beginner's Village Basic instructors Kikibiassa</Name>
+      <Description></Description>
+      <QuestType></QuestType>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+      <Reopenable>0</Reopenable>
+      <Persistent>1</Persistent>
+      <Abortable>1</Abortable>
+      <IsHideMsg>0</IsHideMsg>
+      <ReqLevel>0</ReqLevel>
+      <MaxReqTeammates>0</MaxReqTeammates>
+      <MinReqTeammates>0</MinReqTeammates>
+      <CostMoney>0</CostMoney>
+      <DestWaypointId>0</DestWaypointId>
+      <ReqItemId>0</ReqItemId>
+      <CoolDownTime>0</CoolDownTime>
+      <CoolDownKey>0</CoolDownKey>
+      <Stages>
+        <Stage>
+          <Hint>Beginner's Village Basic instructors Kikibiassa</Hint>
+          <Events>
+            <Event>
+              <Type>0</Type>
+              <ActorId>20001</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Conditions>
+                    <CheckQuestCompletion>
+                      <QuestId>20022</QuestId>
+                      <CompletionCount>0</CompletionCount>
+                      <Operator>3</Operator>
+                    </CheckQuestCompletion>
+                  </Conditions>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>20001</SpeakerId>
+                      <Text>Nice to see you again!</Text>
+                      <Relation>1</Relation>
+                      <RewardMoney>0</RewardMoney>
+                      <RewardExp>0</RewardExp>
+                    </Dialog>
+                    <UserPrompt>
+                      <Option1>Let's do a quick review</Option1>
+                      <Option2>Just stopped by to say "Hi"</Option2>
+                      <Option3></Option3>
+                    </UserPrompt>
+                  </Commands>
+                  <Child>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20001</SpeakerId>
+                          <Text>Welcome to this world, young one. I am &lt;FONT COLOR=#00ff00&gt;Kikibiassa&lt;/FONT&gt;, the eldest of the 3 sisters that will teach you how to survive. The monsters  known as the Umbra will show no mercy, even to a young Warrior such as yourself. Would you like to learn about the basics?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>How to Chat</Option1>
+                          <Option2>How to interact with others</Option2>
+                          <Option3>What is the Hunter Stone?</Option3>
+                          <Option4>About master/pupil</Option4>
+                          <Option5>It was nice talking to you!</Option5>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Communication is the key to becoming a true Warrior and protector of Luciena. Talking with your friends, allies, guild mates and the numerous people you'll meet will often lead to new discoveries, help you further your skills, or embark on new adventures. So let's get started!</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>8-0chatWindow_overall.tga</PicName>
+                              <ShowType>1
+                      </ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Let's bring up the Chat Interface. See the 1, 2, and 3 sections? They represent &lt;FONT COLOR=#00ff00&gt;Channel Select&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;Symbol&lt;/FONT&gt;, and &lt;FONT COLOR=#00ff00&gt;Channel Filter&lt;/FONT&gt;. These areas are where your messages are going to appear.</Text>
+                            </Dialog>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Typing is a snap. Check out this picture.&lt;PF&gt;You can &lt;FONT COLOR=#00ff00&gt;click this with your mouse&lt;/FONT&gt;, or &lt;FONT COLOR=#00ff00&gt;press the Enter key&lt;/FONT&gt;to activate the chat field. Afterwards, just type in your words and press Enter, and other players around you will see  your message.</Text>
+                            </Dialog>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Going down the list, let's start with section 1, Channel Select.  We can change channels via he function key. The channels are &lt;FONT COLOR=#00ff00&gt;General&lt;/FONT&gt;,  &lt;FONT COLOR=#00ff00&gt;Whisper (for private chats)&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;Party Channel&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;Guild Channel&lt;/FONT&gt;, and the &lt;FONT COLOR=#00ff00&gt;Master and Pupil channel&lt;/FONT&gt;.</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>8-0chatWindow_overall.tga</PicName>
+                              <ShowType>0</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>8-2ChannelFilter.tga</PicName>
+                              <ShowType>1
+                      </ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Next we have the Channel Filter. There are some messages you want to see and some you may not want to see. You can use this function to filter them. For example, you may not want to bothered by someone, then you can remove the 'General Channel'. &lt;pf&gt;Afterwards, you will not see any other messages from other players. Go with the option that  works best for you!</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>8-2ChannelFilter.tga</PicName>
+                              <ShowType>0</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>8-3ChatEmotion.tga</PicName>
+                              <ShowType>1
+                      </ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>As far as Symbols, you use them for chatting!  In addition to selecting them directly, you can just enter the symbols on your keyboard for the right expression!</Text>
+                            </Dialog>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Please remember that while chatting, you can not use any hotkeys. If you want to use your hotkeys, click anywhere except the Chat interface on your screen.  If you have something important to say to your friend, it's better to go somewhere safe first, unless you become so adept at killing the Umbra that you can switch back and forth!</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>8-1CommunityPopup.tga</PicName>
+                              <ShowType>1
+                      </ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>You can access additional options by moving your cursor and right-clicking on any player. A menu will show up, and you can invite the player to talk, trade, or, even better, invite him/her  to your Friends List.  I'd recommend that you add at least 4 friends as soon as possible. Five fingers are weak separately, yet as one, they form a fist!</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>2-1gstone_appear.tga</PicName>
+                              <ShowType>1
+                      </ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>You can find a fabulous shiny totem in every village. It's known as the 'Hunter Stone'!</Text>
+                              <UserPrompt>
+                                <Option1>What does it do?</Option1>
+                                <Option2></Option2>
+                                <Option3></Option3>
+                              </UserPrompt>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <DialogPic>
+                                      <PicName>2-2gstone_overall.tga</PicName>
+                                      <ShowType>1
+                      </ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>20001</SpeakerId>
+                                      <Text>The 'Hunter Stone' provides a way for players to form parties and battle the Umbra. It was created by the mighty minds of &lt;FONT COLOR=#00ff00&gt;Neo Machina&lt;/FONT&gt;, which you'll learn more about later. &lt;pf&gt;To use the Hunter Stone, you have to&lt;FONT COLOR=#00ff00&gt; Setup Search Key Words&lt;/FONT&gt;. For example, you can check who wants to join a arty, what his/her level is, and current classes.</Text>
+                                    </Dialog>
+                                    <Dialog>
+                                      <SpeakerId>20001</SpeakerId>
+                                      <Text>After you finish setup, press &lt;FONT COLOR=#00ff00&gt;Search!&lt;/FONT&gt; You'll get your results, a list of fellow adventurers who are looking for parties. Be sure to team up, you never know what can happen when you combine attacks...</Text>
+                                    </Dialog>
+                                    <UserPrompt>
+                                      <Option1>What's 'Party Status Setting'?</Option1>
+                                      <Option2></Option2>
+                                      <Option3></Option3>
+                                    </UserPrompt>
+                                    <Child>
+                                      <Node>
+                                        <Commands>
+                                          <Dialog>
+                                            <SpeakerId>20001</SpeakerId>
+                                            <Text>You need to turn on this function before joining a party. After that, it's happy hunting.&lt;/Text&gt;</Text>
+                                          </Dialog>
+                                          <UserPrompt>
+                                            <Option1>How do I use it?</Option1>
+                                            <Option2></Option2>
+                                            <Option3></Option3>
+                                          </UserPrompt>
+                                          <Child>
+                                            <Node>
+                                              <Commands>
+                                                <DialogPic>
+                                                  <PicName>2-3gstone_SetLFG.tga</PicName>
+                                                  <ShowType>3</ShowType>
+                                                </DialogPic>
+                                                <Dialog>
+                                                  <SpeakerId>20001</SpeakerId>
+                                                  <Text>Select it, and choose your conditions for a party. Give it a hot when you have a chance, it's pretty simple.</Text>
+                                                </Dialog>
+                                              </Commands>
+                                            </Node>
+                                          </Child>
+                                        </Commands>
+                                      </Node>
+                                    </Child>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>What does it do?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>2-2gstone_overall.tga</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>20001</SpeakerId>
+                                  <Text>The 'Hunter Stone' provides a way for players to form parties and battle the Umbra. It was created by the mighty minds of &lt;FONT COLOR=#00ff00&gt;Neo Machina&lt;/FONT&gt;, which you'll learn more about later. &lt;pf&gt;To use the Hunter Stone, you have to&lt;FONT COLOR=#00ff00&gt; Setup Search Key Words&lt;/FONT&gt;. For example, you can check who wants to join a party, what his/her level is, and current classes.</Text>
+                                </Dialog>
+                                <Dialog>
+                                  <SpeakerId>20001</SpeakerId>
+                                  <Text>After you finish setup, press &lt;FONT COLOR=#00ff00&gt;Search!&lt;/FONT&gt; You'll get your results, a list of fellow adventurers who are looking for parties. Be sure to team up, you never know what can happen when you combine attacks...</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>What's 'Party Status Setting'?</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <Dialog>
+                                      <SpeakerId>20001</SpeakerId>
+                                      <Text>You need to turn on this function before joining a party. After that, it's happy hunting.</Text>
+                                    </Dialog>
+                                    <UserPrompt>
+                                      <Option1>How do I use it?</Option1>
+                                      <Option2></Option2>
+                                      <Option3></Option3>
+                                    </UserPrompt>
+                                  </Commands>
+                                  <Child>
+                                    <Node>
+                                      <Commands>
+                                        <DialogPic>
+                                          <PicName>2-3gstone_SetLFG.tga</PicName>
+                                          <ShowType>3</ShowType>
+                                        </DialogPic>
+                                        <Dialog>
+                                          <SpeakerId>20001</SpeakerId>
+                                          <Text>Select it, and choose your conditions for a party. Give it a hot when you have a chance, it's pretty simple.</Text>
+                                        </Dialog>
+                                      </Commands>
+                                    </Node>
+                                  </Child>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Master and Pupil is a system that allows a ore experienced Warrior to take a pupil, and assist in training them to combat Umbra.&lt;/Text&gt;</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>12-0Mentor_tostartup.tga</PicName>
+                              <ShowType>2</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>You can click on &lt;FONT COLOR=#00ff00&gt;C&lt;/FONT&gt; to open the Status window. For more details, talk to &lt;FONT COLOR=#00ff00&gt;Rumile&lt;/FONT&gt;. If you have a aster or a pupil, (Must be over Level 40 and talk to &lt;FONT COLOR=#00ff00&gt;Houshu&lt;/FONT&gt;), you can see list of &lt;FONT COLOR=#00ff00&gt;Masters and Pupils&lt;/FONT&gt; when you open the Status window.</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>12-2Mentor_List.tga</PicName>
+                              <ShowType>3</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>12-2Mentor_List.tga</PicName>
+                              <ShowType>0</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>12-0Mentor_tostartup.tga</PicName>
+                              <ShowType>0</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>12-3Mentor_DiscipleXP.tga</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>When Master and Pupil form a party together, the pupil can gain more experience. After finishing the battle, the pupil can have &lt;FONT COLOR=#00ff00&gt;Bonus Points&lt;/FONT&gt;. When you have enough  Bonus Points, you can get a cool title!</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>12-3Mentor_DiscipleXP.tga</PicName>
+                              <ShowType>0</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>12-4Mentor_MentorXP.tga</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Of course, the master benefits as well. If a aster takes an adventurer under level 40 as a pupil, the master can gain Bonus Points as well. When these Bonus Points accumulate high enough, the Master can also gain something, such as special name or something extra...</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Well, we have an old saying around Luciena, the brightest light will cast the darkest shadow. Be careful of the path you walk, for you never know where it can lead you.  You are free to make your own choices, be sure to make the ones that benefit us all.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Child>
+                        <Node>
+                          <Conditions>
+                            <CheckQuestFlag>
+                              <QuestId>-1</QuestId>
+                              <Index>0</Index>
+                              <Value>1</Value>
+                            </CheckQuestFlag>
+                          </Conditions>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Thank you! You are so nice! A cruel soul deserves no rewards...</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Oh! &lt;FONT COLOR=#ffad5b&gt;You are so nice&lt;/FONT&gt;!</Text>
+                              <ChangeItem>
+                                <ItemType>37008</ItemType>
+                                <ItemCount>1</ItemCount>
+                                <Operator>1</Operator>
+                                <RentTime>0</RentTime>
+                                <ActivateLeftRentTime>0</ActivateLeftRentTime>
+                              </ChangeItem>
+                              <SetQuestFlag>
+                                <Index>0</Index>
+                                <Value>1</Value>
+                              </SetQuestFlag>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                  </Child>
+                </Node>
+                <Node>
+                  <Conditions>
+                    <CheckQuestCompletion>
+                      <QuestId>20021</QuestId>
+                      <CompletionCount>0</CompletionCount>
+                      <Operator>3</Operator>
+                    </CheckQuestCompletion>
+                    <CheckQuestCompletion>
+                      <QuestId>20020</QuestId>
+                      <CompletionCount>0</CompletionCount>
+                      <Operator>3</Operator>
+                    </CheckQuestCompletion>
+                    <CheckQuestCompletion>
+                      <QuestId>20019</QuestId>
+                      <CompletionCount>0</CompletionCount>
+                      <Operator>3</Operator>
+                    </CheckQuestCompletion>
+                    <CheckQuestCompletion>
+                      <QuestId>20018</QuestId>
+                      <CompletionCount>0</CompletionCount>
+                      <Operator>3</Operator>
+                    </CheckQuestCompletion>
+                    <CheckQuestCompletion>
+                      <QuestId>20017</QuestId>
+                      <CompletionCount>0</CompletionCount>
+                      <Operator>3</Operator>
+                    </CheckQuestCompletion>
+                  </Conditions>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>20001</SpeakerId>
+                      <Text>Looks like you're making good progress. It is time to explore the past of this world...visit  Gemba, and she shall weave the tale of conflict that envelops Luciena.</Text>
+                    </Dialog>
+                    <!--ChildNode-->
+                    <AddQuest>
+                      <QuestId>20022</QuestId>
+                    </AddQuest>
+                  </Commands>
+                </Node>
+                <Node>
+                  <Conditions>
+                    <CheckQuestCompletion>
+                      <QuestId>20016</QuestId>
+                      <CompletionCount>0</CompletionCount>
+                      <Operator>3</Operator>
+                    </CheckQuestCompletion>
+                  </Conditions>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>20001</SpeakerId>
+                      <Text>Hey, nice to see you again. Have you visited everyone in the village yet?</Text>
+                    </Dialog>
+                    <UserPrompt>
+                      <Option1>Beginner's Advisors?</Option1>
+                      <Option2>Still exploring!</Option2>
+                      <Option3></Option3>
+                    </UserPrompt>
+                  </Commands>
+                  <Child>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20001</SpeakerId>
+                          <Text>Yes, they are Item Master &lt;FONT COLOR=#00ff00&gt;Doug&lt;/FONT&gt;, Traveler's Handbook and Log Instructor &lt;FONT COLOR=#00ff00&gt;Teresa&lt;/FONT&gt;, Skill Instructor &lt;FONT COLOR=#00ff00&gt;Miyabi&lt;/FONT&gt;, Character Instructor &lt;FONT COLOR=#00ff00&gt;Lumier&lt;/FONT&gt;, and Map Instructor &lt;FONT COLOR=#00ff00&gt;Cauchy&lt;/FONT&gt;. They are around the village. I'm sure you won't miss them!</Text>
+                        </Dialog>
+                        <Dialog>
+                          <SpeakerId>20001</SpeakerId>
+                          <Text>After you finish your courses, come see me. That's when you'll be ready to explore beyond the boundaries of this Village.</Text>
+                        </Dialog>
+                      </Commands>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20001</SpeakerId>
+                          <Text>No problem, you can come see me whenever you're ready.</Text>
+                        </Dialog>
+                      </Commands>
+                    </Node>
+                  </Child>
+                </Node>
+                <Node>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>20001</SpeakerId>
+                      <Text>Young traveler, welcome to Luciena. I am known as Basic Instructor &lt;FONT COLOR=#00ff00&gt;Kikibiassa&lt;/FONT&gt;. You must have a lot of questions! I will help guide you to your chosen destiny. Also, if you finish my courses you will be rewarded!   Are you interested?</Text>
+                    </Dialog>
+                    <UserPrompt>
+                      <Option1>Yes, it's time to train!</Option1>
+                      <Option2>I am an expert. No, thanks!</Option2>
+                      <Option3></Option3>
+                    </UserPrompt>
+                  </Commands>
+                  <Child>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20001</SpeakerId>
+                          <Text>Ok, we can start basic classes any time.  Speak with me when you're ready.</Text>
+                        </Dialog>
+                        <AddQuest>
+                          <QuestId>20016</QuestId>
+                        </AddQuest>
+                      </Commands>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20001</SpeakerId>
+                          <Text>If you are not interested, I won't push you.</Text>
+                        </Dialog>
+                      </Commands>
+                    </Node>
+                  </Child>
+                </Node>
+              </ActionNodes>
+            </Event>
+          </Events>
+        </Stage>
+      </Stages>
+      <Relation>-1</Relation>
+      <RewardMoney>0</RewardMoney>
+      <RewardExp>0</RewardExp>
+    </Quest>
+    <Quest>
+      <Id>20016</Id>
+      <Name>Chatting</Name>
+      <Description>Kikibiassa is the first person I met in the Beginner's Village. She was so nice to teach me how to talk to people. She also mentioned that if I could pass the test, she will give me some incentives.</Description>
+      <QuestType></QuestType>
+      <LimitDesc></LimitDesc>
+      <RewardDesc>Experience Points x 12, Gold x 50</RewardDesc>
+      <Reopenable>0</Reopenable>
+      <Persistent>1</Persistent>
+      <Abortable>1</Abortable>
+      <IsHideMsg>0</IsHideMsg>
+      <ReqLevel>1</ReqLevel>
+      <MaxReqTeammates>0</MaxReqTeammates>
+      <MinReqTeammates>0</MinReqTeammates>
+      <CostMoney>0</CostMoney>
+      <DestWaypointId>0</DestWaypointId>
+      <ReqItemId>0</ReqItemId>
+      <CoolDownTime>0</CoolDownTime>
+      <CoolDownKey>0</CoolDownKey>
+      <Stages>
+        <Stage>
+          <Hint>Complete Kikibiassa's quiz</Hint>
+          <Progress>
+            <Type>0</Type>
+            <Text></Text>
+            <ActorId>-1</ActorId>
+            <MaxNumber>0</MaxNumber>
+            <KeyVillagerId>20001</KeyVillagerId>
+          </Progress>
+          <Events>
+            <Event>
+              <Type>0</Type>
+              <ActorId>20001</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>20001</SpeakerId>
+                      <Text>No matter what you are looking for, you are always welcomed here. So, what do you want?</Text>
+                    </Dialog>
+                    <UserPrompt>
+                      <Option1>Let's start the test</Option1>
+                      <Option2>Learn more basic skills</Option2>
+                      <Option3>Let me take a breath</Option3>
+                    </UserPrompt>
+                  </Commands>
+                  <Child>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20001</SpeakerId>
+                          <Text>Ok, let's start. First question: How can I send messages in chatting mode?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Press "Enter" at end</Option1>
+                          <Option2>Say "Send out"</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Good, then the second one.&lt;pf&gt;Second question: Can others find my team request through Hunter Stone even if we didn't enable the function?</Text>
+                            </Dialog>
+                            <PlayMedia>
+                              <MediaName>fx_o021</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                            <UserPrompt>
+                              <Option1>Yes</Option1>
+                              <Option2>No</Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <Dialog>
+                                  <SpeakerId>20001</SpeakerId>
+                                  <Text>You have to set the team cooperation "open" to be seen by other explorers.</Text>
+                                </Dialog>
+                                <PlayMedia>
+                                  <MediaName>pc_091</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                              </Commands>
+                            </Node>
+                            <Node>
+                              <Commands>
+                                <PlayMedia>
+                                  <MediaName>fx_o021</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                                <Dialog>
+                                  <SpeakerId>20001</SpeakerId>
+                                  <Text>If you don't open your request through the Hunter Stone, then the others will not know.&lt;pf&gt;The third question: Can I send invitation to anyone at anytime? This question is more about moral. Even though there isn't a correct answer, I have a suggestion.</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>It's alright but not polite</Option1>
+                                  <Option2>Whenever when I want</Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <Dialog>
+                                      <SpeakerId>20001</SpeakerId>
+                                      <Text>Right, if you send your invitation randomly, you may surprise your friends. So you should ask them first. And be polite even if they refuse you.&lt;PF&gt;Ok, you can graduate!</Text>
+                                    </Dialog>
+                                    <PlayMedia>
+                                      <MediaName>fx_o021</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <SetQuestStatus>
+                                      <QuestId>-1</QuestId>
+                                      <Status>2</Status>
+                                    </SetQuestStatus>
+                                  </Commands>
+                                </Node>
+                                <Node>
+                                  <Commands>
+                                    <Dialog>
+                                      <SpeakerId>20001</SpeakerId>
+                                      <Text>It's ok. But you should have thinked about others.&lt;PF&gt;Ok. You can graduate!</Text>
+                                    </Dialog>
+                                    <PlayMedia>
+                                      <MediaName>fx_o021</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <SetQuestStatus>
+                                      <QuestId>-1</QuestId>
+                                      <Status>2</Status>
+                                    </SetQuestStatus>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>This is such a tough question that we machinist society cannot even answer. Sorry, you've got the wrong answer.</Text>
+                            </Dialog>
+                            <PlayMedia>
+                              <MediaName>pc_091</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20001</SpeakerId>
+                          <Text>Welcome to this world, young one. I am &lt;FONT COLOR=#00ff00&gt;Kikibiassa&lt;/FONT&gt;, the eldest of the 3 sisters that will teach you how to survive. It can be dangerous in our world, but you will always triumph so long as you keep your wits about you. The monsters that we know as the Umbra will show no mercy, even to a young warrior such as yourself. Would you like to learn the basics?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>How to Chat</Option1>
+                          <Option2>How to interact with others</Option2>
+                          <Option3>What is the Hunter Stone?</Option3>
+                          <Option4>About master/pupil</Option4>
+                          <Option5>I feel my head will explode!</Option5>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Communication is the key to becoming a great warrior and protector of Luciena. Talking with your friends, allies, guildmates and the numerous people you'll meet through out the world will often lead to new discoveries, help you further your skills, or embark on new adventures. So let's get started!</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>8-0chatWindow_overall.tga</PicName>
+                              <ShowType>1
+																		</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Let's bring up the Chat Interface. See the 1, 2, and 3 sections? They represent &lt;FONT COLOR=#00ff00&gt;Channel Select&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;Symbol&lt;/FONT&gt;, and &lt;FONT COLOR=#00ff00&gt;Channel Filter&lt;/FONT&gt;. These areas are where your messages are going to appear.</Text>
+                            </Dialog>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Typing is a snap. Check out this picture.&lt;PF&gt;You can &lt;FONT COLOR=#00ff00&gt;click this with your mouse&lt;/FONT&gt;, or &lt;FONT COLOR=#00ff00&gt;press the Enter key&lt;/FONT&gt;to activate the chat field. Afterwards, just type in your words and press Enter, and other players around you will see  your message.</Text>
+                            </Dialog>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Going down the list, let's start with section 1, Channel Select.  We can change channels via he function key. The channels are &lt;FONT COLOR=#00ff00&gt;General&lt;/FONT&gt;,  &lt;FONT COLOR=#00ff00&gt;Whisper (for private chats)&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;Party Channel&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;Guild Channel&lt;/FONT&gt;, and the &lt;FONT COLOR=#00ff00&gt;Master and Pupil channel&lt;/FONT&gt;.</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>8-0chatWindow_overall.tga</PicName>
+                              <ShowType>0</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>8-2ChannelFilter.tga</PicName>
+                              <ShowType>1
+																		</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Next we have the Channel Filter. There are some messages you want to see and some you may not want to see. You can use this function to filter them. For example, you may not want to bothered by someone, then you can remove the 'General Channel'. &lt;pf&gt;Afterwards, you will not see any other messages from other players. Go with the option that  works best for you!</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>8-2ChannelFilter.tga</PicName>
+                              <ShowType>0</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>8-3ChatEmotion.tga</PicName>
+                              <ShowType>1
+																		</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>As far as Symbols, you use them for chatting!  In addition to selecting them directly, you can just enter the symbols on your keyboard for the right expression!</Text>
+                            </Dialog>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Please remember that while chatting, you can not use any hotkeys. If you want to use your hotkeys, click anywhere except the Chat interface on your screen.  If you have something important to say to your friend, it's better to go somewhere safe first, unless you become so adept at killing the Umbra that you can switch back and forth!</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>8-1CommunityPopup.tga</PicName>
+                              <ShowType>1
+																		</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>You can access additional options by moving your cursor and right-clicking on any player. A menu will show up, and you can invite the player to talk, trade, or, even better, invite him/her  to your Friends List.  I'd recommend that you add at least 4 friends as soon as possible. Five fingers are weak separately, yet as one, they form a fist!&lt;/Text&gt;</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>2-1gstone_appear.tga</PicName>
+                              <ShowType>1
+																		</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>You can find a fabulous shiny totem in every village. It's known as the 'Hunter Stone'!</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>What does it do?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>2-2gstone_overall.tga</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>20001</SpeakerId>
+                                  <Text>The 'Hunter Stone' provides a way for players to form parties and battle the Umbra. It was created by the mighty minds of &lt;FONT COLOR=#00ff00&gt;Neo Machina&lt;/FONT&gt;, which you'll learn more about later. &lt;pf&gt;To use the Hunter Stone, you have to&lt;FONT COLOR=#00ff00&gt; Setup Search Key Words&lt;/FONT&gt;. For example, you can check who wants to join a party, what his/her level is, and current classes.</Text>
+                                </Dialog>
+                                <Dialog>
+                                  <SpeakerId>20001</SpeakerId>
+                                  <Text>After you finish setup, press &lt;FONT COLOR=#00ff00&gt;Search!&lt;/FONT&gt; You'll get your results, a list of fellow adventurers who are looking for parties. Be sure to team up, you never know what can happen when you combine attacks...</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>What's 'Party Status Setting'?</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <Dialog>
+                                      <SpeakerId>20001</SpeakerId>
+                                      <Text>You need to turn on this function before joining a party. After that, it's happy hunting.</Text>
+                                    </Dialog>
+                                    <UserPrompt>
+                                      <Option1>How do I use it?</Option1>
+                                      <Option2></Option2>
+                                      <Option3></Option3>
+                                    </UserPrompt>
+                                  </Commands>
+                                  <Child>
+                                    <Node>
+                                      <Commands>
+                                        <DialogPic>
+                                          <PicName>2-3gstone_SetLFG.tga</PicName>
+                                          <ShowType>3</ShowType>
+                                        </DialogPic>
+                                        <Dialog>
+                                          <SpeakerId>20001</SpeakerId>
+                                          <Text>Select it, and choose your conditions for a party. Give it a hot when you have a chance, it's pretty simple.</Text>
+                                        </Dialog>
+                                      </Commands>
+                                    </Node>
+                                  </Child>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Master and Pupil is a system that allows a ore experienced Warrior to take a pupil, and assist in training them to combat Umbra.&lt;/Text&gt;</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>12-0Mentor_tostartup.tga</PicName>
+                              <ShowType>2</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>You can click on &lt;FONT COLOR=#00ff00&gt;C&lt;/FONT&gt; to open the Status window. For more details, talk to &lt;FONT COLOR=#00ff00&gt;Rumile&lt;/FONT&gt;. If you have a aster or a pupil, (Must be over Level 40 and talk to &lt;FONT COLOR=#00ff00&gt;Houshu&lt;/FONT&gt;), you can see list of &lt;FONT COLOR=#00ff00&gt;Masters and Pupils&lt;/FONT&gt; when you open the Status window.</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>12-2Mentor_List.tga</PicName>
+                              <ShowType>3</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>12-2Mentor_List.tga</PicName>
+                              <ShowType>0</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>12-0Mentor_tostartup.tga</PicName>
+                              <ShowType>0</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>12-3Mentor_DiscipleXP.tga</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>When Master and Pupil form a party together, the pupil can gain more experience. After finishing the battle, the pupil can have &lt;FONT COLOR=#00ff00&gt;Bonus Points&lt;/FONT&gt;. When you have enough  Bonus Points, you can get a cool title!</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>12-3Mentor_DiscipleXP.tga</PicName>
+                              <ShowType>0</ShowType>
+                            </DialogPic>
+                            <DialogPic>
+                              <PicName>12-4Mentor_MentorXP.tga</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Of course, the master benefits as well. If a aster takes an adventurer under level 40 as a pupil, the master can gain Bonus Points as well. When these Bonus Points accumulate high enough, the Master can also gain something, such as special name or something extra...&lt;/Text&gt;</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20001</SpeakerId>
+                              <Text>Ok, just take a quick breathe, come back and let me know when you're ready.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20001</SpeakerId>
+                          <Text>Are you nervous because I am too beautiful? Haha... I was kidding.</Text>
+                        </Dialog>
+                      </Commands>
+                    </Node>
+                  </Child>
+                </Node>
+              </ActionNodes>
+            </Event>
+          </Events>
+        </Stage>
+      </Stages>
+      <Relation>-2</Relation>
+      <RewardMoney>50</RewardMoney>
+      <RewardExp>12</RewardExp>
+    </Quest>
+    <Quest>
+      <Id>20017</Id>
+      <Name>Maintain your sense of direction</Name>
+      <Description>Conversation with Cauchy. Study map-related operational knowledge</Description>
+      <QuestType></QuestType>
+      <LimitDesc></LimitDesc>
+      <RewardDesc>Experience Points x 30, Gold x 50</RewardDesc>
+      <Reopenable>0</Reopenable>
+      <Persistent>1</Persistent>
+      <Abortable>1</Abortable>
+      <IsHideMsg>0</IsHideMsg>
+      <ReqLevel>1</ReqLevel>
+      <MaxReqTeammates>0</MaxReqTeammates>
+      <MinReqTeammates>0</MinReqTeammates>
+      <CostMoney>0</CostMoney>
+      <DestWaypointId>0</DestWaypointId>
+      <ReqItemId>0</ReqItemId>
+      <CoolDownTime>0</CoolDownTime>
+      <CoolDownKey>0</CoolDownKey>
+      <Stages>
+        <Stage>
+          <Hint>Complete Cauchy's test</Hint>
+          <Progress>
+            <Type>0</Type>
+            <Text></Text>
+            <ActorId>-1</ActorId>
+            <MaxNumber>0</MaxNumber>
+            <KeyVillagerId>50001</KeyVillagerId>
+          </Progress>
+          <Events>
+            <Event>
+              <Type>0</Type>
+              <ActorId>50001</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>50001</SpeakerId>
+                      <Text>It's hard, are you ready?</Text>
+                    </Dialog>
+                    <UserPrompt>
+                      <Option1>I want to learn about map</Option1>
+                      <Option2>I am ready for the test</Option2>
+                      <Option3>Not interested</Option3>
+                    </UserPrompt>
+                  </Commands>
+                  <Child>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50001</SpeakerId>
+                          <Text>What do you want to know about the &lt;FONT COLOR=#00ff00&gt;map&lt;/FONT&gt;?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Map summary</Option1>
+                          <Option2>Small map</Option2>
+                          <Option3>Mark Location</Option3>
+                          <Option4>Let me think...</Option4>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>50001</SpeakerId>
+                              <Text>Firstly, you have to learn how to open the Map.</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>How can I?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>10-2bigmap_toOpen.tga</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50001</SpeakerId>
+                                  <Text>It is easy. Just click on the little map on the top of your screen. The icon is on the right side. Of course, you can use hotkey, 'M' to open the map.</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>What does map say?</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <Dialog>
+                                      <SpeakerId>50001</SpeakerId>
+                                      <Text>You can know the topography and the location of entrance to another map. If you are in a team, you can see where your team members are.   Of course, there is a function to &lt;FONT COLOR=#00ff00&gt;Memorize Location&lt;/FONT&gt; through large map.</Text>
+                                    </Dialog>
+                                    <UserPrompt>
+                                      <Option1>What does this do?</Option1>
+                                      <Option2></Option2>
+                                      <Option3></Option3>
+                                    </UserPrompt>
+                                  </Commands>
+                                  <Child>
+                                    <Node>
+                                      <Commands>
+                                        <Dialog>
+                                          <SpeakerId>50001</SpeakerId>
+                                          <Text>This is another instruction, you can read it later!</Text>
+                                        </Dialog>
+                                      </Commands>
+                                    </Node>
+                                  </Child>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>10-1minimap.tga</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>50001</SpeakerId>
+                              <Text>Small map is set to open, it is located on the upper right corner!</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>What are these buttons?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>10-1minimap.tga</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50001</SpeakerId>
+                                  <Text>This buttons will affect map and zoom effects!</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>What do color buttons do?</Option1>
+                                  <Option2>Magnifying Glass?</Option2>
+                                  <Option3>+ and - ?</Option3>
+                                  <Option4>Got it</Option4>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <DialogPic>
+                                      <PicName>10-1minimap_allcolor.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50001</SpeakerId>
+                                      <Text>Red, green, yellow and blue button are set to open, close on second push. They are monster (red), non-player character (green), teammate (yellow) and player (blue). When they are active, you will find them on the map.</Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                                <Node>
+                                  <Commands>
+                                    <DialogPic>
+                                      <PicName>10-2bigmap_toOpen.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50001</SpeakerId>
+                                      <Text>Like I said, just push &lt;FONT COLOR=#00ff00&gt;Magnifying Glass icon&lt;/FONT&gt;, and you can open the large map and push again to close it!</Text>
+                                    </Dialog>
+                                    <DialogPic>
+                                      <PicName>10-2bigmap_toOpen.tga</PicName>
+                                      <ShowType>0</ShowType>
+                                    </DialogPic>
+                                    <DialogPic>
+                                      <PicName>10-4minimap_dayNnight.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50001</SpeakerId>
+                                      <Text>Also, you can tell day and night from &lt;FONT COLOR=#00ff00&gt;sun&lt;/FONT&gt; and &lt;FONT COLOR=#00ff00&gt;moon&lt;/FONT&gt; icon, yeah.</Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                                <Node>
+                                  <Commands>
+                                    <DialogPic>
+                                      <PicName>10-7minimap_zoom.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50001</SpeakerId>
+                                      <Text>This is Zoom. Click on " + " and it will zoom in, and clicking on " - " will zoom out.</Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                                <Node>
+                                  <Commands>
+                                    <Dialog>
+                                      <SpeakerId>50001</SpeakerId>
+                                      <Text>You are already bored? I also want to tell you that &lt;FONT COLOR=#ffad5b&gt;if you move your mouse on small map&lt;/FONT&gt; &lt;FONT COLOR=#ffad5b&gt;to the place you want to go and right click&lt;/FONT&gt;, &lt;FONT COLOR=#ffad5b&gt;you can move all the way to that position&lt;/FONT&gt;. </Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>10-3Bind_at_will.tga</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>50001</SpeakerId>
+                              <Text>About this &lt;FONT COLOR=#00ff00&gt;Memorize Location&lt;/FONT&gt; function, it allows you to bookmark your favorite locations, you get one default set and you can &lt;FONT COLOR=#00ff00&gt;expand up to 20 sets&lt;/FONT&gt;. Using this transportation function requires &lt;FONT COLOR=#ffad5b&gt;certain item&lt;/FONT&gt;. </Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>How to expand</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>0-8systemlist.TGA</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <DialogPic>
+                                  <PicName>0-8systemlist.TGA</PicName>
+                                  <ShowType>0</ShowType>
+                                </DialogPic>
+                                <DialogPic>
+                                  <PicName>10-5bind_at_will_extra.tga</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50001</SpeakerId>
+                                  <Text>If you want to expand memories, you need to go to the &lt;FONT COLOR=#00ff00&gt;ItmeMall&lt;/FONT&gt; to bring some &lt;FONT COLOR=#00ff00&gt;Transportation Expanding Scroll&lt;/FONT&gt; home. It helps you a lot although you don't have to.</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>Transportation?</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <DialogPic>
+                                      <PicName>10-5bind_at_will_tp.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50001</SpeakerId>
+                                      <Text>Yeah, transportation will use one &lt;FONT COLOR=#00ff00&gt;Saved Point Transmission Scroll&lt;/FONT&gt;. If you want, you can go to &lt;FONT COLOR=#00ff00&gt;ItmeMall&lt;/FONT&gt; to buy. Ok?</Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>50001</SpeakerId>
+                              <Text>Learning can't wait!</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50001</SpeakerId>
+                          <Text>Are you sure? Ok, here is the first question.&lt;PF&gt;First question: Which button is for you to open map?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Press "M"</Option1>
+                          <Option2>Buy it at stores</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <PlayMedia>
+                              <MediaName>fx_o021</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                            <Dialog>
+                              <SpeakerId>50001</SpeakerId>
+                              <Text>Yeah, you got it! Here is the second one!&lt;PF&gt;Second question: What does red dot mean on the map?</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>Non-player character</Option1>
+                              <Option2>Monster</Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <PlayMedia>
+                                  <MediaName>pc_091</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                                <Dialog>
+                                  <SpeakerId>50001</SpeakerId>
+                                  <Text>What a pity. The green dots are the non-player characters. Try again!</Text>
+                                </Dialog>
+                              </Commands>
+                            </Node>
+                            <Node>
+                              <Commands>
+                                <PlayMedia>
+                                  <MediaName>fx_o021</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                                <Dialog>
+                                  <SpeakerId>50001</SpeakerId>
+                                  <Text>Excellent! Here is the last question!&lt;PF&gt;Third question: How many blanks can you expand for saving map points?</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>Such thing exists?</Option1>
+                                  <Option2>20 blanks</Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <PlayMedia>
+                                      <MediaName>pc_091</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <Dialog>
+                                      <SpeakerId>50001</SpeakerId>
+                                      <Text>You should go study math before coming here. Hahaha.</Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                                <Node>
+                                  <Commands>
+                                    <PlayMedia>
+                                      <MediaName>fx_o021</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <Dialog>
+                                      <SpeakerId>50001</SpeakerId>
+                                      <Text>Awesome! You passed all three tests. Here are some rewards from myself. This test is just a small practice. If you want to study basic operations, come back later.</Text>
+                                    </Dialog>
+                                    <SetQuestStatus>
+                                      <QuestId>-1</QuestId>
+                                      <Status>2</Status>
+                                    </SetQuestStatus>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <PlayMedia>
+                              <MediaName>pc_091</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                            <Dialog>
+                              <SpeakerId>50001</SpeakerId>
+                              <Text>Very interesting. Acturally, it's very simple. No money involved, just press "M" on the keyboard is ok.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50001</SpeakerId>
+                          <Text>Orientation is very important!</Text>
+                        </Dialog>
+                      </Commands>
+                    </Node>
+                  </Child>
+                </Node>
+              </ActionNodes>
+            </Event>
+          </Events>
+        </Stage>
+      </Stages>
+      <Relation>-2</Relation>
+      <RewardMoney>50</RewardMoney>
+      <RewardExp>30</RewardExp>
+    </Quest>
+    <Quest>
+      <Id>20018</Id>
+      <Name>Fully-loaded</Name>
+      <Description>Everyone needs money. Maybe Lava can teach me how to make money!</Description>
+      <QuestType></QuestType>
+      <LimitDesc></LimitDesc>
+      <RewardDesc>Experience Points x 35, Gold x 100</RewardDesc>
+      <Reopenable>0</Reopenable>
+      <Persistent>1</Persistent>
+      <Abortable>1</Abortable>
+      <IsHideMsg>0</IsHideMsg>
+      <ReqLevel>1</ReqLevel>
+      <MaxReqTeammates>0</MaxReqTeammates>
+      <MinReqTeammates>0</MinReqTeammates>
+      <CostMoney>0</CostMoney>
+      <DestWaypointId>0</DestWaypointId>
+      <ReqItemId>0</ReqItemId>
+      <CoolDownTime>0</CoolDownTime>
+      <CoolDownKey>0</CoolDownKey>
+      <Stages>
+        <Stage>
+          <Hint>Complete Lava's class</Hint>
+          <Progress>
+            <Type>0</Type>
+            <Text></Text>
+            <ActorId>-1</ActorId>
+            <MaxNumber>0</MaxNumber>
+            <KeyVillagerId>50002</KeyVillagerId>
+          </Progress>
+          <Events>
+            <Event>
+              <Type>0</Type>
+              <ActorId>50002</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>50002</SpeakerId>
+                      <Text>Oh, I always miss it... Ready for class or test?</Text>
+                    </Dialog>
+                    <UserPrompt>
+                      <Option1>Take the exam</Option1>
+                      <Option2>Tutorial first</Option2>
+                      <Option3>Forget it</Option3>
+                    </UserPrompt>
+                  </Commands>
+                  <Child>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50002</SpeakerId>
+                          <Text>Ok, let's start.&lt;PF&gt;First question: Which button do you press to open your inventory?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>I on the keyboard</Option1>
+                          <Option2>Any Key</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <PlayMedia>
+                              <MediaName>fx_o021</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                            <Dialog>
+                              <SpeakerId>50002</SpeakerId>
+                              <Text>What's wrong with my bag?......&lt;PF&gt;Second question: Can I trade the items that have been locked?</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>Sure</Option1>
+                              <Option2>No, you can't</Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <PlayMedia>
+                                  <MediaName>pc_091</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                                <Dialog>
+                                  <SpeakerId>50002</SpeakerId>
+                                  <Text>You need to unlock before you transfer to sell items. Try again!</Text>
+                                </Dialog>
+                              </Commands>
+                            </Node>
+                            <Node>
+                              <Commands>
+                                <PlayMedia>
+                                  <MediaName>fx_o021</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                                <Dialog>
+                                  <SpeakerId>50002</SpeakerId>
+                                  <Text>Good, let's go on.&lt;PF&gt;Third question: Can you transfer anything I want from public storage to my account?</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>Sure</Option1>
+                                  <Option2>No, you can't</Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <PlayMedia>
+                                      <MediaName>pc_091</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <Dialog>
+                                      <SpeakerId>50002</SpeakerId>
+                                      <Text>No.</Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                                <Node>
+                                  <Commands>
+                                    <PlayMedia>
+                                      <MediaName>fx_o021</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <Dialog>
+                                      <SpeakerId>50002</SpeakerId>
+                                      <Text>Awesome! You passed all three questions. Here are some rewards from myself. This test is just a small practice. If you want to study basic operations, come back later.</Text>
+                                    </Dialog>
+                                    <SetQuestStatus>
+                                      <QuestId>-1</QuestId>
+                                      <Status>2</Status>
+                                    </SetQuestStatus>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <PlayMedia>
+                              <MediaName>pc_091</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                            <Dialog>
+                              <SpeakerId>50002</SpeakerId>
+                              <Text>You are so creative but it is not the correct answer!</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50002</SpeakerId>
+                          <Text>What do you want to learn about &lt;FONT COLOR=#00ff00&gt;items&lt;/FONT&gt;?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Item Interface Overview</Option1>
+                          <Option2>Item explansion</Option2>
+                          <Option3>Storage space</Option3>
+                          <Option4>Put on/take off outfit</Option4>
+                          <Option5>I don't wanna learn anything!</Option5>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>0-6systemlist.TGA</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>50002</SpeakerId>
+                              <Text>Click on the Spirt on &lt;FONT COLOR=#00ff00&gt;the bottom of your screen&lt;/FONT&gt;. Then choose &lt;FONT COLOR=#00ff00&gt;item&lt;/FONT&gt; from the menu. Also, you can just press &lt;FONT COLOR=#00ff00&gt;B&lt;/FONT&gt; on your keyboard. </Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>What's next?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>0-6systemlist.TGA</PicName>
+                                  <ShowType>0</ShowType>
+                                </DialogPic>
+                                <DialogPic>
+                                  <PicName>9-1Inventory_overall.tga</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50002</SpeakerId>
+                                  <Text>When you want to &lt;FONT COLOR=#00ff00&gt;move&lt;/FONT&gt; an item to a different page, you can just &lt;FONT COLOR=#00ff00&gt;drag and drop&lt;/FONT&gt; the item icon to the &lt;FONT COLOR=#00ff00&gt;page tag&lt;/FONT&gt; at the top of the window.&lt;PF&gt;Alternatively, if you drag the icon to the page tag and hold it there, you will switch to that page, so you can drop the item into an &lt;FONT COLOR=#00ff00&gt;empty slot&lt;/FONT&gt;.</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>What if the bag is full?</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <DialogPic>
+                                      <PicName>9-1Inventory_overall.tga</PicName>
+                                      <ShowType>0</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50002</SpeakerId>
+                                      <Text>Well, you can put the stuff you don't need to storehouse. This is another quest. What I want to teach you now is to clean up your backpack and make money.</Text>
+                                    </Dialog>
+                                    <UserPrompt>
+                                      <Option1>Oh! Show me how</Option1>
+                                      <Option2></Option2>
+                                      <Option3></Option3>
+                                    </UserPrompt>
+                                  </Commands>
+                                  <Child>
+                                    <Node>
+                                      <Commands>
+                                        <DialogPic>
+                                          <PicName>6-1merchant_confirmation.tga</PicName>
+                                          <ShowType>1</ShowType>
+                                        </DialogPic>
+                                        <Dialog>
+                                          <SpeakerId>50002</SpeakerId>
+                                          <Text>Basiclly, you can find &lt;FONT COLOR=#00ff00&gt;Weapon Store&lt;/FONT&gt; or &lt;FONT COLOR=#00ff00&gt;weapon store boss&lt;/FONT&gt;. They are business man. Remember, the boss will not trade for you. Only will trade for &lt;FONT COLOR=#ffad5b&gt;himself&lt;/FONT&gt;. Do not trade  with a wrong person!</Text>
+                                        </Dialog>
+                                        <Dialog>
+                                          <SpeakerId>50002</SpeakerId>
+                                          <Text>When selling items, drag and drop the item you want to sell onto the window 1 shown above. Then a confirmation window like Window 2 will show. Item you sold will not come back so check it here before you sell it.</Text>
+                                        </Dialog>
+                                      </Commands>
+                                    </Node>
+                                  </Child>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>50002</SpeakerId>
+                              <Text>Every item has detail information, so you should check it before making any decisions!</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>How can I look details?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>9-2Item_desc.tga</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50002</SpeakerId>
+                                  <Text>First, you right click on the item (equipped or in bag) and you will see its status and details.</Text>
+                                </Dialog>
+                                <DialogPic>
+                                  <PicName>9-2Item_desc2.tga</PicName>
+                                  <ShowType>3</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50002</SpeakerId>
+                                  <Text>For example, &lt;FONT COLOR=#00ff00&gt;[Unable to drop]&lt;/FONT&gt; (can't discard it), &lt;FONT COLOR=#00ff00&gt;[Unable to sell]&lt;/FONT&gt; (can't sell at stores)&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;[Untradeable]&lt;/FONT&gt; (can't trade with other players) and so on.</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>What is Lock?</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <DialogPic>
+                                      <PicName>9-2Item_desc.tga</PicName>
+                                      <ShowType>0</ShowType>
+                                    </DialogPic>
+                                    <DialogPic>
+                                      <PicName>9-2Item_desc2.tga</PicName>
+                                      <ShowType>0</ShowType>
+                                    </DialogPic>
+                                    <DialogPic>
+                                      <PicName>9-4Item_lock.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50002</SpeakerId>
+                                      <Text>Good eyes! This &lt;FONT COLOR=#00ff00&gt;Lock&lt;/FONT&gt; is for some unfortunate, unlucky, and un...</Text>
+                                    </Dialog>
+                                    <UserPrompt>
+                                      <Option1>Ok, just say it!</Option1>
+                                      <Option2></Option2>
+                                      <Option3></Option3>
+                                    </UserPrompt>
+                                  </Commands>
+                                  <Child>
+                                    <Node>
+                                      <Commands>
+                                        <DialogPic>
+                                          <PicName>9-4Item_lock.tga</PicName>
+                                          <ShowType>0</ShowType>
+                                        </DialogPic>
+                                        <DialogPic>
+                                          <PicName>9-4Item_lock.tga</PicName>
+                                          <ShowType>2</ShowType>
+                                        </DialogPic>
+                                        <DialogPic>
+                                          <PicName>9-4Input_PW.tga</PicName>
+                                          <ShowType>3</ShowType>
+                                        </DialogPic>
+                                        <Dialog>
+                                          <SpeakerId>50002</SpeakerId>
+                                          <Text>Ok, if your account was stolen, or you don't want your friend to use your account, this is handy because you can set your password on it. But I don't recommend you to share an account with your friend.</Text>
+                                        </Dialog>
+                                      </Commands>
+                                    </Node>
+                                  </Child>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>50002</SpeakerId>
+                              <Text>You can store your items in both backpack and storage. Did you know that?</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>I won't ask if I knew</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>9-3Repository_mngr.tga</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50002</SpeakerId>
+                                  <Text>Yeah, if you want to use a storage, you need to find a &lt;FONT COLOR=#00ff00&gt;Storage Manager&lt;/FONT&gt;.</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>What can I store in storage?</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <DialogPic>
+                                      <PicName>9-5Repository_overall.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50002</SpeakerId>
+                                      <Text>Almost everything you want to. Also, you should know that there is a &lt;FONT COLOR=#00ff00&gt;public storage&lt;/FONT&gt; tab where you can exchange items with your other characters!</Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>9-6Inventory_eq.tga</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>50002</SpeakerId>
+                              <Text>Equipment is easy to learn. After you open your item, double click on it or drag its icon to your equipment window and here you go! But remember, there will be profession limitation.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>50002</SpeakerId>
+                              <Text>Are you sure you're alright?</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50002</SpeakerId>
+                          <Text>I will put up my bag first.</Text>
+                        </Dialog>
+                      </Commands>
+                    </Node>
+                  </Child>
+                </Node>
+              </ActionNodes>
+            </Event>
+          </Events>
+        </Stage>
+      </Stages>
+      <Relation>-2</Relation>
+      <RewardMoney>100</RewardMoney>
+      <RewardExp>35</RewardExp>
+    </Quest>
+    <Quest>
+      <Id>20019</Id>
+      <Name>What's wrong with reading books?</Name>
+      <Description>Miyabi wants to share some knowledge about skill book. Let's see.</Description>
+      <QuestType></QuestType>
+      <LimitDesc></LimitDesc>
+      <RewardDesc>Experience Points x 40, Gold x 60</RewardDesc>
+      <Reopenable>0</Reopenable>
+      <Persistent>1</Persistent>
+      <Abortable>1</Abortable>
+      <IsHideMsg>0</IsHideMsg>
+      <ReqLevel>1</ReqLevel>
+      <MaxReqTeammates>0</MaxReqTeammates>
+      <MinReqTeammates>0</MinReqTeammates>
+      <CostMoney>0</CostMoney>
+      <DestWaypointId>0</DestWaypointId>
+      <ReqItemId>0</ReqItemId>
+      <CoolDownTime>0</CoolDownTime>
+      <CoolDownKey>0</CoolDownKey>
+      <Stages>
+        <Stage>
+          <Hint>Complete Miyabi's test</Hint>
+          <Progress>
+            <Type>0</Type>
+            <Text></Text>
+            <ActorId>-1</ActorId>
+            <MaxNumber>0</MaxNumber>
+            <KeyVillagerId>50003</KeyVillagerId>
+          </Progress>
+          <Events>
+            <Event>
+              <Type>0</Type>
+              <ActorId>50003</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>50003</SpeakerId>
+                      <Text>I finally understand what these numbers on the skill book mean...&lt;PF&gt;Hi there. What do you want to know?</Text>
+                    </Dialog>
+                    <UserPrompt>
+                      <Option1>About skills</Option1>
+                      <Option2>I am ready for the test!</Option2>
+                      <Option3>Hold on</Option3>
+                    </UserPrompt>
+                  </Commands>
+                  <Child>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50003</SpeakerId>
+                          <Text>What part do you want to learn about &lt;FONT COLOR=#00ff00&gt;skills&lt;/FONT&gt;?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Skills summary</Option1>
+                          <Option2>Learn, use, forget</Option2>
+                          <Option3>How to use skills</Option3>
+                          <Option4>No need, thanks</Option4>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>50003</SpeakerId>
+                              <Text>First, let's talk about how to open the Skills window.</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>0-1systemlist.TGA</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>50003</SpeakerId>
+                              <Text>You can push Spirit Button, then click to choose "Skill or push "&lt;FONT COLOR=#00ff00&gt;S&lt;/FONT&gt;" to open skills window.</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>What are these numbers?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>1-1skill_overall.tga</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50003</SpeakerId>
+                                  <Text>Yeah, let me explain these numbers one by one, ok?</Text>
+                                </Dialog>
+                                <Dialog>
+                                  <SpeakerId>50003</SpeakerId>
+                                  <Text>They are &lt;FONT COLOR=#00ff00&gt;time usage&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;MP usage (MP)&lt;/FONT&gt; and &lt;FONT COLOR=#00ff00&gt;SP usage&lt;/FONT&gt;. The small book on the right is &lt;FONT COLOR=#00ff00&gt;the estimate total SP usage&lt;/FONT&gt;, on the bottom is &lt;FONT COLOR=#00ff00&gt;target&lt;/FONT&gt;. If it does not match, you can't use this skill on it.</Text>
+                                </Dialog>
+                              </Commands>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>1-2skill_tolearn.TGA</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>50003</SpeakerId>
+                              <Text>We will continue on how to use the three buttons on the left corner! The left one is &lt;FONT COLOR=#00ff00&gt;learn&lt;/FONT&gt;. Before learning, you have to both be in a certain level and have enough SP at the same time.</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>Do I need to forget skills?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>1-3skill_toforget.tga</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50003</SpeakerId>
+                                  <Text>Yes, because the maximum number of skills for a character is &lt;FONT COLOR=#00ff00&gt;50&lt;/FONT&gt;, you can't have more if reach the limit unless you forget some skills, or go to &lt;FONT COLOR=#00ff00&gt;ItmeMall&lt;/FONT&gt; buy tools, such as "&lt;FONT COLOR=#00ff00&gt;Expired Sacred Mountain Flower&lt;/FONT&gt; to extend the limit.</Text>
+                                </Dialog>
+                                <Dialog>
+                                  <SpeakerId>50003</SpeakerId>
+                                  <Text>You can learn the skill again if you have enough spirit.</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>How do I use skills?</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <Dialog>
+                                      <SpeakerId>50003</SpeakerId>
+                                      <Text>It is possible by pressing the button in the middle, but also you can assign to a shortcut key. I will tell you later.</Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>1-1skill_command.tga</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>50003</SpeakerId>
+                              <Text>The middle button at the bottom of the skill window has the function to use the chosen skill.</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>Do I need it opened?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>1-1skill_touse.tga</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50003</SpeakerId>
+                                  <Text>No, you can drag your favorite skills to &lt;FONT COLOR=#00ff00&gt;the hot keys on the bottom right&lt;/FONT&gt;, and then you can use them easily.</Text>
+                                </Dialog>
+                              </Commands>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>50003</SpeakerId>
+                              <Text>It's up to you whether you are here to study or take tests...</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50003</SpeakerId>
+                          <Text>You look sure. Then let's see. &lt;PF&gt;First question: Which button is for you to open skill page?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Press "K"</Option1>
+                          <Option2>Press "S"</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <PlayMedia>
+                              <MediaName>fx_o021</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                            <Dialog>
+                              <SpeakerId>50003</SpeakerId>
+                              <Text>Correct! Second question... &lt;PF&gt;Second question: Once you forget your skill, can you learn it again?</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>No, never again</Option1>
+                              <Option2>Yes, you can study again</Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <PlayMedia>
+                                  <MediaName>pc_091</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                                <Dialog>
+                                  <SpeakerId>50003</SpeakerId>
+                                  <Text>You can study it again.</Text>
+                                </Dialog>
+                              </Commands>
+                            </Node>
+                            <Node>
+                              <Commands>
+                                <PlayMedia>
+                                  <MediaName>fx_o021</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                                <Dialog>
+                                  <SpeakerId>50003</SpeakerId>
+                                  <Text>Then the last one...    Third question: True or false. You use SP to learn skill, but not to use skill.</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>TRUE</Option1>
+                                  <Option2>FALSE</Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <PlayMedia>
+                                      <MediaName>pc_091</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <Dialog>
+                                      <SpeakerId>50003</SpeakerId>
+                                      <Text>You should study well before test. </Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                                <Node>
+                                  <Commands>
+                                    <PlayMedia>
+                                      <MediaName>fx_o021</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <Dialog>
+                                      <SpeakerId>50003</SpeakerId>
+                                      <Text>It took much longer for me to understand than you did! But if you want to study basic operation, come back later.</Text>
+                                    </Dialog>
+                                    <SetQuestStatus>
+                                      <QuestId>-1</QuestId>
+                                      <Status>2</Status>
+                                    </SetQuestStatus>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <PlayMedia>
+                              <MediaName>pc_091</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                            <Dialog>
+                              <SpeakerId>50003</SpeakerId>
+                              <Text>If you were wrong, just press K.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50003</SpeakerId>
+                          <Text>I will wait.</Text>
+                        </Dialog>
+                      </Commands>
+                    </Node>
+                  </Child>
+                </Node>
+              </ActionNodes>
+            </Event>
+          </Events>
+        </Stage>
+      </Stages>
+      <Relation>-2</Relation>
+      <RewardMoney>60</RewardMoney>
+      <RewardExp>40</RewardExp>
+    </Quest>
+    <Quest>
+      <Id>20020</Id>
+      <Name>Growing is painful</Name>
+      <Description>That's right. Everyone is growing. If you want to learn how to plan your future, please listen to Rumile.</Description>
+      <QuestType></QuestType>
+      <LimitDesc></LimitDesc>
+      <RewardDesc>Experience Points x 50, Gold x 50</RewardDesc>
+      <Reopenable>0</Reopenable>
+      <Persistent>1</Persistent>
+      <Abortable>1</Abortable>
+      <IsHideMsg>0</IsHideMsg>
+      <ReqLevel>1</ReqLevel>
+      <MaxReqTeammates>0</MaxReqTeammates>
+      <MinReqTeammates>0</MinReqTeammates>
+      <CostMoney>0</CostMoney>
+      <DestWaypointId>0</DestWaypointId>
+      <ReqItemId>0</ReqItemId>
+      <CoolDownTime>0</CoolDownTime>
+      <CoolDownKey>0</CoolDownKey>
+      <Stages>
+        <Stage>
+          <Hint>Complete Rumile's test</Hint>
+          <Progress>
+            <Type>0</Type>
+            <Text></Text>
+            <ActorId>-1</ActorId>
+            <MaxNumber>0</MaxNumber>
+            <KeyVillagerId>20004</KeyVillagerId>
+          </Progress>
+          <Events>
+            <Event>
+              <Type>0</Type>
+              <ActorId>20004</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>20004</SpeakerId>
+                      <Text>Hello, it might be unexpected for you. But are you ready for the character upgrade education?</Text>
+                    </Dialog>
+                    <UserPrompt>
+                      <Option1>Can you teach me?</Option1>
+                      <Option2>I am ready for the test!</Option2>
+                      <Option3>Maybe I will wait</Option3>
+                    </UserPrompt>
+                  </Commands>
+                  <Child>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20004</SpeakerId>
+                          <Text>Which aspect of &lt;FONT COLOR=#00ff00&gt;Character growth&lt;/FONT&gt; you want to learn?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Character data</Option1>
+                          <Option2>Upgrade and reward</Option2>
+                          <Option3>Set title</Option3>
+                          <Option4>Awakening</Option4>
+                          <Option5>Not that difficult</Option5>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>0-5systemlist.tga</PicName>
+                              <ShowType>2</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20004</SpeakerId>
+                              <Text>Understanding your ability is important! Press &lt;FONT COLOR=#00ff00&gt;C&lt;/FONT&gt; to open the window. Of course, you can click on the &lt;FONT COLOR=#00ff00&gt;Spirit Button at the bottom left&lt;/FONT&gt; to open a menu. You can also check your current character status.</Text>
+                            </Dialog>
+                            <DialogPic>
+                              <PicName>5-2CharInfo_Adv.tga</PicName>
+                              <ShowType>3</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20004</SpeakerId>
+                              <Text>What you can see now is the advanced chartacter status! In addition to the information on the &lt;FONT COLOR=#ffad5b&gt;upper left side of the screen&lt;/FONT&gt;, you can see &lt;FONT COLOR=#00ff00&gt;Title&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;Awakening&lt;/FONT&gt;, and &lt;FONT COLOR=#00ff00&gt;Status Abilities&lt;/FONT&gt;. Other specific functions are &lt;FONT COLOR=#00ff00&gt;Set title&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;Awakening Status&lt;/FONT&gt;, and &lt;FONT COLOR=#00ff00&gt;Character Reward Points&lt;/FONT&gt;.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>5-5CharInfo_Attrib.tga</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20004</SpeakerId>
+                              <Text>When your experience reaches a certain point, you will get upgraded, and you will get some &lt;FONT COLOR=#00ff00&gt;AP&lt;/FONT&gt; points. You can use these points to create your character.</Text>
+                            </Dialog>
+                            <Dialog>
+                              <SpeakerId>20004</SpeakerId>
+                              <Text>Usually, &lt;FONT COLOR=#00ff00&gt;you can earn experience by completing quests and going out for adventures.&lt;/FONT&gt; Of course, when you complete a quest, you have chance to get bonus.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20004</SpeakerId>
+                              <Text>You can show off your experience through your titles! </Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>So how can I get titles?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <Dialog>
+                                  <SpeakerId>20004</SpeakerId>
+                                  <Text>For example, complete quests, collect cards and etc! You will be given a title sometimes when you complete a quest. Then you can choose your title.&lt;PF&gt;You can go to Meteor Pit to find a person called "&lt;FONT COLOR=#00ff00&gt;Card Fairy&lt;/FONT&gt;". You need to learn how to find her by yourself!</Text>
+                                </Dialog>
+                                <DialogPic>
+                                  <PicName>5-2CharInfo_Adv.tga</PicName>
+                                  <ShowType>2</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>20004</SpeakerId>
+                                  <Text>Same thing, you should open your character data window, then click "&lt;FONT COLOR=#00ff00&gt;Set Title&lt;/FONT&gt;" button. You will see all your titles threre.</Text>
+                                </Dialog>
+                                <DialogPic>
+                                  <PicName>5-4CharInfo_Title.tga</PicName>
+                                  <ShowType>3</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>20004</SpeakerId>
+                                  <Text>Point to the title you want to change, click &lt;FONT COLOR=#00ff00&gt;left button&lt;/FONT&gt;, then here you go. </Text>
+                                </Dialog>
+                              </Commands>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <DialogPic>
+                              <PicName>5-3CharInfo_Awaken.tga</PicName>
+                              <ShowType>1</ShowType>
+                            </DialogPic>
+                            <Dialog>
+                              <SpeakerId>20004</SpeakerId>
+                              <Text>Revivability comes after upgrade and reward.&lt;PF&gt;So how can you get revivability? It is simple. You &lt;FONT COLOR=#00ff00&gt;can get it every time you are upgraded&lt;/FONT&gt; so called &lt;FONT COLOR=#00ff00&gt;AP&lt;/FONT&gt;. These AP points &lt;FONT COLOR=#00ff00&gt;after being assigned&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;till a certain amount, will become a revivability&lt;/FONT&gt;. Of course, the best way to assign has to be found by yourself!</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>20004</SpeakerId>
+                              <Text>Yes, it is easy. When you are ready, we can start the test! </Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20004</SpeakerId>
+                          <Text>Ok, I will start.    First question: Which button is for you to open character summary?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Press "C"</Option1>
+                          <Option2>Press "P"</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <PlayMedia>
+                              <MediaName>fx_o021</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                            <Dialog>
+                              <SpeakerId>20004</SpeakerId>
+                              <Text>Great! Lets go on!&lt;PF&gt;Second question: Can I change my title anytime I want?</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>No</Option1>
+                              <Option2>Yes</Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <PlayMedia>
+                                  <MediaName>pc_091</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                                <Dialog>
+                                  <SpeakerId>20004</SpeakerId>
+                                  <Text>Yes you can. It is very flexible!</Text>
+                                </Dialog>
+                              </Commands>
+                            </Node>
+                            <Node>
+                              <Commands>
+                                <PlayMedia>
+                                  <MediaName>fx_o021</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                                <Dialog>
+                                  <SpeakerId>20004</SpeakerId>
+                                  <Text>Very good, here is the last one! &lt;PF&gt;Third question: Can I get revival bonus in every reward?</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>Yes</Option1>
+                                  <Option2>Not sure</Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <PlayMedia>
+                                      <MediaName>pc_091</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <Dialog>
+                                      <SpeakerId>20004</SpeakerId>
+                                      <Text>You have to know that not every reward includes revival.</Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                                <Node>
+                                  <Commands>
+                                    <PlayMedia>
+                                      <MediaName>fx_o021</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <Dialog>
+                                      <SpeakerId>20004</SpeakerId>
+                                      <Text>Good! If you want to restudy basic operation, come back again.</Text>
+                                    </Dialog>
+                                    <SetQuestStatus>
+                                      <QuestId>-1</QuestId>
+                                      <Status>2</Status>
+                                    </SetQuestStatus>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <PlayMedia>
+                              <MediaName>pc_091</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                            <Dialog>
+                              <SpeakerId>20004</SpeakerId>
+                              <Text>The right answer is "C" on the keyboard.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20004</SpeakerId>
+                          <Text>You can wait, but don't lose your interest.</Text>
+                        </Dialog>
+                      </Commands>
+                    </Node>
+                  </Child>
+                </Node>
+              </ActionNodes>
+            </Event>
+          </Events>
+        </Stage>
+      </Stages>
+      <Relation>-2</Relation>
+      <RewardMoney>50</RewardMoney>
+      <RewardExp>50</RewardExp>
+    </Quest>
+    <Quest>
+      <Id>20021</Id>
+      <Name>Good partner in adventure</Name>
+      <Description>Tarisha will explain some basics about Umbra Guide and quest log in this class.</Description>
+      <QuestType></QuestType>
+      <LimitDesc></LimitDesc>
+      <RewardDesc>Experience Points x 60, Gold x 50</RewardDesc>
+      <Reopenable>0</Reopenable>
+      <Persistent>1</Persistent>
+      <Abortable>1</Abortable>
+      <IsHideMsg>0</IsHideMsg>
+      <ReqLevel>1</ReqLevel>
+      <MaxReqTeammates>0</MaxReqTeammates>
+      <MinReqTeammates>0</MinReqTeammates>
+      <CostMoney>0</CostMoney>
+      <DestWaypointId>0</DestWaypointId>
+      <ReqItemId>0</ReqItemId>
+      <CoolDownTime>0</CoolDownTime>
+      <CoolDownKey>0</CoolDownKey>
+      <Stages>
+        <Stage>
+          <Hint>Complete Tarisha's test</Hint>
+          <Progress>
+            <Type>0</Type>
+            <Text></Text>
+            <ActorId>-1</ActorId>
+            <MaxNumber>0</MaxNumber>
+            <KeyVillagerId>50004</KeyVillagerId>
+          </Progress>
+          <Events>
+            <Event>
+              <Type>0</Type>
+              <ActorId>50004</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>50004</SpeakerId>
+                      <Text>Lebant is just the one who taught me how to open the Umbra Guide. Fortunately, I am clever enough to help myself on the rest of it.</Text>
+                    </Dialog>
+                    <UserPrompt>
+                      <Option1>Lebant? Who is Lebant?</Option1>
+                      <Option2>I want to learn from you</Option2>
+                      <Option3>Take the exam</Option3>
+                    </UserPrompt>
+                  </Commands>
+                  <Child>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50004</SpeakerId>
+                          <Text>Lebant? Lebant is a handsome guy. His pictures are all over my room.</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>You are crazy</Option1>
+                          <Option2></Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>50004</SpeakerId>
+                              <Text>Haha... I won't be surprised.&lt;PF&gt;I heard long time ago that Lebant killed a lot of demons when they were dominating the world. He must be a son of Cloudy Beauty!  If you want to meet him, you can find him at the entrance of the village.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50004</SpeakerId>
+                          <Text>You want to learn about &lt;FONT COLOR=#00ff00&gt;Umbra Guide&lt;/FONT&gt; or &lt;FONT COLOR=#00ff00&gt;Quest Log&lt;/FONT&gt;?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Learn Umbra Guide first</Option1>
+                          <Option2>Learn Quest log first</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>50004</SpeakerId>
+                              <Text>Well then, let's both do our best! I hope that someday my Umbra Guide becomes full, and I could tell my children and grandchildren about them, or talk about it when I'm hanging out with friends.</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>How do I open Umbra Guide?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>0-3systemlist.TGA</PicName>
+                                  <ShowType>1</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50004</SpeakerId>
+                                  <Text>You probably know nothing about Umbra Guide. Push Spirit Button and you will find "&lt;FONT COLOR=#00ff00&gt;Umbra Guide&lt;/FONT&gt;" is in grey. After Lebant teaches you, this button will be active and then you can open it!&lt;PF&gt;You can also press "&lt;FONT COLOR=#00ff00&gt;V&lt;/FONT&gt;" to open it!</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>What's inside?</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <DialogPic>
+                                      <PicName>3-1sealedBook_overall.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50004</SpeakerId>
+                                      <Text>When you get a new monster card, its name will appear. Of course, its level and card number will appear as well!</Text>
+                                    </Dialog>
+                                    <DialogPic>
+                                      <PicName>3-1sealedBook_overall.tga</PicName>
+                                      <ShowType>0</ShowType>
+                                    </DialogPic>
+                                    <DialogPic>
+                                      <PicName>3-1sealedBook_general.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50004</SpeakerId>
+                                      <Text>Click on one of the cards, and you will see the monster's look, level, description and card number.</Text>
+                                    </Dialog>
+                                    <DialogPic>
+                                      <PicName>3-1sealedBook_general.tga</PicName>
+                                      <ShowType>0</ShowType>
+                                    </DialogPic>
+                                    <DialogPic>
+                                      <PicName>3-1sealedBook_overall.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50004</SpeakerId>
+                                      <Text>Let's go back to first page of Umbra Guide. At the bottom of the window, you will see &lt;FONT COLOR=#00ff00&gt;page number&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;number of cards collected&lt;/FONT&gt;, and buttons to switch between &lt;FONT COLOR=#00ff00&gt;Umbra Guide&lt;/FONT&gt; and &lt;FONT COLOR=#00ff00&gt;Magic Square&lt;/FONT&gt;.</Text>
+                                    </Dialog>
+                                    <UserPrompt>
+                                      <Option1>What are they?</Option1>
+                                      <Option2></Option2>
+                                      <Option3></Option3>
+                                    </UserPrompt>
+                                  </Commands>
+                                  <Child>
+                                    <Node>
+                                      <Commands>
+                                        <DialogPic>
+                                          <PicName>3-1sealedBook_overall.tga</PicName>
+                                          <ShowType>1</ShowType>
+                                        </DialogPic>
+                                        <Dialog>
+                                          <SpeakerId>50004</SpeakerId>
+                                          <Text>We have already talked about &lt;FONT COLOR=#00ff00&gt;Umbra Guide&lt;/FONT&gt; layout so I will explain about &lt;FONT COLOR=#00ff00&gt;Magical Assult Square&lt;/FONT&gt;.</Text>
+                                        </Dialog>
+                                        <DialogPic>
+                                          <PicName>3-1sealedBook_overall.tga</PicName>
+                                          <ShowType>0</ShowType>
+                                        </DialogPic>
+                                        <DialogPic>
+                                          <PicName>3-2sealedBook_cardformation.tga</PicName>
+                                          <ShowType>1</ShowType>
+                                        </DialogPic>
+                                        <Dialog>
+                                          <SpeakerId>50004</SpeakerId>
+                                          <Text>&lt;FONT COLOR=#00ff00&gt;Magical Assult Square&lt;/FONT&gt; is very useful too. The part that is numbered 1 is &lt;FONT COLOR=#00ff00&gt;card list&lt;/FONT&gt;, the one in the middle is &lt;FONT COLOR=#00ff00&gt;the button to change card's functions&lt;/FONT&gt;, and the part that is numbered 2 is where you want to set your card layout.</Text>
+                                        </Dialog>
+                                        <DialogPic>
+                                          <PicName>3-2sealedBook_cardformation.tga</PicName>
+                                          <ShowType>0</ShowType>
+                                        </DialogPic>
+                                        <DialogPic>
+                                          <PicName>3-6sealedBook_CFBuff.tga</PicName>
+                                          <ShowType>1</ShowType>
+                                        </DialogPic>
+                                        <Dialog>
+                                          <SpeakerId>50004</SpeakerId>
+                                          <Text>And on the left bottom is the effect summary of the layout.</Text>
+                                        </Dialog>
+                                        <DialogPic>
+                                          <PicName>3-6sealedBook_CFBuff.tga</PicName>
+                                          <ShowType>0</ShowType>
+                                        </DialogPic>
+                                        <DialogPic>
+                                          <PicName>3-3sealedBook_addremovecard.tga</PicName>
+                                          <ShowType>1</ShowType>
+                                        </DialogPic>
+                                        <Dialog>
+                                          <SpeakerId>50004</SpeakerId>
+                                          <Text>Of course, you can add or remove cards as you like. When you change magic card layout, it will affect the amount of SP you will use.</Text>
+                                        </Dialog>
+                                        <DialogPic>
+                                          <PicName>3-3sealedBook_addremovecard.tga</PicName>
+                                          <ShowType>0</ShowType>
+                                        </DialogPic>
+                                        <UserPrompt>
+                                          <Option1>What's the difference?</Option1>
+                                          <Option2></Option2>
+                                          <Option3></Option3>
+                                        </UserPrompt>
+                                      </Commands>
+                                      <Child>
+                                        <Node>
+                                          <Conditions>
+                                            <CheckLevel>
+                                              <Level>99</Level>
+                                              <Operator>5</Operator>
+                                            </CheckLevel>
+                                          </Conditions>
+                                          <Commands>
+                                            <Dialog>
+                                              <SpeakerId>50004</SpeakerId>
+                                              <Text>The current layouts include follow, battle summon, and magic cards.     &lt;FONT COLOR=#00ff00&gt;Follow&lt;/FONT&gt; is for bringing the monsters with you. &lt;FONT COLOR=#00ff00&gt;Battle summon&lt;/FONT&gt; is for summoning the monster during a battle &lt;FONT COLOR=#00ff00&gt;Magic card&lt;/FONT&gt; is for increasing your power through the combination of cards.   Use your cards wisely!</Text>
+                                            </Dialog>
+                                            <UserPrompt>
+                                              <Option1>What is fast summon...?</Option1>
+                                              <Option2></Option2>
+                                              <Option3></Option3>
+                                            </UserPrompt>
+                                          </Commands>
+                                          <Child>
+                                            <Node>
+                                              <Commands>
+                                                <DialogPic>
+                                                  <PicName>3-1sealedBook_overall.tga</PicName>
+                                                  <ShowType>1</ShowType>
+                                                </DialogPic>
+                                                <Dialog>
+                                                  <SpeakerId>50004</SpeakerId>
+                                                  <Text>Yeah, you are smart kid. Let's go back to the first page of Umbra Guide. When you open a monster card, there is a function called &lt;FONT COLOR=#00ff00&gt;fast summon&lt;/FONT&gt;.</Text>
+                                                </Dialog>
+                                                <DialogPic>
+                                                  <PicName>3-1sealedBook_overall.tga</PicName>
+                                                  <ShowType>0</ShowType>
+                                                </DialogPic>
+                                                <DialogPic>
+                                                  <PicName>3-5sealedBook_qsummon.tga</PicName>
+                                                  <ShowType>1</ShowType>
+                                                </DialogPic>
+                                                <Dialog>
+                                                  <SpeakerId>50004</SpeakerId>
+                                                  <Text>If you use&lt;FONT COLOR=#00ff00&gt; fast summon&lt;/FONT&gt;, you will &lt;FONT COLOR=#00ff00&gt;use 2 monster cards&lt;/FONT&gt;. Also, fast summon only apply to the monsters from&lt;FONT COLOR=#00ff00&gt; battle summon&lt;/FONT&gt;.</Text>
+                                                </Dialog>
+                                                <UserPrompt>
+                                                  <Option1>What's Magnifying Glass?</Option1>
+                                                  <Option2></Option2>
+                                                  <Option3></Option3>
+                                                </UserPrompt>
+                                              </Commands>
+                                              <Child>
+                                                <Node>
+                                                  <Commands>
+                                                    <DialogPic>
+                                                      <PicName>3-5sealedBook_qsummon.tga</PicName>
+                                                      <ShowType>0</ShowType>
+                                                    </DialogPic>
+                                                    <Dialog>
+                                                      <SpeakerId>50004</SpeakerId>
+                                                      <Text>I am about to get there!</Text>
+                                                    </Dialog>
+                                                    <DialogPic>
+                                                      <PicName>3-5sealedBook_viewmodel.tga</PicName>
+                                                      <ShowType>2</ShowType>
+                                                    </DialogPic>
+                                                    <Dialog>
+                                                      <SpeakerId>50004</SpeakerId>
+                                                      <Text>When you open a monster card, there will be a Magnifying Glass icon.</Text>
+                                                    </Dialog>
+                                                    <DialogPic>
+                                                      <PicName>3-1sealedBook_model.tga</PicName>
+                                                      <ShowType>3</ShowType>
+                                                    </DialogPic>
+                                                    <Dialog>
+                                                      <SpeakerId>50004</SpeakerId>
+                                                      <Text>You can check out your monster by rotating it!</Text>
+                                                    </Dialog>
+                                                    <DialogPic>
+                                                      <PicName>3-5sealedBook_viewmodel.tga</PicName>
+                                                      <ShowType>0</ShowType>
+                                                    </DialogPic>
+                                                    <DialogPic>
+                                                      <PicName>3-1sealedBook_model.tga</PicName>
+                                                      <ShowType>0</ShowType>
+                                                    </DialogPic>
+                                                    <Dialog>
+                                                      <SpeakerId>50004</SpeakerId>
+                                                      <Text>Isn't Umbra Guide very interesting?</Text>
+                                                    </Dialog>
+                                                  </Commands>
+                                                </Node>
+                                              </Child>
+                                            </Node>
+                                            <Node>
+                                              <Commands>
+                                                <Dialog>
+                                                  <SpeakerId>50004</SpeakerId>
+                                                  <Text>I forgot what I wanna say... I'll let you know when I remember.</Text>
+                                                </Dialog>
+                                              </Commands>
+                                            </Node>
+                                          </Child>
+                                        </Node>
+                                      </Child>
+                                    </Node>
+                                  </Child>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <Dialog>
+                              <SpeakerId>50004</SpeakerId>
+                              <Text>Quest Log keeps the record of the quests you completed. It includes the quests with experience and money rewards, quests in &lt;FONT COLOR=#00ff00&gt;Meteor Pit&lt;/FONT&gt; and &lt;FONT COLOR=#00ff00&gt;Thunder Hill&lt;/FONT&gt;, &lt;FONT COLOR=#00ff00&gt;everyday quest&lt;/FONT&gt; from those organizations, and many others!</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>Where can I see it?</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <DialogPic>
+                                  <PicName>0-4systemlist.TGA</PicName>
+                                  <ShowType>2</ShowType>
+                                </DialogPic>
+                                <Dialog>
+                                  <SpeakerId>50004</SpeakerId>
+                                  <Text>Sorry, I skipped. First of all, how to open quest log. Push Spirit Button on the left, then click Quest button to open it. Or you can simply press "&lt;FONT COLOR=#00ff00&gt;T&lt;/FONT&gt;"  to open quest log.</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>What's inside?</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <DialogPic>
+                                      <PicName>4-1questJournal_overall.tga</PicName>
+                                      <ShowType>2</ShowType>
+                                    </DialogPic>
+                                    <DialogPic>
+                                      <PicName>4-3questJournal_qList.tga</PicName>
+                                      <ShowType>3</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50004</SpeakerId>
+                                      <Text>The first block on the top allows you to switch between "&lt;FONT COLOR=#00ff00&gt;on going quests&lt;/FONT&gt;" and "&lt;FONT COLOR=#00ff00&gt;completed  quests&lt;/FONT&gt;". You can also look up the current quests and completed quests here. The maximum number of quests for a character is &lt;FONT COLOR=#00ff00&gt;50&lt;/FONT&gt;.</Text>
+                                    </Dialog>
+                                    <DialogPic>
+                                      <PicName>4-1questJournal_overall.tga</PicName>
+                                      <ShowType>0</ShowType>
+                                    </DialogPic>
+                                    <DialogPic>
+                                      <PicName>4-3questJournal_qList.tga</PicName>
+                                      <ShowType>0</ShowType>
+                                    </DialogPic>
+                                    <DialogPic>
+                                      <PicName>4-3questJournal_qDesc.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50004</SpeakerId>
+                                      <Text>In the next window under it, you can see its descriptions.</Text>
+                                    </Dialog>
+                                    <DialogPic>
+                                      <PicName>4-3questJournal_qDesc.tga</PicName>
+                                      <ShowType>0</ShowType>
+                                    </DialogPic>
+                                    <DialogPic>
+                                      <PicName>4-1questJournal_overall.tga</PicName>
+                                      <ShowType>1</ShowType>
+                                    </DialogPic>
+                                    <Dialog>
+                                      <SpeakerId>50004</SpeakerId>
+                                      <Text>There are two buttons in block 3, one is &lt;FONT COLOR=#00ff00&gt;cancel quest&lt;/FONT&gt;, and the other one is &lt;FONT COLOR=#00ff00&gt;quest instruction&lt;/FONT&gt;. If you are not familiar with the quest, you can cancel it or you can &lt;FONT COLOR=#ffad5b&gt;forget the quest&lt;/FONT&gt;, &lt;FONT COLOR=#ffad5b&gt;and start it over again&lt;/FONT&gt;.  Hot key for the quest instruction is "&lt;FONT COLOR=#00ff00&gt;R&lt;/FONT&gt;".</Text>
+                                    </Dialog>
+                                    <UserPrompt>
+                                      <Option1>Understood</Option1>
+                                      <Option2></Option2>
+                                      <Option3></Option3>
+                                    </UserPrompt>
+                                  </Commands>
+                                  <Child>
+                                    <Node>
+                                      <Commands>
+                                        <Dialog>
+                                          <SpeakerId>50004</SpeakerId>
+                                          <Text>Don't you have questions about the close button?</Text>
+                                        </Dialog>
+                                        <UserPrompt>
+                                          <Option1>Close is close right?</Option1>
+                                          <Option2></Option2>
+                                          <Option3></Option3>
+                                        </UserPrompt>
+                                      </Commands>
+                                      <Child>
+                                        <Node>
+                                          <Commands>
+                                            <Dialog>
+                                              <SpeakerId>50004</SpeakerId>
+                                              <Text>Yes, you are right.</Text>
+                                            </Dialog>
+                                          </Commands>
+                                        </Node>
+                                      </Child>
+                                    </Node>
+                                  </Child>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>50004</SpeakerId>
+                          <Text>Since you are so excited, let's start the test.&lt;PF&gt;First question: Which button is for you to open quest log?</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Press "L"</Option1>
+                          <Option2>I guess it is "J"</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Commands>
+                            <PlayMedia>
+                              <MediaName>fx_o021</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                            <Dialog>
+                              <SpeakerId>50004</SpeakerId>
+                              <Text>Not bad, let's continue.    Second question: Can I know what quests have I done?</Text>
+                            </Dialog>
+                            <UserPrompt>
+                              <Option1>No</Option1>
+                              <Option2>Yes</Option2>
+                              <Option3></Option3>
+                            </UserPrompt>
+                          </Commands>
+                          <Child>
+                            <Node>
+                              <Commands>
+                                <PlayMedia>
+                                  <MediaName>pc_091</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                                <Dialog>
+                                  <SpeakerId>50004</SpeakerId>
+                                  <Text>Maybe you can press "T" to check your completed quests unless you haven't done any.</Text>
+                                </Dialog>
+                              </Commands>
+                            </Node>
+                            <Node>
+                              <Commands>
+                                <PlayMedia>
+                                  <MediaName>fx_o021</MediaName>
+                                  <MediaType>1</MediaType>
+                                  <PlayTarget>0</PlayTarget>
+                                  <TargetPos>0 0 0</TargetPos>
+                                  <Volume>0</Volume>
+                                </PlayMedia>
+                                <Dialog>
+                                  <SpeakerId>50004</SpeakerId>
+                                  <Text>Great! Don't miss the last one! &lt;PF&gt;Third question: What key opens the quest tip window?</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>Such thing exists?</Option1>
+                                  <Option2>The "H" key</Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <PlayMedia>
+                                      <MediaName>pc_091</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <Dialog>
+                                      <SpeakerId>50004</SpeakerId>
+                                      <Text>I see, how about &lt;FONT COLOR=#00ff00&gt;R&lt;/FONT&gt; key?</Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                                <Node>
+                                  <Commands>
+                                    <PlayMedia>
+                                      <MediaName>fx_o021</MediaName>
+                                      <MediaType>1</MediaType>
+                                      <PlayTarget>0</PlayTarget>
+                                      <TargetPos>0 0 0</TargetPos>
+                                      <Volume>0</Volume>
+                                    </PlayMedia>
+                                    <Dialog>
+                                      <SpeakerId>50004</SpeakerId>
+                                      <Text>You are such a clever person! Here are some experience points from me. This three questions are just a small quest. If you want to study the basic operations, come back anytime.</Text>
+                                    </Dialog>
+                                    <SetQuestStatus>
+                                      <QuestId>-1</QuestId>
+                                      <Status>2</Status>
+                                    </SetQuestStatus>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Commands>
+                            <PlayMedia>
+                              <MediaName>pc_091</MediaName>
+                              <MediaType>1</MediaType>
+                              <PlayTarget>0</PlayTarget>
+                              <TargetPos>0 0 0</TargetPos>
+                              <Volume>0</Volume>
+                            </PlayMedia>
+                            <Dialog>
+                              <SpeakerId>50004</SpeakerId>
+                              <Text>No, it is &lt;FONT COLOR=#00ff00&gt;T&lt;/FONT&gt; key.</Text>
+                            </Dialog>
+                          </Commands>
+                        </Node>
+                      </Child>
+                    </Node>
+                  </Child>
+                </Node>
+              </ActionNodes>
+            </Event>
+          </Events>
+        </Stage>
+      </Stages>
+      <Relation>-2</Relation>
+      <RewardMoney>50</RewardMoney>
+      <RewardExp>60</RewardExp>
+    </Quest>
+    <Quest>
+      <Id>20022</Id>
+      <Name>A story about this world</Name>
+      <Description>Finally, I graduated. Kikibiassa asked me to find &lt;FONT COLOR=#00ff00&gt;Gemba&lt;/FONT&gt;. He will tell me everything about the world. Can I start my journey then?</Description>
+      <QuestType></QuestType>
+      <LimitDesc></LimitDesc>
+      <RewardDesc>Experience point x 20; Gold x 20, Rope Vermilion Bird Armlet x 1</RewardDesc>
+      <Reopenable>0</Reopenable>
+      <Persistent>1</Persistent>
+      <Abortable>1</Abortable>
+      <IsHideMsg>0</IsHideMsg>
+      <ReqLevel>1</ReqLevel>
+      <MaxReqTeammates>0</MaxReqTeammates>
+      <MinReqTeammates>0</MinReqTeammates>
+      <CostMoney>0</CostMoney>
+      <DestWaypointId>0</DestWaypointId>
+      <ReqItemId>0</ReqItemId>
+      <CoolDownTime>0</CoolDownTime>
+      <CoolDownKey>0</CoolDownKey>
+      <Stages>
+        <Stage>
+          <Hint>Listen to Gemba talking about legend stories of the world</Hint>
+          <Progress>
+            <Type>0</Type>
+            <Text></Text>
+            <ActorId>-1</ActorId>
+            <MaxNumber>0</MaxNumber>
+            <KeyVillagerId>20006</KeyVillagerId>
+          </Progress>
+          <Events>
+            <Event>
+              <Type>0</Type>
+              <ActorId>20006</ActorId>
+              <ActionNodes>
+                <Node>
+                  <Commands>
+                    <Dialog>
+                      <SpeakerId>20006</SpeakerId>
+                      <Text>New adventurer! You already finished all &lt;FONT COLOR=#00ff00&gt;Fundamental Tutorials&lt;/FONT&gt;. I have nothing more to teach you. I have a story I want to tell you about this world. Do you want to listen to it? I will give you a &lt;FONT COLOR=#00ff00&gt;reward&lt;/FONT&gt;, if you listen to my story.</Text>
+                    </Dialog>
+                    <UserPrompt>
+                      <Option1>I'll listen</Option1>
+                      <Option2>I don't wanna hear it</Option2>
+                      <Option3></Option3>
+                    </UserPrompt>
+                  </Commands>
+                  <Child>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20006</SpeakerId>
+                          <Text>Listen carefully, young one, I shall tell you the history of this world. We used to share this realm with those known as the Umbra, who were interested in power. However, this power only came to them through the suffering of others. They began kidnapping children and others to explore this power further and then they suddenly disappeared without a trace.&lt;PF&gt;Many years passed, until one fateful day, they returned-with much more power than they originally had. They attacked villages, enslaved the inhabitants and wreaked havoc across the land. Many warriors fell to their onslaught. All seemed lost until the appearance of &lt;FONT COLOR=#00ff00&gt;four warriors: Morfey, Masamune, Yuric, and Meruna,&lt;/FONT&gt; who used their knowledge to defeat the Umbra in 12 epic battles.&lt;PF&gt;Their skills were revolutionary, they used &lt;FONT COLOR=#00ff00&gt;Swords&lt;/FONT&gt; and &lt;FONT COLOR=#00ff00&gt;Magic&lt;/FONT&gt;, and harnessed the power of &lt;FONT COLOR=#00ff00&gt;Machina&lt;/FONT&gt;. They also used special techniques, such as &lt;FONT COLOR=#00ff00&gt;Morphs&lt;/FONT&gt;. As the battles continued, they utilized Spirit Absorption, &lt;FONT COLOR=#00ff00&gt;Soul Power&lt;/FONT&gt; from defeated Umbra.&lt;PF&gt;Using these techniques, they drove the creatures back to the Umbra Realm, and followed them to finish the battle! The bravery of these warriors was a sight to behold...four souls against nearly 200 million Umbra! Yet, after a thousand days, they finally triumphed.&lt;PF&gt;The &lt;FONT COLOR=#00ff00&gt;Umbra Lords, the PenUmbra, and their leader, the OtroSoul&lt;/FONT&gt; were sealed in what Morfey called a Hisii Chamber, and left within the Umbra Realm&lt;/FONT&gt;. Later, these four warriors began to spread their teachings, based on how they viewed the world, and the "Soul Seals" they understood. That is how this world came to be.</Text>
+                        </Dialog>
+                        <UserPrompt>
+                          <Option1>Got it!</Option1>
+                          <Option2>How can I help you?</Option2>
+                          <Option3></Option3>
+                        </UserPrompt>
+                      </Commands>
+                      <Child>
+                        <Node>
+                          <Child>
+                            <Node>
+                              <Conditions>
+                                <CheckFreeItemSlot>
+                                  <SlotCount>1</SlotCount>
+                                  <Operator>5</Operator>
+                                </CheckFreeItemSlot>
+                              </Conditions>
+                              <Commands>
+                                <Dialog>
+                                  <SpeakerId>20006</SpeakerId>
+                                  <Text>Beginner, you have graduated. This bracelet can protect you. You should find &lt;FONT COLOR=#00ff00&gt;Kite&lt;/FONT&gt; in Trial Field. He is in charge of fight skills.</Text>
+                                </Dialog>
+                                <AddQuest>
+                                  <QuestId>20008</QuestId>
+                                </AddQuest>
+                                <SetQuestStatus>
+                                  <QuestId>-1</QuestId>
+                                  <Status>2</Status>
+                                </SetQuestStatus>
+                              </Commands>
+                            </Node>
+                            <Node>
+                              <Commands>
+                                <Dialog>
+                                  <SpeakerId>20006</SpeakerId>
+                                  <Text>Your backpack is full! I cannot give you the reward.</Text>
+                                </Dialog>
+                              </Commands>
+                            </Node>
+                          </Child>
+                        </Node>
+                        <Node>
+                          <Child>
+                            <Node>
+                              <Conditions>
+                                <CheckFreeItemSlot>
+                                  <SlotCount>1</SlotCount>
+                                  <Operator>5</Operator>
+                                </CheckFreeItemSlot>
+                              </Conditions>
+                              <Commands>
+                                <Dialog>
+                                  <SpeakerId>20006</SpeakerId>
+                                  <Text>Beginner, you have graduated. This bracelet can protect you. You should find &lt;FONT COLOR=#00ff00&gt;Kite&lt;/FONT&gt; in Trial Field. He is in charge of fight skills.</Text>
+                                </Dialog>
+                                <AddQuest>
+                                  <QuestId>20008</QuestId>
+                                </AddQuest>
+                                <SetQuestStatus>
+                                  <QuestId>-1</QuestId>
+                                  <Status>2</Status>
+                                </SetQuestStatus>
+                              </Commands>
+                            </Node>
+                            <Node>
+                              <Commands>
+                                <Dialog>
+                                  <SpeakerId>20006</SpeakerId>
+                                  <Text>Oh, maybe they forgot to tell you something.</Text>
+                                </Dialog>
+                                <UserPrompt>
+                                  <Option1>What is it?</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                </UserPrompt>
+                              </Commands>
+                              <Child>
+                                <Node>
+                                  <Commands>
+                                    <Dialog>
+                                      <SpeakerId>20006</SpeakerId>
+                                      <Text>Please clean up your bag before receiving &lt;FONT COLOR=#ffad5b&gt;more quests&lt;/FONT&gt;.</Text>
+                                    </Dialog>
+                                  </Commands>
+                                </Node>
+                              </Child>
+                            </Node>
+                          </Child>
+                        </Node>
+                      </Child>
+                    </Node>
+                    <Node>
+                      <Commands>
+                        <Dialog>
+                          <SpeakerId>20006</SpeakerId>
+                          <Text>That's too bad. You were almost able to get the &lt;FONT COLOR=#00ff00&gt;reward&lt;/FONT&gt;...</Text>
+                        </Dialog>
+                      </Commands>
+                    </Node>
+                  </Child>
+                </Node>
+              </ActionNodes>
+            </Event>
+          </Events>
+        </Stage>
+      </Stages>
+      <Relation>-2</Relation>
+      <RewardMoney>20</RewardMoney>
+      <RewardExp>20</RewardExp>
+      <RewardItems>
+        <Item>
+          <Id>21002</Id>
+          <Count>1</Count>
+        </Item>
+      </RewardItems>
+    </Quest>
+    
+  </Quests>
+
+</QuestDB>
+
+             
