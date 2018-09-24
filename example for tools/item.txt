@@ -1,2 +1,4 @@
 ﻿ItemId	cid	Name	Annotation1	Annotation2	Annotation3	Annotation4	Comment	Annotation5	DropModel	Icon	Value	ReqSex	ReqCivilHonor	ReqLevel	ReqClass	EffectType	EffectParam	MaxCarriedSize	MaxStackSize	Weight	CanDrop	CanSell	CanExchange	IsQuestItem	IsTempItem	IsPlayerUnique	IsRandom	VersionContent	VersionNumber	SetUpDate
+28003	500	Bat Wing	½¿½»	¸Õ·Ò¥­­ì	3	Âø³½			grd_item	ui\icon\props_ic01.tga 01 11	10	-1	0	1	0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20	0	-1	-1	50	1	1	1	1	0	0	0	0			
+31146	500	Tansy Herb					Effective at warding off evil, recovering MP and other advantages...		grd_item	ui\icon\props_ic03.tga 08 05	0	-1	0	1	0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20	1	2625	-1	50	1	0	0	0	1	0	0	0			
 37008	500	Card of Simple Soul					Card to prove someones a good person		grd_Qitem	ui\icon\props_ic02.tga 08 14	0	-1	0	1	0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20	0	-1	500	20	1	0	0	0	1	0	0	0			

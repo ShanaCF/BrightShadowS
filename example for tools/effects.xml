@@ -1,0 +1,612 @@
+<?xml version='1.0' encoding='big5'?>
+<Effects>
+<!--Roadc編的正式技能區-->
+
+<!--系統用Effect-->
+
+
+
+<Posture><!--玩家姿態設定-->
+    <Id>1</Id><!--死神機制 定身-->
+    <Lv>9999</Lv><!--Effect Level-->
+    <Category>9999</Category><!--效果類別-->
+    <Timeless>1</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>0</Duration><!--Response Time-->
+    <RepeatInterval>1</RepeatInterval><!--作用間隔-->
+    <Name>Slow</Name>
+    <Comment>Unable to Attack, Unable to move</Comment>
+    <Icon>ui\icon\skill_ic01.tga 04 05</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <ImmunityLevel>0</ImmunityLevel><!--免疫等級-->
+    <Breakable>0</Breakable><!--當玩家受到傷害時此效果可否被解除(0:不可被解除 1:可被解除)-->
+    <NotMove>1</NotMove><!--無法移動(0:可移動 1:不可移動)-->
+    <NotAttack>1</NotAttack><!--無法攻擊(0:可攻擊 1:不可攻擊)-->
+    <NotBeAttacked>0</NotBeAttacked><!--不能成為普通攻擊的目標(0:可被攻擊 1:不可被攻擊)-->
+    <NotCast>1</NotCast><!--無法施法(0: 可施法 1:不可施法)-->
+    <NotBeCasted>0</NotBeCasted><!--不能成為法術的目標(0:可被法術攻擊 1:不可被法術攻擊)-->
+</Posture>
+
+<!--以下為每日任務用用Effect　SOGO亂入區-->
+
+<PowerBonus><!--能力加成-->
+    <Id>9014</Id><!--每日任務� 風精靈的祝福Lv1-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Category>47</Category><!--類別-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>600</Duration><!--Response Time-->
+    <Name>Wind Angel's Blessing Lv1</Name>
+    <Comment>Attacking Speed Increased</Comment>
+    <Icon>ui\icon\skill_ic02.tga 07 14</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <BonusChance>100</BonusChance>
+    <Bonus><!--加成資料-->
+      <LifeMax>0</LifeMax><!--最大生命值-->
+      <ManaMax>0</ManaMax><!--最大魔力值-->
+      <SpiritMax>0</SpiritMax><!--最大魂力值-->
+      <LifeRegen>0</LifeRegen><!--生命值重生速度-->
+      <ManaRegen>0</ManaRegen><!--魔力值重生速度-->
+      <NearAttack>0</NearAttack><!--近距離物理攻擊力-->
+      <FarAttack>0</FarAttack><!--遠距離物理攻擊力-->
+      <MagAttack>0</MagAttack><!--魔法攻擊力-->
+      <PhyDefense>0</PhyDefense><!--物理防禦力-->
+      <MagDefense>0</MagDefense><!--魔法防禦力-->
+      <HitRate>0</HitRate><!--命中率-->
+      <AvoidRate>0</AvoidRate><!--迴避率-->
+      <AttackTime>-0.01</AttackTime><!--攻擊時間-->
+      <MoveSpeed>0</MoveSpeed><!--移動速度-->
+      <SpiritSave>0</SpiritSave><!--魂力節省-->
+      <SpiritExtra>0</SpiritExtra><!--魂力獲得-->
+      <ProduceRate>0</ProduceRate><!--生產成功率-->
+      <Weight>0</Weight><!--負重-->
+      <WeightMax>0</WeightMax><!--負重上限-->
+    </Bonus>
+  </PowerBonus>
+
+<DamageTransform><!--使用自身的屬性點數抵免來自敵人的物理或魔法傷害的效果-->
+    <Id>9015</Id><!--每日任務� 水精靈的祝福Lv1-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Category>48</Category><!--類別-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>600</Duration><!--Response Time-->
+    <Name>Water Angel's Blessing Lv1</Name>
+    <Comment>Absorb Magic damage</Comment>
+    <Icon>ui\icon\skill_ic02.tga 06 14</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <PhyDamageReduce>0</PhyDamageReduce><!--每一次物理傷害吸收的數量-->
+    <MagDamageReduce>150</MagDamageReduce><!--每一次魔法傷害吸收的數量-->
+    <ManaCost>0</ManaCost><!--每一次吸收傷害所需耗費的 MP值-->
+    <SpiritCost>0</SpiritCost><!--每一次吸收傷害所需耗費的 SP值-->
+    <MaxDamageReduce>600</MaxDamageReduce><!--傷害吸收的總數量-->
+  </DamageTransform>
+  
+<!--以上為每日任務用用Effect　SOGO亂入區-->  
+
+  <CFSummon><!--召喚牌陣效果-->
+    <Id>9997</Id><!--通用 卡片召喚-->
+    <Name>Summon Card</Name>
+    <Comment>Summon Umbra from a Card</Comment>
+    <Icon>ui\icon\skill_ic03.tga 10 06</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+  </CFSummon>
+
+
+
+
+
+
+
+  <CFPowerBonus><!--輔助牌陣效果-->
+    <Id>9998</Id><!--通用 卡片輔助-->
+    <Name>Card Support</Name>
+    <Comment>Power Self</Comment>
+    <Icon>ui\icon\skill_ic03.tga 09 06</Icon><!--effect貼圖資料-->
+    <AttachVisual>fx_g0022</AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+  </CFPowerBonus>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <AbnormalImmunity>
+    <Id>10000</Id><!--通用 解除召喚座騎-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>0</Duration><!--Response Time-->
+    <AbnormalType>5</AbnormalType><!--異常種類(0=中毒 1=封招 2=瞎眼 3=恐懼 4=詛咒 5=變身)-->
+    <ImmunityChance>100</ImmunityChance>    
+<!--免疫成功率-->
+  </AbnormalImmunity>
+
+
+
+<!--以下初心者區-->
+<ArmsDamage>	
+    <Id>11000</Id><!--初心者 重擊-->
+    <DamageType>0</DamageType><!--0=近攻,1=遠攻,2=魔攻 -->
+    <ChangeAmount>-50</ChangeAmount><!--傷害值-->
+    <Trample>0</Trample><!--0N/1Y是否無視防禦-->
+    <NaturalAttrib>0</NaturalAttrib><!--自然屬性-->
+    <WeaponDamageRate>90~110%</WeaponDamageRate><!--技能輸入以外的傷害漂移值-->
+    <Child>
+    <HateModified>
+    <ModifyType>3</ModifyType><!--變更類型(0=減為零值 1=加成 2=加至目前最憎恨值之2倍)-->
+    <ChangeAmount>45</ChangeAmount><!--改變對目標憎恨值的總數量(當ModifyType==1時,此值才有意義)-->
+    <ModifyChance>75</ModifyChance><!--成功率(0 - 100)-->
+    </HateModified>
+    </Child>
+  </ArmsDamage>
+
+  <LifeModified>
+    <Id>11005</Id><!--初心者 靈能加持-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>0</Duration><!--Response Time-->
+    <RepeatInterval>0</RepeatInterval><!--作用間隔-->
+    <DamageType>2</DamageType><!--0=近攻,1=遠攻,2=魔攻 -->
+    <ChangeAmount>100</ChangeAmount><!--傷害總值(負值為傷害值,正值為治療值)-->
+    <NaturalAttrib>0</NaturalAttrib><!--自然屬性-->
+  </LifeModified>
+  
+  <Transform>
+    <Id>11006</Id><!--初心者 石甲護身-->
+    <RepeatInterval>1</RepeatInterval><!--作用間隔-->
+    <Name>Morph (Golem)</Name>
+    <Comment>Increase Defense Power 101 point</Comment>
+    <Icon>ui\icon\skill_ic01.tga 04 01</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <TransformType>1</TransformType><!--變身類型索引ID-->
+    <MaintainValue>3</MaintainValue><!--維持變身每一週期所需花費的SP值-->
+    <Child>
+    <Posture><!--玩家姿態設定-->
+    <Timeless>1</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>0</Duration><!--Response Time-->
+    <RepeatInterval>0</RepeatInterval><!--作用間隔-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <NotMove>0</NotMove><!--無法移動(0:可移動 1:不可移動)-->
+    <NotAttack>1</NotAttack><!--無法攻擊(0:可攻擊 1:不可攻擊)-->
+    <NotBeAttacked>0</NotBeAttacked><!--不能成為普通攻擊的目標(0:可被攻擊 1:不可被攻擊)-->
+    <NotCast>0</NotCast><!--無法施法(0: 可施法 1:不可施法)-->
+    <NotBeCasted>0</NotBeCasted><!--不能成為法術的目標(0:可被法術攻擊 1:不可被法術攻擊)-->
+    </Posture>
+    <PowerBonus><!--能力加成-->
+    <Timeless>1</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>0</Duration><!--Response Time-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <Bonus><!--加成資料-->
+      <LifeMax>0</LifeMax><!--最大生命值-->
+      <ManaMax>0</ManaMax><!--最大魔力值-->
+      <SpiritMax>0</SpiritMax><!--最大魂力值-->
+      <LifeRegen>0</LifeRegen><!--生命值重生速度-->
+      <ManaRegen>0</ManaRegen><!--魔力值重生速度-->
+      <NearAttack>0</NearAttack><!--近距離物理攻擊力-->
+      <FarAttack>0</FarAttack><!--遠距離物理攻擊力-->
+      <MagAttack>0</MagAttack><!--魔法攻擊力-->
+      <PhyDefense>101</PhyDefense><!--物理防禦力-->
+      <MagDefense>0</MagDefense><!--魔法防禦力-->
+      <HitRate>0</HitRate><!--命中率-->
+      <AvoidRate>0</AvoidRate><!--迴避率-->
+      <AttackTime>0</AttackTime><!--攻擊時間-->
+      <MoveSpeed>0</MoveSpeed><!--移動速度-->
+      <SpiritSave>0</SpiritSave><!--魂力節省-->
+      <SpiritExtra>0</SpiritExtra><!--魂力獲得-->
+      <ProduceRate>0</ProduceRate><!--生產成功率-->
+      <Weight>0</Weight><!--負重-->
+      <WeightMax>0</WeightMax><!--負重上限-->
+      </Bonus>
+      </PowerBonus>
+    </Child>
+  </Transform>
+
+<!--公會技能區-->
+  <PowerBonus>
+    <Id>11007</Id><!--公會技能 騰雲術-->
+    <Lv>5</Lv><!--Effect Level-->
+    <Category>2</Category><!--效果種類-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>120</Duration><!--Response Time-->
+    <Name>Riding cloud</Name>
+    <Comment>Increase moving Speed</Comment>
+    <Icon>ui\icon\skill_ic03.tga 12 03</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <Bonus><!--加成資料-->
+      <LifeMax>0</LifeMax><!--最大生命值-->
+      <ManaMax>0</ManaMax><!--最大魔力值-->
+      <SpiritMax>0</SpiritMax><!--最大魂力值-->
+      <LifeRegen>0</LifeRegen><!--生命值重生速度-->
+      <ManaRegen>0</ManaRegen><!--魔力值重生速度-->
+      <NearAttack>0</NearAttack><!--近距離物理攻擊力-->
+      <FarAttack>0</FarAttack><!--遠距離物理攻擊力-->
+      <MagAttack>0</MagAttack><!--魔法攻擊力-->
+      <PhyDefense>0</PhyDefense><!--物理防禦力-->
+      <MagDefense>0</MagDefense><!--魔法防禦力-->
+      <HitRate>0</HitRate><!--命中率-->
+      <AvoidRate>0</AvoidRate><!--迴避率-->
+      <AttackTime>0</AttackTime><!--攻擊時間-->
+      <MoveSpeed>95</MoveSpeed><!--移動速度-->
+      <SpiritSave>0</SpiritSave><!--魂力節省-->
+      <SpiritExtra>0</SpiritExtra><!--魂力獲得-->
+      <ProduceRate>0</ProduceRate><!--生產成功率-->
+      <Weight>0</Weight><!--負重-->
+      <WeightMax>0</WeightMax><!--負重上限-->
+    </Bonus>
+  </PowerBonus>
+
+  <FeignDeath><!--裝死效果-->
+    <Id>11008</Id><!--一轉職 裝死-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>30</Duration><!--Response Time-->
+    <RepeatInterval>1</RepeatInterval><!--作用間隔-->
+    <Name>Fake</Name>
+    <Comment>Cancel monster's Attack</Comment>
+    <Icon>ui\icon\skill_ic03.tga 12 04</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <FeignChance>75</FeignChance><!--裝死成功率-->
+    <FeignLevel>35</FeignLevel><!--裝死等級-->
+  </FeignDeath>
+ 
+
+
+
+
+
+  <!--以下為武士區-->
+    <NaturalAttribEffect><!--作用在特定自然屬性的效果-->
+    <Id>11111</Id><!--武士 聖者之路Lv1-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Category>1</Category><!--效果種類-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>6</Duration><!--Response Time-->
+    <RepeatInterval>2</RepeatInterval><!--作用間隔-->
+    <Name>Gaia's Aura I</Name>
+    <Comment>6 seconds, slip damage</Comment>
+    <Icon>ui\icon\skill_ic01.tga 07 01</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <DemandNoneAttrib>0</DemandNoneAttrib><!--要求無屬性-->
+    <DemandGoldAttrib>0</DemandGoldAttrib><!--要求金屬性-->
+    <DemandTreeAttrib>0</DemandTreeAttrib><!--要求木屬性-->
+    <DemandSandAttrib>1</DemandSandAttrib><!--要求土屬性-->
+    <DemandWaterAttrib>0</DemandWaterAttrib><!--要求水屬性-->
+    <DemandFireAttrib>0</DemandFireAttrib><!--要求火屬性-->
+    <Child>  
+    <ArmsDamage><!--跑公式的傷害, 瞬間傷害(會計算命中率)-->
+    <DamageType>0</DamageType><!--0=近攻,1=遠攻,2=魔攻 -->
+    <ChangeAmount>-15</ChangeAmount><!--傷害值-->
+    <Trample>0</Trample><!--0N/1Y是否無視防禦-->
+    <NaturalAttrib>0</NaturalAttrib><!--自然屬性-->
+    <WeaponDamageRate>90~110%</WeaponDamageRate><!--技能輸入以外的傷害漂移值-->
+    </ArmsDamage>
+    <LifeModified><!--直接的傷害, 多用於持續性傷害(一定會命中)-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>6</Duration><!--Response Time-->
+    <RepeatInterval>2</RepeatInterval><!--作用間隔-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <DamageType>0</DamageType><!--0=近攻,1=遠攻,2=魔攻 -->
+    <ChangeAmount>-75</ChangeAmount><!--傷害值(負值為傷害值,正值為治療值)-->
+    <NaturalAttrib>0</NaturalAttrib><!--自然屬性-->
+    </LifeModified>
+    </Child>
+    </NaturalAttribEffect>
+    
+    <HateModified>
+    <Id>11116</Id><!--武士 引誘怪物Lv1-->
+    <ModifyType>3</ModifyType><!--變更類型(0=減為零值 1=加成 2=加至目前最憎恨值之2倍)-->
+    <ChangeAmount>15</ChangeAmount><!--改變對目標憎恨值的總數量(當ModifyType==1時,此值才有意義)-->
+    <ModifyChance>55</ModifyChance><!--成功率(0 - 100)-->
+    </HateModified>
+
+  <EnergyChange><!--玩家HP-MP-SP三者間的互換效果-->
+    <Id>11124</Id><!--武士 SP轉換HP-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Category>1</Category><!--效果種類-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>120</Duration><!--Response Time-->
+    <RepeatInterval>5</RepeatInterval><!--作用間隔-->
+    <Name>Soul Power</Name>
+    <Comment>Slowly change SP to HP for 120 seconds</Comment>
+    <Icon>ui\icon\skill_ic01.tga 12 01</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <LifeChange>65</LifeChange><!--生命值的改變量-->
+    <ManaChange>0</ManaChange><!--魔力值的改變量-->
+    <SpiritChange>-50</SpiritChange><!--靈力值的改變量-->
+  </EnergyChange>
+
+  <WeaponMaster><!--武器專精效果-->
+    <Id>11125</Id><!--武士 武神附身-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>180</Duration><!--Response Time-->
+    <RepeatInterval>1</RepeatInterval><!--作用間隔-->
+    <Name>Ferocity</Name>
+    <Comment>When equipped with [Weapon], short-range attack power increases</Comment>
+    <Icon>ui\icon\skill_ic03.tga 13 04</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <WeaponStyle>0</WeaponStyle><!--武器類型-->
+    <Bonus><!--加成資料-->
+      <LifeMax>0</LifeMax><!--最大生命值-->
+      <ManaMax>0</ManaMax><!--最大魔力值-->
+      <SpiritMax>0</SpiritMax><!--最大魂力值-->
+      <LifeRegen>0</LifeRegen><!--生命值重生速度-->
+      <ManaRegen>0</ManaRegen><!--魔力值重生速度-->
+      <NearAttack>30</NearAttack><!--近距離物理攻擊力-->
+      <FarAttack>0</FarAttack><!--遠距離物理攻擊力-->
+      <MagAttack>0</MagAttack><!--魔法攻擊力-->
+      <PhyDefense>0</PhyDefense><!--物理防禦力-->
+      <MagDefense>0</MagDefense><!--魔法防禦力-->
+      <HitRate>0</HitRate><!--命中率-->
+      <AvoidRate>0</AvoidRate><!--迴避率-->
+      <AttackTime>0</AttackTime><!--攻擊時間-->
+      <MoveSpeed>0</MoveSpeed><!--移動速度-->
+      <SpiritSave>0</SpiritSave><!--魂力節省-->
+      <SpiritExtra>0</SpiritExtra><!--魂力獲得-->
+      <ProduceRate>0</ProduceRate><!--生產成功率-->
+      <WeightMax>0</WeightMax><!--負重上限-->
+      <LifeRegenRate>0</LifeRegenRate><!--生命回復值加成率-->
+      <ManaRegenRate>0</ManaRegenRate><!--魔力回復值加成率-->
+      <NearAttackRate>0</NearAttackRate><!--近距離物理攻擊力加成率-->
+      <FarAttackRate>0</FarAttackRate><!--遠距離物理攻擊力加成率-->
+      <MagAttackRate>0</MagAttackRate><!--魔法攻擊力加成率-->
+      <PhyDefenseRate>0</PhyDefenseRate><!--物理防禦加成率-->
+      <MagDefenseRate>0</MagDefenseRate><!--魔法防禦加成率-->
+      <AttackSpeedRate>0</AttackSpeedRate><!--攻擊速度加成率-->
+      <MoveSpeedRate>0</MoveSpeedRate><!--移動速度加成率-->
+      <Discount>0</Discount><!--購物折扣-->
+      <DropRate>0</DropRate><!--掉寶加成率-->
+    </Bonus>
+  </WeaponMaster>
+
+
+
+<!--以下是方術士區-->
+
+  <Abnormal>
+    <Id>11221</Id><!--方術士 下毒Lv1-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Category>1</Category><!--效果種類-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>60</Duration><!--Response Time-->
+    <Name>Poison I</Name>
+    <Comment>61 damage+5 damage per second</Comment>
+    <Icon>ui\icon\skill_ic01.tga 04 02</Icon><!--effect貼圖資料-->
+    <AttachVisual>fx_b0001</AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <AbnormalType>0</AbnormalType><!--異常種類(0=中毒 1=封招 2=瞎眼 3=恐懼 4=詛咒 5=變身)-->
+  <Child>  
+  <LifeModified>
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>0</Duration><!--Response Time-->
+    <DamageType>2</DamageType><!--0=近攻,1=遠攻,2=魔攻 -->
+    <ChangeAmount>-61</ChangeAmount><!--傷害總值(負值為傷害值,正值為治療值)-->
+    <NaturalAttrib>0</NaturalAttrib><!--自然屬性-->
+  </LifeModified>
+  <LifeModified>
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>60</Duration><!--Response Time-->
+    <RepeatInterval>1</RepeatInterval><!--作用間隔-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <DamageType>2</DamageType><!--0=近攻,1=遠攻,2=魔攻 -->
+    <ChangeAmount>-20</ChangeAmount><!--傷害總值(負值為傷害值,正值為治療值)-->
+    <NaturalAttrib>0</NaturalAttrib><!--自然屬性-->
+  </LifeModified>
+  </Child>
+  </Abnormal>
+
+  <LifeModified>
+    <Id>11226</Id><!--方術士 靈力引爆-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>0</Duration><!--Response Time-->
+    <DamageType>2</DamageType><!--0=近攻,1=遠攻,2=魔攻 -->
+    <ChangeAmount>-800</ChangeAmount><!--傷害總值(負值為傷害值,正值為治療值)-->
+    <NaturalAttrib>0</NaturalAttrib><!--自然屬性-->
+  </LifeModified>
+
+  <Power><!--威力加成效果-->
+    <Id>11230</Id><!--方術士 魔力增幅-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>300</Duration><!--Response Time-->
+    <RepeatInterval>1</RepeatInterval><!--作用間隔-->
+    <Name>Meruna's Blessing</Name>
+    <Comment>Increase Magic Attack</Comment>
+    <Icon>ui\icon\skill_ic03.tga 14 04</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <PowerValue>30</PowerValue><!--威力加成比例-->
+  </Power>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--以下是靈媒區-->
+
+
+  <Resurrection><!--角色復活效果-->
+    <Id>11324</Id><!--靈媒 復活術Lv1-->
+    <Duration>30</Duration><!--Response Time-->
+    <Name>Revive I</Name>
+    <Comment>Revive one person. For 30 seconds, that player's attack, magic attack, and long-range attack is reduced by 30%</Comment>
+    <Icon>ui\icon\skill_ic01.tga 09 04</Icon><!--effect貼圖資料-->
+    <AttachVisual>fx_b0002</AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <ResurrectionType>0</ResurrectionType><!--0:作用在死亡角色使其復活 1:作用在活著角色使其死亡時可瞬間重生-->
+    <LifeValue>1</LifeValue><!--復活回復之生命值-->
+  <Child>  
+  <PowerBonus><!--能力加成-->
+    <Timeless>1</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>0</Duration><!--Response Time-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <ImmunityLevel>0</ImmunityLevel><!--免疫等級-->
+    <BonusChance>100</BonusChance>
+    <ActorState>0</ActorState>  
+    <Bonus><!--加成資料-->
+      <LifeMax>0</LifeMax><!--最大生命值-->
+      <ManaMax>0</ManaMax><!--最大魔力值-->
+      <SpiritMax>0</SpiritMax><!--最大魂力值-->
+      <LifeRegenRate>0</LifeRegenRate><!--生命值重生速度-->
+      <ManaRegenRate>0</ManaRegenRate><!--魔力值重生速度-->
+      <NearAttackRate>-30</NearAttackRate><!--近距離物理攻擊力-->
+      <FarAttackRate>-30</FarAttackRate><!--遠距離物理攻擊力-->
+      <MagAttackRate>-30</MagAttackRate><!--魔法攻擊力-->
+      <PhyDefense>0</PhyDefense><!--物理防禦力-->
+      <MagDefense>0</MagDefense><!--魔法防禦力-->
+      <HitRate>0</HitRate><!--命中率-->
+      <AvoidRate>0</AvoidRate><!--迴避率-->
+      <AttackTime>0</AttackTime><!--攻擊時間-->
+      <MoveSpeed>0</MoveSpeed><!--移動速度-->
+      <SpiritSave>0</SpiritSave><!--魂力節省-->
+      <SpiritExtra>0</SpiritExtra><!--魂力獲得-->
+      <ProduceRate>0</ProduceRate><!--生產成功率-->
+      <Weight>0</Weight><!--負重-->
+      <WeightMax>0</WeightMax><!--負重上限-->
+    </Bonus>
+  </PowerBonus>
+  </Child>
+  </Resurrection>
+
+<!--以下是機械士區-->
+
+
+  <Steal><!--偷竊效果-->
+    <Id>11414</Id><!--機械士 偷竊-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>0</Duration><!--Response Time-->
+    <RepeatInterval>1</RepeatInterval><!--作用間隔-->
+    <Name>Direct Damage</Name>
+    <Comment>For y seconds, x damage</Comment>
+    <Icon>ui\icon\skill_ic01.tga 09 01</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <StealChance>25</StealChance><!--偷竊成功率-->
+    <StealLevel>10</StealLevel><!--偷竊等級-->
+  </Steal>
+
+
+
+<!--以下為二轉技能區-->
+<!--以下是聖騎士區-->
+
+
+
+  <DamageTransform><!--使用自身的屬性點數抵免來自敵人的物理或魔法傷害的效果-->
+    <Id>12131</Id><!--聖騎士 光之璧障-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Category>1</Category><!--效果種類-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>120</Duration><!--Response Time-->
+    <Name>Soul Wall</Name>
+    <Comment>Create a wall that protects you for 120 seconds</Comment>
+    <Icon>ui\icon\skill_ic01.tga 14 03</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <PhyDamageReduce>200</PhyDamageReduce><!--每一次物理傷害吸收的數量-->
+    <MagDamageReduce>50</MagDamageReduce><!--每一次魔法傷害吸收的數量-->
+    <ManaCost>0</ManaCost><!--每一次吸收傷害所需耗費的 MP值-->
+    <SpiritCost>50</SpiritCost><!--每一次吸收傷害所需耗費的 SP值-->
+    <MaxDamageReduce>1200</MaxDamageReduce><!--傷害吸收的總數量-->
+  </DamageTransform>
+
+  <Thrown><!--擊飛-->
+    <Id>12138</Id><!--聖騎士 盾牌震退Lv1-->
+    <Duration>1</Duration><!--Response Time-->
+    <Name> </Name><!--effect名稱-->
+    <Comment> </Comment><!--effect說明-->
+    <Icon> </Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <ImmunityLevel>0</ImmunityLevel><!--免疫等級-->
+    <Distance>300</Distance><!--擊飛距離-->
+    <Slope>0.7</Slope><!--擊飛斜度-->
+    <Child>  
+    <ArmsDamage><!--跑公式的傷害, 瞬間傷害(會計算命中率)-->
+    <DamageType>0</DamageType><!--0=近攻,1=遠攻,2=魔攻 -->
+    <ChangeAmount>-150</ChangeAmount><!--傷害值-->
+    <Trample>0</Trample><!--0N/1Y是否無視防禦-->
+    <NaturalAttrib>0</NaturalAttrib><!--自然屬性-->
+    <WeaponDamageRate>80~120%</WeaponDamageRate><!--技能輸入以外的傷害漂移值-->
+    </ArmsDamage>
+    </Child>
+    </Thrown>
+
+  <EnergyChange><!--玩家HP-MP-SP三者間的互換效果-->
+    <Id>14123</Id><!--物品 艾草-->
+    <Lv>1</Lv><!--Effect Level-->
+    <Category>0</Category><!--效果類別-->
+    <Timeless>0</Timeless><!--0N/1Y Is affected over time.--> 
+    <Duration>0</Duration><!--Response Time-->
+    <RepeatInterval>1</RepeatInterval><!--作用間隔-->
+    <Name>Direct Damage</Name>
+    <Comment>For y seconds, x damage</Comment>
+    <Icon>ui\icon\skill_ic01.tga 09 01</Icon><!--effect貼圖資料-->
+    <AttachVisual></AttachVisual><!--effect特效1-->
+    <RepeatVisual></RepeatVisual><!--effect特效2-->
+    <ImmunityLevel>0</ImmunityLevel><!--免疫等級-->
+    <LifeChange>0</LifeChange><!--生命值的改變量-->
+    <ManaChange>800</ManaChange><!--魔力值的改變量-->
+    <SpiritChange>0</SpiritChange><!--靈力值的改變量-->
+  </EnergyChange>
+
+
+</Effects>    
