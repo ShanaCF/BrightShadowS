@@ -1,5 +1,7 @@
 This shows how elements in different files link to elements in other files
 
+item.txt EffectType:1-EffectParam -> spell.txt SkillId
+
 quests.xml QuestDB>Quests>Quest>Stages>Stage>Events>Event>Type:0-ActorId -> Villager.txt Id
 
 quests.xml QuestDB>Quests>Quest>Stages>Stage>Events>Event>Type:3-ActorId -> Scene.txt Id
