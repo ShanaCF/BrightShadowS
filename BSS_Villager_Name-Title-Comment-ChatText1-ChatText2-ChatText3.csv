@@ -208,7 +208,7 @@ Londeberte	Divine mercenary technician	Mirage Oasis NPCU0084	Want to increase th
 Silverkiss	Burial	Burial Mound			
 Nihilias	Burial	Burial Mound			
 					
-Silspira	Job Master	Trial Field NPCP0009	Umm....	I wonder what kind of talents do you have?	
+Silspira	Job Master	Trial Field NPCP0009	Hmm....	I wonder what kind of talents you have?	
 Arthur	Samurai General	Meteor Pit NPCU0084			
 Sinansu	Magician Master	Thunder Hill  NPCO0027			
 Masham	Spirit Medium Master	Thunder Hill  NPCP0008			
@@ -230,13 +230,13 @@ Semile		Quest Map NPCU1111
 Isabela	Rose Knight Major	St. Louis Church  npcu173	Evil Knights demand neither class nor ethics, solely power.	To an Evil Knight, strength is everything.	
 Rocksly	Spirit Professor	Meteor Pit npco0047	If we created an Elixir that could restore life, is that good or bad?	An Elixir of life is within our grasp...but should it be used?	
 Isabela	Rose Knight	Quest Map npcu173			
-Sebastian	Weaponsmith Jones	Soul Lab npco204	Would you like to try making weapon and other equipment?	Would you like to make a variety of equipment?	
+Sebastian	Weaponsmith Jones	Soul Lab npco204	Would you like to try making weapons and other equipment?	Would you like to make a variety of equipment?	
 Geova	Night Cliff	Thunder Hill npcu121			
 Eleonora	Deep Lab Doctor	Deep Lab npco145	I'm a mineral researcher that's studied for many years. I'm not just an old fogey!	Nothing quite like mineral water, I tell you!	
-Geolgy	Pharmacist	Ekomi Railroad Eastside entrance npcu130	I'm bored, it's lonely...	Gosh, I need some excitement!	
+Geolgy	Pharmacist	Ekomi Railroad Eastside entrance npcu130	I'm bored, and lonely...	Gosh, I need some excitement!	
 Luthol	Mine Digger	Quest Map npcu141			
 Sebastian	Examiner	Quest Map npco204			
-Kira	Pharmacist Alex	Soul Lab npco205	What will happen if we scientists are gone?	Science must conitnue to boldly go where no one has before!	
+Kira	Pharmacist Alex	Soul Lab npco205	What will happen if we scientists disapear?	Science must conitnue to boldly go where no one has before!	
 Tatiana	Indigo Knight	Meteor Pit npcu113	What a demonic creature!	I'm not satisfied unless I defeat it!	
 Kira	Examiner	Quest Map npco205			
 Kira	Examiner	Quest Map npco205			
@@ -254,7 +254,7 @@ Granikov	Science Leader	Soul Lab npco0085	Welcome to San Joel!	By the way, do yo
 Lutran	Head Scientist	Soul Lab npcu0087	Humph ... Hi!	Humph ... Hi!	
 Batabi	Coward Priest	Hawk Nest Cave(Individual) npcu0250			
 Batabi	Coward Priest	Castle entrance npcu0250			
-Sandra	Flying Eagle	St. Louis Church  npcu0172	Without our leader, we're nothing but a chicken without the head!	I need to find them!	
+Sandra	Flying Eagle	St. Louis Church  npcu0172	Without our leader, we're nothing but a chicken without a head!	I need to find them!	
 Glide	Flying Eagle	St. Louis Church  npcu0111			
 Maximilian	Royal Knight	St. Louis Church  npcu0171			
 Larth	Vampire Expert	San Joel(East) npcu0170			
@@ -294,7 +294,7 @@ Rum	Pub Lady Boss	npcp0109
 Missing Perfume	Ghost Party Host	Holy Crater npcp0252			
 Burnt Land	Ghost Party Host	Thunder Hill npcp0038			
 Power Peak	Traveling Monk	Stone Temple Plateau	I am a loving, traveling monk.		
-Sherry	Sheriff	Bright Shadow FUN for summer. Use npcp0078Meteor Pit	If we want to defeat the monsters, we have to capture their boss		
+sSherry	Sheriff	Bright Shadow FUN for summer. Use npcp0078Meteor Pit	If we want to defeat the monsters, we have to capture their boss		
 Sherry	Sheriff	Bright Shadow FUN for summer. Use npcp0078Thunder Hill	If we want to defeat the monsters, we have to capture their boss		
 Sherry	Sheriff	Bright Shadow FUN for summer. Use npcp0078San Joel	If we want to defeat the monsters, we have to capture their boss		
 Sherry	Sheriff	Bright Shadow FUN for summer. Use npcp0078Mirage Oasis	If we want to defeat the monsters, we have to capture their boss		
@@ -351,7 +351,7 @@ Vamo	Neo Chameleon	Saint Field npcp0036
 Beshalren	Beginner's Villagers	Beginner's Village NPCU0022			
 Loisian	Beginner's Villagers	Beginner's Village NPCP0036			
 Janlee	Beginner's Villagers	Beginner's Village NPCP0013			
-Moka	Beginner's Villagers	Beginner's Village NPCO0017	Where's the star of hope that give us courage and confidence?	Stars sparkling all over the sky~	Stars are countless like my dreams
+Moka	Beginner's Villagers	Beginner's Village NPCO0017	Where's the star of hope that can give us courage and confidence?	Stars sparkling all over the sky~	Stars are countless like my dreams
 Ely	Beginner's Villagers	Beginner's Village NPCU0007			
 Rose	Beginner's Villagers	Beginner's Village NPCO0054			
 Risaful	Beginner's Villagers	Beginner's Village NPCP0038			
@@ -507,10 +507,10 @@ Sherry	Sheriff	npcp0078 San Joel	If we want to defeat the monsters, we have to c
 Sherry	Sheriff	npcp0078 Mirage Oasis	If we want to defeat the monsters, we have to capture their boss		
 Sherry	Sheriff	npcp0078 Bright Shadow Summer vacation			
 Sherry	Sheriff	npcp0078 Beginner's Village	Do you want a Evo Weapon? Come to me!		
-Alice	Sheriff Assistant	npcp0078 Meteor Pit	Do you want a Evo Weapon? Come to me!		
-Alice	Sheriff Assistant	npcp0078 Thunder Hill	Do you want a Evo Weapon? Come to me!		
-Alice	Sheriff Assistant	npcp0078 San Joel	Do you want a Evo Weapon? Come to me!		
-Alice	Sheriff Assistant	npcp0078 Mirage Oasis	Do you want a Evo Weapon? Come to me!		
+Alice	Sheriff Assistant	npcp0078 Meteor Pit	Do you want an Evo Weapon? Come to me!		
+Alice	Sheriff Assistant	npcp0078 Thunder Hill	Do you want an Evo Weapon? Come to me!		
+Alice	Sheriff Assistant	npcp0078 San Joel	Do you want an Evo Weapon? Come to me!		
+Alice	Sheriff Assistant	npcp0078 Mirage Oasis	Do you want an Evo Weapon? Come to me!		
 Kikibiassa	Basic Instructor	Beginner's Village  NPCP0006			
 Ranbiassa	Basic Instructor	Beginner's Village  NPCP0005			
 Yukibiassa	Basic Instructor	Beginner's Village  NPCP0004			
@@ -521,7 +521,7 @@ Kite	Battle Instructor	Trial Field NPCU0026
 Silspear	Battle Instructor	Trial Field NPCU0028			
 Jilydug	Guard	Trial Cave NPCO0047			
 Muba		Beginner's Village  NPCO0017			
-Belchif	Blacksmith Studen	Meteor Pit  NPCC0049			
+Belchif	Blacksmith Student	Meteor Pit  NPCC0049			
 Alchokov		Meteor Pit NPCF0051			
 Catalina		Meteor Pit NPCU0050			
 Ariona		Meteor Pit NPCO0054			
@@ -596,11 +596,11 @@ Molo	Spirit Battle Volunteer	Silver Snowbone
 Mambo	Spirit Battle Volunteer	Arctic Mirror			
 Romeo					
 Fifer	Spirit Battle Volunteer	City of Morality			
-Magavin	Spirit Battle Volunteer	San Joel («°gate)			
-Martial Arts	Earth Law Server	Beginner's Village NPC,please find five elements' properties	Think aloud, what an coincident, my name...	Is my mother prophet so that she knew I am studying zodiac?	Life is funny, ha.
-Luna	Earth Law Server Maid	Thunder HillNPC,please find five elements' properties	Martial arts teacher finally comes out for a walk.	He used to read all day, I am worried about his eyes.	
-Vico	Earth Law Server Maid	Holy Crater NPC,please find five elements' properties	I don't like Holy Crater's atmosphere	If martial arts teacher asked me, I would do it.	
-Miro	Spirit School Researcher	trail field, task NPC	Why do I always fail in the tests?	I might be a researcher all my life.	Recipes are awesome! I'll teach you all about them!
+Magavin	Spirit Battle Volunteer	San Joel (Â«Â°gate)			
+Martial Arts	Earth Law Server	Beginner's Village NPC,please find the five elements' properties	Thinking aloud, what a coincidence, my name...	Is my mother a prophet so that she knew I would study astrology?	Life is funny, ha.
+Luna	Earth Law Server Maid	Thunder HillNPC,please find the five elements' properties	The martial arts teacher finally comes out for a walk.	He used to read all day, I am worried about his eyes.	
+Vico	Earth Law Server Maid	Holy Crater NPC,please find five the elements' properties	I don't like the Holy Crater's atmosphere	If the martial arts teacher asked me, I would do it.	
+Miro	Spirit School Researcher	trail field, task NPC	Why do I always fail my tests?	I might be a researcher all my life.	Recipes are awesome! I'll teach you all about them!
 		nameless hill, task NPC			
 		nameless hill, task NPC			
 		nameless hill, task NPC			
@@ -613,62 +613,61 @@ Rasael	Vampire	Ice Cave npcu0110	Long time since I met someone. Listen to my sto
 Widle	Senior Sailor	Shell Pier npco0035			
 Rikian	Resident	Star Pier npco0205			
 Roman	Vampire Hunter	Deep Lab BF1 npcu0141			
-Lolomy	Crying Girl	Deadlock Desert	I haven't drank water for 3 days already! Help!	I haven't drank water for 4 days already! Help!	
+Lolomy	Crying Girl	Deadlock Desert	I haven't drank water in 3 days! Help!	I haven't drank water in 4 days! Help!	
 Blaon	Traveler	Underworld Castle B1npcp0127			
 Shuraton	Underworld Lord	Underworld Castle B3npcu0120			
 					
+										
 					
 					
 					
 					
 					
-					
-					
-Arthon	Security Force Leader	Meteor Pit NPCU0020	Hey! Would you like to join the Security Team?	We're fighting with monsters every day	Let's defeat the monsters together!
-Roza	Night Star	Thunder Hill NPCU0007	Day and Night can never understand each other's beauty.	The new direction is the heart's direction. Where the heart points is the new ideal.	Papabonpapabonpa
-Susan	Sad Old Lady	Thunder Hill NPCO0002	There is no parent that does not worry about their child.	Child is always important to me, even when they have grown.	I worry about that Happy go Lucky personality.
-Cham	Spirit Chaser	Saint Field NPCP0032	I will one day become successful and go back home!	30% fate, 70% effort. If you don't try you can't succeed.	Challenge during your youth! Sprint without any fear.
-Akbakov	Blacksmith Researcher	Meteor Pit NPCP0025	Why is it so hard to find the things Master wants to use.	Research is my job, but my real job is a janitor!	I hate that I have so much things to learn!
+Arthon	Security Force Leader	Meteor Pit NPCU0020	Hey! Would you like to join the Security Team?	We're fighting monsters every day	Let's defeat the monsters together!
+Roza	Night Star	Thunder Hill NPCU0007	Day and night can never understand each other's beauty.	The new direction is the heart's direction. Where the heart points is the new ideal.	Papabonpapabonpa
+Susan	Sad Old Lady	Thunder Hill NPCO0002	There is no parent that does not worry about their child.	My child will always be important to me, even when they have grown.	I worry about that happy go lucky personality.
+Cham	Spirit Chaser	Saint Field NPCP0032	I will one day become successful and go back home!	30% fate, 70% effort. If you don't try you can't succeed.	Challenge yourself during your youth! Sprint without any fear.
+Akbakov	Blacksmith Researcher	Meteor Pit NPCP0025	Why is it so hard to find the things Master wants to use.	Researching is my job, but my real job is a janitor!	I hate that I have so many things to learn!
 Adrokov	Blacksmith Student	Meteor Pit NPCC0057			
-Sophina	Gold Maker	Weapon Shop NPCU0060	Tools here does not suit my needs.	The portable tools are not good for experiments.	Err......
+Sophina	Gold Maker	Weapon Shop NPCU0060	The tools here do not suit my needs.	The portable tools are not good for experiments.	Err......
 Emily	Gold Maker	Soul Lab NPCU0202	Sophina is always doing hard work... ...	When is the spirit stone going to be made?	I want to be a scientist just like Lutran
-Bamian	Motel Chef	Mirage Oasis  NPCU120	Fire fruits? Fire Fruits ?	You need Fire Fruits for good dishes	The illusionary state is so great!
+Bamian	Motel Chef	Mirage Oasis  NPCU120	Fire fruits? Fire Fruits?	You need Fire Fruits for good dishes	The illusionary state is so great!
 Cortny	Motel Lady Chef	Mirage Oasis  NPCU122			
 George	Botanist	Mirage Oasis  NPCU131	Plant Book: Milk is sweet	Plant Book: 37 items cannot be exchanged for money	Plant Book: Wheat, Cotton, and Buckwheat noodles are the originators
-Trian	Botanist	Mirage Oasis  NPCU133	Items are divided in 5 levels: Extreme, Unique, Spirit, Assist, Meal	Changes are divided in 5 types: Point, Event, Turn, Proceed, Strenghten	Our family kept the tradition for long time
-Size	Antique Evaluationist	Mirage Oasis  NPCU0064	The Seal enscribed by Steel Bullet... ...	Do you want to join our business team?	To get mineral rocks in the maze......
+Trian	Botanist	Mirage Oasis  NPCU133	Items are divided in 5 levels: Extreme, Unique, Spirit, Assist, and Meal	Changes are divided in 5 types: Point, Event, Turn, Proceed, and Strenghten	Our family kept the tradition for a long time
+Size	Antique Evaluationist	Mirage Oasis  NPCU0064	The Seal enscribed by Steel Bullet... ...	Do you want to join our business team?	We get mineral rocks from the maze......
 Anz	Antique Receptionist	Mirage Oasis  NPCP0189			
 Briton	Sand Fountain Antique Captain	Heaven Shirne NPCU0140	Even if I lost my dream... ...	We used to think about the future together... ...	There is a reason for the days we were together.
-Mirai	Sand Fountain Antique Vice Captain	Heaven Shirne NPCU0141	If you lost the way for someone.......	You'll probably see a sad dream	However if you go forward, fortunately.......
+Mirai	Sand Fountain Antique Vice Captain	Heaven Shirne NPCU0141	If you have lost your way.......	You'll probably lose hope.	However if you go forward, there is good fortune.......
 					
 					
 					
-Tima	Inventer	Meteor Pit NPCO0055	The milk that put a lot of feeling tastes great	Do you want a part time job?	Selling milk is my hobby, research and invention are my real jobs
-Macmaster	Explorer	Meteor Pit NPCU0021	Do you want to hear my adventure story?	I travelled around the world once	If I write about my experience 10 books aren't enough!
-Ofilia	Woman	Meteor Pit NPCU0012	Don't be fascinated by my beauty.	My husband is not coming home, I'm worried......	
+Tima	Inventer	Meteor Pit NPCO0055	You know that when milk tastes so good that it touches your soul, that it's good milk	Do you want a part time job?	Selling milk is my hobby, research and invention are my real jobs
+Macmaster	Explorer	Meteor Pit NPCU0021	Do you want to hear about my adventures?	I once travelled around the world	If I wrote about my experiences, 10 books wouldn't even be enough!
+Ofilia	Woman	Meteor Pit NPCU0012	Don't be fixated on my beauty.	My husband hasn't returned home, I'm worried......	
 Wiyu	Young Girl	Meteor Pit NPCP0013	You're a naughty person!	I'm good at cooking!	
-Entarokov		Meteor Pit NPCU0022	I'm busy rightt now!	Where is that?	
-Roarin	Artist	Meteor Pit NPCU0026	Pain will go away, beauty is all that remain......	I paid to get a position in the art field, but I have nothing at the end	What's talent? ......
-Hikaro	Salesman	Meteor Pit NPCU0069	True hero already died at the battle field. Those who return and receive honor are not true heros	How much should I expand scale, position, and my heart?	I don't know success but I know what is to live.
+Entarokov		Meteor Pit NPCU0022	I'm busy right now!	Where is that?	
+Roarin	Artist	Meteor Pit NPCU0026	Pain will go away, and beauty is all that will remain......	I paid to get a position in the art field, but I have nothing in the end	What's talent? ......
+Hikaro	Salesman	Meteor Pit NPCU0069	A true hero has already died at the battle field. Those who have returned and received honor are not true heros	How much should I expand, scale, and position my heart?	I don't know success but I know what it is to live.
 Nikita	Old Lady Gardener	Meteor Pit NPCO0054	Conversation between flowers can make a special strong power.		
-Karorian	Explorer	Meteor Pit NPCP0028	True success brings only glory but true failure birngs courage and strength	What we fear is ourselves that are being afraid	I want to go around the world with my own legs.
-Kaiyu	Young Boy	Meteor Pit NPCC0040	One day, I will explore all over the places!	I can't let you worry about me anymore.	I need to cure it quickly...
-Johns	Combat Team Division Captain	Black Wind Cave BF1 NPCU0028	Monsters here are tough, watch out!	What going on with Marcy?	Corpse Church is like this too?
-Gerute	Combat Team Vice Captain	Corpse Church BF1 NPCU0026	That was close, we have to inform captain!	Sorith Come back!	What's going on with captain?
-Sorith	Combat Pioneer Soldier	Corpse Church BF2 NPCP0033	This is tiresome, I want to go home early	Let's get finish the mission	
-Marcy	Combat Core Soldier	Black Wind Cave BF2 NPCU0037	Come on Monsters!	As long as I'm here, I won't let those monsters be arrogant!	
+Karorian	Explorer	Meteor Pit NPCP0028	True success brings only glory, but true failure birngs courage and strength	What we fear is ourselves that are being afraid	I want to go around the world with my own legs.
+Kaiyu	Young Boy	Meteor Pit NPCC0040	One day, I will explore all over the world!	I can't let you worry about me anymore.	I need to cure it quickly...
+Johns	Combat Team Division Captain	Black Wind Cave BF1 NPCU0028	Monsters here are tough, watch out!	What's going on with Marcy?	Corpse Church is like this too?
+Gerute	Combat Team Vice Captain	Corpse Church BF1 NPCU0026	That was close, we have to inform the captain!	Sorith come back!	What's going on with the captain?
+Sorith	Combat Pioneer Soldier	Corpse Church BF2 NPCP0033	This is tiresome, I want to go home early	Let's get this mission over with	
+Marcy	Combat Core Soldier	Black Wind Cave BF2 NPCU0037	Bring it on monsters!	As long as I'm here, I won't let those monsters be arrogant!	
 Fity	Combat Doctors	Black Wind Cave BF1 NPCU0010	Safety first. Watch out!	Don't push too much......	
-Kamyu	Grand Commander	Meteor Pit outside the sanctuary NPCU0031	I want to save the world!	Future is based on our efforts!	I rather go fishing!
+Kamyu	Grand Commander	Meteor Pit outside the sanctuary NPCU0031	I want to save the world!	The future is based on our efforts!	I'd rather go fishing!
 Yuty	Patrol Vice Head Captain	Meteor Pit outside the sanctuary NPCU0037	Welcome to Meteor Pit security team	Do you want to try joining the security team?	It's a work that is worthwhile!
-Fiya	Patrol Medical Captain	Spiritual Land NPCU0007	Backside support is essential for the mission	Monsters are becoming brutal	
+Fiya	Patrol Medical Captain	Spiritual Land NPCU0007	Backside support is essential for the mission	The monsters are becoming brutal	
 					
-Ulay	Young Girl	Thunder Hill NPCP0008	There's no one who can use blades better than me.	If there's a chance I would like to see the Leganedary sword of Seven Star	
+Ulay	Young Girl	Thunder Hill NPCP0008	There's no one who can use blades better than me.	If it's possible, I would like to see the Leganedary sword of Seven Star	
 Roruth	Treasure Hunter	San Joel npcu0068	I'll collect all the treasures in the world!	I'll collect all the treasures in the world!	
-Kaltaruth	Monster Hunter	San Joel npcu0062	I will challenge the strongest monster of the world!	I will challenge the strongest monster of the world!	
+Kaltaruth	Monster Hunter	San Joel npcu0062	I will challenge the strongest monster in the world!	I will challenge the strongest monster in the world!	
 					
 					
 					
-Iche	Western Server	Thunder Grassland  NPCU0026	We will go recue our member!	We will go recue our member!	
+Iche	Western Server	Thunder Grassland  NPCU0026	We're going to rescue our team member!	We're going to rescue our team member!	
 Rubion	Western Server	Thunder Grassland  NPCU0028	There's a mystic power in the things monsters have.	There's a mystic power in the things monsters have.	
 Linda	Western Server	Thunder Grassland  NPCU0012	The Ruined Mansion has a secret not known to people!	The Ruined Mansion has a secret not known to people!	
 Ikov	Mine Stone Collector	Ice CaveB1  npcu170	I will build the Mineral Museum!	I will build the Mineral Museum!	
@@ -722,16 +721,16 @@ Yoha	Holy Core Knight	San Joel npcu0122
 					
 					
 					
-Simath	Ghost Cutter	Saint Bay npcu0121	Cutting is a type of art!	See, this cut is beautiful!	kkkk....
-Sold	Ghost Ripper	Saint Bay npcf0046	It's dynamic to cut large.	It needs to be a perfect force in order to cut perfectly in halves	hehehe...
-Rokind	Salesman Whose Ship Is Trapped	Ghost Land npcf0053	How's the cargo ship? We may not meet the delivery date......	Is there someone who can find special items?	What should we do? What should we do?
-Taltan	Runaway Soldier	Ghost Land npco0047	My hometown......I can't return when I run from the battle field	At least I need to leave some evidence that my comrades fought well...	One day we can die at the battle field together......at least......
+Simath	Ghost Cutter	Saint Bay npcu0121	Cutting is a type of art!	See, this cut is beautiful!	hehehe....
+Sold	Ghost Ripper	Saint Bay npcf0046	It's dynamic to cut large.	It needs to be a perfect force in order to cut perfectly in two halves	hehehe...
+Rokind	Salesman Whose Ship Is Trapped	Ghost Land npcf0053	How's the cargo ship? We may not meet the delivery date......	Is there someone who can find the special items?	What should we do? What should we do?
+Taltan	Runaway Soldier	Ghost Land npco0047	My hometown......I can't return when I ran away from the battlefield	I at least need to leave some evidence that my comrades fought well...	One day we can die on the battlefield together......at least......
 Antoll	Coward Giant Challenger	Tasla Field  npcf0061	Um...... I lied......	I need to fix this habit.	Oh I have to go to that Giant. Scary......
-Bild	Monster Material Collector	Tasla Field  npcp107	Why is the manager using these things as materials?	I want to go home.......	It¡¦s hard! It's hard! I cannot handle it...
-Flean	Monster Knight Challenger	Manas Ice Field  npcu0063	How can I improve my martial art skill?	I need to find a good master.	There was a flaw in my battle strategy, which means I need more training......
+Bild	Monster Material Collector	Tasla Field  npcp107	Why is the manager using these things as materials?	I want to go home.......	It's too hard! It's too hard! I can't handle it...
+Flean	Monster Knight Challenger	Manas Ice Field  npcu0063	How can I improve my martial art skills?	I need to find a good master.	There was a flaw in my battle strategy, which means I need more training......
 Fori	Innovative Desert Chef	Manas Ice Field  npcf0051	It's cold... ... if I feel that I want to eat warm food, in a hot place I would want to eat cold food.	World of Sweet is deep.	Children will be happy if I can make cold sweets during the hot summer
-Willy	Ghost Tailor	Mort Snowfield npco0125	The point is to not be an awkward move when putting limbs of different organisms together	We need more limbs	hihihi...
-Lakmi	Magical Medicine Collector	Mort Snowfield npcu0123	The supply for medicine I ordered is not coming yet... How long should I wait?	Devil's mandara soup, devil's onion, wicked flower stem,... anything else?	New medicine has been made so can someone try?
+Willy	Ghost Tailor	Mort Snowfield npco0125	The point is to not make an awkward move when putting limbs of different organisms together	We need more limbs	hehehe...
+Lakmi	Magical Medicine Collector	Mort Snowfield npcu0123	The supply for medicine I ordered hasn't come in yet... How long should I wait?	Devil's mandara soup, devil's onion, wicked flower stem... anything else?	New medicine has been made, so can someone try?
 					
 					
 					
@@ -828,14 +827,14 @@ Royin		Arctic Mirror
 Sinnia					
 Wawi		City of Morality			
 Honey		San Joel(castle gate)			
-Wadile	Snowman Explorer	Amethyst Cave North Side	There's nothing to surprise since we found the Snowman last time.	There's a lot of monsters in this cave, and they all seem to have a treasure with them!	Let's put some mark along our path so we don't get lost in the cave!
-Tanshue	Speed Challenger	Amethyst Cave South Side	Does anyone have a spare Millennium Spiritual Crystal?	No matter how many monsters I vanquish, it's only practice.	Is there a shoe that can run faster?
+Wadile	Snowman Explorer	Amethyst Cave North Side	There shouldn't be any surprises, since we found the Snowman last time.	There's a lot of monsters in this cave, and they all seem to have a treasure with them!	Let's put some marks along our path so we don't get lost in the cave!
+Tanshue	Speed Challenger	Amethyst Cave South Side	Does anyone have a spare Millennium Spiritual Crystal?	No matter how many monsters I vanquish, it's only practice.	Is there a a pair of shoes that can help me run faster?
 Orthy	Silent Iceman	Sacred Hilltop	&^%#$^%#)	...............	OOXOOXOXOXXXX
-Chaewa	Fencing Champ	Sacred Hilltop	Uhh...	Perhaps is my Orthy like this forever?	Does anyone know how to break the spell on Orthy?
-Meshnalt	Tough Explorer	Waterfall Tunnel North Side	I don't want to spend my life looking like a kid!	I will have justice!	Lonely... Friends are all gone.
+Chaewa	Fencing Champ	Sacred Hilltop	Uhh...	Perhaps my Orthy will be like this forever?	Does anyone know how to break the spell on Orthy?
+Meshnalt	Tough Explorer	Waterfall Tunnel North Side	I don't want to spend my life looking like a kid!	I will have justice!	I've gotten lonely... My friends are all gone.
 Karistner	Lil' Skater Girl	Waterfall Tunnel South	I want to skate~	Weird...it wasn't hot like this before.	I'm soaked and cold...Horrible Cave!
-Dai	Sun	Deadlock Desert	The honorable Sun~ This is the origin of all...	Someone stole goods from the sanctuary!	I will bring light to the desert like a radiant flame scatters darkness!
-Bachelor		Prophet Council	Not starting yet	What will our elders say?	
+Dai	Sun	Deadlock Desert	The honorable Sun~ This is the origin of all...	Someone stole goods from the sanctuary!	I will bring light to the desert like a radiant flame to scatter the darkness!
+Bachelor		Prophet Council	It's not starting yet	What will our elders say?	
 Bachelor		Prophet Council	When is it going to start?	I'm tired of waiting!	
 Elder		Prophet Council	What should I say to the bachelors?	Do you recall?	
 Elder		Prophet Council	That was so sudden...	Sigh...	
@@ -935,7 +934,7 @@ Warning Board06		Individual Quest NPCA0008
 Paboya		Individual Quest NPCA0009			
 Paboya's Old Brother		Individual Quest NPCA0010			
 Paboya's Young Brother		Individual Quest NPCA0011			
-Mysterious Book		Individual Quest NPCA0012	No one has come in years !	Do you want the treasure?	I could talk!? I didn't know...
+Mysterious Book		Individual Quest NPCA0012	No one has come in years!	Do you want the treasure?	I could talk!? I didn't know...
 		Individual Quest NPCA0013 Mark			
 		Individual Quest NPCA0013 Crystal Ball			
 Pia	Giant Tower Investigation Team	Seal Tower NPCP0014 Individual Quest Level 25 and below			
@@ -989,9 +988,9 @@ Monument		Quest Map 2243 NPCE0089
 		Purple grass Tasla Field (Sky Break Gigantes) npce0091			
 		Fruit tree Tasla Field -Illusion Ahriman ! npce0090			
 					
-		Oak box Deep Lab  BF2¡÷B1(1000 Blade Killer) npce0095			
+		Oak box Deep Lab  BF2Â¡Ã·B1(1000 Blade Killer) npce0095			
 		Evil Spirit Treasure Quest Map NPCE0154			
-		Maple Box Deep Lab  BF2¡÷B1(1000 Blade Killer) npce0095			
+		Maple Box Deep Lab  BF2Â¡Ã·B1(1000 Blade Killer) npce0095			
 		Amethyst Cave(North) npce0094			
 		Vanhell gate npce0158			
 Mysterious Totem		Intent to Murder (Individual)npce0165			
@@ -1061,30 +1060,30 @@ Blood Sample Jar		Battle of the 4 symbols(Individual)npce0096
 		Amethyst Cave High Quality Spirit Crystal Group NPCE0097			
 		Amethyst Cave Very High Quality Spirit Crystal Group NPCE0097			
 		Amethyst Cave Very High Quality Spirit Crystal Group NPCE0097			
-		Waterfall Tunnel Plant Root¢¹ npce0212			
-		Waterfall Tunnel Plant Root¢¹ npce0212			
-		Waterfall Tunnel Plant Root¢¹ npce0212			
-		Waterfall Tunnel Plant Root¢¹ npce0212			
-		Waterfall Tunnel Plant Root¢º npce0212			
-		Waterfall Tunnel Plant Root¢º npce0212			
-		Waterfall Tunnel Plant Root¢º npce0212			
-		Waterfall Tunnel Plant Root¢º npce0212			
-		Waterfall Tunnel Plant Root¢» npce0212			
-		Waterfall Tunnel Plant Root¢» npce0212			
-		Waterfall Tunnel Plant Root¢» npce0212			
-		Waterfall Tunnel Plant Root¢» npce0212			
-		Sandfall Maze Trade Squad's Load¢¹ npce0151			
-		Sandfall Maze Trade Squad's Load¢¹ npce0151			
-		Sandfall Maze Trade Squad's Load¢¹ npce0151			
-		Sandfall Maze Trade Squad's Load¢¹ npce0151			
-		Sandfall Maze Trade Squad's Load¢º npce0151			
-		Sandfall Maze Trade Squad's Load¢º npce0151			
-		Sandfall Maze Trade Squad's Load¢º npce0151			
-		Sandfall Maze Trade Squad's Load¢º npce0151			
-		Sandfall Maze Trade Squad's Load¢» npce0151			
-		Sandfall Maze Trade Squad's Load¢» npce0151			
-		Sandfall Maze Trade Squad's Load¢» npce0151			
-		Sandfall Maze Trade Squad's Load¢» npce0151			
+		Waterfall Tunnel Plant RootÂ¢Â¹ npce0212			
+		Waterfall Tunnel Plant RootÂ¢Â¹ npce0212			
+		Waterfall Tunnel Plant RootÂ¢Â¹ npce0212			
+		Waterfall Tunnel Plant RootÂ¢Â¹ npce0212			
+		Waterfall Tunnel Plant RootÂ¢Âº npce0212			
+		Waterfall Tunnel Plant RootÂ¢Âº npce0212			
+		Waterfall Tunnel Plant RootÂ¢Âº npce0212			
+		Waterfall Tunnel Plant RootÂ¢Âº npce0212			
+		Waterfall Tunnel Plant RootÂ¢Â» npce0212			
+		Waterfall Tunnel Plant RootÂ¢Â» npce0212			
+		Waterfall Tunnel Plant RootÂ¢Â» npce0212			
+		Waterfall Tunnel Plant RootÂ¢Â» npce0212			
+		Sandfall Maze Trade Squad's LoadÂ¢Â¹ npce0151			
+		Sandfall Maze Trade Squad's LoadÂ¢Â¹ npce0151			
+		Sandfall Maze Trade Squad's LoadÂ¢Â¹ npce0151			
+		Sandfall Maze Trade Squad's LoadÂ¢Â¹ npce0151			
+		Sandfall Maze Trade Squad's LoadÂ¢Âº npce0151			
+		Sandfall Maze Trade Squad's LoadÂ¢Âº npce0151			
+		Sandfall Maze Trade Squad's LoadÂ¢Âº npce0151			
+		Sandfall Maze Trade Squad's LoadÂ¢Âº npce0151			
+		Sandfall Maze Trade Squad's LoadÂ¢Â» npce0151			
+		Sandfall Maze Trade Squad's LoadÂ¢Â» npce0151			
+		Sandfall Maze Trade Squad's LoadÂ¢Â» npce0151			
+		Sandfall Maze Trade Squad's LoadÂ¢Â» npce0151			
 					
 					
 					
@@ -1230,7 +1229,7 @@ Lava	Item Master	Beginner's Village NPCP0025
 Miyabi	Skill Instructor	Beginner's Village NPCP0001			
 Tarisha	Log Instructor	Beginner's Village NPCP0013			
 Meowgel	Newbie Helper	Trial Field  npce0102			
-Meowgel	Newbie Helper	Area npce0102	Do you want to know the Quest progress?	Do you know how to play the quest?	
+Meowgel	Newbie Helper	Area npce0102	Do you want to know the quest's progress?	Do you know how to play the quest?	
 Meowgel	Newbie Helper	Trial Field  npce0102			
 Meowgel	Newbie Helper	Trial Field  npce0102			
 Harpy		Beginner's Village  NPCE0099			
@@ -1240,7 +1239,7 @@ Meowtan		Beginner's Village  NPCE0103	Would you like to mark this spot as Home?	
 Meowtan		Meteor Pit  NPCE0103	Would you like to mark this spot as Home?	Would you like to mark this spot as Home?	
 Meowtan		Thunder Hill  NPCE0103	Would you like to mark this spot as Home?	Would you like to mark this spot as Home?	
 Meowtan		Seal Tower  NPCE0103	Would you like to mark this spot as Home?	Would you like to mark this spot as Home?	
-Meowgel	Newbie Helper	Area npce0102	Do you want to know your Quest progress?	Do you know how to complete the quest?	
+Meowgel	Newbie Helper	Area npce0102	Do you want to know your quest's progress?	Do you know how to complete the quest?	
 Meowgel	Prize Exchange		You can exchange event prizes here!	You can exchange event prizes here!	
 					
 					
@@ -1299,30 +1298,30 @@ Old Witch
 Old Witch					
 Old Witch					
 Old Witch					
-Cupid	Lost Eros	2010 Pink Valentine's Day individual scene npce0270	Sigh, love	Eros is no more than just a name.	
-Lynas	Priestess	2010 white Valentine's day individual scene npce0270	Hello!	Glad to see you again,	What can I do for you?
-Cupid	Lost Eros	Holy Crater 2010 Pink Valentine's Day	Where does Cupid's arrow go?	The arrow goes to the boy's heart.	The boy's heart...pumping...lover's whisper...
-Cupid	Lost Eros	Thunder Hill 2010 Pink Valentine's Day	Where does Cupid's arrow go?	The arrow goes to the girl's heart	The girl's heart...pumping...lover's whisper...
-Cupid	Lost Eros	San Joel 2010 Pink Valentine's Day	Where does Cupid's arrow go?	The arrow goes to the boy's heart!	The boy's heart...pumping...lover's whisper...
-Cupid	Lost Eros	oasis 2010 Pink Valentine's Day	Where does Cupid's arrow go?	The arrow goes to the girl's heart!	the girl's heart...pumping...lover's whisper...
+Cupid	Lost Eros	2019 Pink Valentine's Day individual scene npce0270	Sigh, love	Eros is no more than just a name.	
+Lynas	Priestess	2019 White Valentine's day individual scene npce0270	Hello!	Glad to see you again,	what can I do for you?
+Cupid	Lost Eros	Holy Crater 2019 Pink Valentine's Day	Where does Cupid's arrow go?	The arrow goes to the boy's heart.	The boy's heart...pumping...lover's whisper...
+Cupid	Lost Eros	Thunder Hill 2019 Pink Valentine's Day	Where does Cupid's arrow go?	The arrow goes to the girl's heart	The girl's heart...pumping...lover's whisper...
+Cupid	Lost Eros	San Joel 2019 Pink Valentine's Day	Where does Cupid's arrow go?	The arrow goes to the boy's heart!	The boy's heart...pumping...lover's whisper...
+Cupid	Lost Eros	Oasis 2019 Pink Valentine's Day	Where does Cupid's arrow go?	The arrow goes to the girl's heart!	the girl's heart...pumping...lover's whisper...
 Cupid	Lost Eros	Beginner's Village 2010 Pink Valentine's Day	I...I want...	I want you...I want your...I want your love...	Why don't you come over...
-Lynas	Priestess	Holy Crater 2010 Pink Valentine's Day	Why do you stare me like that?	Even though I am born beautiful, I'm still easy going.	Stop staring...I know its hard.
-Lynas	Priestess	Thunder Hill 2010 Pink Valentine's Day	Why don't you look at me?	Aren't you afraid of being yelled at? Think about why!	Stop staring at me like a piece of meat!
-Lynas	Priestess	San Joel 2010 Pink Valentine's Day	Why do you stare me like that?	Even though I am born beautiful, I'm still easy going.	Stop staring...I know its hard.
-Lynas	Priestess	oasis 2010 Pink Valentine's Day	Why don't you look at me?	Aren't you afraid of being yelled at? Think about why!	Stop staring at me like a piece of meat!
-Lynas	Priestess	Beginner's Village 2010 Pink Valentine's Day	I used to sneeze for no reason every Valentine's day.	Maybe it's another pursuer's thinking of me.	Or is it another girl's jealous of me?
-Cupid	Lost Eros	Holy Crater 2010 white Valentine's day	(scream) ah ah!	(scream) what happened to you? ah ah!	
-Cupid	Lost Eros	Thunder Hill 2010 white Valentine's day	(scream) Ahh!	(scream) what happened to you? ah ah!	
-Cupid	Lost Eros	San Joel 2010 white Valentine's day	(scream) Ahh!	(scream) what happened to you? ah ah!	
-Cupid	Lost Eros	oasis 2010 white Valentine's day	(scream) Ahh!	(scream) what happened to you? ah ah!	
-Cupid	Lost Eros	Beginner's Village 2010 white Valentine's day	(scream) Ahh!	(scream) what happened to you? ah ah!	
-Cupid	Lost Eros	trail field 2010 lover's ending song	If this is what love is about...	Should I leave or stay?	
-Cupid	Lost Eros	Holy Meteor Plateau 2010 lover's ending song	If this is what love is about...	Should I leave or stay?	
-Jack Foberts	Fugitive	Meteor Pit 2009 Halloween npcp0233	Ghost Castle¡K	Hero!  I have some information I need to tell you!  Come over here quickly!	
-Jack Foberts	Fugitive	Thunder Hill 2009 Halloween npcp0233	Ghost Castle¡K	Hero!  I have something I need to tell you!  Come over here quickly!	
-Abnormal World Stele	Abnormal World Passage	Meteor Pit 2009 Halloween npcp0233			
-Abnormal World Stele	Abnormal World Passage	Thunder Hill 2009 Halloween npcp0233			
-Shadow of Jack	Projection from the Abnormal World	Ghost Castle 2009 Halloween npc0233	Ghost Castle¡K	Hero!  I have some information I need to tell you!  Come over here quickly!	
+Lynas	Priestess	Holy Crater 2019 Pink Valentine's Day	Why do you stare me like that?	Even though I am born beautiful, I'm still easy going.	Stop staring...I know its hard.
+Lynas	Priestess	Thunder Hill 2019 Pink Valentine's Day	Why don't you look at me?	Aren't you afraid of being yelled at? Think about why!	Stop staring at me like a piece of meat!
+Lynas	Priestess	San Joel 2019 Pink Valentine's Day	Why do you stare me like that?	Even though I am born beautiful, I'm still easy going.	Stop staring...I know its hard.
+Lynas	Priestess	Oasis 2019 Pink Valentine's Day	Why don't you look at me?	Aren't you afraid of being yelled at? Think about why!	Stop staring at me like a piece of meat!
+Lynas	Priestess	Beginner's Village 2019 Pink Valentine's Day	I used to sneeze for no reason every Valentine's day.	Maybe it's another pursuer's thinking of me.	Or is it another girl's jealous of me?
+Cupid	Lost Eros	Holy Crater 2019 white Valentine's day	(scream) ah ah!	(scream) what happened to you? ah ah!	
+Cupid	Lost Eros	Thunder Hill 2019 white Valentine's day	(scream) Ahh!	(scream) what happened to you? ah ah!	
+Cupid	Lost Eros	San Joel 2019 white Valentine's day	(scream) Ahh!	(scream) what happened to you? ah ah!	
+Cupid	Lost Eros	Oasis 2019 white Valentine's day	(scream) Ahh!	(scream) what happened to you? ah ah!	
+Cupid	Lost Eros	Beginner's Village 2019 white Valentine's day	(scream) Ahh!	(scream) what happened to you? ah ah!	
+Cupid	Lost Eros	Trial Field 2019 lover's ending song	If this is what love is about...	Should I leave or stay?	
+Cupid	Lost Eros	Holy Meteor Plateau 2019 lover's ending song	If this is what love is about...	Should I leave or stay?	
+Jack Foberts	Fugitive	Meteor Pit 2019 Halloween npcp0233	Ghost Castle	Hero!  I have some information I need to tell you!  Come over here quickly!	
+Jack Foberts	Fugitive	Thunder Hill 2019 Halloween npcp0233	Ghost Castle	Hero!  I have something I need to tell you!  Come over here quickly!	
+Abnormal World Stele	Abnormal World Passage	Meteor Pit 2019 Halloween npcp0233			
+Abnormal World Stele	Abnormal World Passage	Thunder Hill 2019 Halloween npcp0233			
+Shadow of Jack	Projection from the Abnormal World	Ghost Castle 2019 Halloween npc0233	Ghost Castle	Hero!  I have some information I need to tell you!  Come over here quickly!	
 					
 					
 					
@@ -1349,15 +1348,15 @@ Bella		Do you want to leave the Full House?
 Bella		Do you want to enter Full House?			
 Alexander		Can someone help me make some chocolates?			
 Frederick		Can someone help me make some chocolates?			
-Freya		Um¡K umm¡K um¡K umm¡K			
+Freya		Um umm um umm			
 Bella		Do you want to enter Full House?			
 Alexander		Can someone help me make some chocolates?			
 Frederick		Can someone help me make some chocolates?			
-Freya		Um¡K umm¡K um¡K umm¡K			
+Freya		Um umm um umm			
 Bella		Do you want to enter Full House?			
 Alexander		Can someone help me make some chocolates?			
 Frederick		Can someone help me make some chocolates?			
-Freya		Um¡K umm¡K um¡K umm¡K			
+Freya		Um umm um umm			
 					
 					
 					
@@ -1372,10 +1371,10 @@ Spectral Spirit flower		"Leaving independent zone ""Abandoned Botanic Garden"""
 					
 					
 					
-Shining Cat	Lucky Star		I am cat...meo meo...a Shining Cat...		
-Shining Cat	Lucky Star		I am cat...meo meo...a Shining Cat...		
-Shining Cat	Lucky Star		I am cat...meo meo...a Shining Cat...		
-Shining Cat	Lucky Star		I am cat...meo meo...a Shining Cat...		
+Shining Cat	Lucky Star		I am cat...meow meow...a Shining Cat...		
+Shining Cat	Lucky Star		I am cat...meow meow...a Shining Cat...		
+Shining Cat	Lucky Star		I am cat...meow meow...a Shining Cat...		
+Shining Cat	Lucky Star		I am cat...meow meow...a Shining Cat...		
 Swaryo's Mom		BS court			
 Oyone		Meteor Pit (Boys Day Event NPC)			
 Oyone		Thunder Hill (Boys Day Event NPC)			
@@ -1393,7 +1392,7 @@ Raikou	Bs School Student Advisor	Thunder Hill NPCP0072	People who want to know t
 Macy	Bs Wrap - Tailor	Thunder Shirne NPCP0071	Are you training your pupils well?	Can you be a good role model for the pupils?	To outstanding masters, I will grant you the the Master license!
 Macy	Bs Wrap - Tailor	Star Pier NPCP0071	Are you training your pupils well?	Can you be a good role model for the pupils?	To outstanding masters, I will grant you the the Master license!
 Macy	Bs Wrap - Tailor	Shell Pier NPCP0071	Are you training your pupils well?	Can you be a good role model for the pupils?	To outstanding masters, I will grant you the the Master license!
-Macy	Bs Wrap - Tailor	Heaven Shirne NPCP0071	Are you training your pupils well?	Can you be a good role model for the pupils?	To outstanding masters, I will grant you the the Master license
+Macy	Bs Wrap - Tailor	Heaven Shirne NPCP0071	Are you training your pupils well?	Can you be a good role model for the pupils?	To outstanding masters, I will grant you the the Master license!
 Melose	Rich Business	09_sep_JPEventNPC_Metero Pit			
 Horuye	Alchemist	09_sep_JPEventNPC_Spiritual Land			
 Alchemy Pan		09_sep_JPEventNPC_Spiritual Land			
