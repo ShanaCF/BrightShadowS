@@ -1,3 +1,814 @@
+      <Id>68</Id>
+      <Name>■ヘルメ</Name>
+      <Description></Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+                      <Text>おお、来ていただけたのですね？</Text>
+                      <Option1>ずっといましたが…</Option1>
+                      <Option2>何をすればいい？</Option2>
+                      <Option3></Option3>
+                          <Text>ははは、ご冗談を。</Text>
+                          <Option1>で？</Option1>
+                          <Option2></Option2>
+                          <Option3></Option3>
+                              <Text>あなたには&lt;FONT COLOR=#00ff00&gt;《光の地下洞窟》&lt;/FONT&gt;に行ってもらいたい。&lt;BR&gt;しかしその洞窟は、何と言えばいいか…生きているようで。&lt;PF&gt;あなたも多分、あのネバネバ、さらに生暖かい感覚は耐えられないでしょう。</Text>
+                              <Text>（　そばにある【錬金鍋】から、ぐつぐつと煮える音と大量の泡が出ている。　）</Text>
+                              <Text>そしてこの洞窟の入口を開く事で、邪悪なる魔物を解放するのです！</Text>
+                              <Option1>大丈夫ですか</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                                  <Text>冗談です。</Text>
+                                  <Option1>ははは、ご冗談を。</Option1>
+                                  <Option2></Option2>
+                                  <Option3></Option3>
+                                      <Text>洞窟に入るため、&lt;FONT COLOR=#00ff00&gt;『融解液』&lt;/FONT&gt;のレシピを集めてください。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『涙晶石』&lt;/FONT&gt;を3個、&lt;FONT COLOR=#00ff00&gt;『汚れた包帯』&lt;/FONT&gt;を3個、&lt;FONT COLOR=#00ff00&gt;『呪いの指輪』&lt;/FONT&gt;を3個です。&lt;BR&gt;ただ、錬金の成功率はあまり高くない。</Text>
+                                      <Option1>ではどうする？</Option1>
+                                      <Option2></Option2>
+                                      <Option3></Option3>
+                                          <Text>私でも、確実な成功は約束できません。&lt;BR&gt;ソールラボの&lt;FONT COLOR=#00ff00&gt;【エミル】&lt;/FONT&gt;でさえ100％の成功は不可能だそうです。&lt;PF&gt;ああ、あの方は学会では有名なんですよ。&lt;BR&gt;とても優秀な方ですからね。&lt;PF&gt;成功率を上げるためには、&lt;FONT COLOR=#00ff00&gt;『蒸留水』&lt;/FONT&gt;と&lt;FONT COLOR=#00ff00&gt;『錬金用触媒』&lt;/FONT&gt;を手に入れてください。&lt;BR&gt;それでも100％の成功は保証できませんがね。&lt;PF&gt;『融解液』を作成する際には、そこにある&lt;FONT COLOR=#ffad5b&gt;【錬金釜】&lt;/FONT&gt;を使ってくださいな。</Text>
+                          <Text>あなたにはまず、&lt;FONT COLOR=#00ff00&gt;《光の地下洞窟》&lt;/FONT&gt;へ行くための&lt;FONT COLOR=#00ff00&gt;『溶解液』&lt;/FONT&gt;を手に入れていただきたい。&lt;BR&gt;『溶解液』を錬金するためには、3種類のアイテムが必要です。&lt;PF&gt;&lt;FONT COLOR=#00ff00&gt;『涙晶石』&lt;/FONT&gt;を3個、&lt;FONT COLOR=#00ff00&gt;『汚れた包帯』&lt;/FONT&gt;を3個、&lt;FONT COLOR=#00ff00&gt;『呪いの指輪』&lt;/FONT&gt;を3個です。&lt;PF&gt;ただ、錬金の成功率はあまり高くない。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『蒸留水』&lt;/FONT&gt;と&lt;FONT COLOR=#00ff00&gt;『錬金用触媒』&lt;/FONT&gt;を一緒に混ぜれば成功率が上昇しますよ。&lt;BR&gt;まぁ、それでも失敗することはありますけどね。&lt;PF&gt;では、&lt;FONT COLOR=#00ff00&gt;『融解液』&lt;/FONT&gt;の錬金材料を集めてきてください。&lt;BR&gt;『融解液』を作成する際には、そこにある&lt;FONT COLOR=#ffad5b&gt;【錬金釜】&lt;/FONT&gt;を使ってくださいな。&lt;FONT COLOR=#00ff00&gt;&lt;/FONT&gt;</Text>
+                          <Text>（　そばにある【錬金鍋】から、ぐつぐつと煮える音と大量の泡が出ている。　）</Text>
+                      <Text>兄の&lt;FONT COLOR=#00ff00&gt;【メルス】&lt;/FONT&gt;は&lt;FONT COLOR=#00ff00&gt;《セントメテオ》&lt;/FONT&gt;にいるはずです。&lt;BR&gt;兄は普段からじっとしていないので、うまく出会えれば良いのですが。</Text>
+                      <Text>やあ、冒険者さん。ちょっとお願いを聞いて欲しいのです…。&lt;BR&gt;病気の兄を助けたいんです。</Text>
+                      <Option1>どうしました？</Option1>
+                      <Option2></Option2>
+                      <Option3></Option3>
+                          <Text>私の兄&lt;FONT COLOR=#00ff00&gt;【メルス】&lt;/FONT&gt;は、各地を旅する食通で、&lt;BR&gt;いつも不思議なものばかり食べて、よく体調を崩してしまうのです。&lt;PF&gt;僕は兄が心配なのでお供をしていまして。&lt;BR&gt;ここには、伝説の&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;があると聞いて来ました。&lt;PF&gt;また、妙な食べ物で兄が体調を崩しては…と心配で&lt;br&gt;私も遅ればせながら、やってきたのですが…。</Text>
+                          <Option1>どこから来たの？</Option1>
+                          <Option2>ほほう、それで？</Option2>
+                          <Option3></Option3>
+                              <Text>私たちは遠い国から来ました。&lt;BR&gt;どこかといわれても、ちょっと難しいですね。&lt;PF&gt;私の名前は【ヘルメ】、人呼んで“旅する錬金術師”です。&lt;BR&gt;兄は&lt;FONT COLOR=#00ff00&gt;【メルス】&lt;/FONT&gt;といい、祖国では名の知れた金持ちです。&lt;PF&gt;また、良くも悪くも、とても「グルメ」な人で…。&lt;BR&gt;私は兄と旅をしながら世界中の錬金術書を見るのが夢です。&lt;PF&gt;…が、兄はいつも錬金術で作られた物にも関わらず食べてしまう…。&lt;BR&gt;これは本当に理解しがたい。&lt;PF&gt;欲望と知識のどちらが重要なのか、&lt;BR&gt;あの人はわかってくれないのでしょう？</Text>
+                              <Text>実は、兄を説得して欲しいのです。&lt;BR&gt;妙なものばかり食べることを。&lt;PF&gt;伝説に出てくるようなものでなくても、おいしいものはたくさんある。&lt;BR&gt;心配なんです…。&lt;BR&gt;今までもそうでしたが、今度の&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;も、入手困難な珍品でしょう。</Text>
+                              <Option1>手伝いましょう</Option1>
+                              <Option2>お断りします！</Option2>
+                              <Option3></Option3>
+                                  <Text>本当ですか！？ありがとうございます。&lt;PF&gt;では、&lt;FONT COLOR=#00ff00&gt;《セントメテオ》&lt;/FONT&gt;で兄の&lt;FONT COLOR=#00ff00&gt;【メルス】&lt;/FONT&gt;と会ってください。&lt;br&gt;この街にいる事は間違いないようなのですが、私が行くと行き違いになりそうで。&lt;BR&gt;すみませんがよろしくお願いします。</Text>
+                                  <Text>…そうですね。&lt;BR&gt;こんな事を他人にお願いするのは間違っているんですけどね。</Text>
+      <Id>69</Id>
+      <Name>■錬金釜</Name>
+      <Description></Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+                      <Text>ぐつぐつぐつ…。&lt;BR&gt;摩訶不思議な液体が煮えたぎっている…。</Text>
+                      <Option1>融解液の錬金</Option1>
+                      <Option2>光の地下洞窟へ</Option2>
+                      <Option3>覗き込む</Option3>
+                                  <Text>ボコボコボコ…！&lt;BR&gt;釜の中の液体は、あなたに呼応するかのごとく大きな泡を噴いた。</Text>
+                                  <Option1>錬金する</Option1>
+                                  <Option2>錬金強化材料を追加</Option2>
+                                  <Option3>やめる</Option3>
+                                          <Text>おめでとうございます！&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『融解液』&lt;/FONT&gt;の練成に成功しました！</Text>
+                                          <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                          <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                          <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                          <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                          <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                          <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                          <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                          <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                          <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                      <Text>どの錬金強化材料を追加しますか？</Text>
+                                      <Option1>『錬金用触媒』</Option1>
+                                      <Option2>『蒸留水』</Option2>
+                                      <Option3>両方とも入れる</Option3>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                              <Text>錬金強化材料を持っていない。</Text>
+                                                  <Text>おめでとうございます！&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『融解液』&lt;/FONT&gt;の練成に成功しました！</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                              <Text>錬金強化材料を持っていない。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                                  <Text>【錬金釜】から光があふれ出し、アイテムを手に入れました。</Text>
+                                              <Text>錬金強化材料を持っていない。</Text>
+                                      <Text>錬金釜は静けさを取り戻した。</Text>
+                                  <Text>錬金に必要な材料が足りない…。&lt;BR&gt;材料の詳細は&lt;FONT COLOR=#00ff00&gt;【ヘルメ】&lt;/FONT&gt;に確認しよう。</Text>
+                              <Text>カバンの中身がいっぱいだ。&lt;FONT COLOR=#ffad5b&gt;&lt;/FONT&gt;</Text>
+                          <Text>準備が出来たら、【錬金釜】を覗き込んでみよう。</Text>
+                          <Text>！！&lt;PF&gt;水面は一瞬にして沸騰を止めた…。</Text>
+                      <Text>大きな錬金釜だ。中身の液体は神秘的な色と香りを放っている。</Text>
+      <Id>70</Id>
+      <Name>■メルス</Name>
+      <Description></Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+                          <Text>クンクン…。&lt;BR&gt;あんた美味そうな匂いするな。&lt;PF&gt;おお！それはまさしく&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;じゃねぇか！&lt;BR&gt;早くそれをよこせ！</Text>
+                          <Option1>約束の報酬は？</Option1>
+                          <Option2>大丈夫ですか</Option2>
+                          <Option3></Option3>
+                              <Text>ああ、そうだったな。&lt;BR&gt;で、あんたは何と交換したいんだ？男モノか？女モノか？</Text>
+                              <Option1>男モノ</Option1>
+                              <Option2>女モノ</Option2>
+                              <Option3>オカマモノ</Option3>
+                                      <Text>で、どこの部位のが欲しいんだ？</Text>
+                                      <Option1>頭装備</Option1>
+                                      <Option2>腕装備</Option2>
+                                      <Option3>胴装備</Option3>
+                                      <Option4>腰装備</Option4>
+                                      <Option5>足装備</Option5>
+                                          <Text>男モノの頭装備は&lt;FONT COLOR=#00ff00&gt;『ブレイブバイザー』&lt;/FONT&gt;だな。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;10個との交換だが問題ないな？</Text>
+                                          <Option1>はい</Option1>
+                                          <Option2>いいえ</Option2>
+                                          <Option3></Option3>
+                                              <Text>ほらよ、持ってきな。&lt;BR&gt;これで近くの店のシェフに料理を頼めるぞ！</Text>
+                                              <Text>おいおい、私は&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;を何としても食べたいのだよ。</Text>
+                                          <Text>男モノの腕装備は&lt;FONT COLOR=#00ff00&gt;『ブレイブグラブ』&lt;/FONT&gt;だな。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;10個との交換だが問題ないな？</Text>
+                                          <Option1>はい</Option1>
+                                          <Option2>いいえ</Option2>
+                                          <Option3></Option3>
+                                              <Text>ほらよ、持ってきな。&lt;BR&gt;これで近くの店のシェフに料理を頼めるぞ！</Text>
+                                              <Text>おいおい、私は&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;を何としても食べたいのだよ。</Text>
+                                          <Text>男モノの胴装備は&lt;FONT COLOR=#00ff00&gt;『ブレイブキュイラス』&lt;/FONT&gt;だな。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;10個との交換だが問題ないな？</Text>
+                                          <Option1>はい</Option1>
+                                          <Option2>いいえ</Option2>
+                                          <Option3></Option3>
+                                              <Text>ほらよ、持ってきな。&lt;BR&gt;これで近くの店のシェフに料理を頼めるぞ！</Text>
+                                              <Text>おいおい、私は&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;を何としても食べたいのだよ。</Text>
+                                          <Text>男モノの腰装備は&lt;FONT COLOR=#00ff00&gt;『ブレイブクロス』&lt;/FONT&gt;だな。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;10個との交換だが問題ないな？</Text>
+                                          <Option1>はい</Option1>
+                                          <Option2>いいえ</Option2>
+                                          <Option3></Option3>
+                                              <Text>ほらよ、持ってきな。&lt;BR&gt;これで近くの店のシェフに料理を頼めるぞ！</Text>
+                                              <Text>おいおい、私は&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;を何としても食べたいのだよ。</Text>
+                                          <Text>男モノの足装備は&lt;FONT COLOR=#00ff00&gt;『ブレイブブーツ』&lt;/FONT&gt;だな。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;10個との交換だが問題ないな？</Text>
+                                          <Option1>はい</Option1>
+                                          <Option2>いいえ</Option2>
+                                          <Option3></Option3>
+                                              <Text>ほらよ、持ってきな。&lt;BR&gt;これで近くの店のシェフに料理を頼めるぞ！</Text>
+                                              <Text>おいおい、私は&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;を何としても食べたいのだよ。</Text>
+                                      <Text>カバンいっぱいじゃねぇか。</Text>
+                                      <Text>で、どこの部位のが欲しいんだ？</Text>
+                                      <Option1>頭装備</Option1>
+                                      <Option2>腕装備</Option2>
+                                      <Option3>胴装備</Option3>
+                                      <Option4>腰装備</Option4>
+                                      <Option5>足装備</Option5>
+                                          <Text>女モノの頭装備は&lt;FONT COLOR=#00ff00&gt;『ブレイブバイザー』&lt;/FONT&gt;だな。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;10個との交換だが問題ないな？</Text>
+                                          <Option1>はい</Option1>
+                                          <Option2>いいえ</Option2>
+                                          <Option3></Option3>
+                                              <Text>ほらよ、持ってきな。&lt;BR&gt;これで近くの店のシェフに料理を頼めるぞ！</Text>
+                                              <Text>おいおい、私は&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;を何としても食べたいのだよ。</Text>
+                                          <Text>女モノの腕装備は&lt;FONT COLOR=#00ff00&gt;『ブレイブグラブ』&lt;/FONT&gt;だな。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;10個との交換だが問題ないな？</Text>
+                                          <Option1>はい</Option1>
+                                          <Option2>いいえ</Option2>
+                                          <Option3></Option3>
+                                              <Text>ほらよ、持ってきな。&lt;BR&gt;これで近くの店のシェフに料理を頼めるぞ！</Text>
+                                              <Text>おいおい、私は&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;を何としても食べたいのだよ。</Text>
+                                          <Text>女モノの胴装備は&lt;FONT COLOR=#00ff00&gt;『ブレイブキュイラス』&lt;/FONT&gt;だな。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;10個との交換だが問題ないな？</Text>
+                                          <Option1>はい</Option1>
+                                          <Option2>いいえ</Option2>
+                                          <Option3></Option3>
+                                              <Text>ほらよ、持ってきな。&lt;BR&gt;これで近くの店のシェフに料理を頼めるぞ！</Text>
+                                              <Text>おいおい、私は&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;を何としても食べたいのだよ。</Text>
+                                          <Text>女モノの腰装備は&lt;FONT COLOR=#00ff00&gt;『ブレイブクロス』&lt;/FONT&gt;だな。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;10個との交換だが問題ないな？</Text>
+                                          <Option1>はい</Option1>
+                                          <Option2>いいえ</Option2>
+                                          <Option3></Option3>
+                                              <Text>ほらよ、持ってきな。&lt;BR&gt;これで近くの店のシェフに料理を頼めるぞ！</Text>
+                                              <Text>おいおい、私は&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;を何としても食べたいのだよ。</Text>
+                                          <Text>女モノの足装備は&lt;FONT COLOR=#00ff00&gt;『ブレイブブーツ』&lt;/FONT&gt;だな。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;10個との交換だが問題ないな？</Text>
+                                          <Option1>はい</Option1>
+                                          <Option2>いいえ</Option2>
+                                          <Option3></Option3>
+                                              <Text>ほらよ、持ってきな。&lt;BR&gt;これで近くの店のシェフに料理を頼めるぞ！</Text>
+                                              <Text>おいおい、私は&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;を何としても食べたいのだよ。</Text>
+                                      <Text>カバンいっぱいじゃねぇか。</Text>
+                                  <Text>おいおい、そりゃ持ってねーよ。</Text>
+                              <Text>私は、待つ事がキライなんだ。早めに頼むぞ！</Text>
+                          <Text>どうやら&lt;FONT COLOR=#00ff00&gt;【ヘルメ】&lt;/FONT&gt;の説得に成功したようだな。&lt;PF&gt;『月光キノコ』を10個と、さらに少しの「Gold」をくれれば、&lt;BR&gt;お前に&lt;FONT COLOR=#ffad5b&gt;「ブレイブシリーズの服装」&lt;/FONT&gt;をくれてやろう。</Text>
+                          <Option1>ブレイブシリーズの服装</Option1>
+                          <Option2></Option2>
+                          <Option3></Option3>
+                              <Text>ブレイブシリーズの服装だよ、知らないの？&lt;PF&gt;報酬はブレイブシリーズの服装が二着で、それぞれ五つの部位がある。&lt;BR&gt;交換するには一部位につき&lt;FONT COLOR=#00ff00&gt;10本&lt;/FONT&gt;の&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;が必要だ。&lt;PF&gt;「頭」、「手」、「胴」、「腰」、「足」の部位は少し「Gold」もいただくぞ。</Text>
+                              <Option1>お金を取るの？</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                                  <Text>しょうがねぇなぁ。&lt;BR&gt;まぁ今回は『月光キノコ』に免じて金はよしとしよう。</Text>
+                      <Text>このあたりでは&lt;FONT COLOR=#00ff00&gt;『月光キノコ』&lt;/FONT&gt;という珍妙なキノコが取れるそうだ。&lt;br&gt;この味は一度食べると忘れられないそうでね。&lt;PF&gt;しかし&lt;FONT COLOR=#00ff00&gt;【ヘルメ】&lt;/FONT&gt;がどうしても協力してくれないので、&lt;BR&gt;仕方なく誰かにお手伝いを頼もうとしていたところなのだ。&lt;PF&gt;&lt;FONT COLOR=#00ff00&gt;《封霊されし地》&lt;/FONT&gt;まで…。&lt;BR&gt;弟のところへ行ってくれる優しい人はいないものか…？</Text>
+      <Id>81</Id>
+      <Name>■アバター配布娘</Name>
+      <Description></Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+            <Text></Text>
+                      <Text>　　アバターセットのプレゼントは、1人1個までなんだ。&lt;BR&gt;&lt;BR&gt;　　たくさんあげられなくてゴメンネ！</Text>
+                      <Option1>ｧﾚｭnｶi､Jｱ箴v･jｳC</Option1>
+                      <Option2>ｧﾚｷQｴｫｼ尞~｡I</Option2>
+                      <Option3></Option3>
+                                      <Text>　　こんにちは♪&lt;BR&gt;　　話しかけてくれてありがとう！</Text>
+                                      <Option1>こんにちは！</Option1>
+                                      <Option2>ｵ･ｵ･｡C</Option2>
+                                      <Option3></Option3>
+                                              <Text>　　私はみんなに&lt;FONT COLOR=#ffad5b&gt;「爆裂コラボ」のアバターセット&lt;/FONT&gt;を配布してます♪</Text>
+                                              <Text>　　うん！&lt;BR&gt;&lt;BR&gt;　　みんなに1個ずつあげるよ♪</Text>
+                                          <Text>　　はい！&lt;BR&gt;&lt;BR&gt;　　それではもう一度、私に話しかけてみてください♪</Text>
+                                      <Text>｡@｡@ｼHｼHｼH｡AｧAｷﾇｳﾆｦn､Fｶﾜ｡H</Text>
+                                      <Option1>ｷﾇｳﾆｦn､F｡I</Option1>
+                                      <Option2>ｵ･ｵ･｡C</Option2>
+                                      <Option3></Option3>
+                                              <Text>｡@｡@ｫﾜｩ・p｡Aｧﾚ､@ｦｸ&lt;FONT COLOR=#ffad5b&gt;･uｯ牴e､@ｭﾓ､Hｶi､J&lt;/FONT&gt;｡I</Text>
+                                              <Text>｡@｡@ｨｺｴN･hｧa｡I</Text>
+                                          <Text>｡@｡@ｷﾇｳﾆｦn､FｦAｨﾓｧ荅ﾚｧa｡I</Text>
+                                      <Text>｡@｡@ｧAｷﾇｳﾆｦn､Fｶﾜ｡H</Text>
+                                      <Option1>ｷﾇｳﾆｦn､F｡I</Option1>
+                                      <Option2>ｵ･ｵ･｡C</Option2>
+                                      <Option3></Option3>
+                                              <Text>｡@｡@ｫﾜｩ・p｡Aｧﾚ､@ｦｸ&lt;FONT COLOR=#ffad5b&gt;･uｯ牴e､@ｭﾓ､Hｶi､J&lt;/FONT&gt;｡I</Text>
+                                              <Text>｡@｡@ｨｺｴN･hｧa｡I</Text>
+                                          <Text>｡@｡@ｷﾇｳﾆｦn､FｦAｨﾓｧ荅ﾚｧa｡I</Text>
+                                      <Option1>ｷﾇｳﾆｦn､F｡I</Option1>
+                                      <Option2>ｵ･ｵ･｡C</Option2>
+                                      <Option3></Option3>
+                                      <Text>｡@｡@ｧAｷﾇｳﾆｦn､Fｶﾜ｡H</Text>
+                                              <Text>｡@｡@ｫﾜｩ・p｡Aｧﾚ､@ｦｸ&lt;FONT COLOR=#ffad5b&gt;･uｯ牴e､@ｭﾓ､Hｶi､J&lt;/FONT&gt;｡I</Text>
+                                              <Text>｡@｡@ｨｺｴN･hｧa｡I</Text>
+                                          <Text>｡@｡@ｷﾇｳﾆｦn､FｦAｨﾓｧ荅ﾚｧa｡I</Text>
+                              <Text>｡@｡@ｦpｪGｧAｭ｢､｣､ﾎｫﾝｭnｶi､J&lt;FONT COLOR=#00ff00&gt;ｱ箴v･jｳ・lt;/FONT&gt;ｪｺｸﾜ｡Aｰ｣､FｨC24､pｮﾉ､@ｦｸ･~｡AｧA､]･i･Hｱaｵﾛ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;ｩ^ﾄmｵｹ&lt;FONT COLOR=#00ff00&gt;ｲｧｬﾉ･ﾛｸO&lt;/FONT&gt;ｩO｡C</Text>
+                          <Text>｡@｡@ｧAｷQｴｫ､ｰｻO｡H</Text>
+                          <Option1>ｫn･ﾊﾄ_ｽc</Option1>
+                          <Option2>ｭI･]</Option2>
+                          <Option3></Option3>
+                                      <Text>｡@｡@ｯｬｧAｦnｹB｡I</Text>
+                                      <Text>｡@｡@ｧAｪｺ&lt;FONT COLOR=#ffad5b&gt;ｭI･]ｪﾅｮ讀｣ｨｬ､@ｮ・lt;/FONT&gt;ｩO｡Aｭn､｣ｭn･盂ｼ､@ｨﾇ､｣･ｲｭnｪｺｪFｦ陦H</Text>
+                                  <Text>｡@｡@ｽﾐｳﾆｻﾕｺﾅｵｵｾ・CｺﾘﾃCｦ筱ｺ&lt;FONT COLOR=#00ff00&gt;ｸWｴｹｿ}ｦ@､Tｲﾕ&lt;/FONT&gt;､~ｯ爻MｧﾚｧIｴｫｫn･ﾊﾄ_ｽcｳ癸I</Text>
+                                      <Text>｡@｡@ｯuｦｳｲｴ･奛AｧAｷQｴｫｭｭﾓｭI･]｡HｵｹｧA､@ｱiｲMｳ譯AｧAｦﾛ､vｿﾅｶq､@､Uﾅo｡AｼKｼK｡C&lt;BR&gt;｡@｡@ｫn･ﾊﾀYﾅ・14､ﾑ)--､Tｲﾕ｡Fｫn･ﾊﾀYﾅ・･ﾃ､[)--､ｭｲﾕ｡Fｮ｣ｩﾆｫn･ﾊﾀYﾅ・7､ﾑ)--､Cｲﾕ&lt;BR&gt;｡@｡@ｦ蟶{ｫn･ﾊﾀYﾅ・7､ﾑ)--､Qｲﾕ｡FｺﾆｨgｾMｻsｫn･ﾊﾀYﾅ・7､ﾑ)--､Q､Tｲﾕ&lt;BR&gt;｡@｡@ｵｴｩRｲﾗｵｲｫn･ﾊﾀYﾅ・30､ﾑ)--､Q､Tｲﾕ･[1ﾁ譓ﾕﾆFｵｲｴｹ&lt;BR&gt;｡@｡@&lt;FONT COLOR=#00ff00&gt;ｾMｻsｫn･ﾊﾀYﾅ・･ﾃ､[)--､Q､ｻｲﾕ&lt;/FONT&gt;</Text>
+                                      <Option1>ｫn･ﾊﾀYﾅ・14､ﾑ)</Option1>
+                                      <Option2>ｫn･ﾊﾀYﾅ・･ﾃ､[)</Option2>
+                                      <Option3>ｮ｣ｩﾆｫn･ﾊﾀYﾅ・7､ﾑ)</Option3>
+                                      <Option4>ｦ蟶{ｫn･ﾊﾀYﾅ・7､ﾑ)</Option4>
+                                      <Option5>ｺﾆｨgｾMｻsｫn･ﾊﾀYﾅ・7､ﾑ)</Option5>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ14､鬮n･ﾊﾀYﾅ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｭnｬﾃｱ､･ｦｳ癸I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ･ﾃ､[ｫn･ﾊﾀYﾅ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､ｭｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｭnｬﾃｱ､･ｦｳ癸I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､魄｣ｩﾆｫn･ﾊﾀYﾅ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Cｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､鬥蟶{ｫn･ﾊﾀYﾅ@ｬｰｬﾀ｡AｧAｻﾝｭn､Qｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､鮗ﾆｨgｾMｻsｫn･ﾊﾀYﾅ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､T､Q､魴ｴｩRｲﾗｵｲｫn･ﾊﾀYﾅﾐ｡ﾐｳoｬO､jｼ奛I｡ﾐ｡ﾐｧ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡A･H､ﾎ｡K｡KｧAﾁﾙｰOｱo･ｫeｵｹｧAｪｺｫﾕﾆFｵｲｴｹｶﾜ｡H｡Cｩﾒ･HｧAｳﾆｻF･H､WｳoｨﾇｹDｨ网Fｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｪｺｪFｦ霍ﾇｳﾆｱo､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ･ﾃ､[ｾMｻsｫn･ﾊﾀYﾅﾐ｡ﾐｳoｬOｯSｼ奛I｡ﾐ｡ﾐｧ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､ｻｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻF･H､WｹDｨ网Fｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｪｺｪFｦ霍ﾇｳﾆｱo､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                      <Text>｡@｡@ｯuｦｳｲｴ･奛AｧAｷQｴｫｭｭﾓｭI･]｡HｵｹｧA､@ｱiｲMｳ譯AｧAｦﾛ､vｿﾅｶq､@､Uﾅo｡AｼKｼK｡C&lt;BR&gt;｡@｡@ｱ､Hｹqｿ・14､ﾑ)--､Tｲﾕ｡Fｱ､Hｹqｿ・･ﾃ､[)--､ｭｲﾕ｡Fｮ｣ｩﾆｹqｿ・7､ﾑ)--､Cｲﾕ&lt;BR&gt;｡@｡@ｦ蟶{ｱ､Hｹqｿ・7､ﾑ)--､Qｲﾕ｡Fｺﾆｨgｱ､Hｹqｿ・7､ﾑ)--､Q､Tｲﾕ&lt;BR&gt;｡@｡@ｹﾜｻ鉷､Hｹqｿ・30､ﾑ)--､Q､Tｲﾕ･[1ﾁ譓ﾕﾆFｵｲｴｹ&lt;BR&gt;｡@｡@&lt;FONT COLOR=#00ff00&gt;ｮ｣ｩﾆｱ､Hｹqｿ・･ﾃ､[)--､Q､ｻｲﾕ&lt;/FONT&gt;</Text>
+                                      <Option1>ｱ､Hｹqｿ・14､ﾑ)</Option1>
+                                      <Option2>ｱ､Hｹqｿ・･ﾃ､[)</Option2>
+                                      <Option3>ｮ｣ｩﾆｹqｿ・7､ﾑ)</Option3>
+                                      <Option4>ｦ蟶{ｱ､Hｹqｿ・7､ﾑ)</Option4>
+                                      <Option5>ｺﾆｨgｱ､Hｹqｿ・7､ﾑ)</Option5>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ14､魍､Hｹqｿ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｭnｬﾃｱ､･ｦｳ癸I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ･ﾃ､[ｱ､Hｹqｿ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､ｭｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､魄｣ｩﾆｹqｿ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Cｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､鬥蟶{ｱ､Hｹqｿ@ｬｰｬﾀ｡AｧAｻﾝｭn､Qｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､鮗ﾆｨgｱ､Hｹqｿ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､T､Q､鮖ﾜｻ鉷､Hｹqｿﾐ｡ﾐｳoｬO､jｼ奛I｡ﾐ｡ﾐｧ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡A･H､ﾎ｡K｡KｧAﾁﾙｰOｱo･ｫeｵｹｧAｪｺｫﾕﾆFｵｲｴｹｶﾜ｡H｡Cｩﾒ･HｧAｳﾆｻF･H､WｳoｨﾇｹDｨ网Fｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｪｺｪFｦ霍ﾇｳﾆｱo､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ･ﾃ､[ｮ｣ｩﾆｱ､Hｹqｿﾐ｡ﾐｳoｬOｯSｼ奛I｡ﾐ｡ﾐｧ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､ｻｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻF･H､WｳoｨﾇｹDｨ网Fｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｪｺｪFｦ霍ﾇｳﾆｱo､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                  <Text>｡@｡@ｧAｪｺ&lt;FONT COLOR=#ffad5b&gt;ｭI･]ｪﾅｮ讀｣ｨｬ､@ｮ・lt;/FONT&gt;ｩO｡Aｭn､｣ｭn･盂ｼ､@ｨﾇ､｣･ｲｭnｪｺｪFｦ陦H</Text>
+                      <Text>｡@｡@､ﾓｦn､F｡IｧAﾁ`ｺ簀･ｨ・ﾚｪｺﾁnｭｵ､F｡I</Text>
+                      <Option1>ｧAｭｦ・H</Option1>
+                      <Option2>ｺﾆ､l｡C</Option2>
+                      <Option3></Option3>
+                          <Text>｡@｡@ﾁ@ｧﾚｵﾛｫ讙ｺ｡AｧﾚｬO&lt;FONT COLOR=#00ff00&gt;ｳﾇｧJ｡DｦBｴｵ&lt;/FONT&gt;｡Aｲ{ｦbｪｺ､uｧ@ｬO&lt;FONT COLOR=#00ff00&gt;ｱ箴v･jｳ・lt;/FONT&gt;ｪｺｰk､`ｪﾌ｡AｽﾐｧAｦhｦhｫ・ﾐ｡I</Text>
+                          <Option1>ｽﾐｻ｡ｭｫﾂI｡C</Option1>
+                          <Option2></Option2>
+                          <Option3></Option3>
+                              <Text>｡@｡@ｧﾚｬOｰk､`ｨ・oｸﾌｨﾓｵｹｧAｭﾌﾄｵｧiｪｺ｡K｡Kｫeﾅ]ｪｫ｡C&lt;FONT COLOR=#00ff00&gt;ｱ箴v･jｳ・lt;/FONT&gt;､ｺｪｺﾅ]ｪｫｭpｵeｦbｳoｭﾓｸ`､鯆J､Hｬﾉ｡CｦｬOｷ昉M･Lｭﾌｪｺｭﾗｦ讀｣ｰAｩﾒ･Hｨｭ､W･ｲｶｷｱaｵﾛ&lt;FONT COLOR=#00ff00&gt;ｸWｴｹｿ}&lt;/FONT&gt;､~ｯ牀・Vｸﾓｪﾅｶ｡ｨﾓｨ・{ｺ\､jｳｰ｡Aｳo､]ｬOｬｰ､ｰｻﾚｨﾓｳoｸﾌｪｺｭ・]｡C</Text>
+                              <Option1>ﾅ･ｰ_ｨﾓﾁﾙﾆZ､｣ｫ郛ﾋｪｺ｡C</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                                  <Text>｡@｡@ｧc｡Aｳo､｣ｬOｭｫﾂI｡Iﾁ`､ｧ｡AｸU､@･Lｭﾌｯuｪｺｨﾓｨ・Fｰ{ｺ\､jｳｰ｡AｨｺｱNｷ|ｬOｳoｭﾓ･@ｬﾉｪｺｯEｧT｡AｧﾚｷQｧA､｣ｷ|ｧ箘ﾇﾆ[ｧa｡HｧAｷ|ｬｰ､FｧAｪｺｪB､ﾍｿﾋ､Hｭﾌｾﾄ､O､@ｷiｧa｡H</Text>
+                                  <Option1>ｧﾚｭnｶi､Jｱ箴v･jｳI</Option1>
+                                  <Option2>ｧﾚ､~､｣ｷQｺﾞ｡AｦAｨ｣｡C</Option2>
+                                  <Option3></Option3>
+                                      <Text>｡@｡@ｨｺｻN･hｧa｡Iｧﾚｵ･ｧAｪｺｦnｮｧ｡I</Text>
+                                      <Option1>･Xｵo｡I</Option1>
+                                      <Option2>ｵ･ｵ･｡I</Option2>
+                                      <Option3></Option3>
+                                              <Text>｡@｡@ｫﾜｩ・p｡Aｧﾚ､@ｦｸ&lt;FONT COLOR=#ffad5b&gt;･uｯ牴e､@ｭﾓ､Hｶi､J&lt;/FONT&gt;｡I</Text>
+                                          <Text>｡@｡@ｨｺｴNｺﾉｧﾖｦ^ｨﾓｧa｡I</Text>
+                                      <Text>｡@｡@ｨSﾃY｡A､ﾏ･ｿ､｣ｬOｧﾚｪｺｷl･｢｡C</Text>
+                          <Text>｡@｡@ｳﾞ｡IｧAｧOｨｫｰﾚ｡I</Text>
+                      <Text>｡@｡@ｶﾙ｡A､Sｨ｣ｨ・A､F｡CｳoｦｸｧAｷQｭn｡H</Text>
+                      <Option1>ｧﾚｭnｶi､Jｱ箴v･jｳC</Option1>
+                      <Option2>ｧﾚｷQｴｫｼ尞~｡I</Option2>
+                      <Option3></Option3>
+                                      <Text>｡@｡@ｧAｷﾇｳﾆｦn､Fｶﾜ｡H</Text>
+                                      <Option1>ｷﾇｳﾆｦn､F｡I</Option1>
+                                      <Option2>ｵ･ｵ･｡C</Option2>
+                                      <Option3></Option3>
+                                              <Text>｡@｡@ｫﾜｩ・p｡Aｧﾚ､@ｦｸ&lt;FONT COLOR=#ffad5b&gt;･uｯ牴e､@ｭﾓ､Hｶi､J&lt;/FONT&gt;｡I</Text>
+                                              <Text>｡@｡@ｨｺｴN･hｧa｡I</Text>
+                                          <Text>｡@｡@ｷﾇｳﾆｦn､FｦAｨﾓｧ荅ﾚｧa｡I</Text>
+                                      <Text>｡@｡@ｼHｼHｼH｡AｧAｷﾇｳﾆｦn､Fｶﾜ｡H</Text>
+                                      <Option1>ｷﾇｳﾆｦn､F｡I</Option1>
+                                      <Option2>ｵ･ｵ･｡C</Option2>
+                                      <Option3></Option3>
+                                              <Text>｡@｡@ｫﾜｩ・p｡Aｧﾚ､@ｦｸ&lt;FONT COLOR=#ffad5b&gt;･uｯ牴e､@ｭﾓ､Hｶi､J&lt;/FONT&gt;｡I</Text>
+                                              <Text>｡@｡@ｨｺｴN･hｧa｡I</Text>
+                                          <Text>｡@｡@ｷﾇｳﾆｦn､FｦAｨﾓｧ荅ﾚｧa｡I</Text>
+                                      <Text>｡@｡@ｧAｷﾇｳﾆｦn､Fｶﾜ｡H</Text>
+                                      <Option1>ｷﾇｳﾆｦn､F｡I</Option1>
+                                      <Option2>ｵ･ｵ･｡C</Option2>
+                                      <Option3></Option3>
+                                              <Text>｡@｡@ｫﾜｩ・p｡Aｧﾚ､@ｦｸ&lt;FONT COLOR=#ffad5b&gt;･uｯ牴e､@ｭﾓ､Hｶi､J&lt;/FONT&gt;｡I</Text>
+                                              <Text>｡@｡@ｨｺｴN･hｧa｡I</Text>
+                                          <Text>｡@｡@ｷﾇｳﾆｦn､FｦAｨﾓｧ荅ﾚｧa｡I</Text>
+                                      <Option1>ｷﾇｳﾆｦn､F｡I</Option1>
+                                      <Option2>ｵ･ｵ･｡C</Option2>
+                                      <Option3></Option3>
+                                      <Text>｡@｡@ｧAｷﾇｳﾆｦn､Fｶﾜ｡H</Text>
+                                              <Text>｡@｡@ｫﾜｩ・p｡Aｧﾚ､@ｦｸ&lt;FONT COLOR=#ffad5b&gt;･uｯ牴e､@ｭﾓ､Hｶi､J&lt;/FONT&gt;｡I</Text>
+                                              <Text>｡@｡@ｨｺｴN･hｧa｡I</Text>
+                                          <Text>｡@｡@ｷﾇｳﾆｦn､FｦAｨﾓｧ荅ﾚｧa｡I</Text>
+                              <Text>｡@｡@ｦpｪGｧAｭ｢､｣､ﾎｫﾝｭnｶi､J&lt;FONT COLOR=#00ff00&gt;ｱ箴v･jｳ・lt;/FONT&gt;ｪｺｸﾜ｡Aｰ｣､FｨC24､pｮﾉ､@ｦｸ･~｡AｧA､]･i･Hｱaｵﾛ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;ｩ^ﾄmｵｹ&lt;FONT COLOR=#00ff00&gt;ｲｧｬﾉ･ﾛｸO&lt;/FONT&gt;ｩO｡C</Text>
+                          <Text>｡@｡@ｧAｷQｴｫ､ｰｻO｡H</Text>
+                          <Option1>ｫn･ﾊﾄ_ｽc</Option1>
+                          <Option2>ｭI･]</Option2>
+                          <Option3></Option3>
+                                      <Text>｡@｡@ｯｬｧAｦnｹB｡I</Text>
+                                      <Text>｡@｡@ｧAｪｺ&lt;FONT COLOR=#ffad5b&gt;ｭI･]ｪﾅｮ讀｣ｨｬ､@ｮ・lt;/FONT&gt;ｩO｡Aｭn､｣ｭn･盂ｼ､@ｨﾇ､｣･ｲｭnｪｺｪFｦ陦H</Text>
+                                  <Text>｡@｡@ｽﾐｳﾆｻﾕｺﾅｵｵｾ・CｺﾘﾃCｦ筱ｺ&lt;FONT COLOR=#00ff00&gt;ｸWｴｹｿ}ｦ@､Tｲﾕ&lt;/FONT&gt;､~ｯ爻MｧﾚｧIｴｫｫn･ﾊﾄ_ｽcｳ癸I</Text>
+                                      <Text>｡@｡@ｯuｦｳｲｴ･奛AｧAｷQｴｫｭｭﾓｭI･]｡HｵｹｧA､@ｱiｲMｳ譯AｧAｦﾛ､vｿﾅｶq､@､Uﾅo｡AｼKｼK｡C&lt;BR&gt;｡@｡@ｫn･ﾊﾀYﾅ・14､ﾑ)--､Tｲﾕ｡Fｫn･ﾊﾀYﾅ・･ﾃ､[)--､ｭｲﾕ｡Fｮ｣ｩﾆｫn･ﾊﾀYﾅ・7､ﾑ)--､Cｲﾕ&lt;BR&gt;｡@｡@ｦ蟶{ｫn･ﾊﾀYﾅ・7､ﾑ)--､Qｲﾕ｡FｺﾆｨgｾMｻsｫn･ﾊﾀYﾅ・7､ﾑ)--､Q､Tｲﾕ&lt;BR&gt;｡@｡@ｵｴｩRｲﾗｵｲｫn･ﾊﾀYﾅ・30､ﾑ)--､Q､Tｲﾕ･[1ﾁ譓ﾕﾆFｵｲｴｹ&lt;BR&gt;｡@｡@&lt;FONT COLOR=#00ff00&gt;ｾMｻsｫn･ﾊﾀYﾅ・･ﾃ､[)--､Q､ｻｲﾕ&lt;/FONT&gt;</Text>
+                                      <Option1>ｫn･ﾊﾀYﾅ・14､ﾑ)</Option1>
+                                      <Option2>ｫn･ﾊﾀYﾅ・･ﾃ､[)</Option2>
+                                      <Option3>ｮ｣ｩﾆｫn･ﾊﾀYﾅ・7､ﾑ)</Option3>
+                                      <Option4>ｦ蟶{ｫn･ﾊﾀYﾅ・7､ﾑ)</Option4>
+                                      <Option5>ｺﾆｨgｾMｻsｫn･ﾊﾀYﾅ・7､ﾑ)</Option5>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ14､鬮n･ﾊﾀYﾅ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｭnｬﾃｱ､･ｦｳ癸I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ･ﾃ､[ｫn･ﾊﾀYﾅ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､ｭｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｭnｬﾃｱ､･ｦｳ癸I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､魄｣ｩﾆｫn･ﾊﾀYﾅ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Cｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､鬥蟶{ｫn･ﾊﾀYﾅ@ｬｰｬﾀ｡AｧAｻﾝｭn､Qｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､鮗ﾆｨgｾMｻsｫn･ﾊﾀYﾅ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､T､Q､魴ｴｩRｲﾗｵｲｫn･ﾊﾀYﾅﾐ｡ﾐｳoｬO､jｼ奛I｡ﾐ｡ﾐｧ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡A･H､ﾎ｡K｡KｧAﾁﾙｰOｱo･ｫeｵｹｧAｪｺｫﾕﾆFｵｲｴｹｶﾜ｡H｡Cｩﾒ･HｧAｳﾆｻF･H､WｳoｨﾇｹDｨ网Fｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｪｺｪFｦ霍ﾇｳﾆｱo､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ･ﾃ､[ｾMｻsｫn･ﾊﾀYﾅﾐ｡ﾐｳoｬOｯSｼ奛I｡ﾐ｡ﾐｧ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､ｻｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻF･H､WｹDｨ网Fｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｪｺｪFｦ霍ﾇｳﾆｱo､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                      <Text>｡@｡@ｯuｦｳｲｴ･奛AｧAｷQｴｫｭｭﾓｭI･]｡HｵｹｧA､@ｱiｲMｳ譯AｧAｦﾛ､vｿﾅｶq､@､Uﾅo｡AｼKｼK｡C&lt;BR&gt;｡@｡@ｱ､Hｹqｿ・14､ﾑ)--､Tｲﾕ｡Fｱ､Hｹqｿ・･ﾃ､[)--､ｭｲﾕ｡Fｮ｣ｩﾆｹqｿ・7､ﾑ)--､Cｲﾕ&lt;BR&gt;｡@｡@ｦ蟶{ｱ､Hｹqｿ・7､ﾑ)--､Qｲﾕ｡Fｺﾆｨgｱ､Hｹqｿ・7､ﾑ)--､Q､Tｲﾕ&lt;BR&gt;｡@｡@ｹﾜｻ鉷､Hｹqｿ・30､ﾑ)--､Q､Tｲﾕ･[1ﾁ譓ﾕﾆFｵｲｴｹ&lt;BR&gt;｡@｡@&lt;FONT COLOR=#00ff00&gt;ｮ｣ｩﾆｱ､Hｹqｿ・･ﾃ､[)--､Q､ｻｲﾕ&lt;/FONT&gt;</Text>
+                                      <Option1>ｱ､Hｹqｿ・14､ﾑ)</Option1>
+                                      <Option2>ｱ､Hｹqｿ・･ﾃ､[)</Option2>
+                                      <Option3>ｮ｣ｩﾆｹqｿ・7､ﾑ)</Option3>
+                                      <Option4>ｦ蟶{ｱ､Hｹqｿ・7､ﾑ)</Option4>
+                                      <Option5>ｺﾆｨgｱ､Hｹqｿ・7､ﾑ)</Option5>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ14､魍､Hｹqｿ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｭnｬﾃｱ､･ｦｳ癸I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ･ﾃ､[ｱ､Hｹqｿ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､ｭｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､魄｣ｩﾆｹqｿ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Cｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､鬥蟶{ｱ､Hｹqｿ@ｬｰｬﾀ｡AｧAｻﾝｭn､Qｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､C､鮗ﾆｨgｱ､Hｹqｿ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻFｳoｻhｪｺｸWｴｹｿ}ｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｿ}ｪG､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ､T､Q､鮖ﾜｻ鉷､Hｹqｿﾐ｡ﾐｳoｬO､jｼ奛I｡ﾐ｡ﾐｧ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､Tｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡A･H､ﾎ｡K｡KｧAﾁﾙｰOｱo･ｫeｵｹｧAｪｺｫﾕﾆFｵｲｴｹｶﾜ｡H｡Cｩﾒ･HｧAｳﾆｻF･H､WｳoｨﾇｹDｨ网Fｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｪｺｪFｦ霍ﾇｳﾆｱo､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                          <Text>｡@｡@ｦpｪGｷQｭnｴｫ･ﾃ､[ｮ｣ｩﾆｱ､Hｹqｿﾐ｡ﾐｳoｬOｯSｼ奛I｡ﾐ｡ﾐｧ@ｬｰｬﾀ｡AｧAｻﾝｭnｦU､Q､ｻｲﾕ､CｺﾘﾃCｦ筱ｺｸWｴｹｿ}｡Cｩﾒ･HｧAｳﾆｻF･H､WｳoｨﾇｹDｨ网Fｶﾜ｡H</Text>
+                                          <Option1>ｧﾚｦﾒｼ{､@､U｡C</Option1>
+                                          <Option2>ｧﾚｴｫ｡I</Option2>
+                                          <Option3></Option3>
+                                              <Text>｡@｡@ｨｺｴNｵ･ｧAｦﾒｼ{ｩPｸﾔｦAｨﾓｧIｴｫﾅo｡C</Text>
+                                                  <Text>｡@｡@ｯｬｧAｨﾎｸ`ｴrｧﾖ｡I</Text>
+                                                  <Text>｡@｡@ｧAｪｺｪFｦ霍ﾇｳﾆｱo､｣ｰA･hｷﾇｳﾆｦn､~ｨﾓｧa｡H</Text>
+                                  <Text>｡@｡@ｧAｪｺ&lt;FONT COLOR=#ffad5b&gt;ｭI･]ｪﾅｮ讀｣ｨｬ､@ｮ・lt;/FONT&gt;ｩO｡Aｭn､｣ｭn･盂ｼ､@ｨﾇ､｣･ｲｭnｪｺｪFｦ陦H</Text>
+                      <Text>｡@｡@､ﾓｦn､F｡IｧAﾁ`ｺ簀･ｨ・ﾚｪｺﾁnｭｵ､F｡I</Text>
+                      <Option1>ｧAｭｦ・H</Option1>
+                      <Option2>ｺﾆ､l｡C</Option2>
+                      <Option3></Option3>
+                          <Text>｡@｡@ﾁ@ｧﾚｵﾛｫ讙ｺ｡AｧﾚｬO&lt;FONT COLOR=#00ff00&gt;ｳﾇｧJ｡DｦBｴｵ&lt;/FONT&gt;｡Aｲ{ｦbｪｺ､uｧ@ｬO&lt;FONT COLOR=#00ff00&gt;ｱ箴v･jｳ・lt;/FONT&gt;ｪｺｰk､`ｪﾌ｡AｽﾐｧAｦhｦhｫ・ﾐ｡I</Text>
+                          <Option1>ｽﾐｻ｡ｭｫﾂI｡C</Option1>
+                          <Option2></Option2>
+                          <Option3></Option3>
+                              <Text>｡@｡@ｧﾚｬOｰk､`ｨ・oｸﾌｨﾓｵｹｧAｭﾌﾄｵｧiｪｺ｡K｡Kｫeﾅ]ｪｫ｡C&lt;FONT COLOR=#00ff00&gt;ｱ箴v･jｳ・lt;/FONT&gt;､ｺｪｺﾅ]ｪｫｭpｵeｦbｳoｭﾓｸ`､鯆J､Hｬﾉ｡CｦｬOｷ昉M･Lｭﾌｪｺｭﾗｦ讀｣ｰAｩﾒ･Hｨｭ､W･ｲｶｷｱaｵﾛ&lt;FONT COLOR=#00ff00&gt;ｸWｴｹｿ}&lt;/FONT&gt;､~ｯ牀・Vｸﾓｪﾅｶ｡ｨﾓｨ・{ｺ\､jｳｰ｡Aｳo､]ｬOｬｰ､ｰｻﾚｨﾓｳoｸﾌｪｺｭ・]｡C</Text>
+                              <Option1>ﾅ･ｰ_ｨﾓﾁﾙﾆZ､｣ｫ郛ﾋｪｺ｡C</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                                  <Text>｡@｡@ｧc｡Aｳo､｣ｬOｭｫﾂI｡Iﾁ`､ｧ｡AｸU､@･Lｭﾌｯuｪｺｨﾓｨ・Fｰ{ｺ\､jｳｰ｡AｨｺｱNｷ|ｬOｳoｭﾓ･@ｬﾉｪｺｯEｧT｡AｧﾚｷQｧA､｣ｷ|ｧ箘ﾇﾆ[ｧa｡HｧAｷ|ｬｰ､FｧAｪｺｪB､ﾍｿﾋ､Hｭﾌｾﾄ､O､@ｷiｧa｡H</Text>
+                                  <Option1>ｧﾚｭnｶi､Jｱ箴v･jｳI</Option1>
+                                  <Option2>ｧﾚ､~､｣ｷQｺﾞ｡AｦAｨ｣｡C</Option2>
+                                  <Option3></Option3>
+                                      <Text>｡@｡@ｨｺｻN･hｧa｡Iｧﾚｵ･ｧAｪｺｦnｮｧ｡I</Text>
+                                      <Option1>･Xｵo｡I</Option1>
+                                      <Option2>ｵ･ｵ･｡I</Option2>
+                                      <Option3></Option3>
+                                              <Text>｡@｡@ｫﾜｩ・p｡Aｧﾚ､@ｦｸ&lt;FONT COLOR=#ffad5b&gt;･uｯ牴e､@ｭﾓ､Hｶi､J&lt;/FONT&gt;｡I</Text>
+                                          <Text>｡@｡@ｨｺｴNｺﾉｧﾖｦ^ｨﾓｧa｡I</Text>
+                                      <Text>｡@｡@ｨSﾃY｡A､ﾏ･ｿ､｣ｬOｧﾚｪｺｷl･｢｡C</Text>
+                          <Text>｡@｡@ｳﾞ｡IｧAｧOｨｫｰﾚ｡I</Text>
+      <Id>82</Id>
+      <Name>ｲｧｬﾉ･ﾛｸOｰｦｹ・ﾜ</Name>
+      <Description></Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+            <Text></Text>
+                          <Text>｡]ｧAｭI･]ｸﾌｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;ｵo･XｧCｻ・Aｦﾓ&lt;FONT COLOR=#00ff00&gt;ｲｧｬﾉ･ﾛｸO&lt;/FONT&gt;ｪｺ･ﾛｭｱ､W､]･Xｲ{､F､@ｭﾓ､p､ﾕ｡A､]ｳ\ｧA･i･Hｸﾕｵﾛｧ筅ｹｦw､Wｨｺｭﾓ､ﾕ｡Aｬﾝｬﾝｷ|ｵo･ﾍｬﾆｻﾆｱ｡｡C｡^</Text>
+                          <Option1>ｧ筅ｹｩb･ﾛﾀY､W</Option1>
+                          <Option2>ﾂ}</Option2>
+                          <Option3></Option3>
+                                  <Text>｡]ｳoｭﾓｲｧｬﾉｯUﾁ_&lt;FONT COLOR=#ffad5b&gt;ｶﾈｯ牋eｯﾇ､@､Hｬ・V&lt;/FONT&gt;｡C｡^</Text>
+                                  <Text>｡]ｧAｷPｨ・@ｰ}ｩ・t｡K｡K｡^</Text>
+                              <Text>｡]ｷ愑Aｨｫｻｷｮﾉ｡A･ﾛｸO､Wｪｺ､p､ﾕ､SｺCｺCｮ｢｡C｡^</Text>
+                          <Text>｡]ｬﾝｰ_ｨﾓｬOｭﾓｲ@､｣ｰ_ｲｴｪｺ･ﾛｸO｡AｦｬOｧAｨﾌｵM･i･HｷPﾄｱｨ・ｳｯｫｩ_ｪｺｯﾟｰﾊ｡C｡^&lt;BR&gt;&lt;BR&gt;｡]ｧAｬﾝｨ・ﾛｸOｪｪｳ､@ｨﾇ&lt;FONT COLOR=#ffad5b&gt;､ｹｸH､・lt;/FONT&gt;｡Aｨｺｨﾇ､ｹｸH､ｲｵo･Xｩ_ｩﾇｪｺｵｵｦ筵甯~｡A､]ｳ\ｴNｬO&lt;FONT COLOR=#00ff00&gt;ｳﾇｧJ｡Dｦfｴｵ&lt;/FONT&gt;ｻ｡ｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;｡C｡^</Text>
+                          <Text>｡]ｧAｭI･]ｸﾌｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;ｵo･XｧCｻ・Aｦﾓ&lt;FONT COLOR=#00ff00&gt;ｲｧｬﾉ･ﾛｸO&lt;/FONT&gt;ｪｺ･ﾛｭｱ､W､]･Xｲ{､F､@ｭﾓ､p､ﾕ｡A､]ｳ\ｧA･i･Hｸﾕｵﾛｧ筅ｹｦw､Wｨｺｭﾓ､ﾕ｡Aｬﾝｬﾝｷ|ｵo･ﾍｬﾆｻﾆｱ｡｡C｡^</Text>
+                          <Option1>ｧ筅ｹｩb･ﾛﾀY､W</Option1>
+                          <Option2>ﾂ}</Option2>
+                          <Option3></Option3>
+                                  <Text>｡]ｳoｭﾓｲｧｬﾉｯUﾁ_&lt;FONT COLOR=#ffad5b&gt;ｶﾈｯ牋eｯﾇ､@､Hｬ・V&lt;/FONT&gt;｡C｡^</Text>
+                                  <Text>｡]ｧAｷPｨ・@ｰ}ｩ・t｡K｡K｡^</Text>
+                              <Text>｡]ｷ愑Aｨｫｻｷｮﾉ｡A･ﾛｸO､Wｪｺ､p､ﾕ､SｺCｺCｮ｢｡C｡^</Text>
+                          <Text>｡]ｬﾝｰ_ｨﾓｬOｭﾓｲ@､｣ｰ_ｲｴｪｺ･ﾛｸO｡AｦｬOｧAｨﾌｵM･i･HｷPﾄｱｨ・ｳｯｫｩ_ｪｺｯﾟｰﾊ｡C｡^&lt;BR&gt;&lt;BR&gt;｡]ｧAｬﾝｨ・ﾛｸOｪｪｳ､@ｨﾇ&lt;FONT COLOR=#ffad5b&gt;､ｹｸH､・lt;/FONT&gt;｡Aｨｺｨﾇ､ｹｸH､ｲｵo･Xｩ_ｩﾇｪｺｵｵｦ筵甯~｡A､]ｳ\ｴNｬO&lt;FONT COLOR=#00ff00&gt;ｳﾇｧJ｡Dｦfｴｵ&lt;/FONT&gt;ｻ｡ｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;｡C｡^</Text>
+                          <Text>｡]ｧAｭI･]ｸﾌｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;ｵo･XｧCｻ・Aｦﾓ&lt;FONT COLOR=#00ff00&gt;ｲｧｬﾉ･ﾛｸO&lt;/FONT&gt;ｪｺ･ﾛｭｱ､W､]･Xｲ{､F､@ｭﾓ､p､ﾕ｡A､]ｳ\ｧA･i･Hｸﾕｵﾛｧ筅ｹｦw､Wｨｺｭﾓ､ﾕ｡Aｬﾝｬﾝｷ|ｵo･ﾍｬﾆｻﾆｱ｡｡C｡^</Text>
+                          <Option1>ｧ筅ｹｩb･ﾛﾀY､W</Option1>
+                          <Option2>ﾂ}</Option2>
+                          <Option3></Option3>
+                                  <Text>｡]ｳoｭﾓｲｧｬﾉｯUﾁ_&lt;FONT COLOR=#ffad5b&gt;ｶﾈｯ牋eｯﾇ､@､Hｬ・V&lt;/FONT&gt;｡C｡^</Text>
+                                  <Text>｡]ｧAｷPｨ・@ｰ}ｩ・t｡K｡K｡^</Text>
+                              <Text>｡]ｷ愑Aｨｫｻｷｮﾉ｡A･ﾛｸO､Wｪｺ､p､ﾕ､SｺCｺCｮ｢｡C｡^</Text>
+                          <Text>｡]ｬﾝｰ_ｨﾓｬOｭﾓｲ@､｣ｰ_ｲｴｪｺ･ﾛｸO｡AｦｬOｧAｨﾌｵM･i･HｷPﾄｱｨ・ｳｯｫｩ_ｪｺｯﾟｰﾊ｡C｡^&lt;BR&gt;&lt;BR&gt;｡]ｧAｬﾝｨ・ﾛｸOｪｪｳ､@ｨﾇ&lt;FONT COLOR=#ffad5b&gt;､ｹｸH､・lt;/FONT&gt;｡Aｨｺｨﾇ､ｹｸH､ｲｵo･Xｩ_ｩﾇｪｺｵｵｦ筵甯~｡A､]ｳ\ｴNｬO&lt;FONT COLOR=#00ff00&gt;ｳﾇｧJ｡Dｦfｴｵ&lt;/FONT&gt;ｻ｡ｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;｡C｡^</Text>
+                          <Text>｡]ｧAｭI･]ｸﾌｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;ｵo･XｧCｻ・Aｦﾓ&lt;FONT COLOR=#00ff00&gt;ｲｧｬﾉ･ﾛｸO&lt;/FONT&gt;ｪｺ･ﾛｭｱ､W､]･Xｲ{､F､@ｭﾓ､p､ﾕ｡A､]ｳ\ｧA･i･Hｸﾕｵﾛｧ筅ｹｦw､Wｨｺｭﾓ､ﾕ｡Aｬﾝｬﾝｷ|ｵo･ﾍｬﾆｻﾆｱ｡｡C｡^</Text>
+                          <Option1>ｧ筅ｹｩb･ﾛﾀY､W</Option1>
+                          <Option2>ﾂ}</Option2>
+                          <Option3></Option3>
+                                  <Text>｡]ｳoｭﾓｲｧｬﾉｯUﾁ_&lt;FONT COLOR=#ffad5b&gt;ｶﾈｯ牋eｯﾇ､@､Hｬ・V&lt;/FONT&gt;｡C｡^</Text>
+                                  <Text>｡]ｧAｷPｨ・@ｰ}ｩ・t｡K｡K｡^</Text>
+                              <Text>｡]ｷ愑Aｨｫｻｷｮﾉ｡A･ﾛｸO､Wｪｺ､p､ﾕ､SｺCｺCｮ｢｡C｡^</Text>
+                          <Text>｡]ｬﾝｰ_ｨﾓｬOｭﾓｲ@､｣ｰ_ｲｴｪｺ･ﾛｸO｡AｦｬOｧAｨﾌｵM･i･HｷPﾄｱｨ・ｳｯｫｩ_ｪｺｯﾟｰﾊ｡C｡^&lt;BR&gt;&lt;BR&gt;｡]ｧAｬﾝｨ・ﾛｸOｪｪｳ､@ｨﾇ&lt;FONT COLOR=#ffad5b&gt;､ｹｸH､・lt;/FONT&gt;｡Aｨｺｨﾇ､ｹｸH､ｲｵo･Xｩ_ｩﾇｪｺｵｵｦ筵甯~｡A､]ｳ\ｴNｬO&lt;FONT COLOR=#00ff00&gt;ｳﾇｧJ｡Dｦfｴｵ&lt;/FONT&gt;ｻ｡ｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;｡C｡^</Text>
+                          <Text>｡]ｧAｭI･]ｸﾌｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;ｵo･XｧCｻ・Aｦﾓ&lt;FONT COLOR=#00ff00&gt;ｲｧｬﾉ･ﾛｸO&lt;/FONT&gt;ｪｺ･ﾛｭｱ､W､]･Xｲ{､F､@ｭﾓ､p､ﾕ｡A､]ｳ\ｧA･i･Hｸﾕｵﾛｧ筅ｹｦw､Wｨｺｭﾓ､ﾕ｡Aｬﾝｬﾝｷ|ｵo･ﾍｬﾆｻﾆｱ｡｡C｡^</Text>
+                          <Option1>ｧ筅ｹｩb･ﾛﾀY､W</Option1>
+                          <Option2>ﾂ}</Option2>
+                          <Option3></Option3>
+                                  <Text>｡]ｳoｭﾓｲｧｬﾉｯUﾁ_&lt;FONT COLOR=#ffad5b&gt;ｶﾈｯ牋eｯﾇ､@､Hｬ・V&lt;/FONT&gt;｡C｡^</Text>
+                                  <Text>｡]ｧAｷPｨ・@ｰ}ｩ・t｡K｡K｡^</Text>
+                              <Text>｡]ｷ愑Aｨｫｻｷｮﾉ｡A･ﾛｸO､Wｪｺ､p､ﾕ､SｺCｺCｮ｢｡C｡^</Text>
+                          <Text>｡]ｬﾝｰ_ｨﾓｬOｭﾓｲ@､｣ｰ_ｲｴｪｺ･ﾛｸO｡AｦｬOｧAｨﾌｵM･i･HｷPﾄｱｨ・ｳｯｫｩ_ｪｺｯﾟｰﾊ｡C｡^&lt;BR&gt;&lt;BR&gt;｡]ｧAｬﾝｨ・ﾛｸOｪｪｳ､@ｨﾇ&lt;FONT COLOR=#ffad5b&gt;､ｹｸH､・lt;/FONT&gt;｡Aｨｺｨﾇ､ｹｸH､ｲｵo･Xｩ_ｩﾇｪｺｵｵｦ筵甯~｡A､]ｳ\ｴNｬO&lt;FONT COLOR=#00ff00&gt;ｳﾇｧJ｡Dｦfｴｵ&lt;/FONT&gt;ｻ｡ｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;｡C｡^</Text>
+                          <Text>｡]ｧAｭI･]ｸﾌｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;ｵo･XｧCｻ・Aｦﾓ&lt;FONT COLOR=#00ff00&gt;ｲｧｬﾉ･ﾛｸO&lt;/FONT&gt;ｪｺ･ﾛｭｱ､W､]･Xｲ{､F､@ｭﾓ､p､ﾕ｡A､]ｳ\ｧA･i･Hｸﾕｵﾛｧ筅ｹｦw､Wｨｺｭﾓ､ﾕ｡Aｬﾝｬﾝｷ|ｵo･ﾍｬﾆｻﾆｱ｡｡C｡^</Text>
+                          <Option1>ｧ筅ｹｩb･ﾛﾀY､W</Option1>
+                          <Option2>ﾂ}</Option2>
+                          <Option3></Option3>
+                                  <Text>｡]ｳoｭﾓｲｧｬﾉｯUﾁ_&lt;FONT COLOR=#ffad5b&gt;ｶﾈｯ牋eｯﾇ､@､Hｬ・V&lt;/FONT&gt;｡C｡^</Text>
+                                  <Text>｡]ｧAｷPｨ・@ｰ}ｩ・t｡K｡K｡^</Text>
+                              <Text>｡]ｷ愑Aｨｫｻｷｮﾉ｡A･ﾛｸO､Wｪｺ､p､ﾕ､SｺCｺCｮ｢｡C｡^</Text>
+                          <Text>｡]ｬﾝｰ_ｨﾓｬOｭﾓｲ@､｣ｰ_ｲｴｪｺ･ﾛｸO｡AｦｬOｧAｨﾌｵM･i･HｷPﾄｱｨ・ｳｯｫｩ_ｪｺｯﾟｰﾊ｡C｡^&lt;BR&gt;&lt;BR&gt;｡]ｧAｬﾝｨ・ﾛｸOｪｪｳ､@ｨﾇ&lt;FONT COLOR=#ffad5b&gt;､ｹｸH､・lt;/FONT&gt;｡Aｨｺｨﾇ､ｹｸH､ｲｵo･Xｩ_ｩﾇｪｺｵｵｦ筵甯~｡A､]ｳ\ｴNｬO&lt;FONT COLOR=#00ff00&gt;ｳﾇｧJ｡Dｦfｴｵ&lt;/FONT&gt;ｻ｡ｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;｡C｡^</Text>
+                          <Text>｡]ｧAｭI･]ｸﾌｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;ｵo･XｧCｻ・Aｦﾓ&lt;FONT COLOR=#00ff00&gt;ｲｧｬﾉ･ﾛｸO&lt;/FONT&gt;ｪｺ･ﾛｭｱ､W､]･Xｲ{､F､@ｭﾓ､p､ﾕ｡A､]ｳ\ｧA･i･Hｸﾕｵﾛｧ筅ｹｦw､Wｨｺｭﾓ､ﾕ｡Aｬﾝｬﾝｷ|ｵo･ﾍｬﾆｻﾆｱ｡｡C｡^</Text>
+                          <Option1>ｧ筅ｹｩb･ﾛﾀY､W</Option1>
+                          <Option2>ﾂ}</Option2>
+                          <Option3></Option3>
+                                  <Text>｡]ｳoｭﾓｲｧｬﾉｯUﾁ_&lt;FONT COLOR=#ffad5b&gt;ｶﾈｯ牋eｯﾇ､@､Hｬ・V&lt;/FONT&gt;｡C｡^</Text>
+                                  <Text>｡]ｧAｷPｨ・@ｰ}ｩ・t｡K｡K｡^</Text>
+                              <Text>｡]ｷ愑Aｨｫｻｷｮﾉ｡A･ﾛｸO､Wｪｺ､p､ﾕ､SｺCｺCｮ｢｡C｡^</Text>
+                          <Text>｡]ｬﾝｰ_ｨﾓｬOｭﾓｲ@､｣ｰ_ｲｴｪｺ･ﾛｸO｡AｦｬOｧAｨﾌｵM･i･HｷPﾄｱｨ・ｳｯｫｩ_ｪｺｯﾟｰﾊ｡C｡^&lt;BR&gt;&lt;BR&gt;｡]ｧAｬﾝｨ・ﾛｸOｪｪｳ､@ｨﾇ&lt;FONT COLOR=#ffad5b&gt;､ｹｸH､・lt;/FONT&gt;｡Aｨｺｨﾇ､ｹｸH､ｲｵo･Xｩ_ｩﾇｪｺｵｵｦ筵甯~｡A､]ｳ\ｴNｬO&lt;FONT COLOR=#00ff00&gt;ｳﾇｧJ｡Dｦfｴｵ&lt;/FONT&gt;ｻ｡ｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;｡C｡^</Text>
+                          <Text>｡]ｧAｭI･]ｸﾌｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;ｵo･XｧCｻ・Aｦﾓ&lt;FONT COLOR=#00ff00&gt;ｲｧｬﾉ･ﾛｸO&lt;/FONT&gt;ｪｺ･ﾛｭｱ､W､]･Xｲ{､F､@ｭﾓ､p､ﾕ｡A､]ｳ\ｧA･i･Hｸﾕｵﾛｧ筅ｹｦw､Wｨｺｭﾓ､ﾕ｡Aｬﾝｬﾝｷ|ｵo･ﾍｬﾆｻﾆｱ｡｡C｡^</Text>
+                          <Option1>ｧ筅ｹｩb･ﾛﾀY､W</Option1>
+                          <Option2>ﾂ}</Option2>
+                          <Option3></Option3>
+                                  <Text>｡]ｳoｭﾓｲｧｬﾉｯUﾁ_&lt;FONT COLOR=#ffad5b&gt;ｶﾈｯ牋eｯﾇ､@､Hｬ・V&lt;/FONT&gt;｡C｡^</Text>
+                                  <Text>｡]ｧAｷPｨ・@ｰ}ｩ・t｡K｡K｡^</Text>
+                              <Text>｡]ｷ愑Aｨｫｻｷｮﾉ｡A･ﾛｸO､Wｪｺ､p､ﾕ､SｺCｺCｮ｢｡C｡^</Text>
+                          <Text>｡]ｬﾝｰ_ｨﾓｬOｭﾓｲ@､｣ｰ_ｲｴｪｺ･ﾛｸO｡AｦｬOｧAｨﾌｵM･i･HｷPﾄｱｨ・ｳｯｫｩ_ｪｺｯﾟｰﾊ｡C｡^&lt;BR&gt;&lt;BR&gt;｡]ｧAｬﾝｨ・ﾛｸOｪｪｳ､@ｨﾇ&lt;FONT COLOR=#ffad5b&gt;､ｹｸH､・lt;/FONT&gt;｡Aｨｺｨﾇ､ｹｸH､ｲｵo･Xｩ_ｩﾇｪｺｵｵｦ筵甯~｡A､]ｳ\ｴNｬO&lt;FONT COLOR=#00ff00&gt;ｳﾇｧJ｡Dｦfｴｵ&lt;/FONT&gt;ｻ｡ｪｺ&lt;FONT COLOR=#00ff00&gt;ｴyｵ・L､ｹ&lt;/FONT&gt;｡C｡^</Text>
+      <Id>83</Id>
+      <Name>ｲｧｰ・ﾈ､Hｰｦｹ・ﾜ</Name>
+      <Description></Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+            <Text></Text>
+                      <Text>ｱz､wｸgｻ篁L､F｡AｴNｮ､ｧﾚ､｣ｦAﾃﾘｰeﾅo｡C</Text>
+                      <Text>ｭIｧAｩ~ｵMｧ莖oｨ・ﾚ｡Aｬﾝｨﾓｻﾕ､UｪｺｽTｨｭ､筅｣､Z｡Aﾆ[ｹ釥O､JｷL｡K｡K｡C</Text>
+                      <Option1>ｼoｸﾜ､ﾖｻ｡｡AｧA･ｴｭｨﾓｪｺ｡H</Option1>
+                      <Option2></Option2>
+                      <Option3></Option3>
+                          <Text>ｧﾚｬOｨﾓｦﾛｲｧ･@ｬﾉｪｺｱKｱｴ｡Aｦ]ｬｰｬYｨﾇ&lt;FONT COLOR=#ffad5b&gt;､｣ｯ狃｡ｪｺｯｵｱK&lt;/FONT&gt;｡Aｩﾒ･Hｧﾚ､｣ｷ|ｳzｺ|ｧhｦｳﾃﾚｭﾌｨｺｭﾓ･@ｬﾉｪｺｰTｮｧｵｹｧA｡C</Text>
+                          <Option1>ｨｺｧAｨﾓｪｺ･ﾘｪｺｬO｡H</Option1>
+                          <Option2></Option2>
+                          <Option3></Option3>
+                              <Text>ｰeｵｹｳoｭﾓ･@ｬﾉｪｺ､Hｭﾌ｡A､@ｨﾇｯｫｯｵｪｺｧ・ﾋﾂｧｪｫ｡C</Text>
+                              <Option1>ｦ・G､｣ｿC</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                                  <Text>ｷ昉M､｣ｿAｨｺｴNｳﾒｱzｵ･ｵ･ｨﾓｩMｧﾚｻ筧妤F｡C</Text>
+      <Id>88</Id>
+      <Name>■サンタさん</Name>
+      <Description>□クリスマス2009　サンタさん　基本会話</Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+            <Text></Text>
+                          <Text>【デイビッド】をそそのかした悪魔がまだ残っているね…。&lt;BR&gt;今回のような面倒事が起きる前に、しっかり退治してもらいたいんだけど…。&lt;BR&gt;ああ、これ。『クリスマスの金貨』もあげるからね。</Text>
+                          <Option1>金貨！</Option1>
+                          <Option2>悪魔退治！</Option2>
+                          <Option3></Option3>
+                                  <Text>1日1個までじゃって。</Text>
+                                      <Text>ホレ！1日に1回だけ、&lt;FONT COLOR=#00ff00&gt;『クリスマスの金貨』&lt;/FONT&gt;をプレゼントじゃ。</Text>
+                                      <Text>荷物いっぱいじゃんか！</Text>
+                                  <Text>君の熱意には感動するよ。&lt;BR&gt;しかし…だ、君はまだ冒険を始めて&lt;FONT COLOR=#00ff00&gt;7日&lt;/FONT&gt;も経っていない。&lt;br&gt;かけだしの冒険者に無理をさせるわけにはいかないよ。</Text>
+                                      <Text>よし、&lt;FONT COLOR=#00ff00&gt;『吹雪の水晶球』&lt;/FONT&gt;か、あるいは&lt;FONT COLOR=#00ff00&gt;『クリスマスの金貨』&lt;/FONT&gt;か…。&lt;BR&gt;どっちを使うかね？</Text>
+                                      <Option1>吹雪の水晶球</Option1>
+                                      <Option2>クリスマスの金貨</Option2>
+                                      <Option3></Option3>
+                                              <Text>おや、すまないが一人になってから来ておくれ。</Text>
+                                                  <Text>よろしい。では、気をつけてな。キミの武運を祈っておるよ。</Text>
+                                                  <Text>はいはい&lt;FONT COLOR=#00ff00&gt;『吹雪の水晶球』&lt;/FONT&gt;ね…って持ってないじゃん！</Text>
+                                              <Text>おや、すまないが一人になってから来ておくれ。</Text>
+                                                  <Text>よろしい。では、気をつけてな。キミの武運を祈っておるよ。</Text>
+                                                  <Text>はいはい&lt;FONT COLOR=#00ff00&gt;『クリスマス金貨』&lt;/FONT&gt;ね…って持ってないじゃん！</Text>
+                                      <Text>威勢が良いのはありがたいんだけど、&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『吹雪の水晶球』&lt;/FONT&gt;か&lt;FONT COLOR=#00ff00&gt;『クリスマスの金貨』&lt;/FONT&gt;がないと…。</Text>
+                          <Text>おお！戻ってきてくれたか。よかった。&lt;BR&gt;では、がんばってくれたご褒美を上げないとな。</Text>
+                          <Option1>その通り！</Option1>
+                          <Option2></Option2>
+                          <Option3></Option3>
+                                  <Text>これはわしのお気に入りの&lt;FONT COLOR=#00ff00&gt;『燻製ハム』&lt;/FONT&gt;だよ、これあげる。&lt;BR&gt;それで、すまんがまだ君の協力が必要なのだが…。</Text>
+                                  <Text>では、といいたいが…。荷物がいっぱいのようだ。</Text>
+                          <Text>ホーホーホー！ゲプッ。&lt;BR&gt;お、若者じゃん、例の件たのむよ。</Text>
+                          <Text>ウホ、いい若者…。</Text>
+                          <Option1>ニヤリ</Option1>
+                          <Option2></Option2>
+                          <Option3></Option3>
+                              <Text>ホーホーホー！&lt;BR&gt;君のような若者を待っていたんだよ。</Text>
+                              <Option1>ですよねー</Option1>
+                              <Option2></Option2>
+                              <Option3></Option3>
+                                  <Text>実は&lt;FONT COLOR=#00ff00&gt;【デイビッド】&lt;/FONT&gt;の息子にプレゼントを持っていったんだが、&lt;BR&gt;ちっとも喜んでくれないんだ。&lt;PF&gt;長旅で疲れてるのにあんまりじゃないか…。&lt;PF&gt;詳しい事はそこにいる助手の&lt;FONT COLOR=#00ff00&gt;【ソラン】&lt;/FONT&gt;が調べてくれている。&lt;BR&gt;ほら…わし、サンタやから他にも忙しいねん。</Text>
+      <Id>89</Id>
+      <Name>■ソラン</Name>
+      <Description>□クリスマス2009　ソラン　基本会話</Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+                      <Text>【デイビッド】から悪魔を追い出してくれたようだね。&lt;BR&gt;まあ、これで終わりだといいのだが…。&lt;PF&gt;ところで、私に会いにきたということは、あれかね。&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;『クリスマスボックス』&lt;/FONT&gt;や&lt;FONT COLOR=#00ff00&gt;「アバターアイテム」&lt;/FONT&gt;が欲しいのかな？</Text>
+                      <Option1>クリスマスボックス！</Option1>
+                      <Option2>アバターアイテム！</Option2>
+                      <Option3></Option3>
+                              <Text>前回の『クリスマスボックス』を受け取ってから&lt;FONT COLOR=#00ff00&gt;1日&lt;/FONT&gt;経ってないようじゃな。</Text>
+                                  <Text>はい、じゃあこれが今日の分の『クリスマスボックス』だよ。&lt;BR&gt;1日1個までじゃからな。</Text>
+                                  <Text>荷物がいっぱいのようじゃぞ。</Text>
+                                  <Text>ふむ、&lt;FONT COLOR=#00ff00&gt;『雪の結晶』&lt;/FONT&gt;を持ってきましたね。&lt;BR&gt;では、どれと交換しましょう？</Text>
+                                  <Option1>女性用</Option1>
+                                  <Option2>男性用</Option2>
+                                  <Option3></Option3>
+                                      <Text>どこの部位が欲しいですか？</Text>
+                                      <Option1>頭</Option1>
+                                      <Option2>腕</Option2>
+                                      <Option3>胴</Option3>
+                                      <Option4>腰</Option4>
+                                      <Option5>足</Option5>
+                                          <Text>では、こちらをお受け取りください。メリークリスマス！</Text>
+                                          <Text>では、こちらをお受け取りください。メリークリスマス！</Text>
+                                          <Text>では、こちらをお受け取りください。メリークリスマス！</Text>
+                                          <Text>では、こちらをお受け取りください。メリークリスマス！</Text>
+                                          <Text>では、こちらをお受け取りください。メリークリスマス！</Text>
+                                      <Text>どこの部位が欲しいですか？</Text>
+                                      <Option1>頭</Option1>
+                                      <Option2>腕</Option2>
+                                      <Option3>胴</Option3>
+                                      <Option4>腰</Option4>
+                                      <Option5>足</Option5>
+                                          <Text>では、こちらをお受け取りください。メリークリスマス！</Text>
+                                          <Text>では、こちらをお受け取りください。メリークリスマス！</Text>
+                                          <Text>では、こちらをお受け取りください。メリークリスマス！</Text>
+                                          <Text>では、こちらをお受け取りください。メリークリスマス！</Text>
+                                          <Text>では、こちらをお受け取りください。メリークリスマス！</Text>
+                                  <Text>おや？&lt;FONT COLOR=#00ff00&gt;『雪の結晶』&lt;/FONT&gt;が足りないようだ。&lt;BR&gt;最低&lt;FONT COLOR=#00ff00&gt;30個&lt;/FONT&gt;持ってこないと交換してあげないよ～ん。</Text>
+                              <Text>荷物がいっぱいのようじゃぞ。</Text>
+                      <Text>&lt;FONT COLOR=#00ff00&gt;【ベル】&lt;/FONT&gt;に頼んでみるしかないかの。&lt;BR&gt;彼女はこのあたりで一番のべっぴんさんじゃ。&lt;BR&gt;わしはもうたまらん。&lt;PF&gt;今は《セントメテオ》にいるはずだから探してみなされ。&lt;FONT COLOR=#ffad5b&gt;&lt;/FONT&gt;</Text>
+                          <Text>場所をお忘れですかな？&lt;BR&gt;&lt;FONT COLOR=#00ff00&gt;【デイビッド】&lt;/FONT&gt;親子は&lt;FONT COLOR=#00ff00&gt;《酒場》&lt;/FONT&gt;近くの大きな家の前にいるはずです。</Text>
+                          <Text>【デイビッド】はどうしました？&lt;BR&gt;彼は、自宅から&lt;FONT COLOR=#ffad5b&gt;金貨一枚を盗んだ&lt;/FONT&gt;と聞きましたが、&lt;BR&gt;それだけでこんな事態になるわけないでしょう？&lt;PF&gt;&lt;FONT COLOR=#00ff00&gt;【デイビッド】&lt;/FONT&gt;と息子さんは《酒場》近くの大きな家の前にいたはず。&lt;BR&gt;様子を見てきてください。</Text>
+                      <Text>……。</Text>
+      <Id>90</Id>
+      <Name>■ベル</Name>
+      <Description>□クリスマス2009　ベル　基本会話</Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+                      <Text>ほっほっほーぉ！めりぃ～くりすまぁ～す！&lt;PF&gt;あら、&lt;FONT COLOR=#00ff00&gt;『ベルルン聖水』&lt;/FONT&gt;が必要なのかしら？&lt;BR&gt;一個につき &lt;FONT COLOR=#00ff00&gt;100,000 gold&lt;/FONT&gt; になりまぁす！&lt;FONT COLOR=#00ff00&gt;&lt;/FONT&gt;</Text>
+                      <Option1>買います</Option1>
+                      <Option2>なんでもない</Option2>
+                      <Option3></Option3>
+                                  <Text>ありがとうございます。大事に使ってくださいね。</Text>
+                                  <Text>あら、あららら～？&lt;BR&gt;だめだよーぉ、ちゃんとお金払ってくれないとぉ！</Text>
+                              <Text>荷物がいっぱいみたいだよ？</Text>
+                          <Text>そっかぁ。また何かあったらいつでもどうぞぉ。</Text>
+                          <Text>ほっほっほーぉ！めりぃ～くりすまぁ～す！&lt;PF&gt;あら、&lt;FONT COLOR=#00ff00&gt;『ベルルン聖水』&lt;/FONT&gt;が必要なのかしら？&lt;BR&gt;一個につき &lt;FONT COLOR=#00ff00&gt;100,000 gold&lt;/FONT&gt; になりまぁす！&lt;BR&gt;それとも何か他の御用かしら？&lt;FONT COLOR=#00ff00&gt;&lt;/FONT&gt;</Text>
+                          <Option1>買います</Option1>
+                          <Option2>なんでもない</Option2>
+                          <Option3>使い方</Option3>
+                                      <Text>はーい！大事に使ってくださいね。</Text>
+                                      <Text>あら、あららら～？&lt;BR&gt;だめだよーぉ、ちゃんとお金払ってくれないとぉ！</Text>
+                                  <Text>荷物がいっぱいみたいだよ？</Text>
+                              <Text>そっかぁ。また何かあったらいつでもどうぞぉ。</Text>
+                              <Text>使い方？そんなの簡単。&lt;BR&gt;使う相手に振りかけてあげればいいのよ。香水みたいに。</Text>
+                          <Text>ほっほっほーぉ！めりぃ～くりすまぁ～す！</Text>
+      <Id>91</Id>
+      <Name>■デイビッド</Name>
+      <Description>□クリスマス2009　デイビッド　基本会話</Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+                      <Text>ありがとう、君が僕を救ってくれたんだね。&lt;BR&gt;なんだか、まだ良くわかっていないがありがとう！</Text>
+                          <Text>（　【デイビッド】は顔色が良くなってきた。しかし意識はまだもうろうとしている。　）</Text>
+                          <Text>（　【デイビッド】の瞳は急に収縮した。　）&lt;PF&gt;（　白目をむいている！　）</Text>
+                          <Option1>ベルルン聖水！</Option1>
+                          <Option2>逃げる</Option2>
+                          <Option3></Option3>
+                                  <Text>（　【デイビッド】が白目をむいて来た！　）</Text>
+                                  <Text>（　…何も無かったようだ。　）</Text>
+                              <Text>（　&lt;FONT COLOR=#00ff00&gt;『ベルルン聖水』&lt;/FONT&gt;を&lt;FONT COLOR=#00ff00&gt;【デイビッド】&lt;/FONT&gt;にかけたら何かが起こるかも…。　）</Text>
+                          <Text>（　【デイビッド】の瞳は急に収縮した。　）&lt;PF&gt;（　白目をむいている！　）</Text>
+                          <Text>（　【デイビッド】が白目をむいて来た！　）&lt;FONT COLOR=#00ff00&gt;&lt;/FONT&gt;&lt;FONT COLOR=#00ff00&gt;&lt;/FONT&gt;</Text>
+                          <Option1>ベルルン聖水！</Option1>
+                          <Option2>逃げる</Option2>
+                          <Option3></Option3>
+                                  <Text>（　…何も無かったようだ。　）</Text>
+                                  <Text>（　ぶつぶつ呟きながら冷や汗を流している…。　）</Text>
+                              <Text>（　…何も無かったようだ。　）</Text>
+                      <Text>（　ぶつぶつ呟きながら冷や汗を流している…。　）</Text>
+      <Id>92</Id>
+      <Name>■ティム</Name>
+      <Description>□クリスマス2009　ティム　基本会話</Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+                      <Text>僕、ゲームなんかいらないや！&lt;BR&gt;ダディが元気ならそれでいいや！</Text>
+                          <Text>………。&lt;PF&gt;（　とても澱んだ瞳でこちらをじっと見ている。　）&lt;PF&gt;（　何かを伝えたいのだろうか…。　）</Text>
+                          <Text>（　【デイビッド】の息子だろうか？とても悲しい表情をしている…。　）</Text>
+      <Id>93</Id>
+      <Name>■謎の四角い石碑</Name>
+      <Description>□クリスマス2009　謎の四角い石碑　基本会話</Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+      <Id>94</Id>
+      <Name>■デイビッドの手帳</Name>
+      <Description>□クリスマス2009　デイビッドの手帳　基本会話</Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+                      <Text>これは…何かの手帳のようだ。&lt;BR&gt;「デイビッド」と名前が書かれている。</Text>
+                      <Option1>妻の葬式</Option1>
+                      <Option2>ワークハウスの客</Option2>
+                      <Option3>（空白）</Option3>
+                          <Text>（上にこう書いてある：『チッ、しかしこいつにはそれなりに借りがある…。死に際に&lt;FONT COLOR=#ffad5b&gt;金貨1枚&lt;/FONT&gt;でもくれるか。&lt;br&gt;はぁ～、しかし死んでも金貨を持っていくわけないしな、やはりやめようか…。』）</Text>
+                          <Text>【デイビッド】はワークハウスの取立て屋を追い出して、扉を閉じながら、&lt;br&gt;「ワークハウスに行くくらいなら、いっそ死んだほうがましだ。金を出せ？冗談じゃない！」&lt;br&gt;とつぶやいていた…。</Text>
+                          <Text>（　二人の会話が脳裏に響きだした…。　）&lt;PF&gt;（　…たかがはした金に、なんでそこまで…。　）&lt;PF&gt;（　…単なる利益だけで測れないものもあるんだよ…。　）</Text>
      <Id>48000</Id>
       <Name>封霊の洞窟 B1F 四方の間</Name>
       <Description>全ての&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
