@@ -959,175 +959,175 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
                       <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Fire from west flaming, and calling the demon. Seal it after purifing other spheres.</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48012</Id>
       <Name>Tower of Ruins B10F Crushing Chamber</Name>
-      <Description>&lt;FONT COLOR=#00ff00&gt;先遣隊&lt;/FONT&gt;に接触し、現れる&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を倒す。&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Description>Contact with &lt;FONT COLOR=#00ff00&gt;the security force member&lt;/FONT&gt;, and defeat &lt;FONT COLOR=#00ff00&gt;monsters&lt;/FONT&gt;to gain the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt;to the door!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text> </Text>
             <Text> </Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『邪悪ナル者ヲ討チ果タセ』</Text>
-                          <Text>　　はぁ…はぁはぁ…。&lt;BR&gt;　　まさか…&lt;FONT COLOR=#00ff00&gt;【撃殺巨人戦士】&lt;/FONT&gt;を倒したなんて…。&lt;BR&gt;　　あなた達なら…この先も安全…ね。&lt;BR&gt;&lt;BR&gt;　　私は…大丈夫だから…先に進んで…。&lt;FONT COLOR=#00ff00&gt;&lt;/FONT&gt;</Text>
-                          <Text>　　…ケホケホッ！&lt;BR&gt;&lt;BR&gt;　　うぐっ…。私のことはいいから…早く…。&lt;FONT COLOR=#00ff00&gt;&lt;/FONT&gt;</Text>
-                          <Text>　　はぁ…はぁ…。&lt;BR&gt;&lt;BR&gt;　　あなたは…？そう…後続部隊が来てくれたのね…。&lt;BR&gt;&lt;BR&gt;　　仲間の先遣隊は、みんな…&lt;FONT COLOR=#00ff00&gt;【撃殺巨人戦士】&lt;/FONT&gt;に…ケホッケホッ！&lt;PF&gt;　　ああっ！！&lt;FONT COLOR=#00ff00&gt;【撃殺巨人戦士】&lt;/FONT&gt;が来たわ…。&lt;BR&gt;&lt;BR&gt;　　逃げ…て…ケホッ…。うぅ…。&lt;BR&gt;&lt;BR&gt;　　はぁはぁ…こいつは…強いわよ…。</Text>
-                      <Text>　　はぁ…はぁ…。&lt;BR&gt;&lt;BR&gt;　　あなたは…？そう…後続部隊が来てくれたのね…。&lt;BR&gt;&lt;BR&gt;　　仲間の先遣隊は、みんな…&lt;FONT COLOR=#00ff00&gt;【撃殺巨人戦士】&lt;/FONT&gt;に…ううっ…。&lt;PF&gt;　　（　怪我をしている。とても苦しそうだ…。　）</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"The evil one will be sentenced to death!"</Text>
+                          <Text>　　Ha...haha...&lt;BR&gt;　　No way... I didn't knock down the &lt;FONT COLOR=#00ff00&gt;Combat Giant Warrior&lt;/FONT&gt;&lt;BR&gt;　　For the safety of you guys...&lt;BR&gt;&lt;BR&gt;　　I ... I'm all right ... go ahead ....&lt;FONT COLOR=#00ff00&gt;&lt;/FONT&gt;</Text>
+                          <Text>　　KEHOKEHO!&lt;BR&gt;&lt;BR&gt;　　   Umm.. Don't care about me.. Quickly..&lt;FONT COLOR=#00ff00&gt;&lt;/FONT&gt;</Text>
+                          <Text>　　(Gasping)&lt;BR&gt;&lt;BR&gt;　　You are...? Yes.. here comes the backup troop.. &lt;BR&gt;&lt;BR&gt;　　My fellow squads.., everyone..&lt;FONT COLOR=#00ff00&gt;Combat Giant Warrior&lt;/FONT&gt;KEHOKEHO!&lt;PF&gt;　　Ahh!! The &lt;FONT COLOR=#00ff00&gt;Combat Giant Warrior&lt;/FONT&gt; is coming!&lt;BR&gt;&lt;BR&gt;　　Run away... ahaha..&lt;BR&gt;&lt;BR&gt;　　This guy is strong..!</Text>
+                      <Text>　　(Gasping)&lt;BR&gt;&lt;BR&gt;　　You are...?  Yes.. here comes the backup troop..&lt;BR&gt;&lt;BR&gt;　　My fellow squads.., everyone went to... &lt;FONT COLOR=#00ff00&gt;Combat Giant Warrior&lt;/FONT&gt; &lt;PF&gt;　　(He is injured and it looks painful.)</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48013</Id>
-      <Name>封霊の洞窟 B10F 激高の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、現れる&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を倒す。&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B10F Exalted Chamber</Name>
+      <Description>Unleash the power inside &lt;FONT COLOR=#00ff00&gt;specific spiritual spheres&lt;/FONT&gt; and defeat the &lt;FONT COLOR=#00ff00&gt;monster&lt;/FONT&gt; to gain the key to the door!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『怒リニ支配サレル事ナカレ、怒リノ元ヲ絶ヤスベシ』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Ease anger and put out the fire. Seal frenzy monsters. "</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48014</Id>
-      <Name>封霊の洞窟 B11F 鬼哭の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B11F Ghost Crying Chamber</Name>
+      <Description>Unleash the power inside &lt;FONT COLOR=#00ff00&gt;specific spritual spheres&lt;/FONT&gt;, and gain the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; to the door</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『焼カレテ笑イ、埋メラレテ苦シミ、溺レテモガキ、裂カレテ喜ブ。』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"It is hard being buried and drowned. Flame and fierce wind will make it rebirth."</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48015</Id>
-      <Name>封霊の洞窟 B12F 業苦の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B12F Sin Suffering Chamber </Name>
+      <Description>Unleash the power inside &lt;FONT COLOR=#00ff00&gt;specific spritual spheres&lt;/FONT&gt;, and gain the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; to the door</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;　　しかし一部が血で汚れてしまっていて読めない…。&lt;BR&gt;&lt;BR&gt;　　『苦シ……乗リ越エ…、熱意ナド…ラ…、潤…モイラヌ。』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some of them are stained with blood and can not be read.&lt;BR&gt;&lt;BR&gt;　　"Beyond...pain, ..ardent..useless..moisturizing..either.."</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48016</Id>
-      <Name>封霊の洞窟 B13F 消沈の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B13F Depressing Chamber</Name>
+      <Description>Unleash the power inside &lt;FONT COLOR=#00ff00&gt;specific spritual spheres&lt;/FONT&gt;, and gain the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; to the door</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『挫ケル事ナカレ、北東ト南西ニ希望ノ光アリ。』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Turning down frustation by embracing the light from northeast and southwest."</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48017</Id>
-      <Name>封霊の洞窟 B14F 幻夢の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B14F Psychic Chamber</Name>
+      <Description>Unleash the power inside &lt;FONT COLOR=#00ff00&gt;specific spritual spheres&lt;/FONT&gt;, and gain the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; to the door</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『闇ノ誘惑者ヲ退ケ悪夢ヨリ目覚メヨ。』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Knock down the evil temptation, and wake up from the nightmare."</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48018</Id>
-      <Name>封霊の洞窟 B15F 紅炎の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、現れる&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を倒す。&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B15F Phoenix Flame Chamber</Name>
+      <Description>Unleash the power inside &lt;FONT COLOR=#00ff00&gt;specific spiritual spheres&lt;/FONT&gt; and defeat the &lt;FONT COLOR=#00ff00&gt;monster&lt;/FONT&gt; to gain the key to the door!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『風デ火ヲ強メ煉獄鬼女ヲ誘イ出セ』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Purify wind and fire monsters and provoke the purgatory demon."</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48019</Id>
-      <Name>封霊の洞窟 B15F 蝕者の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、現れる&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を倒す。&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B15F Spoiled Chamber</Name>
+      <Description>Unleash the power inside &lt;FONT COLOR=#00ff00&gt;specific spiritual spheres&lt;/FONT&gt; and defeat the &lt;FONT COLOR=#00ff00&gt;monster&lt;/FONT&gt; to gain the key to the door!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;　　しかし一部がかすれてしまっていて読めない…。&lt;BR&gt;&lt;BR&gt;　　『霊球ヲ守リシ復活者ヲ滅セヨ、解放スベキ霊球ハ対角ニアリ。』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some of them are hidden and can not be read ...。&lt;BR&gt;&lt;BR&gt;　　"Purify wind and fire monsters and stand away from other demons."</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48020</Id>
-      <Name>封霊の洞窟 B15F 血獄の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、現れる&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を倒す。&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B15F Blood Prison Chamber</Name>
+      <Description>Unleash the power inside &lt;FONT COLOR=#00ff00&gt;specific spiritual spheres&lt;/FONT&gt; and defeat the &lt;FONT COLOR=#00ff00&gt;monster&lt;/FONT&gt; to gain the key to the door!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『血ノ色ヲシタ霊球ト、ソコカラ最モ離レシ霊球ヲ解放セヨ。』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Unleash the power inside the sphere stained into blood red and the farthest one."</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48021</Id>
-      <Name>封霊の洞窟 B15F 戦慄の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、現れる&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を倒す。&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B15F Horrible Chamber</Name>
+      <Description>Unleash the power inside &lt;FONT COLOR=#00ff00&gt;specific spiritual spheres&lt;/FONT&gt; and defeat the &lt;FONT COLOR=#00ff00&gt;monster&lt;/FONT&gt; to gain the key to the door!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『解放スベキ霊球、距離ハ近ケレド進ムハ遠シ。』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"It seems near but it is distant to move on. Fire and soil are within the room."</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48022</Id>
-      <Name>封霊の洞窟 B16F 霊華の間</Name>
-      <Description>全ての&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B16F Spirit Chamber</Name>
+      <Description>Unleash all of the power inside&lt;FONT COLOR=#00ff00&gt; spiritual spheres&lt;/FONT&gt;, and gain the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; to the door</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『陽気ナ住人ニ油断スルベカラズ、全テノ霊球ヲ解放セヨ。』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Be careful to those holy spirit and unleash all spiritual sphere."</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48023</Id>
-      <Name>封霊の洞窟 B17F 氷雨の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を全て撃破し、&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B17F Light time Chamber</Name>
+      <Description>Defeat &lt;FONT COLOR=#00ff00&gt;specific monsters&lt;/FONT&gt;to gain the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; to the door!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『無闇ナ殺生ハ自重シ、道ニ外レシ者ヲ更生セヨ。』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　『無闇ナ殺生ハ自重シ、道ニ外レシ者ヲ更生セヨ。』</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48024</Id>
-      <Name>封霊の洞窟 B18F 凍刑の間</Name>
+      <Name>Tower of Ruins B18F Monster Chamber</Name>
       <Description>特定の&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を全て撃破し、現れる&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を倒す。&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
