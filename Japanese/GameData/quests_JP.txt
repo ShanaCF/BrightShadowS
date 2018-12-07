@@ -809,6 +809,111 @@
                           <Text>（上にこう書いてある：『チッ、しかしこいつにはそれなりに借りがある…。死に際に&lt;FONT COLOR=#ffad5b&gt;金貨1枚&lt;/FONT&gt;でもくれるか。&lt;br&gt;はぁ～、しかし死んでも金貨を持っていくわけないしな、やはりやめようか…。』）</Text>
                           <Text>【デイビッド】はワークハウスの取立て屋を追い出して、扉を閉じながら、&lt;br&gt;「ワークハウスに行くくらいなら、いっそ死んだほうがましだ。金を出せ？冗談じゃない！」&lt;br&gt;とつぶやいていた…。</Text>
                           <Text>（　二人の会話が脳裏に響きだした…。　）&lt;PF&gt;（　…たかがはした金に、なんでそこまで…。　）&lt;PF&gt;（　…単なる利益だけで測れないものもあるんだよ…。　）</Text>
+      <Id>3045</Id>
+      <Name>■□封霊の洞窟　入口</Name>
+      <Description></Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+                          <Text>ここから《封霊の洞窟》へ進入できそうだ。&lt;BR&gt;&lt;BR&gt;・レベル70以上で2人以上のパーティを組んでいる必要があります。&lt;BR&gt;・パーティのリーダーに従って進入する必要があります。</Text>
+                          <Option1>進入する</Option1>
+                          <Option2>やめる</Option2>
+                          <Option3>特定の階へ移動</Option3>
+                              <Text>準備中か進入条件を満たしていない方がいます。</Text>
+                              <Text>十分に準備を整えてからにしよう。</Text>
+                              <Text>どの階に移動しますか？&lt;BR&gt;移動先に対応する&lt;FONT COLOR=#00ff00&gt;輝石&lt;/FONT&gt;が必要です。</Text>
+                              <Option1>冷気の間</Option1>
+                              <Option2>荒土の間</Option2>
+                              <Option3>幻夢の間</Option3>
+                              <Option4>暗黒の間</Option4>
+                                      <Text>準備中か進入条件を満たしていない方がいます。</Text>
+                                      <Text>対応する輝石を所持していません。</Text>
+                                      <Text>準備中か進入条件を満たしていない方がいます。</Text>
+                                      <Text>対応する輝石を所持していません。</Text>
+                                      <Text>準備中か進入条件を満たしていない方がいます。</Text>
+                                      <Text>対応する輝石を所持していません。</Text>
+                                      <Text>準備中か進入条件を満たしていない方がいます。</Text>
+                                      <Text>対応する輝石を所持していません。</Text>
+                          <Text>ここから《封霊の洞窟》へ進入できそうだ。&lt;BR&gt;&lt;BR&gt;・レベル70以上で2人以上のパーティを組んでいる必要があります。&lt;BR&gt;・パーティのリーダーに従って進入する必要があります。</Text>
+                          <Option1>進入する</Option1>
+                          <Option2>やめる</Option2>
+                          <Option3></Option3>
+                              <Text>準備中か進入条件を満たしていない方がいます。</Text>
+                              <Text>十分に準備をしてからにしよう。</Text>
+                      <Text>ここから《封霊の洞窟》へ進入できそうだ。&lt;BR&gt;&lt;BR&gt;・レベル70以上で2人以上のパーティを組んでいる必要があります。&lt;BR&gt;・パーティのリーダーに従って進入する必要があります。</Text>
+                      <Text>　　えーっと、君は「封霊の洞窟調査団」の新入りかい？&lt;PF&gt;　　この「封霊の洞窟」なんだが、「暗黒霊気の時代」に、&lt;BR&gt;　　魔物達が暗黒の力を増幅させるために築いた物らしい。&lt;PF&gt;　　それとは別に…。&lt;BR&gt;&lt;BR&gt;　　この洞窟には、こんな言い伝えがあるんだ。&lt;PF&gt;　　“この洞窟は天空の姫の加護を受けた聖なる武具が&lt;BR&gt;　　　人間の手に渡らないよう魔物達が造った洞窟である。”&lt;PF&gt;　　「暗黒霊気の時代」に光をもたらしたとされる4人の勇者達は、&lt;BR&gt;　　この聖なる武具の力もあって、この洞窟を攻略できたんだとか。&lt;PF&gt;　　ただ、暗黒の力を完全に打ち消すことはできなかったらしい。&lt;BR&gt;　　魔物が再び暴れだしたせいでこの有様さ。&lt;BR&gt;&lt;BR&gt;　　封印されていた洞窟の入口が、ここに出てきちゃったというわけ。&lt;PF&gt;　　我々の先遣隊が先に調査に向かったが、&lt;BR&gt;　　それっきり連絡が途絶えてしまった。&lt;BR&gt;&lt;BR&gt;　　君も十分に気をつけてくれよ。</Text>
+                      <Text>八卦は《風水》に使われる八の符号である。&lt;BR&gt;八卦の順番は&lt;FONT COLOR=#00ff00&gt;乾、坤、震、巽、坎、離、艮、兌&lt;/FONT&gt;となっている。八卦と地理方位と関係は&lt;br&gt;&lt;FONT COLOR=#00ff00&gt;震：東、離：南、兌：西、坎：北&lt;/FONT&gt;である。これを&lt;FONT COLOR=#00ff00&gt;「四正」&lt;/FONT&gt;という。&lt;br&gt;残りは、&lt;FONT COLOR=#00ff00&gt;巽：東南、坤：西南、乾：西北、艮：東北&lt;/FONT&gt;となるる。これは&lt;FONT COLOR=#00ff00&gt;「四隅」&lt;/FONT&gt;という。</Text>
+      <Id>3046</Id>
+      <Name>■□封霊の洞窟　裏口</Name>
+      <Description></Description>
+      <LimitDesc></LimitDesc>
+      <RewardDesc></RewardDesc>
+                      <Text>　　遺跡の塔の専用エレベータへようこそ！このエレベーターは関係スタッフしか使えない。もし関係スタッフでないなら、どこかに伝送されてしまう可能があるけど、また乗るかい？</Text>
+                      <Option1>冷気の間</Option1>
+                      <Option2>荒土の間</Option2>
+                      <Option3>幻夢の間</Option3>
+                              <Text>　　なんか冷たいなぁ！仲間を待たずに、入ろうとしている。仲間の人数を集めてこい！</Text>
+                                  <Text>　　水晶を持っていないくせに！</Text>
+                              <Text>　　あなたはリーダーでもないし、水晶石も持ってない。簡単に入らせるもんか！！&lt;FONT COLOR=#00ff00&gt;〈ガンガン〉&lt;/FONT&gt;</Text>
+                              <Text>　　なんか冷たいなぁ！仲間を待たずに、入ろうとしている。仲間の人数を集めてこい！</Text>
+                                  <Text>　　水晶を持っていないくせに！</Text>
+                              <Text>　　あなたはリーダーでもないし、水晶石も持ってない。簡単に入らせるもんか！！&lt;FONT COLOR=#00ff00&gt;〈ガンガン〉&lt;/FONT&gt;</Text>
+                              <Text>　　なんか冷たいなぁ！仲間を待たずに、入ろうとしている。仲間の人数を集めてこい！</Text>
+                                  <Text>　　水晶を持っていないくせに！</Text>
+                              <Text>　　あなたはリーダーでもないし、水晶石も持ってない。簡単に入らせるもんか！！&lt;FONT COLOR=#00ff00&gt;〈ガンガン〉&lt;/FONT&gt;</Text>
+                      <Text>　　とにかくもう学校や家には帰りたくない　（四方～燃焼）</Text>
+                      <Option1>B1F　　四方の間</Option1>
+                      <Option2>B2F　　大地の間</Option2>
+                      <Option3>B3F　　氷結の間</Option3>
+                      <Option4>B4F　　冷気の間</Option4>
+                      <Option5>B5F-1　氷雪の間</Option5>
+                          <Text>　　馬鹿め！パーティを組んでおらぬではないか！　01</Text>
+                          <Text>　　馬鹿め！パーティを組んでおらぬではないか！　02</Text>
+                          <Text>　　馬鹿め！パーティを組んでおらぬではないか！　03</Text>
+                          <Text>　　馬鹿め！パーティを組んでおらぬではないか！　04</Text>
+                          <Text>　　馬鹿め！パーティを組んでおらぬではないか！　05</Text>
+                          <Text>　　馬鹿め！パーティを組んでおらぬではないか！　06</Text>
+                          <Text>　　馬鹿め！パーティを組んでおらぬではないか！　07</Text>
+                          <Text>　　馬鹿め！パーティを組んでおらぬではないか！　08</Text>
+                          <Text>　　馬鹿め！パーティを組んでおらぬではないか！　09</Text>
+                          <Text>　　恋しているのさ　この夜に恋してるのさ　（幻惑～幻夢）</Text>
+                          <Option1>B8F　　幻惑の間</Option1>
+                          <Option2>B9F　　荒土の間</Option2>
+                          <Option3>B10F-1 岩乱の間</Option3>
+                          <Option4>B10F-2 粉砕の間</Option4>
+                          <Option5>B10F-3 激高の間</Option5>
+                              <Text>　　馬鹿め！パーティを組んでおらぬではないか！　10</Text>
+                              <Text>　　馬鹿め！パーティを組んでおらぬではないか！　11</Text>
+                              <Text>　　馬鹿め！パーティを組んでおらぬではないか！　12</Text>
+                              <Text>　　馬鹿め！パーティを組んでおらぬではないか！　13</Text>
+                              <Text>　　馬鹿め！パーティを組んでおらぬではないか！　14</Text>
+                              <Text>　　馬鹿め！パーティを組んでおらぬではないか！　15</Text>
+                              <Text>　　馬鹿め！パーティを組んでおらぬではないか！　16</Text>
+                              <Text>　　馬鹿め！パーティを組んでおらぬではないか！　17</Text>
+                              <Text>　　馬鹿め！パーティを組んでおらぬではないか！　18</Text>
+                              <Text>　　盗んだバイクで走り出す　（紅炎～雷電）</Text>
+                              <Option1>B15F-1 紅炎の間</Option1>
+                              <Option2>B15F-2 蝕者の間</Option2>
+                              <Option3>B15F-3 血獄の間</Option3>
+                              <Option4>B15F-4 戦慄の間</Option4>
+                              <Option5>B16F　 霊華の間</Option5>
+                                  <Text>　　馬鹿め！パーティを組んでおらぬではないか！　19</Text>
+                                  <Text>　　馬鹿め！パーティを組んでおらぬではないか！　20</Text>
+                                  <Text>　　馬鹿め！パーティを組んでおらぬではないか！　21</Text>
+                                  <Text>　　馬鹿め！パーティを組んでおらぬではないか！　22</Text>
+                                  <Text>　　馬鹿め！パーティを組んでおらぬではないか！　23</Text>
+                                  <Text>　　馬鹿め！パーティを組んでおらぬではないか！　24</Text>
+                                  <Text>　　馬鹿め！パーティを組んでおらぬではないか！　25</Text>
+                                  <Text>　　馬鹿め！パーティを組んでおらぬではないか！　26</Text>
+                                  <Text>　　馬鹿め！パーティを組んでおらぬではないか！　27</Text>
+                                  <Text>　　I love you　今だけは悲しい歌　聞きたくないよ　（破滅～混迷）</Text>
+                                  <Option1>B20F-2 破滅の間</Option1>
+                                  <Option2>B20F-3 蛇毒の間</Option2>
+                                  <Option3>B20F-4 斬首の間</Option3>
+                                  <Option4>B20F-5 混迷の間</Option4>
+                                      <Text>　　馬鹿め！パーティを組んでおらぬではないか！　28</Text>
+                                      <Text>　　馬鹿め！パーティを組んでおらぬではないか！　29</Text>
+                                      <Text>　　馬鹿め！パーティを組んでおらぬではないか！　30</Text>
+                                      <Text>　　馬鹿め！パーティを組んでおらぬではないか！　31</Text>
      <Id>48000</Id>
       <Name>Tower of Ruins B1F Surrounded Chamber</Name>
       <Description>Unleash all of the power inside&lt;FONT COLOR=#00ff00&gt; spiritual spheres&lt;/FONT&gt;, and gain the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; to the door</Description>
