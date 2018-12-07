@@ -1122,96 +1122,96 @@
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
                           <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　『無闇ナ殺生ハ自重シ、道ニ外レシ者ヲ更生セヨ。』</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Behave yourself and your weapon."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48024</Id>
       <Name>Tower of Ruins B18F Monster Chamber</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を全て撃破し、現れる&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を倒す。&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Description>Defeat &lt;FONT COLOR=#00ff00&gt;specific monsters&lt;/FONT&gt;to gain the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; to the door!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『刑ヲ下ス者ヲ滅シ、嘆ク者ノ魂ヲ解放セヨ。』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Erase the person who issued the penalty, and free the lamenting spirit."</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48025</Id>
-      <Name>封霊の洞窟 B19F 暗黒の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を全て撃破し、&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B19F Darkness Chamber</Name>
+      <Description>Defeat &lt;FONT COLOR=#00ff00&gt;specific monsters&lt;/FONT&gt;to gain the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; to the door!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　これで下の階へ進めそうだ！</Text>
-                          <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　この&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はパーティのリーダーが入手した方がよさそうだ。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;&lt;BR&gt;　　『視覚ト触覚ト味覚ト聴覚ヲ捨テ嗅覚ヲ頼ラレタシ。』</Text>
-                          <Text>&lt;BR&gt;　　パーティメンバー全員で一丸となって先へ進もう。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
-                      <Text>&lt;BR&gt;　　パーティのリーダーに調べてもらう必要があるようだ。</Text>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Abandon your sensory except for olfactory."</Text>
+                          <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
+                      <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
       <Id>48026</Id>
-      <Name>封霊の洞窟 B20F 雷電の間</Name>
-      <Description>全ての&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、現れる&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を倒す。&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B20F Thunder Chamber</Name>
+      <Description>Unleash all of the power inside&lt;FONT COLOR=#00ff00&gt; spiritual spheres&lt;/FONT&gt;, and defeat the &lt;FONT COLOR=#00ff00&gt;monster&lt;/FONT&gt; to gain the key to the door!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！</Text>
-                          <Text>　　「あなたのカバンがいっぱいので、宝箱内のアイテムが取得ない。」</Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はすでに入手しています。</Text>
-                              <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　どうやらパーティメンバーも&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手する必要がありそうだ。</Text>
-                              <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;　　しかし一部が損壊してしまっていて読めない…。&lt;BR&gt;&lt;BR&gt;　　『…リ組……形ニ………レズ、全…ノ……ヲ解…セヨ。』</Text>
-                          <Text>&lt;BR&gt;　　どうやら現時点ではここより下の階には進めないようだ…。&lt;BR&gt;&lt;BR&gt;　　この先に地上へと続く道がある。&lt;BR&gt;&lt;BR&gt;　　《封霊されし地》まで戻りますか？</Text>
-                          <Option1>地上に戻る</Option1>
-                          <Option2>やめる</Option2>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>　　"Your inventory is full so you cannot gain the treasure."</Text>
+                          <Text>&lt;BR&gt;　　You already have the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; of this floor!</Text>
+                              <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; of this floor &lt;BR&gt;　　Apparently party members should gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; too.</Text>
+                              <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some of them have been destroyed and can not be read...&lt;BR&gt;&lt;BR&gt;　　"..formed..Beast.., don't... unleash... all.."</Text>
+                          <Text>&lt;BR&gt;　　Apparently it seems unable to proceed downstairs at this time...&lt;BR&gt;&lt;BR&gt;　　There is a way to continue to the ground ahead. &lt;BR&gt;&lt;BR&gt;　　Do you want to go back to spiritual land?</Text>
+                          <Option1>Return to the ground</Option1>
+                          <Option2>Quit</Option2>
                           <Option3></Option3>
-                              <Text>&lt;BR&gt;　　よし、地上へと戻ろう！</Text>
-                              <Text>&lt;BR&gt;　　まだやり残した事があるかもしれない…。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
+                              <Text>&lt;BR&gt;　　OK, let's return to the ground!</Text>
+                              <Text>&lt;BR&gt;　　There may be things I have not done yet....</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the door.</Text>
       <Id>48027</Id>
-      <Name>封霊の洞窟 B20F 破滅の間</Name>
-      <Description>全ての&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を撃破し、&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B20F Destruction Chamber</Name>
+      <Description>Defeat all &lt;FONT COLOR=#00ff00&gt;monsters&lt;/FONT&gt; and gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！</Text>
-                          <Text>　　「あなたのカバンがいっぱいので、宝箱内のアイテムが取得ない。」</Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はすでに入手しています。</Text>
-                              <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　どうやらパーティメンバーも&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手する必要がありそうだ。</Text>
-                              <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;　　しかし一部が血で汚れてしまっていて読めない…。&lt;BR&gt;&lt;BR&gt;　　『立チ塞…ル…ヲ全…滅ボ…、何……モヲ…滅サ…ヨ。』</Text>
-                          <Text>&lt;BR&gt;　　どうやら現時点ではここより下の階には進めないようだ…。&lt;BR&gt;&lt;BR&gt;　　この先に地上へと続く道がある。&lt;BR&gt;&lt;BR&gt;　　《封霊されし地》まで戻りますか？</Text>
-                          <Option1>地上に戻る</Option1>
-                          <Option2>やめる</Option2>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>　　"Your inventory is full so you cannot gain the treasure."</Text>
+                          <Text>&lt;BR&gt;　　You already have the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; of this floor!</Text>
+                              <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; of this floor &lt;BR&gt;　　Apparently party members should gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; too.</Text>
+                              <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some of them have been blood-stained and can not be read...&lt;BR&gt;&lt;BR&gt;　　"Standing..still..Giant.., .. down.. all..of.."</Text>
+                          <Text>&lt;BR&gt;　　Apparently it seems unable to proceed downstairs at this time...&lt;BR&gt;&lt;BR&gt;　　There is a way to continue to the ground ahead. &lt;BR&gt;&lt;BR&gt;　　Do you want to go back to spiritual land?</Text>
+                          <Option1>Return to the ground</Option1>
+                          <Option2>Quit</Option2>
                           <Option3></Option3>
-                              <Text>&lt;BR&gt;　　よし、地上へと戻ろう！</Text>
-                              <Text>&lt;BR&gt;　　まだやり残した事があるかもしれない…。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
+                              <Text>&lt;BR&gt;　　OK, let's return to the ground!</Text>
+                              <Text>&lt;BR&gt;　　There may be things I have not done yet....</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the door.</Text>
       <Id>48028</Id>
-      <Name>封霊の洞窟 B20F 蛇毒の間</Name>
-      <Description>特定の&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を撃破し、&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Towers of Ruins B20F Poison Chamber/Name>
+      <Description>Defeat &lt;FONT COLOR=#00ff00&gt;specific monsters&lt;/FONT&gt;, and gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; to the door!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！</Text>
-                          <Text>　　「あなたのカバンがいっぱいので、宝箱内のアイテムが取得ない。」</Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はすでに入手しています。</Text>
-                              <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　どうやらパーティメンバーも&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手する必要がありそうだ。</Text>
-                              <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;　　しかし一部が腐食してしまっていて読めない…。&lt;BR&gt;&lt;BR&gt;　　『真……ヲ見失…ベカ……、最モ………ヲ討…ベ…。』</Text>
-                          <Text>&lt;BR&gt;　　どうやら現時点ではここより下の階には進めないようだ…。&lt;BR&gt;&lt;BR&gt;　　この先に地上へと続く道がある。&lt;BR&gt;&lt;BR&gt;　　《封霊されし地》まで戻りますか？</Text>
-                          <Option1>地上に戻る</Option1>
-                          <Option2>やめる</Option2>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>　　"Your inventory is full so you cannot gain the treasure."</Text>
+                          <Text>&lt;BR&gt;　　You already have the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; of this floor!</Text>
+                              <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; of this floor &lt;BR&gt;　　Apparently party members should gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; too.</Text>
+                              <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some corroded and it can not be read…&lt;BR&gt;&lt;BR&gt;　　『真……ヲ見失…ベカ……、最モ………ヲ討…ベ…。』</Text>
+                          <Text>&lt;BR&gt;　　Apparently it seems unable to proceed downstairs at this time...&lt;BR&gt;&lt;BR&gt;　　There is a way to continue to the ground ahead. &lt;BR&gt;&lt;BR&gt;　　Do you want to go back to spiritual land?</Text>
+                          <Option1>Return to the ground</Option1>
+                          <Option2>Quit</Option2>
                           <Option3></Option3>
-                              <Text>&lt;BR&gt;　　よし、地上へと戻ろう！</Text>
-                              <Text>&lt;BR&gt;　　まだやり残した事があるかもしれない…。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
+                              <Text>&lt;BR&gt;　　OK, let's return to the ground!</Text>
+                              <Text>&lt;BR&gt;　　There may be things I have not done yet....</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the door.</Text>
       <Id>48029</Id>
-      <Name>封霊の洞窟 B20F 斬首の間</Name>
-      <Description>全ての&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、現れる&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を倒す。&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B20F Soul Break Chamber</Name>
+      <Description>Unleash all of the power inside the &lt;FONT COLOR=#00ff00&gt;spiritual spheres&lt;/FONT&gt;, and defeat &lt;FONT COLOR=#00ff00&gt;monsters&lt;/FONT&gt; to gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
