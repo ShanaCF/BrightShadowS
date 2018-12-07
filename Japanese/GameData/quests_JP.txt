@@ -816,9 +816,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get&lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full. &lt;BR&gt;　Organize your bag to get&lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written &lt;BR&gt;&lt;BR&gt;　　"Unleash the power of the four spiritual spheres!"</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written. &lt;BR&gt;&lt;BR&gt;　　"Unleash the power of the four spiritual spheres!"</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -829,9 +829,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full. &lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　     "Purify the four demons and the four spiritual spheres!"</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　     "Purify the four demons and the four spiritual spheres!"</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -842,9 +842,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full. &lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some are frozen and can not be read...&lt;BR&gt;&lt;BR&gt;　　"Defeat..demons..pick..cystals.."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;　　But some are frozen and can not be read...&lt;BR&gt;&lt;BR&gt;　　"Defeat..demons..pick..cystals.."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -855,9 +855,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Element corresponds to cystal spheres, and so does the crystal."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Element corresponds to cystal spheres, and so does the crystal."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -868,9 +868,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some are frozen and can not be read...&lt;BR&gt;&lt;BR&gt;　　"Kill..demons..protect..spheres..unleash..power.."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;　　But some are frozen and can not be read...&lt;BR&gt;&lt;BR&gt;　　"Kill..demons..protect..spheres..unleash..power.."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -881,9 +881,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Take down the guardian demons and purify the spritual spheres!"</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Take down the guardian demons and purify the spritual spheres!"</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -894,9 +894,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some are frozen and can not be read...&lt;BR&gt;&lt;BR&gt;　　"Unleash..spiritual..spheres..by..down..demon.."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;　　But some are frozen and can not be read...&lt;BR&gt;&lt;BR&gt;　　"Unleash..spiritual..spheres..by..down..demon.."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -907,9 +907,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Unleash the power inside the spritual spheres, but thirst is just a hypocritical desire"</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Unleash the power inside the spritual spheres, but thirst is just a hypocritical desire"</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -920,9 +920,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Unleash the power inside spiritual shperes by defeating Flaming monsters."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Unleash the power inside spiritual shperes by defeating Flaming monsters."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -933,9 +933,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Purify the spiritual spheres by Crystals dropped by monsters."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Purify the spiritual spheres by Crystals dropped by monsters."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -946,9 +946,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some of them can not be read...&lt;BR&gt;&lt;BR&gt;　　"Unleash..spheres..by..down..except..for..southwest.."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;　　But some of them can not be read...&lt;BR&gt;&lt;BR&gt;　　"Unleash..spheres..by..down..except..for..southwest.."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -959,9 +959,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is ful.l&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Fire from west flaming, and calling the demon. Seal it after purifing other spheres.</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Fire from west flaming, and calling the demon. Seal it after purifing other spheres.</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -973,9 +973,9 @@
             <Text> </Text>
             <Text> </Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"The evil one will be sentenced to death!"</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"The evil one will be sentenced to death!"</Text>
                           <Text>　　Ha...haha...&lt;BR&gt;　　No way... I didn't knock down the &lt;FONT COLOR=#00ff00&gt;Combat Giant Warrior&lt;/FONT&gt;&lt;BR&gt;　　For the safety of you guys...&lt;BR&gt;&lt;BR&gt;　　I ... I'm all right ... go ahead ....&lt;FONT COLOR=#00ff00&gt;&lt;/FONT&gt;</Text>
                           <Text>　　KEHOKEHO!&lt;BR&gt;&lt;BR&gt;　　   Umm.. Don't care about me.. Quickly..&lt;FONT COLOR=#00ff00&gt;&lt;/FONT&gt;</Text>
                           <Text>　　(Gasping)&lt;BR&gt;&lt;BR&gt;　　You are...? Yes.. here comes the backup troop.. &lt;BR&gt;&lt;BR&gt;　　My fellow squads.., everyone..&lt;FONT COLOR=#00ff00&gt;Combat Giant Warrior&lt;/FONT&gt;KEHOKEHO!&lt;PF&gt;　　Ahh!! The &lt;FONT COLOR=#00ff00&gt;Combat Giant Warrior&lt;/FONT&gt; is coming!&lt;BR&gt;&lt;BR&gt;　　Run away... ahaha..&lt;BR&gt;&lt;BR&gt;　　This guy is strong..!</Text>
@@ -990,9 +990,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Ease anger and put out the fire. Seal frenzy monsters. "</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Ease anger and put out the fire. Seal frenzy monsters. "</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1003,9 +1003,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"It is hard being buried and drowned. Flame and fierce wind will make it rebirth."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"It is hard being buried and drowned. Flame and fierce wind will make it rebirth."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1016,9 +1016,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some of them are stained with blood and can not be read.&lt;BR&gt;&lt;BR&gt;　　"Beyond...pain, ..ardent..useless..moisturizing..either.."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;　　But some of them are stained with blood and can not be read.&lt;BR&gt;&lt;BR&gt;　　"Beyond...pain, ..ardent..useless..moisturizing..either.."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1029,9 +1029,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Turning down frustation by embracing the light from northeast and southwest."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Turning down frustation by embracing the light from northeast and southwest."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1042,9 +1042,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Knock down the evil temptation, and wake up from the nightmare."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Knock down the evil temptation, and wake up from the nightmare."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1055,9 +1055,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Purify wind and fire monsters and provoke the purgatory demon."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Purify wind and fire monsters and provoke the purgatory demon."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1068,9 +1068,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some of them are hidden and can not be read ...。&lt;BR&gt;&lt;BR&gt;　　"Purify wind and fire monsters and stand away from other demons."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;　　But some of them are hidden and can not be read ...。&lt;BR&gt;&lt;BR&gt;　　"Purify wind and fire monsters and stand away from other demons."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1081,9 +1081,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Unleash the power inside the sphere stained into blood red and the farthest one."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Unleash the power inside the sphere stained into blood red and the farthest one."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1094,9 +1094,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"It seems near but it is distant to move on. Fire and soil are within the room."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"It seems near but it is distant to move on. Fire and soil are within the room."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1107,9 +1107,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Be careful to those holy spirit and unleash all spiritual sphere."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Be careful to those holy spirit and unleash all spiritual sphere."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1120,9 +1120,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Behave yourself and your weapon."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Behave yourself and your weapon."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1133,9 +1133,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Erase the person who issued the penalty, and free the lamenting spirit."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Erase the person who issued the penalty, and free the lamenting spirit."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1146,9 +1146,9 @@
       <RewardDesc></RewardDesc>
             <Text></Text>
                           <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next floor!</Text>
-                          <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
                       <Text>&lt;BR&gt;　　This &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; seems better for a party leader to get it!</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;&lt;BR&gt;　　"Abandon your sensory except for olfactory."</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;&lt;BR&gt;　　"Abandon your sensory except for olfactory."</Text>
                           <Text>&lt;BR&gt;　　Move on together with all the party members</Text>
                           <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the next level</Text>
                       <Text>&lt;BR&gt;　　It seems necessary for the party leader to investigate</Text>
@@ -1162,8 +1162,8 @@
                           <Text>　　"Your inventory is full so you cannot gain the treasure."</Text>
                           <Text>&lt;BR&gt;　　You already have the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; of this floor!</Text>
                               <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; of this floor &lt;BR&gt;　　Apparently party members should gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; too.</Text>
-                              <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some of them have been destroyed and can not be read...&lt;BR&gt;&lt;BR&gt;　　"..formed..Beast.., don't... unleash... all.."</Text>
+                              <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;　　But some of them have been destroyed and can not be read...&lt;BR&gt;&lt;BR&gt;　　"..formed..Beast.., don't... unleash... all.."</Text>
                           <Text>&lt;BR&gt;　　Apparently it seems unable to proceed downstairs at this time...&lt;BR&gt;&lt;BR&gt;　　There is a way to continue to the ground ahead. &lt;BR&gt;&lt;BR&gt;　　Do you want to go back to spiritual land?</Text>
                           <Option1>Return to the ground</Option1>
                           <Option2>Quit</Option2>
@@ -1181,9 +1181,9 @@
                           <Text>　　"Your inventory is full so you cannot gain the treasure."</Text>
                           <Text>&lt;BR&gt;　　You already have the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; of this floor!</Text>
                               <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; of this floor &lt;BR&gt;　　Apparently party members should gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; too.</Text>
-                              <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some of them have been blood-stained and can not be read...&lt;BR&gt;&lt;BR&gt;　　"Standing..still..Giant.., .. down.. all..of.."</Text>
-                          <Text>&lt;BR&gt;　　Apparently it seems unable to proceed downstairs at this time...&lt;BR&gt;&lt;BR&gt;　　There is a way to continue to the ground ahead. &lt;BR&gt;&lt;BR&gt;　　Do you want to go back to spiritual land?</Text>
+                              <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;　　But some of them have been blood-stained and can not be read...&lt;BR&gt;&lt;BR&gt;　　"Standing..still..Giant.., .. down.. all..of.."</Text>
+                          <Text>&lt;BR&gt;　　Apparently it seems unable to proceed downstairs at this time...&lt;BR&gt;&lt;BR&gt;　　There is a way to continue to the ground ahead. &lt;BR&gt;&lt;BR&gt;　　Do you want to go back to Spiritual Land?</Text>
                           <Option1>Return to the ground</Option1>
                           <Option2>Quit</Option2>
                           <Option3></Option3>
@@ -1200,9 +1200,9 @@
                           <Text>　　"Your inventory is full so you cannot gain the treasure."</Text>
                           <Text>&lt;BR&gt;　　You already have the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; of this floor!</Text>
                               <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; of this floor &lt;BR&gt;　　Apparently party members should gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; too.</Text>
-                              <Text>&lt;BR&gt;　　Inventory is full&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
-                      <Text>&lt;BR&gt;　　Something seems to be written&lt;BR&gt;　　But some corroded and it can not be read…&lt;BR&gt;&lt;BR&gt;　　『真……ヲ見失…ベカ……、最モ………ヲ討…ベ…。』</Text>
-                          <Text>&lt;BR&gt;　　Apparently it seems unable to proceed downstairs at this time...&lt;BR&gt;&lt;BR&gt;　　There is a way to continue to the ground ahead. &lt;BR&gt;&lt;BR&gt;　　Do you want to go back to spiritual land?</Text>
+                              <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;　　But some corroded and it can not be read…&lt;BR&gt;&lt;BR&gt;　　"Something..lost..truth..most..back.."</Text>
+                          <Text>&lt;BR&gt;　　Apparently it seems unable to proceed downstairs at this time...&lt;BR&gt;&lt;BR&gt;　　There is a way to continue to the ground ahead. &lt;BR&gt;&lt;BR&gt;　　Do you want to go back to Spiritual Land?</Text>
                           <Option1>Return to the ground</Option1>
                           <Option2>Quit</Option2>
                           <Option3></Option3>
@@ -1215,35 +1215,35 @@
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！</Text>
-                          <Text>　　「あなたのカバンがいっぱいので、宝箱内のアイテムが取得ない。」</Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はすでに入手しています。</Text>
-                              <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　どうやらパーティメンバーも&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手する必要がありそうだ。</Text>
-                              <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;　　しかし一部が損壊してしまっていて読めない…。&lt;BR&gt;&lt;BR&gt;　　『魔……横ヲ……潜…、…テノ……ヲ…放セ…。』</Text>
-                          <Text>&lt;BR&gt;　　どうやら現時点ではここより下の階には進めないようだ…。&lt;BR&gt;&lt;BR&gt;　　この先に地上へと続く道がある。&lt;BR&gt;&lt;BR&gt;　　《封霊されし地》まで戻りますか？</Text>
-                          <Option1>地上に戻る</Option1>
-                          <Option2>やめる</Option2>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>　　"Your inventory is full so you cannot gain the treasure."</Text>
+                          <Text>&lt;BR&gt;　　You already have the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; of this floor!</Text>
+                              <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; of this floor &lt;BR&gt;　　Apparently party members should gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; too.</Text>
+                              <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;　　But some of them have been destroyed and can not be read...&lt;BR&gt;&lt;BR&gt;　　"Camouflaged..demons..beside..free.."</Text>
+                          <Text>&lt;BR&gt;　　Apparently it seems unable to proceed downstairs at this time...&lt;BR&gt;&lt;BR&gt;　　There is a way to continue to the ground ahead. &lt;BR&gt;&lt;BR&gt;　　Do you want to go back to Spiritual Land?</Text>
+                          <Option1>Return to the ground</Option1>
+                          <Option2>Quit</Option2>
                           <Option3></Option3>
-                              <Text>&lt;BR&gt;　　よし、地上へと戻ろう！</Text>
-                              <Text>&lt;BR&gt;　　まだやり残した事があるかもしれない…。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
+                              <Text>&lt;BR&gt;　　OK, let's return to the ground!</Text>
+                              <Text>&lt;BR&gt;　　There may be things I have not done yet....</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the door.</Text>
       <Id>48030</Id>
-      <Name>封霊の洞窟 B20F 混迷の間</Name>
-      <Description>全ての&lt;FONT COLOR=#00ff00&gt;霊球&lt;/FONT&gt;の力を解放し、現れる&lt;FONT COLOR=#00ff00&gt;モンスター&lt;/FONT&gt;を倒す。&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手して扉の先へ進む。</Description>
+      <Name>Tower of Ruins B20F Gravity Chamber</Name>
+      <Description>Unleash all of the power inside the &lt;FONT COLOR=#00ff00&gt;spiritual spheres&lt;/FONT&gt;, and defeat &lt;FONT COLOR=#00ff00&gt;monsters&lt;/FONT&gt; to gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;!</Description>
       <LimitDesc></LimitDesc>
       <RewardDesc></RewardDesc>
             <Text></Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！</Text>
-                          <Text>　　「あなたのカバンがいっぱいので、宝箱内のアイテムが取得ない。」</Text>
-                          <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;はすでに入手しています。</Text>
-                              <Text>&lt;BR&gt;　　この階の&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手した！&lt;BR&gt;　　どうやらパーティメンバーも&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手する必要がありそうだ。</Text>
-                              <Text>&lt;BR&gt;　　荷物がいっぱいのようだ。&lt;BR&gt;　　カバンの中を整理してから&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;を入手しよう。</Text>
-                      <Text>&lt;BR&gt;　　何か文章が書かれているようだ。&lt;BR&gt;　　しかし一部が損壊してしまっていて読めない…。&lt;BR&gt;&lt;BR&gt;　　『全……霊球ヲ解……ヨ、同ジ景色ニ惑ワ………ベカラズ。』</Text>
-                          <Text>&lt;BR&gt;　　どうやら現時点ではここより下の階には進めないようだ…。&lt;BR&gt;&lt;BR&gt;　　この先に地上へと続く道がある。&lt;BR&gt;&lt;BR&gt;　　《封霊されし地》まで戻りますか？</Text>
-                          <Option1>地上に戻る</Option1>
-                          <Option2>やめる</Option2>
+                          <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                          <Text>　　"Your inventory is full so you cannot gain the treasure."</Text>
+                          <Text>&lt;BR&gt;　　You already have the &lt;FONT COLOR=#00ff00&gt;key&lt;/FONT&gt; of this floor!</Text>
+                              <Text>&lt;BR&gt;　　Gained &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; of this floor &lt;BR&gt;　　Apparently party members should gain &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt; too.</Text>
+                              <Text>&lt;BR&gt;　　Inventory is full.&lt;BR&gt;　Organize your bag to get &lt;FONT COLOR=#00ff00&gt;the key!&lt;/FONT&gt;</Text>
+                      <Text>&lt;BR&gt;　　Something seems to be written.&lt;BR&gt;　　But some of them have been destroyed and can not be read...&lt;BR&gt;&lt;BR&gt;　　"Unleash all..spiritual spheres.., ..cannot be bewitched again.."</Text>
+                          <Text>&lt;BR&gt;　　Apparently it seems unable to proceed downstairs at this time...&lt;BR&gt;&lt;BR&gt;　　There is a way to continue to the ground ahead. &lt;BR&gt;&lt;BR&gt;　　Do you want to go back to Spiritual Land?</Text>
+                          <Option1>Return to the ground</Option1>
+                          <Option2>Quit</Option2>
                           <Option3></Option3>
-                              <Text>&lt;BR&gt;　　よし、地上へと戻ろう！</Text>
-                              <Text>&lt;BR&gt;　　まだやり残した事があるかもしれない…。</Text>
-                          <Text>&lt;BR&gt;　　鍵穴がある。&lt;BR&gt;　　この先に進むためには&lt;FONT COLOR=#00ff00&gt;カギ&lt;/FONT&gt;が必要なのだろうか…。</Text>
+                              <Text>&lt;BR&gt;　　OK, let's return to the ground!</Text>
+                              <Text>&lt;BR&gt;　　There may be things I have not done yet...</Text>
+                          <Text>&lt;BR&gt;　　The door is locked with a keyhole on it&lt;BR&gt;　　It seems to require &lt;FONT COLOR=#00ff00&gt;the key&lt;/FONT&gt;to the door.</Text>
