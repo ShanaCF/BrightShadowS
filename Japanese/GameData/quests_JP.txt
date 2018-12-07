@@ -866,6 +866,11 @@
                       <Option3>B3F　　氷結の間</Option3>
                       <Option4>B4F　　冷気の間</Option4>
                       <Option5>B5F-1　氷雪の間</Option5>
+                      <Option6>B5F-2　紫電の間</Option6>
+                      <Option7>B5F-3　吹雪の間</Option7>
+                      <Option8>B6F　　地熱の間</Option8>
+                      <Option9>B7F　　燃焼の間</Option9>
+                      <Option10>次のページ</Option10>
                           <Text>　　馬鹿め！パーティを組んでおらぬではないか！　01</Text>
                           <Text>　　馬鹿め！パーティを組んでおらぬではないか！　02</Text>
                           <Text>　　馬鹿め！パーティを組んでおらぬではないか！　03</Text>
@@ -881,6 +886,11 @@
                           <Option3>B10F-1 岩乱の間</Option3>
                           <Option4>B10F-2 粉砕の間</Option4>
                           <Option5>B10F-3 激高の間</Option5>
+                          <Option6>B11F　 鬼哭の間</Option6>
+                          <Option7>B12F　 業苦の間</Option7>
+                          <Option8>B13F　 消沈の間</Option8>
+                          <Option9>B14F　 幻夢の間</Option9>
+                          <Option10>次のページ</Option10>
                               <Text>　　馬鹿め！パーティを組んでおらぬではないか！　10</Text>
                               <Text>　　馬鹿め！パーティを組んでおらぬではないか！　11</Text>
                               <Text>　　馬鹿め！パーティを組んでおらぬではないか！　12</Text>
@@ -896,6 +906,11 @@
                               <Option3>B15F-3 血獄の間</Option3>
                               <Option4>B15F-4 戦慄の間</Option4>
                               <Option5>B16F　 霊華の間</Option5>
+                              <Option6>B17F　 氷雨の間</Option6>
+                              <Option7>B18F　 凍刑の間</Option7>
+                              <Option8>B19F　 暗黒の間</Option8>
+                              <Option9>B20F-1 雷電の間</Option9>
+                              <Option10>次のページ</Option10>
                                   <Text>　　馬鹿め！パーティを組んでおらぬではないか！　19</Text>
                                   <Text>　　馬鹿め！パーティを組んでおらぬではないか！　20</Text>
                                   <Text>　　馬鹿め！パーティを組んでおらぬではないか！　21</Text>
